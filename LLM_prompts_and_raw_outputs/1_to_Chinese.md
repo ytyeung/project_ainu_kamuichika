@@ -112,7 +112,7 @@ Translate the following text from Japanese to Chinese. The original text is a po
 貧乏な子はちっとも構わず
 砂吹雪をたてながらかけて来て一軒の小屋の
 表へ着きました．子供は
-第一の※(「窗／心」、第3水準1-89-54)から私を入れて，それに
+第一の窗から私を入れて，それに
 言葉を添え，斯々かくかくのありさまを物語りました．
 家の中から老夫婦が
 眼の上に手をかざしながらやって来て
@@ -133,7 +133,7 @@ Translate the following text from Japanese to Chinese. The original text is a po
 お泊め申し上げ，明日は，ただイナウだけでも
 大神様をお送り申し上げましょう．」という事を
 申しながら何遍も何遍も礼拝を重ねました．
-老婦人は，東の※(「窗／心」、第3水準1-89-54)の下に
+老婦人は，東の窗の下に
 敷物をしいて私をそこへ置きました．
 それからみんな寝ると直ぐに高いびきで
 寝入ってしまいました．
@@ -271,7 +271,6 @@ Translate the following text from Japanese to Chinese. The original text is a po
 何時でも
 人間の国を守護まもっています．
 と，ふくろうの神様が物語りました．
-［＃改ページ］
 ```
 
 ### Output
