@@ -1,6 +1,6 @@
 # LLM-assisted Translation project of 13 Ainu Kamuy Yukars (アイヌ神謡集) collected by Chiri Yukie 知里幸惠 (1903 - 1922).
 
-## Translation of Preface (序) by Chiri Yukie 知里幸惠.
+## Translation of 梟の神の自ら歌った謡「銀の滴しずく降る降るまわりに」. (Kamuichikap kamui yaieyukar, “Shirokanipe ranran pishkan”)
 
 ### Model
 gemini-2.0-flash-001
