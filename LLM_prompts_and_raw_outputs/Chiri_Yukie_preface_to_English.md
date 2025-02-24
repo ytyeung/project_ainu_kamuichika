@@ -1,6 +1,8 @@
-# LLM-assisted Translation project of 13 Ainu Kamuy Yukars (アイヌ神謡集) collected by Chiri Yukie 知里幸惠 (1903 - 1922).
+# LLM-assisted Translation project of Ainu shin'yoshu (アイヌ神謡集) collected by Chiri Yukie 知里幸惠 (1903 - 1922).
 
-## Translation of Preface (序) by Chiri Yukie 知里幸惠.
+## English Translation of
+
+## Preface (序) by Chiri Yukie 知里幸惠.
 
 ### Model
 gemini-2.0-flash-001
