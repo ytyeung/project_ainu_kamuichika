@@ -38,7 +38,7 @@ You are a professional translator. You know Japanese, English and Chinese. You c
 
 ### Prompt
 ```
-Translate the following text from Japanese to Chinese. The original text is a poem. Try to make the translation poetic but keep the original meanings. Display in Traditional Chinese.
+{poetic_prompt}
 
 {input_japanese}
 ```
@@ -50,7 +50,7 @@ Translate the following text from Japanese to Chinese. The original text is a po
 ### Another prompt for matched meaning
 
 ```
-Translate the following text from Japanese to Chinese. Keep the original meanings. Display in Traditional Chinese.
+{descriptive_prompt}
 ```
 
 ### Output of this prompt
