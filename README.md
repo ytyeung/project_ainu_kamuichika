@@ -1,4 +1,4 @@
-# ainu_kamuy_yukar_translation
+# Project Ainu shin'yōshū
 
 ### Licence
 All the contents in Markdown (a.k.a .md files) are licensed by [CC BY-NC-ND 4.0 ATTRIBUTION-NONCOMMERCIAL-NODERIVATIVES 4.0 INTERNATIONAL](https://creativecommons.org/licenses/by-nc-nd/4.0/).
