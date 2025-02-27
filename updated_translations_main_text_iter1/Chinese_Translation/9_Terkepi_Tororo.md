@@ -46,7 +46,7 @@ Here are your tasks:
 2. Compare the Chinese translation with the English translation.
 3. Improve the Chinese translation, especially incoporating the pros of the English translation.
 
-Keep the original meanings. Display in Traditional Chinese.
+Keep the original meanings. Display in Traditional Chinese. If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
 蛙が自らを歌った謡
@@ -184,54 +184,62 @@ And with those words, the bloated frog breathed his last."
 
 ### Output
 ```
-青蛙自述之歌
-
+青蛙自歌的謠曲
 「托羅羅 漢羅庫 漢羅庫!」
 
 「托羅羅 漢羅庫 漢羅庫!」
 
-「有一天，我在草原上蹦蹦跳跳地玩耍時，偶然看見一間房子。我走到門口，往裡面窺探。只見屋內堆滿了寶物，旁邊有個高台。高台上坐著一個年輕人，正低著頭雕刻刀鞘。
+「有一天，我在草原上蹦蹦跳跳地玩耍時，偶然發現
+一間小屋。我走到門口，好奇地往裡窺探。
+只見屋內堆滿了寶藏，旁邊
+有個高台。在那高台上
+坐著一個年輕人，正低著頭刻著刀鞘。
 
-我想捉弄他一下，便坐在門檻上，高聲唱道：「托羅羅 漢羅庫 漢羅庫!」
+我心想捉弄他一下，便坐在門檻上
+唱道：「托羅羅 漢羅庫 漢羅庫!」
 
-那年輕人抬起拿著刀的手，看了我一眼，溫和地笑了笑，說：「這是你的歌嗎？是你喜悅的歌聲嗎？真想多聽聽。」
+沒想到，那個年輕人抬起握著刀的手，
+看了我一眼，溫柔地笑了笑，
+「那是你的歌謠嗎？是你喜悅的歌聲嗎？
+真想再多聽聽。」於是我
+得意地再次唱道：「托羅羅 漢羅庫 漢羅庫!」
 
-我聽了很高興，再次唱道：「托羅羅 漢羅庫 漢羅庫!」
+那個年輕人接著問道：
+「那是你的Yukar嗎？你的Sakehau嗎？
+我想更靠近一點聽。」
 
-年輕人接著問：「這是你的尤喀拉（Yukar）嗎？薩凱豪（Sakehau）嗎？我想更靠近一點聽。」
+聽到這話，我欣喜若狂！立刻跳到下座的
+爐緣上，
+唱道：「托羅羅 漢羅庫 漢羅庫!」
 
-聽到這話，我欣喜若狂！立刻跳到下座的爐緣上，唱道：「托羅羅 漢羅庫 漢羅庫!」
+年輕人又說：
+「那是你的Yukar嗎？你的Sakehau嗎？
+我想更靠近一點聽。」
 
-年輕人又說：「這是你的尤喀拉（Yukar）嗎？薩凱豪（Sakehau）嗎？我想更靠近一點聽。」
+我聽了心花怒放！又跳到上座爐緣的
+角落，
+唱道：「托羅羅 漢羅庫 漢羅庫!」
 
-我心中充滿喜悅！跳到上座爐緣的角落，唱道：「托羅羅 漢羅庫 漢羅庫!」
+突然！那個年輕人猛地跳了起來！
+抓起一根燃燒的巨大木柴，朝我扔了過來！
+我感覺整個世界都朝我壓了下來，然後…
+我就什麼都不知道了。
 
-突然！那年輕人猛地站起身！他抓起一根燃燒的巨大木柴，朝我扔了過來！我感覺整個世界都朝我壓了下來，然後…我就什麼都不知道了。
+等我醒來時，發現自己
+身處垃圾堆的邊緣。一隻肚子鼓脹的青蛙
+死了，我就坐在牠的兩耳之間。
 
-當我醒來時，發現自己身處垃圾堆的邊緣。一隻肚子鼓脹的青蛙死了，我就坐在牠的兩耳之間。
+仔細一看，我才意識到
+我原以為只是一間普通的人家，其實是奧基基里穆伊，如神一般
+強大之人的住所！而我，竟然在不知情的情況下
+捉弄了他。
 
-仔細一看，我才意識到，我原以為只是一間普通的人家，實際上是奧基基里穆伊（Okikirmui），一位擁有強大神力的神祇的家！而我竟然在不知情的情況下，捉弄了他。
+現在，我就要這樣愚蠢、這樣可悲地死去。
+所以，我要告誡所有後來的
+青蛙們：千萬、千萬不要捉弄人類啊！」
 
-現在，我就要這樣愚蠢、這樣可悲地死去。所以，我要告訴所有後來的青蛙們：千萬、千萬不要捉弄人類啊！」
+肚子鼓脹的青蛙這樣說著，嚥下了最後一口氣。
 
-肚子鼓脹的青蛙說完這些話，便斷了氣。
-
-The Chinese translation is generally accurate but lacks some of the nuance and flow of the original Japanese and the English translation. Specifically:
-
-*   **Repetition:** The Chinese translation repeats phrases like "那個年輕人說道" (that young man said) which, while accurate, makes the text feel less fluid. The English translation varies the phrasing to avoid this.
-*   **Descriptive Language:** The English translation uses more descriptive language to enhance the imagery (e.g., "hopped and played through the meadow," "smiled gently"). The Chinese translation is more literal and less evocative.
-*   **Emphasis:** The English translation uses exclamation points and phrases like "My heart swelled with joy!" to convey the frog's increasing excitement. The Chinese translation is more subdued.
-*   **Cultural Context:** The terms "Yukar" and "Sakehau" are transliterated in both the Chinese and English translations. It might be helpful to add a brief explanation or footnote for a Chinese audience, if possible, to provide context.
-
-Comparison with English Translation:
-
-The English translation excels in creating a more engaging narrative. It captures the frog's playful nature and the increasing tension as the story progresses. The Chinese translation is more straightforward and less emotionally resonant.
-
-Pros of the English translation to incorporate:
-
-*   Varying sentence structure and phrasing to avoid repetition.
-*   Using more descriptive language to create vivid imagery.
-*   Conveying the frog's emotions more effectively through stronger word choices.
-*   Adding brief explanations or context where necessary to enhance understanding.
+The Chinese translation is mostly accurate but lacks some of the nuance and storytelling present in the Japanese original and the English translation. For example, the English translation emphasizes the frog's naivety and the suddenness of the attack more effectively. The Chinese translation is a bit too literal and could benefit from more vivid language. The terms 'Yukar' and 'Sakehau' are kept as is, as requested. The updated translation aims to address these points, incorporating elements from the English translation to enhance the narrative flow and emotional impact.
 ```
 

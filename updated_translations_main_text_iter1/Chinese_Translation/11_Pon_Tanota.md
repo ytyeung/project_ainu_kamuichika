@@ -46,7 +46,7 @@ Here are your tasks:
 2. Compare the Chinese translation with the English translation.
 3. Improve the Chinese translation, especially incoporating the pros of the English translation.
 
-Keep the original meanings. Display in Traditional Chinese.
+Keep the original meanings. Display in Traditional Chinese. If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
 小オキキリムイが自ら歌った謡
@@ -236,85 +236,77 @@ So, Little Okikirmui told his story.
 「這砂，紅豔豔的」
 
 〔這砂，紅豔豔的〕
-某日，我溯溪嬉遊，
+某日，我溯溪嬉戲，
 巧遇了惡魔之子。
 無論何時，惡魔之子都容貌俊美，
-面若桃花，身著黑衣，
-手持胡桃小弓，胡桃小箭。
+面若桃花，身著一襲黑衣，
+手持胡桃小弓，配以胡桃小箭。
 他見到我，便笑嘻嘻地說：
-「小オキキリム伊，一起玩吧！
+「小オキキリム伊，來玩吧！
 我這就讓你瞧瞧，如何斷絕鮭魚的生路！」
-說著，便搭上胡桃小弓，胡桃小箭，
-朝水源方向射去。
-水源頓時湧出胡桃水，混濁不堪，污穢至極。
-鮭魚們奮力上游，
-卻厭惡這胡桃水，哭泣著，
-紛紛掉頭逃向下游。
-惡魔之子見狀，只是得意地笑著。
+說罷，便將胡桃小弓，搭上胡桃小箭，
+朝水源處射去。
+水源頓時湧出胡桃色的濁流，
+鮭魚們奮力逆流而上，
+卻厭惡那胡桃濁水，哭號著
+紛紛掉頭逃去。惡魔之子
+見狀，只是得意地笑。
 我見此情景，怒火中燒，
-便取出我的銀色小弓，搭上銀色小箭，
-朝水源射去。
-水源隨即流出銀色之水，清澈見底，純淨無瑕。
-方才哭泣著離去的
+便取出我的銀弓銀箭，
+搭好，朝水源射去。
+水源隨即湧出銀色的清流，
+原本哭泣著逃離的
 鮭魚們，在這清澈的銀水中恢復了活力，
-歡欣鼓舞，嬉戲玩鬧，
+歡天喜地地嬉戲，
 啪嚓啪嚓地逆流而上。
-惡魔之子頓時惱羞成怒，
-將他的焦躁全寫在臉上，
-「你當真要與我作對？我就讓你看看，如何斷絕鹿的生路！」說著，
-便搭上胡桃小弓，胡桃小箭，
+惡魔之子頓時
+怒形於色，氣急敗壞地說：
+「你若真要如此，我就讓你看看，如何斷絕鹿的生路！」說著，
+便將胡桃小弓，搭上胡桃小箭，
 朝天空射去。山的樹林間，
-頓時颳起胡桃之風，一道龍捲風，
-從山的樹林中，公鹿與母鹿
-被強風分開，各自被吹上半空，
-整齊地排列著，冉冉升向天際。
-惡魔之子只是得意地笑著。
+頓時颳起胡桃色的怪風，形成陣陣旋風。
+從山的樹林中，公鹿與
+母鹿被強風分開，
+被吹上半空，整齊地排列著升向天際。
+惡魔之子見狀，只是竊笑。
 我見此情景，更是怒不可遏！
-便搭上銀色小弓，銀色小箭，
-朝鹿群追射而去。
-從天上，吹下銀色之風，清澈的風，
+便將銀弓銀箭
+搭好，朝鹿群追射而去。
+從天上，吹落下銀色的清風，
 公鹿與母鹿
-再度被分開，各自
-被吹回山的樹林之上。
+再度被分開，
+吹回了山林的懷抱。
 於是，惡魔之子
-再也藏不住他的怒火，
+惱羞成怒，
 「好大的膽子！
-你真要如此，不如我們來一場力氣較量！」
-說著，便脫下上衣。
+你若真要如此，我們就來比試力氣吧！」
+說著，便脫下了上衣。
 我也只剩一件單薄的衣裳，
-便與他扭打成一團。他也緊緊抱住我，從那之後，
+便與他扭打成一團。他也緊緊抱住我。自此之後，
 我們互相壓制，互相摔跤，
 但惡魔之子的力氣之大，
 實在令我吃驚。可是，最終，在某個瞬間，
-我使出全身的腰力，所有的力量，
+我使出全身的腰力與氣力，
 將惡魔之子
 扛到肩上，
-然後將他狠狠摔向山岩，發出
-轟然巨響！我殺了他，將他踩入地獄深淵，之後一片寂靜。
+狠狠地摔向山岩，發出
+震耳欲聾的巨響！我殺了他，將他踢入地獄深淵，之後，四周一片寂靜。
 事情結束後，我沿著溪流返回，
-河裡，鮭魚們的歡笑聲，
-嬉鬧聲，喧囂熱鬧地傳來，
+河中，鮭魚們的歡笑聲，
+嬉鬧聲，喧囂熱烈地傳來，
 啪嚓啪嚓地清晰可聞。山的樹林中，
 公鹿們，母鹿們的歡笑聲，
-嬉鬧聲，充滿四處，
-在那裡，在這裡，
-悠閒地吃著東西。我見此情景，
-終於感到安心，回到了
+嬉鬧聲，充滿了每個角落，
+牠們在那裡，在這裡
+悠閒地吃草。我見此情景，
+感到安心，回到了
 我的家。
-小オキキリム伊如此講述著他的故事。
+小オキキリム伊如此講述著。
 
-The Chinese translation is generally accurate but could be improved in terms of naturalness and capturing the nuances of the original Japanese text. It tends to be a bit literal, which sometimes makes it sound less fluid in Chinese. The English translation, on the other hand, often prioritizes conveying the spirit and imagery of the story, resulting in a more engaging narrative. Here's a comparison and suggestions for improvement:
+The Chinese translation is generally accurate but lacks some of the nuance and vividness of the original Japanese and the English translation. It tends to be more literal, which sometimes makes it sound less natural. For example, phrases like "斷根" (duàn gēn) while literally correct, could be improved for better flow and impact. The English translation often captures the emotional tone and imagery more effectively. For instance, the repetition of "笑咪咪" (xiào mī mī) feels a bit monotonous compared to the English's varied descriptions of the demon child's expressions. The description of the sounds and atmosphere could also be enhanced.
 
-*   **Word Choice and Imagery:** The Chinese translation uses fairly standard vocabulary. The English translation uses more vivid and descriptive language, such as "murky and foul" for the water and "joyful clamor" for the sounds of the salmon. The Chinese could benefit from incorporating more evocative terms.
-*   **Cultural Context:** The English translation adds small contextual details that enhance understanding for a non-Japanese audience (e.g., specifying "salmon's path" instead of just "fish root"). The Chinese translation assumes more familiarity with the cultural background.
-*   **Sentence Structure:** The Chinese translation sometimes follows the Japanese sentence structure too closely, leading to slightly awkward phrasing. The English translation restructures sentences for better flow in English.
-*   **Emphasis and Tone:** The English translation effectively conveys the emotional intensity of the story, particularly the narrator's anger and relief. The Chinese translation is a bit more subdued.
+Comparing the Chinese and English translations, the English version excels in conveying the story's atmosphere and emotional impact. It uses more descriptive language and avoids overly literal translations. For example, instead of just saying "表現在臉上" (biǎo xiàn zài liǎn shàng), the English translation uses phrases like "his temper flaring" and "his temper plain on his face," which are more evocative. The English translation also does a better job of capturing the sounds and the overall sense of wonder and conflict in the story.
 
-To improve the Chinese translation, I will focus on:
-
-*   Using more vivid and descriptive language.
-*   Adjusting sentence structure for better flow in Chinese.
-*   Incorporating elements from the English translation that enhance clarity and emotional impact.
-*   Maintaining accuracy to the original Japanese text.
+To improve the Chinese translation, I will focus on making the language more vivid, varying the descriptions, and capturing the emotional tone more effectively. I will also try to incorporate some of the strengths of the English translation while staying true to the original Japanese meaning. I will replace some of the more literal translations with more natural and expressive phrases.
 ```
 

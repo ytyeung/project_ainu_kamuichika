@@ -46,7 +46,7 @@ Here are your tasks:
 2. Compare the Chinese translation with the English translation.
 3. Improve the Chinese translation, especially incoporating the pros of the English translation.
 
-Keep the original meanings. Display in Traditional Chinese.
+Keep the original meanings. Display in Traditional Chinese. If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
 狐が自ら歌った謡「トワトワト」
@@ -431,46 +431,49 @@ And that is the tale the fox told.
 
 ### Output
 ```
-狐狸自述的歌謠「托瓦托瓦托」
+狐狸自述之歌「托瓦托瓦托」
 
 托瓦托瓦托
-某日，我出門到海邊覓食。
-石礫中，鏘啦鏘啦；
-木片間，鏘啦鏘啦。
-我一路走，一路張望，看見奇景！一條鯨魚擱淺在海灘上！人們穿著盛裝，慶祝大海的恩賜。他們歡欣鼓舞，載歌載舞，有的切肉，有的搬運。一些頭面人物感謝大海的恩澤，虔誠膜拜，還有人在磨刀霍霍。海灘上黑壓壓一片，全是人！
 
-我見此情景，欣喜若狂。「啊，要是能趕快到那裡，哪怕分到一小塊也好！」我心裡想著，高聲呼喊：「萬歲！萬歲！」
+某日，我前往海邊覓食。
 
-石礫中，鏘啦鏘啦；
-木片間，鏘啦鏘啦。
+石礫堆裡，鏘啦鏘啦；
+朽木之中，鏘啦鏘啦。
 
-我急忙趕過去，結果卻大出所料。我以為是擱淺的鯨魚，其實只是沙灘上一堆狗屎！
+走著走著，抬頭一望，不得了！一條鯨魚擱淺在海灘上！人們盛裝打扮，慶祝大海的恩賜。載歌載舞，有人切肉，有人搬運。德高望重者感謝海神，虔誠膜拜，磨刀霍霍者，黑壓壓一片，佈滿沙灘。
 
-而那些慶祝大海恩賜、載歌載舞、搬運肉塊的人們呢？不過是一群烏鴉，在那裡啄食糞便，撥來撥去，飛來飛去。
+我見此狀，欣喜若狂。「啊，若能早點抵達，哪怕分到一小塊也好！」我心想，高聲呼喊：「萬歲！萬歲！」
 
-我勃然大怒！
+石礫堆裡，鏘啦鏘啦；
+朽木之中，鏘啦鏘啦。
+
+急忙趕去，卻事與願違。我以為是鯨魚擱淺，哪知只是沙灘上一堆狗屎！
+
+而那些慶祝海的恩賜，載歌載舞，切肉搬運的人們呢？不過是群烏鴉，啄食糞便，撥弄四散，飛來飛去。
+
+我怒火中燒！
 
 「瞎了眼的蠢貨！
 瞎了眼的惡棍！
 尾巴底下臭烘烘的傢伙！
 尾巴底下爛透了的傢伙！
-屁股眼裡冒松脂的傢伙！
+屁股眼裡流松脂的傢伙！
 屁股眼裡淌髒水的傢伙！
-你究竟是怎麼看世界的啊！」
+究竟是怎麼看世界的啊！」
 
-之後，我又
+接著，我又
 
-石礫中，鏘啦鏘啦；
-木片間，鏘啦鏘啦。
+石礫堆裡，鏘啦鏘啦；
+朽木之中，鏘啦鏘啦。
 
-我沿著海邊跑，遠遠看見一艘船。船上有兩個人似乎在互致哀悼。
+沿著海邊奔跑，遠遠望見一艘船，船上有兩人似乎在互致哀悼。
 
-「哎呀，」我納悶，「發生了什麼變故，他們才會這樣？莫非是有人連船帶人翻覆了？我得趕快過去，聽聽他們在說些什麼！」於是我高聲喊道：「霍哦霍伊！」
+「哎呀，發生了什麼變故？莫非有人連船翻覆了？我得趕緊靠近，聽聽他們在說些什麼！」我心想，高聲喊道：「喔呵呵咿！」
 
-石礫中，鏘啦鏘啦；
-木片間，鏘啦鏘啦。
+石礫堆裡，鏘啦鏘啦；
+朽木之中，鏘啦鏘啦。
 
-我飛奔而去，結果發現我以為是船的，只不過是海灘上的一塊岩石，而我以為是人的，不過是兩隻大鵜鶘。
+飛奔而去，結果發現，我以為是船的，只不過是海灘上的一塊礁石，而我以為是人的，不過是兩隻大鵜鶘。
 
 兩隻大鵜鶘伸長脖子又縮回去，我卻誤以為牠們在互致哀悼。
 
@@ -478,56 +481,71 @@ And that is the tale the fox told.
 瞎了眼的惡棍！
 尾巴底下臭烘烘的傢伙！
 尾巴底下爛透了的傢伙！
-屁股眼裡冒松脂的傢伙！
+屁股眼裡流松脂的傢伙！
 屁股眼裡淌髒水的傢伙！
-你究竟是怎麼看世界的啊！」
+究竟是怎麼看世界的啊！」
 
-我又
+然後，我又
 
-石礫中，鏘啦鏘啦；
-木片間，鏘啦鏘啦。
+石礫堆裡，鏘啦鏘啦；
+朽木之中，鏘啦鏘啦。
 
-我飛也似地溯河而上，只見遠遠的河上游，有兩個女人站在淺灘上，抱頭痛哭。
+飛也似地逆流而上，只見遠遠的河上游，有兩個女人站在淺灘上，抱頭痛哭。
 
-我嚇了一跳。「哎呀，發生了什麼不幸的事，傳來了什麼噩耗，她們才會哭成這樣？我得趕快過去，聽聽她們怎麼說！」
+我嚇了一跳。「哎呀，發生了什麼不幸？傳來了什麼噩耗，讓她們哭成這樣？我得趕緊過去，聽聽她們怎麼說！」
 
-石礫中，鏘啦鏘啦。
-木片間，鏘啦鏘啦。
+石礫堆裡，鏘啦鏘啦；
+朽木之中，鏘啦鏘啦。
 
-我飛奔過去，結果發現河中央有兩座魚梁，魚梁的木樁被水流衝擊，搖搖晃晃，我卻誤以為是兩個女人低著頭又抬起頭，抱在一起哭泣。
+飛奔而去，結果發現，河中央有兩座魚梁，魚梁的木樁被水流衝擊，搖搖晃晃，我卻誤以為是兩個女人低著頭又抬起頭，抱在一起哭泣。
 
 「瞎了眼的蠢貨！
 瞎了眼的惡棍！
 尾巴底下臭烘烘的傢伙！
 尾巴底下爛透了的傢伙！
-屁股眼裡冒松脂的傢伙！
+屁股眼裡流松脂的傢伙！
 屁股眼裡淌髒水的傢伙！
-你究竟是怎麼看世界的啊！」
+究竟是怎麼看世界的啊！」
 
-之後我又溯河而上，
-石礫中，鏘啦鏘啦。
-木片間，鏘啦鏘啦。
+之後，我又逆流而上，
 
-我飛也似地趕回家。抬頭一看，不知怎麼回事，我的房子竟然燒了起來！升騰到天空的濃煙，宛如堆積的烏雲。我嚇得魂飛魄散，驚叫一聲，跳了起來，這時，從對面有人大聲喊著「喂！」朝我跑來。仔細一看，原來是我的妻子，她滿臉驚恐，氣喘吁吁地說：「老爺，您怎麼了？」
+石礫堆裡，鏘啦鏘啦；
+朽木之中，鏘啦鏘啦。
 
-我再仔細一看，看起來像是著火了，其實我的房子完好無損地立在那裡。沒有火，也沒有煙。
+飛也似地趕回家。抬頭一看，糟了！
 
-原來是我的妻子在舂米，當時風很大，吹散了正在簸的穀糠，我把它看成了煙。
+不知發生了什麼事，我的房子燃燒了起來！濃煙滾滾，直衝雲霄，宛如烏雲蓋頂。我見此狀，驚慌失措，魂飛魄散。我用女人的聲音尖叫著跳了起來，只見有人從對面大聲喊著「喂！」朝我飛奔而來。仔細一看，是我的妻子，她面色蒼白，氣喘吁吁地說：「老爺，您怎麼了？」
 
-我出門尋找食物，結果什麼也沒找到，而且，我還大聲叫喊，把我的妻子嚇了一跳，連簸箕帶穀子都扔掉了，今晚我們什麼都沒得吃了。
+我再仔細一看，哪裡有火災？我的房子完好無損地佇立在那裡，沒有火，也沒有煙。
 
-我怒火中燒，把自己扔到地板底下，睡覺去了。
+原來是我的妻子在舂米，當時風很大，吹散了正在簸的粟米的糠秕，我把它看成了煙。
+
+我出門尋找食物，卻一無所獲，而且，我還大聲叫喊，我的妻子被我嚇了一跳，連同簸箕一起把正在簸的粟米都扔掉了，今晚什麼都沒得吃了。
+
+我怒不可遏，把自己扔到地板底下，垂頭喪氣。
 
 「瞎了眼的蠢貨！
 瞎了眼的惡棍！
 尾巴底下臭烘烘的傢伙！
 尾巴底下爛透了的傢伙！
-屁股眼裡冒松脂的傢伙！
+屁股眼裡流松脂的傢伙！
 屁股眼裡淌髒水的傢伙！
-你究竟是怎麼看世界的啊！」
+究竟是怎麼看世界的啊！」
 
-狐狸頭目這樣講述著。
+狐狸頭目如此講述著。
 
-The Chinese translation is generally accurate but could be improved to capture the nuances and flow of the original Japanese text, especially in terms of rhythm and vividness. It tends to be a bit literal at times. Compared to the English translation, the Chinese version is less descriptive and lacks some of the punchy, idiomatic expressions that make the English translation more engaging. For example, the English translation uses phrases like "hoping to find a bite to eat" and "nothing more than a pile of dog droppings" which are more evocative than the corresponding phrases in the Chinese translation. The repetition of "眼光昏花的" is a bit clunky and could be varied. The English translation also does a better job of conveying the fox's increasing frustration and self-deprecating humor. The updated translation aims to address these issues by incorporating some of the strengths of the English translation while remaining faithful to the original Japanese text.
+The Chinese translation is generally accurate but can be improved to better capture the nuances and tone of the original Japanese text, especially in conveying the fox's emotional state and the repetitive, chant-like quality of the poem. The English translation often provides a more vivid and engaging rendering of these aspects. Here's a breakdown:
+
+*   **Repetitive Phrases:** The Chinese translation handles the repetition of "石礫中, 鏘啦鏘啦; 木片中, 鏘啦鏘啦" adequately, but it could benefit from a more rhythmic or stylized rendering to emphasize its chant-like nature. The English translation uses "*Chara chara* through the stones, *Chara chara* through the driftwood," which is simple and effective.
+*   **Emotional Impact:** The Chinese translation captures the fox's anger and frustration, but the English translation often uses more evocative language. For example, the English translation uses "I was furious!" which is more direct and impactful than the Chinese translation's "我非常生氣。"
+*   **Clarity and Flow:** In some instances, the English translation provides a clearer and more concise rendering of the Japanese text. The Chinese translation can be slightly verbose at times.
+*   **Cultural Nuances:** The English translation sometimes explains cultural nuances that might be lost on a non-Japanese audience, which is helpful for understanding the context of the story. The Chinese translation assumes a certain level of cultural familiarity.
+
+I will improve the Chinese translation by:
+
+*   Using more rhythmic and stylized language for the repetitive phrases.
+*   Employing more evocative language to convey the fox's emotions.
+*   Streamlining the text for clarity and conciseness.
+*   Adding brief explanations of cultural nuances where necessary.
 ```
 

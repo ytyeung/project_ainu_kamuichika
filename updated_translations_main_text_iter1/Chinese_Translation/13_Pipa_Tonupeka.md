@@ -46,7 +46,7 @@ Here are your tasks:
 2. Compare the Chinese translation with the English translation.
 3. Improve the Chinese translation, especially incoporating the pros of the English translation.
 
-Keep the original meanings. Use a more conversational style. Display in Traditional Chinese.
+Keep the original meanings. Display in Traditional Chinese. If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
 沼貝が自ら歌った謡「トヌペカ ランラン」
@@ -181,74 +181,57 @@ So spoke one of the marsh clams.
 
 ### Output
 ```
-沼貝親自唱的歌謠「托努佩卡 蘭蘭」
+沼貝自唱的歌謠「托努佩卡 蘭蘭 (Tonupeka Ranran)」
 
-托努佩卡 蘭蘭...
+托努佩卡 蘭蘭 (Tonupeka Ranran)
 
-毒辣的太陽曬得我待的地方都
-乾巴巴的，感覺快要死掉了。
+強烈的陽光曝曬，我的棲身之處都
+乾涸了，感覺我就要死了。
+「誰來給我們水喝啊，
+救救我們吧！水啊，水啊！」我們這樣哭喊著,
+從遠方的海邊走來一位女子，
+背著竹簍。
+我們哭泣著，她從我們身旁經過，
+看見我們，
+說：「真奇怪的沼貝，可惡的沼貝！哭什麼，
+吵吵鬧鬧的，真煩人！」
+說完，她就踩踏我們，用腳尖踢開，連同貝殼一起踩碎，
+然後就往山裡去了。
+「好痛！好難受！水啊，水啊！」我們哭喊著，
+從遠方的海邊又走來一位女子，
+背著竹簍。我們
+「誰來給我們水喝，救救我們吧！
+好痛！好難受！水啊，水啊！」哭喊著。
+於是，那位姑娘，帶著神祇般的美麗與高貴，
+來到我們身邊，看見我們，
+說：「哎呀，真可憐！天氣這麼熱，沼貝們
+住的地方都乾掉了，一定很想喝水吧。
+這是怎麼回事呢？
+好像是被踩踏過一樣……」
+她一邊說著，一邊把我們都撿起來，
+放在蕗葉上，放進了清澈的湖裡。
+我們喝了清澈冰涼的水，完全恢復了元氣，
+變得非常健康。於是，我們開始
+打聽這些女子的來歷，
+發現先來，踩踏我們的
+可憎的女子，壞女人是薩瑪雲庫爾 (Samayunkuru) 的
+妹妹；而憐憫我們，
+幫助我們的年輕姑娘，溫柔賢淑的
+是奧基基里穆伊 (Okikirmui) 的妹妹。
+薩瑪雲庫爾 (Samayunkuru) 的妹妹邪惡可憎，
+導致她的小米田枯萎；而奧基基里穆伊 (Okikirmui) 的
+妹妹的小米田則結實纍纍。
+那一年，奧基基里穆伊 (Okikirmui) 的妹妹大豐收。
+她知道這是因為我們的緣故，
+就用沼貝的殼來摘小米穗。
+從那以後，每年，人類的女子們
+在摘小米穗的時候，都會使用沼貝的殼。
+一隻沼貝這樣講述著。
 
-「有沒有人啊，給我們一點水喝！
-救救我們吧！水啊水啊！」我們這樣哭喊著。
+1.  The Chinese translation is generally accurate but lacks some of the nuance and emotional impact present in the Japanese original. For example, the repetition of "水啊水啊" could be emphasized more. The description of the second woman as "神一般美麗高貴" is a bit strong and could be softened to better reflect the original's tone. The phrase "探究那些女子的性情" is a bit formal and could be made more conversational. The translation of "粟米" is correct, but in modern Traditional Chinese, "小米" might be more common and relatable. The phrase "我的故為" is not very natural. The translation of "粟の穂を摘みました" as "摘粟米的穗" is a bit redundant. The phrase "一つの沼貝這樣講述著" is a bit stiff and could be made more natural. The translation does not include the chant title "Tonupeka Ranran".
 
-然後，從海邊那邊，走來一個女人，
-背著竹簍。我們哭哭啼啼的，她從我們旁邊經過，
-看到我們，就說：「奇怪的沼貝，討厭的沼貝！哭什麼哭啊，
-吵死了！」
+2.  The English translation captures the emotional tone and narrative flow of the Japanese text more effectively. It uses more descriptive language and maintains a consistent narrative voice. For example, the English translation uses phrases like "fierce sun beats down" and "making such a racket" which are more evocative than the corresponding phrases in the Chinese translation. The English translation also includes the chant title "Tonupeka Ranran".
 
-說完，就踩我們，用腳尖踢我們，把我們連殼一起踩碎，
-然後就自顧自地往山裡去了。
-
-「好痛！好難受！水啊水啊！」我們繼續哭喊著。
-
-接著，又從海邊那邊，走來另一個女人，
-背著竹簍。我們趕緊喊：「有沒有人能給我們水喝，救救我們啊！
-好痛！好難受！水啊水啊！」
-
-這時，那位姑娘，長得像神仙一樣漂亮又高貴，
-走到我們旁邊。她看到我們，就說：「哎呀，真可憐！這麼熱的天，沼貝們
-住的地方都乾了，一定很想喝水吧。
-這是怎麼搞的？
-好像被人踩過一樣……」
-
-她一邊說，一邊把我們一個個撿起來，
-放在蕗葉上，再把我們放進清澈的湖水裡。
-
-喝了乾淨又冰涼的湖水，我們立刻恢復了精神，
-變得非常健康。這時候，我們才開始
-打聽這些女人的底細。
-
-結果發現，先來，還踩我們的
-那個可惡的女人，是薩瑪雲庫爾的妹妹。而可憐我們，
-幫助我們的年輕姑娘，是溫柔善良的
-奧基基里穆伊的妹妹。
-
-薩瑪雲庫爾的妹妹因為心腸壞，
-害得她的粟米田都枯萎了。而奧基基里穆伊的
-妹妹的粟米田，卻結滿了果實。
-
-那一年，奧基基里穆伊的妹妹大豐收。
-她知道這是因為我們的關係，
-就用沼貝殼來摘粟米的穗。
-
-從那之後，每年，人類的女人們
-在摘粟米穗的時候，都會用沼貝殼。
-
-一隻沼貝這樣說著。
-
-The Chinese translation is generally accurate but a bit too formal and literal, lacking the conversational tone present in both the Japanese original and the English translation. It also misses some nuances, particularly in conveying the emotional impact of the events. The English translation is more successful in capturing the storytelling aspect and emotional tone.
-
-Comparison:
-
-*   Formality: The Chinese translation is more formal than the English. The English translation uses simpler vocabulary and sentence structures, making it more accessible and engaging.
-*   Emotional Impact: The English translation better conveys the emotional state of the marsh clams, particularly their pain and desperation. The Chinese translation is somewhat subdued in this regard.
-*   Clarity: Both translations are generally clear, but the English translation sometimes provides more context, making the narrative flow smoother.
-*   Accuracy: Both translations are accurate in conveying the basic meaning of the Japanese text.
-
-Pros of the English translation to incorporate:
-
-*   Use more conversational language.
-*   Emphasize the emotional impact of the events on the marsh clams.
-*   Add slight contextual details to improve the flow of the narrative.
+3.  The improved Chinese translation will incorporate the strengths of the English translation by using more descriptive language, emphasizing emotional impact, and adopting a more natural and conversational tone. It will also include the chant title "Tonupeka Ranran".
 ```
 

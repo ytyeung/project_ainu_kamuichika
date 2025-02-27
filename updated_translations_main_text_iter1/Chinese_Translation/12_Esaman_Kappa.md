@@ -46,7 +46,7 @@ Here are your tasks:
 2. Compare the Chinese translation with the English translation.
 3. Improve the Chinese translation, especially incoporating the pros of the English translation.
 
-Keep the original meanings. Use a more conversational style. Display in Traditional Chinese.
+Keep the original meanings. Display in Traditional Chinese. If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
 獺かわうそが自ら歌った謡
@@ -206,45 +206,51 @@ Thus, the otter lamented.
 ### Output
 ```
 水獺自述的悲歌
-「河童 咧嗚咧嗚 河童」
+「Kappa Reu Reu Kappa」
 
-河童 咧嗚咧嗚 河童
+Kappa Reu Reu Kappa
 
-有一天，我沿著小溪，快活地游啊游，來到了薩瑪雲庫魯取水的地方。我看到薩瑪雲庫魯的妹妹站在那裡，美得像個神仙似的，一手提著水桶，另一手拿著一束香蒲。
+某日，我沿著溪流嬉戲，順流而下，來到薩瑪雲庫魯的汲水處。在那裡，薩瑪雲庫魯的妹妹，美麗如女神，一手提著水桶，一手拿著香蒲束。
 
-我從河邊探出頭，問她：「妳有爸爸嗎？有媽媽嗎？」
+我從水邊探出頭，問道：「妳有父親嗎？妳有母親嗎？」
 
-那女孩嚇了一跳，睜大眼睛四處張望。當她發現我時，臉上立刻閃過一絲怒氣。
+那少女嚇了一跳，睜大眼睛四處張望。當她發現我時，怒火在她臉上一閃而過。
 
-「哎呀，你這可惡的扁頭，壞扁頭，竟敢取笑人！狗兒們，上啊！……」她喊道。
+「啊，可恨的扁頭，惡毒的扁頭，竟敢愚弄人！狗兒們，上啊！......」她喊道。
 
-話音未落，幾隻大狗就衝了出來，對著我齜牙咧嘴。我嚇壞了，趕緊潛入河底，一路往下游逃去。
+立刻，大狗們衝了出來，對著我露出獠牙。我嚇壞了，趕緊潛入河底，沿著河底逃走。
 
-後來，我又在奧基基里穆伊的河邊探出頭。我看到奧基基里穆伊的妹妹站在那裡，也美得像個神仙似的，一手提著水桶，另一手拿著一束香蒲。
+然後，我又在奧基基里穆伊的汲水處探出頭。在那裡，奧基基里穆伊的妹妹，美麗如女神，一手提著水桶，一手拿著香蒲束。
 
-我就問她：「妳有爸爸嗎？有媽媽嗎？」
+我問她：「妳有父親嗎？妳有母親嗎？」
 
-那女孩嚇了一跳，睜大眼睛四處張望。當她發現我時，臉上立刻閃過一絲怒氣。
+那少女嚇了一跳，睜大眼睛四處張望。當她發現我時，怒火在她臉上一閃而過。
 
-「哎呀，你這可惡的扁頭，壞扁頭，竟敢取笑人！狗兒們，上啊！……」她喊道。
+「啊，可恨的扁頭，惡毒的扁頭，竟敢愚弄人！狗兒們，上啊！......」她喊道。
 
-大狗們立刻衝了出來。我想到之前發生的事，覺得有點好笑，正想潛入河底逃走，
+大狗們衝了出來。想起之前發生的事，我暗自竊笑，正想潛入河底逃走，
 
-沒想到那些狗竟然也跳進水裡，張牙舞爪地向我撲來！牠們把我拖到岸上，又咬又撕我的頭和身體，最後我就失去了意識。
+沒想到那些狗竟然也跳進水裡，露出獠牙，向我撲來！牠們把我拖到岸上，撕咬我的頭和身體，直到我失去知覺。
 
-等我醒來的時候，發現自己正坐在
-一隻大水獺的兩隻耳朵中間。
+當我終於醒來時，發現自己正坐在
+一隻大水獺的兩隻耳朵之間。
 
-我知道薩瑪雲庫魯和奧基基里穆伊都沒有父母。我因為惡作劇而受到了懲罰，被奧基基里穆伊的狗咬死了，落得一個愚蠢又可悲的下場。
+我知道薩瑪雲庫魯和奧基基里穆伊都沒有父母。
+我因為開了這樣的玩笑而受到懲罰，被奧基基里穆伊的狗兒們殺死，落得一個愚蠢、可悲的下場。
 
-所以，今後的水獺們啊，千萬不要再惡作劇了！
+所以，聽好了，今後的水獺們：千萬不要再開這種玩笑了！
 
-水獺這樣悲嘆著。
+水獺如此悲嘆著。
 
-The Chinese translation is generally accurate but a bit too literal and formal. It lacks the conversational tone and vividness present in both the Japanese original and the English translation. For example, phrases like "話音未落" (before the words finished) are technically correct but sound stilted. The English translation captures the playful and slightly mocking tone of the otter's interaction with the girls and the subsequent panic more effectively. It also uses more descriptive language, such as "frolicked along the stream" and "anger flashed across her face," which adds to the storytelling. The Chinese translation could benefit from incorporating some of these elements to make it more engaging and natural-sounding.
+The Chinese translation is generally accurate but lacks some of the nuance and vividness present in both the Japanese original and the English translation. Specifically:
 
-Comparing the Chinese and English translations, the English version is more descriptive and conveys the emotional nuances better. For instance, the English translation uses "frolicked" to describe the otter's movement, which is more vivid than the Chinese "嬉戲". Also, the English translation uses "anger flashed across her face," which is more descriptive than the Chinese "臉上露出憤怒的表情".
+1.  **Opening lines:** The Chinese translation of "カッパ レウレウ カッパ" as "河童 咧嗚咧嗚 河童" is a direct transliteration and doesn't convey any particular meaning. The English translation omits this line in the main text, but includes it in the title. A better Chinese translation might try to capture the sound or feeling of the chant, or provide a footnote explaining the term.
+2.  **Description of the sisters:** Both translations capture the "神の様な美しい容子で" as "像神一般美麗" and "beautiful as a goddess". This is adequate.
+3.  **Flathead insult:** The Chinese translation of "にくらしい扁平頭, 悪い扁平頭" as "可惡的扁頭, 壞扁頭" is accurate. The English translation "hateful flathead, you wicked flathead" is also good. Both capture the insulting tone.
+4.  **Dog's attack:** The Chinese translation of "牙を鳴らし" as "對著我齜牙咧嘴" is good, but the English translation "baring their fangs at me" is more vivid. The Chinese could be improved to reflect this.
+5.  **Otter's lament:** The Chinese translation of "つまらない死方, 悪い死方" as "無聊的死法, 糟糕的死法" is accurate. The English translation "foolish, wretched end" is also good. Both capture the self-deprecating tone.
+6.  **Overall flow:** The English translation reads more smoothly and naturally. The Chinese translation is a bit more literal, which makes it sound slightly stilted.
 
-To improve the Chinese translation, I will focus on making the language more conversational, adding descriptive details, and capturing the emotional tone more accurately. I will also try to incorporate the strengths of the English translation where appropriate, while staying true to the original Japanese text.
+To improve the Chinese translation, I will focus on making it more vivid and natural, while retaining accuracy. I will also try to incorporate some of the strengths of the English translation.
 ```
 

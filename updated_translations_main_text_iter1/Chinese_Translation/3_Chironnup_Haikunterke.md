@@ -46,7 +46,7 @@ Here are your tasks:
 2. Compare the Chinese translation with the English translation.
 3. Improve the Chinese translation, especially incoporating the pros of the English translation.
 
-Keep the original meanings. Display in Traditional Chinese.
+Keep the original meanings. Display in Traditional Chinese. If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
 狐が自ら歌った謡
@@ -429,136 +429,133 @@ Thus spoke the fox-god, in his tale.
 
 ### Output
 ```
-狐狸親自吟唱的古老歌謠：
+狐狸親自吟唱的歌謠
+「ハイクンテレケ ハイコシテムトリ」
 
-「Haikunteleke Haikoshitemutori」
-
-Haikunteleke Haikoshitemutori
-在國之岬，神之岬之上，
-我靜坐於神聖的休憩之中。
-某日，我走出洞穴，眺望世間，
-海面風平浪靜，遼闊無垠，其上有
+「ハイクンテレケ ハイコシテムトリ」
+於國之岬，神之岬之上，
+我踞坐於神聖的靜謐之中。
+某日，我走出洞穴，放眼望去，
+海面風平浪靜，遼闊無垠。只見海上，
 奧基基穆伊、舒彭拉姆卡和薩馬雲庫爾，
-三人同舟，冒險出海狩獵。
-看著他們，我內心頓生邪惡的念頭。
+三人同舟，出海狩獵。目睹此景，
+我內心頓時湧起一股邪惡的衝動。
 
 越過海岬，國之岬，神之岬，
-我輕盈地，腰肢柔軟地來回奔竄。
-用低沉的嗓音，如枯枝斷裂般，我喊道：「啪嗚，啪嗚！」
-我怒視著河的源頭，召喚暴風的魔靈。
-隨著我的召喚，從河的源頭，一股狂風，一陣旋風，
-爆發而出，衝向大海，頃刻間，
-海面上下顛倒，
-原本在上的海變為在下，原本在下的海升至上方。
-奧基基穆伊和他的同伴們，
-他們的漁船，被夾在近海之人和遠海之人之間，
-遭遇突如其來的劇變，在波濤中瘋狂旋轉。
+我足履輕盈，腰肢款擺，來回奔馳。
+以沉重之聲，如斷裂枯枝，我呼喊：「啪嗚，啪嗚！」
+我怒視河之源頭，召喚暴風之魔。
+隨之而來，自河之源頭，狂風怒號，旋風驟起，
+直撲入海，頃刻之間，
+上海變為下海，
+下海升為上海。奧基基穆伊一行人，
+他們的漁船，被夾在近岸之人和遠海之人之間，
+遭遇突如其來的巨變，在波濤中瘋狂旋轉。
 巨浪如山，
-傾覆而下，壓在他們的船上。
-於是，
-奧基基穆伊、薩馬雲庫爾、舒彭拉姆卡
-聲嘶力竭地划槳。
-小船像一片飄落的葉子般被拋擲，
-瀕臨傾覆，然而，
-令人欽佩的是，這些人非常強壯，
-小船在風中起舞，
-乘風破浪。
-看到這一幕，我內心邪惡的念頭再次蠢蠢欲動。
-我輕盈地，腰肢柔軟地來回奔竄，
-用低沉的嗓音，如枯枝斷裂般，我喊道：「啪嗚，啪嗚！」
-我全心投入，為暴風的魔靈吶喊助威。
-就這樣，終於，薩馬雲庫爾
-雙手血流不止，
-精疲力竭地倒下了。
-看到他這副模樣，我暗自竊笑。
-然後，我再次賣力，
-輕盈地，腰肢柔軟地來回奔竄，
-用低沉的嗓音，如枯枝斷裂般，我呼喊，
-為暴風的魔靈助威。
-奧基基穆伊和舒彭拉姆卡兩人，
+傾覆而下，壓向小舟。
+於是，奧基基穆伊、薩馬雲庫爾、舒彭拉姆卡，
+聲嘶力竭，奮力划槳。
+小船如落葉般被狂風吹拂，
+岌岌可危，眼看就要傾覆，
+但令人欽佩的是，這些人何其堅韌，
+小船在風中，
+於波浪之上，如履平地。
+見此情景，我內心邪惡的念頭再次蠢蠢欲動。
+我足履輕盈，腰肢款擺，四處奔走，
+以沉重之聲，如斷裂枯枝，我呼喊：「啪嗚，啪嗚！」
+我竭盡全力，為暴風之魔搖旗吶喊。
+如此這般，終於，薩馬雲庫爾，
+雙手之上，鮮血淋漓，
+精疲力竭，轟然倒下。
+見此慘狀，我暗自竊笑。
+而後，我更加賣力，
+足履輕盈，腰肢款擺，四處奔走，
+以沉重之聲，如斷裂枯枝，我呼喊，
+為暴風之魔搖旗吶喊。
+奧基基穆伊和舒彭拉姆卡二人，
 互相鼓勵，勇敢地划著船，
-但是，突然，舒彭拉姆卡
-雙手血流不止，
-精疲力竭地倒下了。看到這一幕，
+然而，就在此時，舒彭拉姆卡，
+雙手之上，鮮血淋漓，
+精疲力竭，轟然倒下。見此情景，
 我暗自竊笑。
-然後，我再次輕盈地，腰肢柔軟地
-跳躍奔跑，用低沉的嗓音，如折斷堅硬的樹枝
-般呼喊，竭盡全力。
-但是，奧基基穆伊卻沒有絲毫疲憊之色。
-他身上僅披著一件單薄的衣裳，
-繼續划船，直到，
-他手中的槳斷裂。
-於是，他跳到已經精疲力竭的薩馬雲庫爾身上，
+而後，我又足履輕盈，腰肢款擺，
+跳躍奔馳，以沉重之聲，如斷裂堅硬的木片，
+我呼喊，竭盡全力。
+然而，奧基基穆伊卻毫無疲憊之色。
+他僅以單薄衣衫蔽體，
+奮力划槳，直至，
+他手中的槳，應聲折斷。
+於是，他躍至已然力竭而死的薩馬雲庫爾身旁，
 奪走他手中的槳，獨自一人
 划著船。
-看到這一幕，我內心固有的邪惡念頭再次蠢蠢欲動。
-用低沉的嗓音，如折斷堅硬的樹枝般呼喊，
-輕盈地，腰肢柔軟地來回奔竄，
-竭盡全力地為暴風的魔靈吶喊助威。
-就這樣，薩馬雲庫爾的舵也
-斷裂了。奧基基穆伊跳到舒彭拉姆卡身上，
+
+目睹此景，我內心固有的邪惡念頭再次蠢蠢欲動。
+以沉重之聲，如斷裂堅硬的木片，我呼喊，
+足履輕盈，腰肢款擺，四處奔走，
+竭盡全力，為暴風之魔搖旗吶喊。
+如此這般，薩馬雲庫爾的舵，也
+斷裂了。奧基基穆伊躍至舒彭拉姆卡身旁，
 奪走他的楫，
 勇敢地划著船。
-但是，他的楫也被海浪折斷了。
-於是，奧基基穆伊站在船中，
-身處狂暴的風浪之中，
-他萬萬沒想到身為凡人的他竟能看見我，
+然而，他的楫也被海浪無情折斷。
+於是，奧基基穆伊在船中
+孑然而立，於狂風暴雨之中，
+他萬萬沒想到，身為凡人的他，竟能看見我，
 他凝視著國之岬，神之岬
 之上的，我的雙眼。
-他原本溫和的臉龐，此刻充滿了憤怒，
+他原本溫和的面容，此刻充滿了憤怒，
 他翻找著他的袋子，
-從中取出的是，蓬草製成的小弓和
-蓬草製成的小箭。
-看到這一幕，我暗自竊笑。
-「凡人又能做什麼來嚇唬我呢？
-這種蓬草製成的小箭又有什麼用呢？」
-我如此想著，在這個海岬，
+從中取出的是，蓬草製成的小弓，
+以及蓬草製成的小箭。
+見此情景，我暗自竊笑。
+「凡人又能奈我何？有何可懼？
+那蓬草小箭，又有何用？」
+我如是想，於此海岬，
 國之岬，神之岬之上，
-我上竄下跳，輕盈地，
-腰肢柔軟地來回奔竄，用低沉的嗓音，
-如枯枝斷裂般，我喊道：「啪嗚，啪嗚！」
-讚美暴風的魔靈。
-就在這時，奧基基穆伊射出的箭飛來，
+我上下奔走，足履輕盈，
+以沉重之聲，如斷裂堅硬的木片，我呼喊：「啪嗚，啪嗚！」
+讚頌暴風之魔。
+就在此時，奧基基穆伊射出的箭矢飛來，
 正中我的後頸。
-從那一刻起，我就什麼都不知道了。
-當我醒來時，
+自那之後，我便一無所知。
+猛然醒來，
 天氣晴朗，海面
-遼闊平靜，奧基基穆伊的漁船早已不見蹤影。
-發生了什麼？從我的頭頂
-到我的腳趾，都像樺樹皮燃燒收縮般疼痛。
-我萬萬沒想到凡人射出的小箭竟會如此折磨我。
-於是我痛苦地掙扎，
-在這個海岬，國之岬，神之岬
-之上，上竄下跳，痛苦地哭喊，
-在生與死之間掙扎，
-日復一日，直到我什麼都不知道了。
-當我再次醒來時，
+遼闊無垠，奧基基穆伊的漁船早已無影無蹤。
+究竟發生了何事？自我的頭頂
+至我的腳尖，都如雁皮燃燒般劇痛。
+萬萬沒想到，凡人射出的小箭，竟能如此折磨我。
+於是我痛苦掙扎，
+於此海岬，國之岬，神之岬
+之上，上下翻滾，哭喊哀嚎，
+在痛苦中掙扎，日夜不息，
+時而生，時而死，就在這般煎熬之中，我失去了意識。
+再次醒來，
 我身處於一隻巨大的黑狐的雙耳之間。
-大約兩天後，奧基基穆伊像神祇般降臨，
-笑著說道：
-「多麼美好的景象啊！守護著
-國之岬，神之岬之上的黑狐神明，
-擁有一顆善良的心，一顆神聖的心，
-因此，他的死相也如此安詳。」
+約莫兩日之後，奧基基穆伊如神祇般降臨，
+笑意盈盈地說道：
+「真是美麗的景象啊！守護著國之岬，神之岬
+之上的黑狐神明，
+因為擁有一顆善良的心，一顆神明之心，
+所以死相也如此安詳。」
 說著，他取走了我的頭顱，
 帶回了他的家，將我的上顎骨
 作為他廁所的地基，將我的下顎骨
 作為他妻子的廁所的基石，
-而我的身體則與泥土一同腐爛。
-從那以後，日日夜夜，
-我飽受惡臭的折磨，我死得毫無意義，死得極其悲慘。
-我雖非地位低下的神明，
-卻因懷有如此邪惡的內心，最終一無是處，
-落得如此悲慘的下場。
+而我的身軀，則與泥土一同腐爛殆盡。
+自那之後，無論白晝黑夜，
+我都飽受惡臭的折磨，我的死亡毫無價值，極其悲慘。
+我雖非地位卑微的神明，
+但因我懷有極其邪惡的內心，故而一無是處，
+我的死亡極其悲慘。
 所以，未來的狐狸們啊，切記，
-永遠不要懷有邪惡的念頭。
+永遠不要懷有邪惡的內心。
 
-狐狸神明如此講述道。
+狐狸神明如是講述。
 
-The Chinese translation is generally accurate but lacks the poetic and rhythmic qualities of the original Japanese and the English translation. It tends to be more literal, missing some of the nuances and evocative imagery. For example, the repetition of phrases like "cape of the land, cape of the gods" is not emphasized enough in Chinese, losing its chanting effect. The English translation captures the storytelling tone better, making it more engaging. The Chinese translation could benefit from incorporating some of the English translation's phrasing to enhance its flow and impact.
+The Chinese translation is generally accurate but lacks the poetic and rhythmic qualities of the original Japanese and the English translation. It tends to be more literal, which makes it sound less engaging. The English translation captures the storytelling aspect and the emotional tone more effectively. For example, the repetition of "cape of the land, cape of the gods" is beautifully rendered in English, emphasizing the location's significance, while the Chinese translation is functional but less evocative. The phrase "nimble feet and swaying hips" is also more vividly translated into English than its Chinese counterpart. The onomatopoeic "Pau, Pau!" is kept as is, which is good, but the description of the sound could be improved in Chinese. The English translation also adds some phrases to make the story more readable, such as "Listen closely, for I shall tell you a tale, a song sung by a fox-god of old:", which is missing in the Chinese translation. The description of the fox god's death is also more vivid in English.
 
-Comparing the Chinese and English translations, the English version often uses more descriptive language and maintains a consistent narrative voice. The Chinese translation, while accurate, sometimes feels disjointed and lacks the same level of detail. For instance, the description of the fox-god's actions (darting about, crying out) could be more vividly portrayed in Chinese, similar to how the English translation uses phrases like "nimble feet and swaying hips" or "like the snapping of dry twigs." The English translation also excels in conveying the emotional intensity of the story, which is somewhat subdued in the Chinese version.
+Comparing the Chinese and English translations, the English version is more descriptive and interpretive, while the Chinese version is more direct and literal. The English translation often expands on the original text to enhance the narrative flow and emotional impact, while the Chinese translation sticks closer to the literal meaning of the Japanese. For example, the English translation uses phrases like "divine repose" and "wicked impulse stirred within my heart" to add depth to the character's emotions, which are not as explicitly conveyed in the Chinese translation.
 
-
+To improve the Chinese translation, I will focus on incorporating more descriptive language, enhancing the rhythmic flow, and capturing the emotional nuances of the original Japanese text, drawing inspiration from the English translation where appropriate. I will also try to make the language more vivid and engaging, while maintaining accuracy.
 ```
 

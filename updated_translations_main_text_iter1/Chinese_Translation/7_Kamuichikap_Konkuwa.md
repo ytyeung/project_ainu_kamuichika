@@ -46,7 +46,7 @@ Here are your tasks:
 2. Compare the Chinese translation with the English translation.
 3. Improve the Chinese translation, especially incoporating the pros of the English translation.
 
-Keep the original meanings. Use a more conversational style. Display in Traditional Chinese.
+Keep the original meanings. Display in Traditional Chinese. If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
 梟の神が自ら歌った謡
@@ -370,47 +370,58 @@ And so, the old owl god, guardian of the land, finished his tale and ascended to
 貓頭鷹神親自吟唱的歌謠
 **「孔庫瓦」**
 
-「孔庫瓦啊…
-想當年我說話的時候，聲音洪亮，就像用櫻花樹皮纏繞的弓，撥動弓弦，那聲音響徹弓身！ 可惜啊，如今我老了，也衰弱了。
+「孔庫瓦啊...
+往昔我言Speak之時，聲如櫻皮纏繞之弓弦，迴盪於弓把中央。如今，歲月催人老，已然衰朽。
 
-不過，要是你們之中，有誰口才便給，又對擔任使者充滿自信，我就想委託他一項重要的談判——一件『五個半』的大事——要他帶到天上去！」
+然則，若有雄辯滔滔、自信滿滿之人，願為吾之使者，吾將託付重任——那『五個半』之要事——傳達至天庭！」
 
-我一邊敲著鑲邊木桶（シントコ）的蓋子，一邊這樣說道。 就在這時，入口傳來一個聲音：「捨我其誰！ 誰能比我更會說話，更有自信，能當您的使者呢？」 我轉頭一看，原來是隻年輕的烏鴉站在那裡。
+我如是宣示，同時輕敲著鑲邊木桶(*shintoko*)的蓋子。 頃刻間，入口處傳來一聲：「捨我其誰，能如此雄辯，堪為尊神之使？」 我轉身望去，原來是一隻年輕的烏鴉。
 
-我把他請進屋裡，又敲了敲鑲邊木桶的蓋子，開始詳細地向他說明談判的細節，為這隻年輕的烏鴉執行任務做準備。 三天過去了，當我講到第三個談判要點的時候，我卻發現這隻烏鴉竟然在爐邊打瞌睡！ 我頓時火冒三丈，一把抓住他的羽毛，狠狠地把他打死了。
+我將牠迎入室內，再次輕敲鑲邊木桶(*shintoko*)之蓋，開始詳述談判之細節，為這年輕的烏鴉準備使命。 三日過去，當我覆述第三個談判要點時，卻見那烏鴉竟在爐邊打盹。 怒其不專，我一把抓住牠的羽毛，將其痛擊至死。
 
-我又敲著鑲邊木桶的蓋子，大聲喊道：「有沒有誰有足夠的自信，能當我的使者，把這件『五個半』的大事帶到天上去啊？」
+我再次敲擊鑲邊木桶(*shintoko*)之蓋，高聲呼喊：「可有自信之人，願為吾之使者，將這『五個半』之要事，傳達至天庭？」
 
-結果，又一個聲音從入口傳來：「誰能比我更會說話，更有資格站在您面前，當前往天庭的使者呢？」 這次，是隻從山上來的橿鳥。
+又一次，入口處響起應答：「捨我之外，誰能如此雄辯，更有資格立於天庭之前，作為您的使者？」 這次，卻是來自山間的橿鳥。
 
-我把他請了進來，再次敲著鑲邊木桶的蓋子，開始解釋這件『五個半』的談判。 四天過去了，當我詳細說明第四個要點的時候，我看到這隻山橿鳥竟然在爐邊呼呼大睡！ 我怒不可遏，抓住這隻山橿鳥的羽毛，狠狠地把他打死了。
+我邀其入內，再次輕敲鑲邊木桶(*shintoko*)之蓋，開始解釋那『五個半』之談判。 四日過去，當我詳述第四個要點時，卻見那山橿鳥已在爐邊沉睡。 怒火中燒，我抓住山橿鳥的羽毛，將其痛擊至死。
 
-我再一次敲著鑲邊木桶的蓋子， громко宣佈：「如果有人口才便給，又對擔任使者充滿自信，我就想委託他這件『五個半』的大事，要他帶到天上去！」
+再一次，我敲擊鑲邊木桶(*shintoko*)之蓋，宣告：「若有雄辯滔滔、自信滿滿之人，願為吾之使者，吾將託付這『五個半』之要事，傳達至天庭！」
 
-這次，一個態度謙恭的身影走了進來。 是隻年輕的河烏鴉，長相俊美，在我的左邊坐了下來。 於是，我一邊敲著鑲邊木桶的蓋子，一邊不分晝夜地繼續解釋這件『五個半』的大事。 這隻年輕的河烏鴉聽得非常專心，一點也沒有疲倦的樣子。
+這次，一位姿態謙恭的身影走了進來。 那是一隻年輕的河烏鴉，儀容俊美，於我左側就座。 於是，我輕敲鑲邊木桶(*shintoko*)之蓋，日夜不停地講述那『五個半』之要事。 這年輕的河烏鴉，毫無倦色，靜心聆聽。
 
-我們就這樣過了六天六夜，我一說完，他就立刻從天窗飛了出去，直奔天庭。
+六日六夜，我們如此度過，而當我話音方落，牠便立刻自天窗飛出，直奔天庭而去。
 
-這次談判的重點是：人間正面臨饑荒，人們都快要餓死了。 究其原因，原來是天上的鹿神和魚神商量好，不肯降下恩惠。 無論人們怎麼懇求，他們都無動於衷。 人們到山裡打獵，找不到鹿；到河裡捕魚，也捕不到魚。
+這次談判之要旨如下：人間正值饑荒，百姓瀕臨餓死。 究其原因，乃是天庭掌管鹿的神祇與掌管魚的神祇，共謀不降恩澤。 無論人們如何懇求，祂們皆無動於衷。 獵人在山中尋不見鹿，漁人在河中捕不到魚。
 
-我看到這種情況，義憤填膺，就想派個使者去跟鹿神和魚神交涉。
+見此情景，我義憤填膺，遂欲派遣使者前往鹿神與魚神之處。
 
-過了許多天，從天空傳來一陣微弱的聲音。 有人走了進來，原來是那隻年輕的河烏鴉，現在的他比以前更加俊美，渾身散發著英勇的氣概。 他開始轉述神的回覆。
+數日過去，忽有微弱之聲自空中傳來。 有人走了進來，正是那年輕的河烏鴉，如今更勝往昔，俊美非凡，且身懷英勇之氣概。 牠開始陳述諸神之回應。
 
-鹿神和魚神之所以一直不肯降下鹿和魚，是因為人類對待牠們的方式太過殘忍。 人類在獵捕鹿的時候，會用木頭敲擊鹿的頭部，剝下鹿皮之後，就把鹿頭隨意丟棄在山林裡。 捕魚的時候，就用腐爛的木頭敲擊魚的頭部，把牠們打死。 那些鹿光著身子，哭哭啼啼地回到鹿神的身邊；那些魚呢，嘴裡還含著腐爛的木頭，回到魚神的身邊。 鹿神和魚神非常生氣，經過商量，才決定不降下鹿和魚。
+天庭的鹿神與魚神之所以至今不降鹿與魚，乃是因為人類對待鹿與魚的方式極為惡劣。 人們獵捕鹿時，以木擊其首，剝其皮，隨後便將鹿頭棄於山林之中。 捕獲魚時，則以腐木擊其首而殺之。 鹿群赤裸悲泣，返回鹿神身邊；魚群口銜腐木，回到魚神之處。 諸神震怒，遂共謀不降恩澤。
 
-但是，如果人類能保證從今以後會善待鹿和魚，那麼鹿神和魚神就會再次降下恩惠。 這就是鹿神和魚神傳達的信息。
+然而，若人類承諾善待鹿與魚，則鹿神與魚神將再次降下恩澤。 此乃鹿神與魚神所傳達之訊息。
 
-聽完之後，我對這隻年輕的河烏鴉讚不絕口。 的確，人類一直以來都對待鹿和魚非常粗暴。
+聽聞此言，我對這年輕的河烏鴉讚賞不已。 確實，人類對待鹿與魚極為粗暴。
 
-從那以後，我就在人們的夢中告誡他們，告誡他們不要再犯同樣的錯誤。 人們也意識到自己做錯了，從此以後，像製作神聖的幣帛一樣，精心地製作捕魚的工具，用它來捕魚。 獵到鹿的時候，也會把鹿頭裝飾得漂漂亮亮，用來祭祀。 魚兒們因此感到非常高興，銜著美麗的御幣，回到魚神的身邊；鹿兒們也高高興興地剃了新月代頭（武士髮型），回到鹿神的身邊。 鹿神和魚神對此感到非常滿意，於是降下了大量的魚，降下了大量的鹿。
+自此之後，我在人們的夢中告誡他們，切勿重蹈覆轍。 人們意識到自己的過錯，開始精美地製作捕魚之具，如同神聖的御幣(*nusa*)一般，以此捕魚。 獵捕鹿時，亦會將鹿頭裝飾華麗，並加以祭祀。 魚群欣喜，銜著美麗的御幣(*gohei*)，前往魚神之處；鹿群亦歡欣鼓舞，剃上新月代頭（武士髮型），返回鹿神身邊。 鹿神與魚神見狀甚悅，遂降下大量魚群，降下大量鹿群。
 
-人類從此以後，再也沒有任何困難，過著豐衣足食的生活。 我看到這種情況，感到非常安心。
+人類自此不再受困苦與饑餓之擾，我亦得以安心。
 
-我已經年老體衰，本來打算升上天庭。 但是，我不能丟下我所守護的人間不管，眼睜睜看著他們遭受饑荒。 所以我一直留了下來。 現在，我已經沒有任何牽掛了，所以決定把守護人間的重任，交給你們之中最強壯、最勇敢的年輕人，而我今天就要升上天庭了。
+我已年老體衰，本欲升天。 然我所守護的人間正值饑荒，百姓瀕臨餓死，我實不忍離去。 這便是我留在此地的原因。 如今我已再無牽掛，故將守護人間之重任，託付予爾等之中最強壯、最勇敢之人，而我今日便將升天而去。
 
-就這樣，作為國家守護神的貓頭鷹老神，講完了他的故事，升上了天庭。
+就這樣，作為國家守護神的貓頭鷹翁神講述完畢，便升往天庭了。
 
-The original Chinese translation is generally accurate but a bit too literal and formal. It lacks the storytelling flair and conversational tone present in both the Japanese original and the English translation. The English translation excels in capturing the narrative flow and emotional nuances, making it more engaging. The Chinese translation can be improved by adopting a more natural and less stiff style, incorporating elements from the English translation that enhance readability and emotional impact, and refining certain phrases to better reflect the original Japanese meaning in a culturally relevant way.
+The original Chinese translation is generally accurate but lacks some of the poetic and stylistic nuances present in the Japanese and English versions. It tends to be more literal, which sometimes results in a less engaging narrative. The English translation often captures the spirit and tone of the original Japanese text more effectively. For example, the repetition of tapping the *shintoko* chest lid is more impactful in English. The description of the animals returning to their gods is also more vivid in English. The term *shintoko* is kept as is, which is good. The translation of 幣(*nusa*) and 御幣(*gohei*) are also accurate.
+
+Comparison:
+*   The English translation uses more descriptive language, enhancing the imagery (e.g., "naked and weeping" for the deer). The Chinese translation is more straightforward.
+*   The English translation maintains a slightly more archaic tone, fitting for a mythological story. The Chinese translation is more modern in its phrasing.
+*   The English translation sometimes explains cultural terms in context, making it more accessible to a wider audience. The Chinese translation assumes some familiarity with Japanese culture.
+
+Improvements:
+*   Incorporate more descriptive language to enhance the imagery.
+*   Adjust the tone to be slightly more archaic and poetic.
+*   Consider adding brief explanations for culturally specific terms where necessary.
+*   Pay closer attention to the rhythm and flow of the language to create a more engaging narrative.
 ```
 

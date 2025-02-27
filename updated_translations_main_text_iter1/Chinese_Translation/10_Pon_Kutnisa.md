@@ -46,7 +46,7 @@ Here are your tasks:
 2. Compare the Chinese translation with the English translation.
 3. Improve the Chinese translation, especially incoporating the pros of the English translation.
 
-Keep the original meanings. Display in Traditional Chinese.
+Keep the original meanings. Display in Traditional Chinese. If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
 小オキキリムイが自ら歌った謡
@@ -153,45 +153,17 @@ And that is the story told by little Okikirmui.
 
 クツニサ クトンクトン
 有一天，我到水源地去玩。
-出發後，在水源地看到一個小矮人，
-為了建造胡桃木的魚梁，正彎著腰在打樁。
-他看到我，就說：
-「你是誰？我的姪子啊，幫我一下！」
-我看見，因為是胡桃木的魚梁，
-所以胡桃水、混濁的水
-流過來，鮭魚們
-要往上游時，因為討厭胡桃水
-就哭著回去了。我勃然大怒，
-一把搶過小矮人手上的打樁槌，
-狠狠地朝他腰椎中央打去，「砰！」一聲巨響。
-我打斷了他的腰，殺了他，
-把他踹進地獄。搖動他的胡桃木樁，
-看起來好像延伸到六層地獄的
-彼端。
-然後，我用盡腰部的力量、全身的力量，
-從根部
-折斷了那根木樁，也把他踹進地獄。
-從水源流出清新的風、清澈的水，
-原本哭泣的
-鮭魚們，因為清新的風、清澈的水
-恢復了活力，非常熱鬧、大聲歡笑地玩耍，
-一邊拍打著水面
-一邊往上游。我看到那樣，就安心了，
-沿著水流回家了。
+出發後，在水源地看到一個小矮人，為了建造胡桃木的魚梁，正彎腰駝背地打樁。
+他看到我，就說：「你是誰？我的姪子啊，幫我一下！」
+我看見，因為是胡桃木的魚梁，所以胡桃水、混濁的水流過來，鮭魚們要往上游時，因為厭惡胡桃水，就哭著回去了。我勃然大怒，搶走了小矮人拿著的打樁槌，朝他後腰猛擊。「砰！」的一聲迴盪。我打斷了他的腰，殺了他，把他踹進地獄。搖動他的胡桃木樁，看起來好像延伸到六層地獄的盡頭。
+然後，我用盡腰部的力量、全身的力量，從根本上折斷了那根木樁，也把他踹進地獄。
+從水源流出清新的風、清澈的水，哭著回去的鮭魚們，因為清新的風、清澈的水恢復了精神，非常熱鬧、大聲歡笑地嬉戲，一邊拍打著水面一邊往上游。我看到那樣，就安心了，沿著水流回家了。
 小奧奇基利穆伊這樣講述著。
 
-The Chinese translation is generally accurate but lacks some of the vividness and emotional impact present in both the Japanese original and the English translation. It could benefit from stronger verbs and more descriptive language to convey the god's anger and the salmon's joy. The English translation captures the tone and nuance better in certain places.
+The Chinese translation is generally accurate but lacks some of the vividness and emotional impact present in both the Japanese original and the English translation. It could benefit from stronger verbs and more descriptive language. The English translation captures the tone and emotional nuances better. For example, the phrase "腰を曲げ曲げしている" is translated as "彎著腰", which is correct but lacks the sense of struggle conveyed by "hunched over". Similarly, "腹が立ったので" is translated as "我非常生氣", which is accurate but less impactful than "I was furious". The sound effect "ポン" is simply transliterated, losing its impact. The English translation uses "*Pon!* The sound echoed" which is more effective. The phrase "大さわぎ大笑いして遊び" is translated as "非常熱鬧、大聲歡笑地玩耍", which is correct but could be more concise and evocative. The English translation uses "They rejoiced, laughing and splashing" which is more concise and vivid. The term "彼端" is vague and could be improved by specifying "盡頭".
 
-Comparison:
-*   The English translation uses stronger verbs like "snatched" and "struck" which convey the god's anger more effectively than the Chinese translation's "搶走了" and "敲打".
-*   The English translation includes the onomatopoeic sound "Pon!" which is missing in the Chinese translation, diminishing the impact of the act.
-*   The English translation explicitly states "I broke his back, killed him" which is more direct and impactful than the Chinese translation's more roundabout phrasing.
-*   The English translation uses "revived" to describe the salmon's reaction to the clean water, which is more evocative than the Chinese translation's "恢復了精神".
+Comparing the Chinese and English translations, the English translation often uses stronger verbs and more descriptive language, resulting in a more vivid and engaging narrative. The Chinese translation is more literal, which sometimes sacrifices impact. The English translation also makes better use of sentence structure to create a more dramatic effect.
 
-Improvements:
-*   Incorporate stronger verbs to convey the god's anger and actions.
-*   Add the onomatopoeic sound effect.
-*   Use more direct language to describe the killing of the little man.
-*   Use more evocative language to describe the salmon's recovery and joy.
+To improve the Chinese translation, I will focus on using stronger verbs, more descriptive language, and a more concise sentence structure. I will also try to capture the emotional nuances of the original Japanese text more effectively, drawing inspiration from the English translation where appropriate. I will also add the sound effect to make it more vivid.
 ```
 

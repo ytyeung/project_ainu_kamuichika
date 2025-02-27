@@ -46,7 +46,7 @@ Here are your tasks:
 2. Compare the Chinese translation with the English translation.
 3. Improve the Chinese translation, especially incoporating the pros of the English translation.
 
-Keep the original meanings. Use a more conversational style. Display in Traditional Chinese.
+Keep the original meanings. Display in Traditional Chinese. If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
 小狼の神が自ら歌った謡
@@ -262,84 +262,81 @@ And so, the young wolf god told his story.
 
 ### Output
 ```
-小狼神親口唱的歌謠
+小狼神親自吟唱的歌謠
 「霍特瑙」
 
-霍特瑙啊，
+霍特瑙
+某日, 我閒來無事, 便往海邊去。
+嬉戲之時, 來了一小人。
+我往河下游, 他也往河下游,
+我往河上游, 他也往河上游, 擋住我的去路。
+就這樣, 河下游六次,
+河上游六次。 小矮人終於
+按捺不住性子, 面露慍色, 嚷道:
+「Pii-pii!
+你這小鬼, 壞小鬼! 你若再這樣,
+便說說看, 這海岬, 往昔之名與今日之名!」
+我聽了, 笑著回道:
+「誰人不知這海岬往昔之名與
+今日之名?
+往昔, 因有尊貴偉大神祇與人居於此,
+故此岬名為神之岬。
+如今, 時世衰頹,
+便稱作Gohei之岬!」
+聽我這麼說, 小矮人嚷道:
+「Pii-ton, pii-ton!
+你這小鬼, 你若真有本事,
+便說說看, 這條河往昔之名與今日之名!」
+聽了, 我回道:
+「誰人不知這條河往昔之名與
+今日之名?
+往昔, 盛世之時, 此河被喚作
+水流湍急之河。
+如今, 世道衰敗, 便稱作水流遲緩之河!」
+聽我這麼說, 小矮人嚷道:
+「Pii-ton-ton, pii-ton-ton!
+你若真有這等能耐,
+不如你我互揭老底!」
+聽了, 我說道:
+「誰人不知你的底細?
+很久以前, 奧基基穆伊上山
+搭建狩獵小屋時, 以榛木製成爐緣,
+那爐緣受火烘烤, 變得乾燥。
+奧基基穆伊一踩一邊, 另一邊便
+翹了起來。 奧基基穆伊為此惱怒,
+便將那爐緣拿到河邊
+丟棄了。
+之後, 那爐緣便順著水流漂流,
+流向大海, 遠方的海浪, 近處的海浪
+拍打著它。
+眾神見此情景,
+皆覺可惜, 可敬偉大的奧基基穆伊親手所製之物, 竟如此
+毫無用處地迷失漂流, 與海水一同腐朽。
+於是, 眾神
+便將那爐緣化為魚,
+命名為爐緣魚。
+然而, 那爐緣魚, 因不知自身來歷,
+便化為人形, 四處遊蕩。
+那爐緣魚, 便是你!」
+聽我這麼說, 小矮人面色
+數變,
+「Pii-ton-ton, pii-ton-ton!
+你, 乃小小, 狼之子
+啊!」
+話音剛落, 便撲通一聲跳入海中。
+我目送著他, 只見一條紅色的魚
+擺動尾鰭, 一直往遠方
+游去。
+小狼神如是說道。
 
-有一天，我閒得發慌，就跑到海邊去。正玩得高興，來了一個小不點兒。
-我往河下游走，
-他就跟著往河下游走。
-我往河上游走，他就跟著往河上游走，還擋住我的路。
-這樣來來回回，在河下游走了六趟，
-又往河上游走了六趟。最後，那小不點兒終於忍不住了，氣呼呼地說：
-「嗶嗶！
-你這小鬼頭，壞小子！你要是再這樣鬧，
-就說說看，這海岬以前叫什麼，現在又叫什麼！」
-我聽了，笑嘻嘻地回答：
-「誰不知道這海岬以前和
-現在的名字啊！
-以前，因為住著尊貴又了不起的神明和人，
-所以這海岬叫做神之岬。
-但現在時代不一樣了，
-就叫做御幣之岬啦！」
-聽我這麼說，小不點兒說：
-「嗶咚，嗶咚！
-你這小鬼頭，你要真那麼厲害，
-就說說看，這條河以前叫什麼，現在又叫什麼！」
-我聽了，回答說：
-「誰不知道這條河以前和
-現在的名字啊！
-以前，在那個了不起的時代，這條河叫做
-水流湍急的河。
-但現在世道變了，就叫做水流慢吞吞的河啦！」
-聽我這麼說，小不點兒說：
-「嗶咚咚，嗶咚咚！
-你要真那麼厲害，
-不如我們來互相揭老底，怎麼樣？」
-我聽了，回答說：
-「誰不知道你的老底啊！
-很久很久以前，奧基基穆伊去山上
-蓋狩獵小屋，用榛木做了個爐框，
-那爐框被火一烤，就變得乾巴巴的。
-奧基基穆伊一踩一邊，另一邊就
-翹起來。奧基基穆伊氣得火冒三丈，
-就把那爐框拿到河邊
-丟掉了。
-之後，那爐框就順著水流漂啊漂，
-漂到海裡。神明們看到它被遠方的海浪、近方的海浪
-拍打的樣子，
-覺得可敬又偉大的奧基基穆伊親手做的東西，竟然這樣
-毫無用處地漂流，跟海水一起爛掉，
-實在太可惜了。所以神明們
-就把那爐框變成了一條魚，
-叫做爐框魚。
-可是那爐框魚啊，因為不知道自己是誰，
-就變成人的樣子到處晃蕩。
-那條爐框魚，就是你啦！」
-聽我這麼說，小不點兒的臉色
-變來變去，
-「嗶咚咚，嗶咚咚！
-你，是小小的一隻，狼崽子
-啊！」
-話一說完，立刻撲通一聲跳進海裡。
-我目送著他，只見一條紅色的魚
-擺動著尾巴，一直往遠方
-游走了。
+The Chinese translation is generally accurate but can be improved in terms of flow and capturing the nuances of the original Japanese text, especially the repetitive nature of the chant and the slightly archaic tone. The English translation often captures these nuances better. Here's a breakdown:
 
-小狼神就是這樣說著他的故事。
+*   **Repetition:** The Chinese translation captures the repetition of phrases like "川下へ下ると私も川下へ下り, 川上へ来ると私も川上へ行き" but could emphasize it more for a chant-like feel. The English translation does this well with phrases like "When I went downstream, He followed me downstream. When I went upstream, he followed me upstream".
+*   **"ピイピイ", "ピイトン", "ピイトントン":** The Chinese translation transliterates these sounds. The English translation keeps the original sounds. It is better to keep the original sounds.
+*   **Tone:** The Japanese text has a slightly archaic and playful tone, which the English translation captures with phrases like "You little brat, you wicked little brat!". The Chinese translation is a bit more straightforward and could benefit from more colorful language.
+*   **Specificity:** The English translation is sometimes more specific, which enhances the imagery. For example, "Moving its tail fin" is more vivid than "擺動著尾鰭".
+*   **Cultural Context:** The term "御幣の岬" is translated as "御幣之岬". It is better to keep the original term "Gohei".
 
-The original Chinese translation is accurate but a bit too formal and literal. It lacks the conversational tone and playful energy present in both the Japanese original and the English translation. The English translation captures the storytelling aspect better, especially in the opening and closing lines. It also uses more vivid language to describe the little man's reactions and the wolf god's responses.
-
-Comparison:
-*   The English translation uses more descriptive adjectives (e.g., "wicked little brat," "inherent temper flaring"). The Chinese translation is more straightforward.
-*   The English translation adds phrases that enhance the storytelling feel (e.g., "And so, the young wolf god told his story.").
-*   The English translation is slightly more interpretive in places, adding nuance that isn't explicitly stated but is implied in the Japanese (e.g., "pointlessly drifting and rotting away").
-
-Improvements:
-*   Incorporate more colloquial language to make the chant sound less like a formal translation and more like a story being told.
-*   Add descriptive adjectives to enhance the imagery.
-*   Use more dynamic verbs to convey the actions and emotions.
-*   Adjust the sentence structure to flow more naturally in Chinese.
+Based on these observations, I will improve the Chinese translation to be more chant-like, incorporate the pros of the English translation, and keep the original meanings.
 ```
 

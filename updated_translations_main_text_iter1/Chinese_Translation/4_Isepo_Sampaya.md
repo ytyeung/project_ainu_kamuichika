@@ -46,7 +46,7 @@ Here are your tasks:
 2. Compare the Chinese translation with the English translation.
 3. Improve the Chinese translation, especially incoporating the pros of the English translation.
 
-Keep the original meanings. Display in Traditional Chinese.
+Keep the original meanings. Display in Traditional Chinese. If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
 兎が自ら歌った謡「サンパヤ テレケ」
@@ -357,116 +357,103 @@ And with these words, the rabbit chief taught his children and died.
 兔子親自吟唱的歌謠「桑帕亞 特雷克」
 
 桑帕亞 特雷克
-躍過兩道山谷，再越三道山谷，
-我一路嬉戲，追隨兄長前往山林。
-每日，我總跟在兄長身後，眼見
-人類設下弩弓陷阱。兄長便將弩弓
-破壞殆盡，而我總在一旁嘲笑。
-日復一日，習以為常，這天我又
-前去，卻萬萬
-沒想到，
-兄長竟被弩弓射中，痛苦哀嚎。
-我驚駭萬分，飛奔至兄長身旁。
-兄長哭泣著說道：
-「弟弟啊，你快
-跑回
-我們的村落邊緣，
-大聲呼喊——『兄長被弩弓射中了！呼喔呼喔伊！』」
-我聽罷，
-應聲道：「好，好。」隨即
-躍過兩道山谷，再越三道山谷，
-一路嬉戲，抵達
-我們的村落邊緣。
-在那裡，我才猛然想起兄長差遣我前來的目的。
-我正要放聲呼喊，
-卻全然忘記兄長要我說些什麼。
-我愣在原地，
-竭力回想，卻怎麼也想不起來。
-於是，我又
-躍過兩道山谷，再越三道山谷，
-一路倒退跳躍，
-回到兄長所在之處，
-卻已空無一人。
-只留下斑斑血跡。
+躍過兩道山谷，躍過三道山谷，
+我一路嬉戲，追隨著哥哥前往山裡。
+每天，我都跟在哥哥身後，看見
+人類設下了弩弓陷阱。哥哥便會
+破壞那些陷阱，而我總在一旁嘲笑。
+我向來如此，所以這天，我又
+去了，卻萬萬沒想到，
+哥哥竟被弩弓射中，痛苦地哀嚎。
+我嚇壞了，連忙飛奔到哥哥身邊。
+哥哥哭著對我說：
+「弟弟啊，你快跑，
+回到我們的村子邊緣，
+大聲呼喊——『哥哥中箭了！呼喔呼喔伊！』」
+我聽了，
+回答說：「好，好。」然後，
+躍過兩道山谷，躍過三道山谷，
+一路嬉戲，直到
+抵達我們村子的邊緣。
+在那裡，我才終於想起哥哥派我來做什麼。
+我想要大聲呼喊，
+卻完全忘記了哥哥要我說的話。
+我呆立在那裡，
+努力回想，卻怎麼也想不起來。
+然後，我又
+躍過兩道山谷，躍過三道山谷，
+倒退著，跳躍著，
+回到哥哥所在的地方。
+但他已經不在了。
+只留下他的血跡。
 
-（故事至此，峰迴路轉）
+（故事至此轉向另一方向）
 
 凱托卡 沃伊沃伊 凱托卡，凱托卡 沃伊 凱托卡
-每日，我依舊前往山林，
-破壞人類設下的弩弓陷阱，
+每天，我都去山裡，
+破壞人類設置的弩弓陷阱，
 並以此為樂。
-某日，我來到往常之地，發現那裡設有弩弓，
-而在其旁，竟設有一張小小的艾草弩弓。
-我見狀，
-心想：「這玩意兒，有何用處？」
+有一天，我又來到老地方，發現那裡設了陷阱，
+而在那旁邊，還設了一個小小的艾草弩弓。
+我看到那個，
+心想：「這種東西，有什麼用呢？」
 覺得十分可笑，
-便輕輕碰觸了一下，正欲逃離，
-卻出乎意料地，
-被那弩弓牢牢地
+就隨手碰了一下，正想逃開，
+卻萬萬沒想到，
+竟被那弩弓狠狠地
 夾住了。
 越是掙扎，想要逃脫，
-便夾得越緊，束手無策。
-我哭喊著，
-此時，有什麼東西
-飛到我身邊，定睛一看，竟是我的弟弟。
-我欣喜若狂，囑咐他將此事告知族人，
-但等候許久，卻杳無音訊。
-我哭泣著，這時，
-出現了一個身影。仔細一看，
-是一位宛如神祇般俊美的人類青年，
-笑盈盈地，抓住我，
-帶往某處。只見
-一間巨大的屋子裡，堆滿了神聖的寶物。
-那位青年點燃了火，
-將一口大鍋架在火焰之上，拔出懸掛的刀刃，
+它就夾得越緊，我束手無策，
+只能哭泣。
+這時，有什麼東西
+飛到我身邊，一看原來是我的弟弟。
+我很高興，囑咐他將此事告訴族人，
+但等了許久，卻毫無音訊。
+我哭泣著，這時
+一個身影出現在我身邊。仔細一看，
+是一位宛如神祇般美麗的年輕人。
+他笑咪咪地，抓住我，
+帶到某個地方。只見
+一間巨大的房子裡，堆滿了神聖的寶物。
+那位年輕人點燃了火，
+將一口大鍋架在火焰上，拔出懸掛著的刀，
 將我的身體連皮帶肉剁成碎塊，
-填滿整個鍋子，然後將頭探入鍋底，
-開始煽風點火。我一心想要
-逃脫，便伺機尋找人類青年的破綻，
-但他卻寸步不離地盯著我。
-「若鍋子沸騰，我便被煮熟，那樣的死法毫無意義，死得太難看了！」
-我如此想著，伺機尋找人類青年的疏忽，
-好不容易，
-將自己化為一片肉片，
-混入升騰的蒸汽之中，攀爬至鍋子的邊緣，
-縱身跳到左側，立刻
-衝出屋外，一邊哭泣，一邊
-氣喘吁吁地逃回家中，
-慶幸自己死裡逃生。
-回首望去，
-原本以為只是一介凡人，一個年輕人，
-沒想到竟是奧基基里穆伊，一位強大如神祇的存在。
-我以為只是人類設下的弩弓，
-每日惡作劇，奧基基里穆伊
-對此震怒不已，想用艾草小弩弓
-殺死我，但我
-也並非只是無名小神，若我死得毫無價值，死得如此難堪，
-我的親族們定會困惑不已。
+裝滿了整個鍋子。然後他將頭伸到鍋子底下，
+開始煽風點火。我想要
+逃脫，便伺機尋找人類年輕人的破綻，
+但人類年輕人卻寸步不離地盯著我。
+「如果鍋子煮沸，我就被煮熟了，那樣就太沒意義了，死得太慘了！」
+我這樣想著，伺機尋找人類年輕人的疏忽，
+好不容易
+將自己變成一片肉，
+混入升騰的蒸汽中，爬到鍋子的邊緣，
+跳到左邊的座位上，立刻
+衝到戶外，一邊哭泣一邊
+氣喘吁吁地逃回家，
+慶幸自己逃過一劫。
+回頭一看，
+原本以為只是一個人類，一個年輕人，
+沒想到竟然是奧基基里穆伊，一位力量強大的神祇。
+我以為只是人類設置的弩弓，
+每天惡作劇，奧基基里穆伊
+非常生氣，想用艾草小弩弓
+殺死我，但我也
+並非只是無名小神，如果死得毫無意義，死得很慘，
+我的親人們也會感到困惑，
 他憐憫我，
-因此，我逃離時，他並未追趕。
-
+所以，我逃跑時，他並沒有追趕。
 在那之前，兔子
-有如鹿一般巨大，
-只因我犯下這等惡作劇，
-奧基基里穆伊便將我變得如他的一片肉般渺小。
-從今往後，我們的同伴都將變得如此弱小。
-往後的兔子們啊，切記不可再惡作劇了。
-兔子首領如此教誨著孩子們，然後逝去。
+有鹿那麼大，
+因為我做了這樣的惡作劇，
+所以變成了奧基基里穆伊的一片肉那麼小。
+今後我們的同伴都會變成這麼小吧。
+今後的兔子們啊，千萬不要再惡作劇了。
+兔子首領這樣教導著孩子們，然後去世了。
 
-The Chinese translation is generally accurate but could be improved in terms of capturing the nuances and poetic elements of the original Japanese text. Specifically:
+The original Chinese translation is generally accurate but lacks some of the nuance and vividness present in both the Japanese and English versions. It tends to be more literal, missing opportunities to capture the emotional tone and imagery. The English translation often provides a more evocative rendering of the original Japanese. For example, the phrase "across two valleys, across three valleys I hopped" is more dynamic than the Chinese translation's "越過兩個山谷,越過三個山谷".
 
-*   **Repetitive Phrases:** The translation of phrases like "二つの谷,三つの谷を飛び越え飛び越え" is somewhat clunky and could be more elegantly rendered. The English translation's "Across two valleys, across three valleys I hopped" is more concise and rhythmic.
-*   **Emotional Impact:** The emotional weight of certain lines, such as the rabbit's fear and desperation, could be amplified in the Chinese translation. The English translation sometimes conveys these emotions more effectively.
-*   **Cultural Context:** While the translation is accurate, it could benefit from incorporating more culturally relevant expressions or idioms to resonate better with a Chinese-speaking audience.
-*   **Flow and Readability:** Some sentences feel slightly awkward in Chinese. Improving the flow and readability would enhance the overall quality of the translation.
+Comparing the Chinese and English translations, the English version often uses stronger verbs and more descriptive language. For instance, where the Chinese says "哥哥被弩弓射中,哭喊著", the English says "My brother was caught in the trap, crying out in pain," which conveys a greater sense of suffering. Similarly, the description of Okikirmui as "a god of great power" is more impactful than the Chinese "像神一樣強大的人".
 
-Comparing the Chinese and English translations, the English version often prioritizes conciseness and rhythm, while the Chinese version focuses on literal accuracy. The English translation also tends to use more vivid language and imagery.
-
-To improve the Chinese translation, I will focus on:
-
-*   Adopting a more fluid and natural writing style.
-*   Enhancing the emotional impact of key passages.
-*   Incorporating elements from the English translation where appropriate, while maintaining the original meaning.
-*   Improving the overall readability and flow of the text.
+The improved translation aims to incorporate the strengths of the English translation while remaining faithful to the original Japanese. It focuses on using more vivid language and capturing the emotional depth of the story.
 ```
 
