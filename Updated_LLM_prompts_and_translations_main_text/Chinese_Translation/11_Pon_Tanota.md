@@ -201,175 +201,179 @@ This is the Chinese Translation 1.
 小オキキリムイ如此講述著。
 
 This is the Chinese Translation 2.
-小Okikirmui 吟唱之歌：
-「這沙，紅啊，真紅。」
+小オキクルムイ（Okikirmui）大人親自吟唱：
+「這沙，赤紅，如此赤紅。」
 
-這沙，紅啊，真紅，
+這沙，赤紅，如此赤紅，
 一日，我溯溪嬉戲，
-竟遇見了魔神之子。
-魔神之子，總帶著一股妖冶之氣，
-俊美的臉龐，身著一襲黑袍，
-手持小小的胡桃木弓，胡桃木箭。
+竟遇見了惡魔之子。
+惡魔之子，總是帶著一股妖冶之氣，
+俊美的面容，身著一襲黑袍，
+手持胡桃木小弓，配著胡桃木箭。
 他見到我，咧嘴一笑，
 說道：
-「小Okikirmui，我們來玩耍吧。
-現在，我就讓你見識見識，如何斬斷魚的命脈。」
-說罷，他便以胡桃木弓，胡桃木箭，
+「小オキクルムイ（Okikirmui），我們來玩耍吧。
+現在，我來教你如何斬斷魚的根源。」
+說罷，便用他的胡桃木弓和胡桃木箭，
 瞄準水源射去。
-源頭湧出胡桃木之水，混濁不堪，
-鮭魚們奮力上溯，
-厭惡那胡桃木之水，哀號著退回下游。
-魔神之子，見此情景，得意地笑了。
-我見狀，怒火中燒，
-便以我的銀弓，銀箭，
+從源頭湧出胡桃木之水，混濁不堪，
+鮭魚們試圖溯流而上，
+卻厭惡那胡桃木之水，哀號著退回下游。
+惡魔之子，見此情景，得意地笑了。
+見到這一切，我怒火中燒，
+便用我的銀弓和銀箭，
 瞄準水源射去。
-源頭湧出銀色之水，清澈甘甜，
-鮭魚們方才哀號退卻，
-如今在這清澈之水中重獲生機，
+從源頭湧出銀色之水，清澈甘甜，
+原本哀號退卻的鮭魚們，
+在清澈的水中重獲生機，
 歡笑嬉戲，
-潑灑著水花，逆流而上。
-魔神之子，
-本性畢露，怒形於色，
+潑灑著水花，奮力向上游。
+此時，惡魔之子，
+面露本性，怒形於色，
 說道：
-「你若真要如此，我就讓你見識見識，如何斬斷鹿的命脈。」
-說罷，他便以胡桃木弓，胡桃木箭，
+「你若真要如此，我就讓你見識如何斬斷鹿的根源。」
+說著，便用他的胡桃木弓和胡桃木箭，
 射向遼闊的天空。
-自山野之間，
-胡桃木之風，旋風般呼嘯而起，
-自山野之間，
+從山野間，
+颳起胡桃木之風，一陣旋風，
+從山野間，
 雄鹿成群，
 雌鹿成隊，
 被狂風捲起，
-整整齊齊地升入天空。
-魔神之子，得意地笑了。
-我見狀，怒不可遏，
-便以我的銀弓，銀箭，
-瞄準鹿群射去。
-自天而降，
-銀色之風，清冽之風，吹拂而下，
+整整齊齊地升向天空。
+惡魔之子，又露出了得意的笑容。
+見到這一切，我怒不可遏，
+便用我的銀弓和銀箭，
+追著鹿群射去。
+從天而降，
+銀色之風，清冽之風，
 雄鹿成群，
 雌鹿成隊，
 被吹回山野之間。
-魔神之子，
-本性畢露，怒形於色，
+此時，惡魔之子，
+面露本性，怒形於色，
 說道：
 「狂妄之徒，你若真要
-如此，我們就來比試比試力氣。」
-說罷，他便脫去外袍。
-我亦身著單薄衣衫，
-與他扭打在一起。他與我互相角力。自此，
+如此，我們就來比試力氣。」
+說著，他脫去了外衣。
+我也只穿著單薄的衣袍，
+與他扭打在一起。他與我纏鬥。從那時起，
 我們時而 নিচে，時而 উপরে，
-但我驚訝於魔神之子力大無窮。
-然，終在某一刻，
-我凝聚腰間，全身之力，
-將魔神之子舉起，
-高過我的肩膀，
-將他狠狠摔在山岩之上，
-那聲巨響，震耳欲聾。殺死他後，
-將他踢入地獄，一切歸於寂靜。
-事畢，我沿溪而返，
-自河川之中，鮭魚們的歡笑聲，
-嬉戲之聲，喧囂而起，
-潑灑迴盪。在山野之間，
-雄鹿與雌鹿的歡笑聲，
-嬉戲之聲，盈滿天地，
-四處覓食。見此情景，我如釋重負，
-返回我的家園。
-這便是，小Okikirmui 所述的故事。
+但我驚訝於惡魔之子那巨大的力量。
+然而，最終，在某個瞬間，
+我聚集了腰間、全身所有的力量，
+將惡魔之子舉起，
+高舉過肩，
+將他重重摔在山岩上的聲響，
+鏗鏘作響。殺了他，並
+將他踢下地獄之後，一切都歸於寂靜。
+事畢，當我沿著溪流返回時，
+從河流之中，傳來鮭魚們歡笑的聲音，
+嬉戲的聲響，喧鬧而起，
+水花四濺，迴盪不絕。在山野之間，
+雄鹿和雌鹿歡笑的聲音，
+嬉戲的聲響，充滿了空氣，
+四處覓食。見到這一切，我如釋重負，
+便回到了我的家。
+這就是小オキクルムイ（Okikirmui）大人講述的故事。
 
 ```
 
 ### Output
 ```
-小オキキリムイ親自吟唱的歌謠：
-「這砂，紅啊，真紅。」
+小オキキリムイ親自吟唱的歌謠
+「這砂，紅豔豔的」
 
-這砂，紅啊，真紅。
-一日，我溯溪而上，悠然嬉戲，
-竟巧遇了魔神之子。
-魔神之子，總帶著一股妖冶之氣，
-俊美的臉龐，身著一襲黑袍，
-手持小巧的胡桃木弓，胡桃木箭。
-他見到我，咧嘴一笑，
-說道：「小オキキリムイ，來玩耍吧！
-現在，我就讓你見識見識，如何斷絕魚的生路。」
-說罷，便以胡桃木弓，胡桃木箭，
-瞄準水源射去。
-源頭湧出胡桃木色的濁流，混濁不堪，
-鮭魚們奮力上溯，
-卻厭惡那胡桃木之水，哀號著退回下游。
-魔神之子見此情景，得意地笑了。
-我見狀，怒火中燒，
-便拿出我的銀弓，銀箭，
-瞄準水源射去。
-源頭湧出銀色的清流，清澈甘甜，
-方才哀號退卻的鮭魚們，
-如今在這清澈之水中重獲生機，
+〔這砂，紅豔豔的〕
+某日，小オキキリムイ我溯溪而上，信步遊玩，
+竟遇見了惡魔之子。
+那惡魔之子，容貌總是那般俊美，
+一襲黑衣，更襯托出他的邪氣。
+他手持胡桃木小弓，背著胡桃木箭，
+見到我，咧嘴一笑，說道：
+「小オキキリムイ，來玩耍吧！
+我這就讓你看看，如何斷絕魚的生路。」
+說罷，他便搭上胡桃木弓箭，
+朝水源處射去。
+頃刻間，水源湧出胡桃色的濁流，
+鮭魚們奮力逆流而上，
+卻厭惡這污濁之水，哀號著退回下游。
+惡魔之子見狀，得意地笑了。
+我見此情景，怒火中燒，
+便取出我的銀製小弓，搭上銀製小箭，
+朝水源射去。
+頓時，水源湧出銀色的清流，甘甜清冽，
+原本哭泣退卻的鮭魚們，
+在這清澈的銀水中恢復了活力，
 歡笑嬉戲，
-潑灑著水花，逆流而上。
-魔神之子頓時
-本性畢露，怒形於色，
-說道：「你若真要如此，我就讓你見識見識，如何斷絕鹿的生路！」
-說罷，便以胡桃木弓，胡桃木箭，
-射向遼闊的天空。
-自山野之間，
-胡桃木之風，如旋風般呼嘯而起，
-自山野之間，
-雄鹿成群，
-雌鹿成隊，
-被狂風捲起，
-整整齊齊地升向天際。
-魔神之子見此，得意地笑了。
+啪嚓啪嚓地逆流而上。
+惡魔之子頓時面露怒色，
+惱羞成怒地說道：
+「你若真要如此，我就讓你看看，如何斷絕鹿的生路！」
+說著，他再次搭上胡桃木弓箭，
+朝著天空射去。
+霎時間，山林的樹木間，
+颳起了胡桃木的旋風。
+雄鹿與雌鹿，各自成群，
+被狂風捲起，整整齊齊地升向天際。
+惡魔之子見此，又露出了得意的笑容。
 我見狀，怒不可遏，
-便以我的銀弓，銀箭，
-瞄準鹿群射去。
-自天而降，
-銀色之風，清冽之風，吹拂而下，
-雄鹿成群，
-雌鹿成隊，
-被吹回山野之間。
-魔神之子頓時
-本性畢露，怒形於色，
-說道：「狂妄之徒，你若真要
-如此，我們就來比試比試力氣！」
-說罷，便脫去外袍。
-我亦脫去外衣，身著單薄衣衫，
-與他扭打在一起。他與我互相角力。自此，
-我們時而 নিচে，時而 উপরে，
-但我驚訝於魔神之子力大無窮。
-然，終在某一刻，
-我凝聚腰間，全身之力，
-將魔神之子舉過頭頂，
-狠狠摔在山岩之上，
-那聲巨響，震耳欲聾。殺死他後，
-將他踢入地獄，一切歸於寂靜。
-事畢，我沿溪而返，
-只聽河川之中，鮭魚們的歡笑聲，
-嬉戲之聲，喧囂而起，
-潑灑迴盪。在山野之間，
-雄鹿與雌鹿的歡笑聲，
-嬉戲之聲，盈滿天地，
-四處覓食。見此情景，我如釋重負，
-返回我的家園。
-這便是，小Okikirmui 所述的故事。
+便拿起銀製小弓，搭上銀製小箭，
+朝著鹿群離去的方向射去。
+從天而降，銀色的清風，
+雄鹿與雌鹿，各自成群，
+被吹回山林的木原之上。
+惡魔之子頓時面露本性，
+氣急敗壞地說道：
+「狂妄之徒，你若真要如此，我們就來比試力氣！」
+說著，他脫下了上衣。
+我也只剩一件單薄的衣衫，
+與他扭打在一起。他緊緊抱住我。從那以後，
+我們互相角力，互不相讓，
+但我驚訝於惡魔之子那巨大的力量。
+然而，終於，在某一刻，
+我聚集腰間和全身的力量，
+將惡魔之子高高舉起，
+扛到肩上，
+然後狠狠地摔在山岩之上，
+只聽「轟」的一聲巨響。我殺死了他，
+將他踢入地獄深淵，四周一片寂靜。
+事畢，我沿著河流返回，
+只聽見河中鮭魚們歡快的笑聲，
+嬉戲的聲響，熱鬧非凡，
+啪嚓啪嚓地迴盪在耳邊。山林的木原之上，
+雄鹿和雌鹿歡快地鳴叫，
+嬉戲的聲響，充滿四處，
+牠們在那裡，在這裡，悠閒地覓食。
+我見此情景，終於感到安心，便回到了我的家。
+小オキキリムイ如此講述著。
 
-Translation 1 Pros:
-*   More straightforward and easier to understand.
-*   Uses more common and modern Chinese vocabulary.
-Translation 1 Cons:
-*   Less poetic and lacks the storytelling feel.
-*   Some phrases are a bit too literal and don't flow naturally in Chinese.
+Analysis of the two Chinese translations:
 
-Translation 2 Pros:
-*   More poetic and captures the storytelling tone of the original.
-*   Uses more vivid and descriptive language.
-*   Better captures the emotional intensity of the story.
-Translation 2 Cons:
-*   Some vocabulary might be less familiar to modern readers.
-*   A few phrases are slightly awkward or unclear.
+Translation 1:
+Pros:
+*   Clear and straightforward language, easy to understand.
+*   Accurately conveys the literal meaning of the original Japanese text.
+*   Uses modern Chinese expressions.
 
-Choice of Better Translation: Translation 2 is better because it prioritizes accuracy of meaning, poetic flow, and storytelling tone, which are the key criteria. While it might require some minor adjustments for clarity and modern vocabulary, it more effectively conveys the essence of the original Ainu chant.
+Cons:
+*   Lacks a poetic or storytelling tone.
+*   Some phrases are a bit too literal and could be more natural in Chinese.
+*   Does not retain the original Japanese term Okikirmui.
 
-Updated Translation Strategy: Incorporate the straightforward language and clarity of Translation 1 into the poetic and storytelling style of Translation 2. Use modern Chinese vocabulary while retaining the vivid descriptions and emotional intensity. Refine any awkward phrases for better flow and understanding.
+Translation 2:
+Pros:
+*   More poetic and descriptive language, creating a better storytelling atmosphere.
+*   Attempts to capture the emotional tone of the original text.
+*   Retains the original Japanese term Okikirmui.
+
+Cons:
+*   Some phrases are slightly less natural or common in modern Chinese.
+*   The overall flow is slightly less smooth compared to Translation 1.
+*   The term "妖冶之氣" might not be the best fit for describing the demon child.
+
+Choice of Better Translation:
+Translation 1 is slightly better due to its clarity, accuracy, and ease of understanding. However, Translation 2 has merits in its poetic tone and retention of the original term. The updated translation will incorporate the pros of both translations.
+
 ```
 

@@ -41,7 +41,7 @@ You are a professional translator. You know Japanese, English and Chinese. You c
 ### Prompt
 ```
 Translate the following text from English to Chinese. The original text is translation from Japanese which is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
-Use story-telling and poetic tone. Keep the original meaning. Use modern Chinese. Display in Traditional Chinese. Only allow Chinese and English characters.
+Use story-telling and poetic tone. Keep the original meaning. Use modern Chinese. Display in Traditional Chinese.
 If a term cannot be translated, keep the original language.
 
 The Pond Snail's Own Song: "Tonupeka Ranran"
@@ -94,50 +94,57 @@ So, a pond snail told the story.
 
 ### Output
 ```
-田螺之歌：Tonupeka Ranran
+田螺之歌：「Tonupeka Ranran」
 
 Tonupeka ranran,
-烈日當空，我的家園乾涸,
-我感覺自己快要 умирать 了。
+烈日當空，家園乾涸,
+我彷彿瀕臨死亡。
 「求求誰來給我們水，
-請幫助我們！水，水！」我們哭喊著。
-然後，從岸邊走來一位女子，
-背上背著一個籃子。
+請救救我們！水啊，水啊！」我們哭喊著。
+
+接著，從岸邊走來一位女子，
+背上背著竹簍。
 我們哭泣著，她從我們身邊經過，
-看到我們，她說，
+看見我們，她說，
 「奇怪的田螺，可憐的田螺，你們為何哭泣，
-發出如此嘈雜的聲音？ 」
+如此喧鬧吵嚷？ 」
 她踐踏我們，把我們踢到一邊，
-用我們的殼壓碎我們，
+用我們的殼碾碎我們，
 然後走進了深山。
-「哦，好痛，好痛苦，水，水！」我們哭喊著。
-然後，從岸邊又走來一位女子，
-背上背著一個籃子。我們哭喊著，
-「求求誰來給我們水，幫助我們！
-哦，好痛，哦，好痛苦，水，水！」
-然後，這位少女，帶著神聖而高貴的氣息，
-來到我身邊，看到我們，她說，
-「哦，你們這些可憐的東西，天氣真熱，田螺的
+「喔，好痛，好痛苦，水啊，水啊！」我們哭喊著。
+
+接著，從岸邊又走來一位女子，
+背上背著竹簍。我們哭喊著，
+「求求誰來給我們水，救救我們！
+喔，好痛，喔，好痛苦，水啊，水啊！」
+
+然後，那位少女，帶著神聖而高貴的氣息，
+來到我身邊，看見我們，她說，
+「喔，你們這些可憐的小東西，天氣真熱，田螺的
 床都乾涸了，它們渴望著水。
-發生了什麼事？看起來你們好像被踐踏過……」
-她說著，把我們都撿了起來，
+發生了什麼事？看起來你們好像被踐踏過…」
+
+她說著，把我們全都撿了起來，
 放在蜂斗菜的葉子上，
-然後把我們放進了一個清澈的湖裡。
-有了這純淨、冰冷的水，我們完全恢復了，
+然後把我們放進清澈的湖裡。
+有了純淨冰涼的水，我們完全恢復了，
 變得非常強壯。然後，我第一次，
 調查了這些女子的本性。
-第一個來，壓碎我的，可恨的女人，
-這個邪惡的女人，是 Samayunkur 的
-妹妹。可憐我們，
+
+第一個來，碾碎我的，可憎的女子，
+那個邪惡的女人，是Samayunkur的
+妹妹。 憐憫我們，
 幫助我們的年輕少女，溫柔而優雅的那位，
-是 Okikirmuy 的妹妹。
-Samayunkur 的妹妹邪惡而可恨，
-所以她的小米田枯萎了。Okikirmuy 的
+是Okikirmuy的妹妹。
+
+Samayunkur的妹妹邪惡可憎，
+所以她的小米田枯萎了。 Okikirmuy的
 妹妹的小米田，卻長勢茂盛。
-那一年，Okikirmuy 的妹妹收穫了豐收。
+那一年，Okikirmuy的妹妹收穫了極大的豐收。
 她知道這是因為我，
 所以她用田螺殼收割小米穗。
 從那以後，每年，人類的女子
-在收割小米穗時都會使用田螺殼。
+都會用田螺殼來收割小米穗。
+
 於是，一隻田螺講述了這個故事。
 ```

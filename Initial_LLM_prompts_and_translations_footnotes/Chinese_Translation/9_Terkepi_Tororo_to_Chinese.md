@@ -1,6 +1,6 @@
 # LLM-assisted Translation project of Ainu shin'yoshu (アイヌ神謡集) collected by Chiri Yukie 知里幸惠 (1903 - 1922).
 
-## English Translation of Chiri's footnotes on
+## Chinese Translation of Chiri's footnotes on
 
 ## Terkepi yaieyukar, “Tororo hanrok hanrok!” 蛙が自らを歌った謡「トーロロ ハンロク ハンロク!」
 

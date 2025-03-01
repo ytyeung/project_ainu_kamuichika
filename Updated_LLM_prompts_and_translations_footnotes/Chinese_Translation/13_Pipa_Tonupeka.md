@@ -76,35 +76,32 @@ This is the Chinese Translation 2.
 
 ### Output
 ```
-(1) kinatantuka......蒲草束。香蒲會被編織成類似蓆子的墊子等覆蓋物，但若在完全乾燥的狀態下編織，效果不佳。因此，使用前會稍微弄濕。故事中的女子可能正為了這個目的，將它們帶到河邊。
+(1) kinatantuka...... 蒲草束。香蒲被編織成墊子和其他覆蓋物，但如果試圖在它們完全乾燥時編織，效果不佳。因此，在使用前會稍微潤濕。在這個故事中，這位女子可能正將它們帶到河邊以達到這個目的，為了讓蒲草濕潤易於編織。
 
-(2) i-okapushpa。人們非常忌諱說出已故父母或親戚的名字，甚至在日常談話中提及他們，這被稱為 *i-okapushpa*。此外，挖掘他人隱藏的秘密並公諸於眾，或提及令人難以啟齒的過往行為，尤其是在當事人面前，也被稱為 *i-okapushpa*。
+(2) i-okapushpa。人們非常不喜歡說已故父母或親戚的名字，甚至在日常談話中談論他們，這被稱為 *i-okapushpa*。此外，挖掘人們隱藏的東西並告訴大家，或提出讓人難以聽到的過去行為，尤其是在他們面前，也被稱為 *i-okapushpa*。
 
-(3) nimakitara......露出獠牙。這裡指的是狗。人們到山裡狩獵時會帶上狗，被露出獠牙的狗攻擊是最令人恐懼的。因此，人們因為恐懼而給狗取了這個名字。
+(3) nimakitara...... 露出獠牙。 這裡指的是狗。 當人們去山裡打獵時，他們會帶狗，而被一隻露出牙齒的狗攻擊是最可怕的事情。 因此，他們出於恐懼而給狗起這種名字。
 
-Comparison of the two Chinese translations:
+Analysis of the two Chinese translations:
 
 Translation 1:
 Pros:
-- More literal translation of "蒲の束" as "蒲草束".
-- Clear and straightforward language.
-
+*   More literal translation of "蒲の束" as "蒲草束".
+*   Clear explanation of the purpose of wetting the reeds.
 Cons:
-- Less polished and slightly less natural sounding in certain phrases.
+*   Slightly less fluent in certain parts.
+*   Less emphasis on the act of revealing secrets in (2).
 
 Translation 2:
 Pros:
-- More polished and natural sounding.
-- Uses more descriptive language, such as "墊子和其他覆蓋物" for "筵の様な敷物".
-- Keeps the Ainu words in *italics*.
-
+*   More fluent and natural-sounding in general.
+*   Better phrasing for "提出讓人難以聽到的過去行為，尤其是在他們面前".
 Cons:
-- Less literal translation of "蒲の束" as "一捆香蒲".
+*   Less literal translation of "蒲の束" as "一捆香蒲".
+*   The purpose of wetting the reeds is less clear.
 
-Choice of Better Translation:
-Translation 2 is slightly better due to its more natural and descriptive language, making it easier to understand. The use of italics for the Ainu words is also a plus.
+Choice of Better Translation: Translation 2 is slightly better due to its overall fluency and natural phrasing. However, it misses some of the details present in Translation 1.
 
-Updated Translation:
-Incorporates the strengths of both translations, prioritizing accuracy and clarity.
+Updated Translation Strategy: Incorporate the literal translation of "蒲の束" from Translation 1 into Translation 2, and clarify the purpose of wetting the reeds.
 ```
 
