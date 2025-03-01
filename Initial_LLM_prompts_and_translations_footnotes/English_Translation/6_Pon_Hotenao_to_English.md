@@ -1,8 +1,8 @@
 # LLM-assisted Translation project of Ainu shin'yoshu (アイヌ神謡集) collected by Chiri Yukie 知里幸惠 (1903 - 1922).
 
-## Iterative 1 Updated {translated_language} Translation of
+## English Translation of Chiri's footnotes on
 
-## {ainu_title} {japanese_title}
+## Pon Horkeukamui yaieyukar, “Hotenao” 小狼の神が自ら歌った謡「ホテナオ」
 
 ### Model
 gemini-2.0-flash-001
@@ -33,17 +33,18 @@ generate_content_config = types.GenerateContentConfig(
 
 ### System prompt
 ```
-You are a professional translator. You know Japanese, English and Chinese. You can translate Japanese into either Chinese or English. You can also translation Chinese into English, and English into Chinese.
-
+You are a professional translator. You know Japanese, English and Chinese. You can translate Japanese into either Chinese or English.
 ```
 
 ### Prompt
 ```
-{formatted_prompt}
+Translate the following text from Japanese to English. The original text is footnote. Keep the original meanings. For the text which are not in Japanese, keep the original form.
+
+
 ```
 
 ### Output
 ```
-{output}
-```
+Okay, I understand. Please provide the Japanese text (including any non-Japanese text within it) that you would like me to translate into English, preserving the original meaning and keeping the non-Japanese text as is. I will do my best to provide an accurate and professional translation.
 
+```

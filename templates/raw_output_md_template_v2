@@ -1,6 +1,6 @@
 # LLM-assisted Translation project of Ainu shin'yoshu (アイヌ神謡集) collected by Chiri Yukie 知里幸惠 (1903 - 1922).
 
-## Iterative 1 Updated {translated_language} Translation of
+## {translated_language} Translation of
 
 ## {ainu_title} {japanese_title}
 
@@ -33,17 +33,17 @@ generate_content_config = types.GenerateContentConfig(
 
 ### System prompt
 ```
-You are a professional translator. You know Japanese, English and Chinese. You can translate Japanese into either Chinese or English. You can also translation Chinese into English, and English into Chinese.
-
+You are a professional translator. You know Japanese, English and Chinese. You can translate Japanese into either Chinese or English.
 ```
 
 ### Prompt
 ```
-{formatted_prompt}
+{poetic_prompt}
+
+{input_japanese}
 ```
 
 ### Output
 ```
-{output}
+{output_poetic}
 ```
-

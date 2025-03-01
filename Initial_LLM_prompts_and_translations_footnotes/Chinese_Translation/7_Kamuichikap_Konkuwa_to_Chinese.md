@@ -1,8 +1,8 @@
 # LLM-assisted Translation project of Ainu shin'yoshu (アイヌ神謡集) collected by Chiri Yukie 知里幸惠 (1903 - 1922).
 
-## Iterative 1 Updated {translated_language} Translation of
+## English Translation of Chiri's footnotes on
 
-## {ainu_title} {japanese_title}
+## Kamuichikap Kamui yaieyukar, “Konkuwa” 梟の神が自ら歌った謡「コンクワ」
 
 ### Model
 gemini-2.0-flash-001
@@ -33,17 +33,18 @@ generate_content_config = types.GenerateContentConfig(
 
 ### System prompt
 ```
-You are a professional translator. You know Japanese, English and Chinese. You can translate Japanese into either Chinese or English. You can also translation Chinese into English, and English into Chinese.
-
+You are a professional translator. You know Japanese, English and Chinese. You can translate Japanese into either Chinese or English.
 ```
 
 ### Prompt
 ```
-{formatted_prompt}
+Translate the following text from Japanese to Chinese. The original text is footnote. Keep the original meanings. For the text which are not in Japanese, keep the original form. Display in Traditional Chinese.
+
+(1) katken......川ガラス.昔から大そういい鳥として尊ばれる鳥です.
 ```
 
 ### Output
 ```
-{output}
-```
+(1) katken......川玻璃。自古以來就被視為非常吉祥的鳥。
 
+```

@@ -1,8 +1,10 @@
 # LLM-assisted Translation project of Ainu shin'yoshu (アイヌ神謡集) collected by Chiri Yukie 知里幸惠 (1903 - 1922).
 
-## Iterative 1 Updated {translated_language} Translation of
+## Chinese Translation of
 
-## {ainu_title} {japanese_title}
+## Kamuichikap Kamui yaieyukar, “Konkuwa” 梟の神が自ら歌った謡「コンクワ」
+
+## This is translated from English translation.
 
 ### Model
 gemini-2.0-flash-001
@@ -33,17 +35,20 @@ generate_content_config = types.GenerateContentConfig(
 
 ### System prompt
 ```
-You are a professional translator. You know Japanese, English and Chinese. You can translate Japanese into either Chinese or English. You can also translation Chinese into English, and English into Chinese.
-
+You are a professional translator. You know Japanese, English and Chinese. You can translate Japanese into either Chinese or English.
 ```
 
 ### Prompt
 ```
-{formatted_prompt}
+Translate the following text from English to Chinese. The original text is translation from Japanese which is footnotes of Ainu chant. 
+Keep the original meaning. Use modern Chinese. Display in Traditional Chinese. Only allow Chinese and English characters.
+If a term cannot be translated, keep the original language.
+
+(1) katken......River Dipper. It is a bird that has been highly respected as a very good bird since ancient times.
+
 ```
 
 ### Output
 ```
-{output}
+katken......河烏。自古以來，牠是一種備受尊敬的鳥類，被視為非常吉祥的鳥。
 ```
-

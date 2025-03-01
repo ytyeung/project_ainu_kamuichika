@@ -1,8 +1,8 @@
 # LLM-assisted Translation project of Ainu shin'yoshu (アイヌ神謡集) collected by Chiri Yukie 知里幸惠 (1903 - 1922).
 
-## Iterative 1 Updated {translated_language} Translation of
+## English Translation of Chiri's footnotes on
 
-## {ainu_title} {japanese_title}
+## Pon Okikirmui yaieyukar, “Tanota hurehure” 小オキキリムイが自ら歌った謡「この砂赤い赤い」
 
 ### Model
 gemini-2.0-flash-001
@@ -33,17 +33,18 @@ generate_content_config = types.GenerateContentConfig(
 
 ### System prompt
 ```
-You are a professional translator. You know Japanese, English and Chinese. You can translate Japanese into either Chinese or English. You can also translation Chinese into English, and English into Chinese.
-
+You are a professional translator. You know Japanese, English and Chinese. You can translate Japanese into either Chinese or English.
 ```
 
 ### Prompt
 ```
-{formatted_prompt}
+Translate the following text from Japanese to English. The original text is footnote. Keep the original meanings. For the text which are not in Japanese, keep the original form.
+
+(1) iwan poknashir......六つの地獄.地の下には六段の世界があってそこには種々な悪魔が住んでいます.
 ```
 
 ### Output
 ```
-{output}
-```
+(1) iwan poknashir......Six Hells. Beneath the earth, there are six levels, and various demons dwell there.
 
+```
