@@ -1,0 +1,427 @@
+{
+    "japanese_title": "獺かわうそが自ら歌った謡「カッパ レウレウ カッパ」",
+    "ainu_title": "Esaman yaieyukar, “Kappa reureu kappa”",
+    "japanese_text": "(1) achikara......「きたない」.おかしい,生意気なという意味をふくむ.\nこの物語は Okikirmui の父と pon nitnekamui の父とは,前に大層激しい戦争をしたことがあるので,この pon okikirmui と pon nitnekamui とは敵どうしになっています.その親たちの戦争した模様は別な物語に詳しく出ています.",
+    "chinese_translation": {
+        "comment": "Translation of Ainu chant footnotes from Japanese to Chinese.",
+        "title": "阿伊努語歌脚注翻譯",
+        "translation": "(1) achikara......「骯髒」。包含奇怪、傲慢的意思。\n這個故事是 Okikirmui 的父親和 pon nitnekamui 的父親，之前有過非常激烈的戰爭，所以這個 pon okikirmui 和 pon nitnekamui 是敵對關係。他們的父母戰爭的樣子在另一個故事裡有詳細描述。",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "Translate the following text from source language Japanese to target language Chinese. The original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning accurately. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nIf a term cannot be translated, keep the source language.\nFor the original text which are not in Japanese, keep the original form. \n\n(1) achikara......「きたない」.おかしい,生意気なという意味をふくむ.\nこの物語は Okikirmui の父と pon nitnekamui の父とは,前に大層激しい戦争をしたことがあるので,この pon okikirmui と pon nitnekamui とは敵どうしになっています.その親たちの戦争した模様は別な物語に詳しく出ています.\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "description": "The translation, and the comments",
+            "properties": {
+                "translation": {
+                    "description": "The translation",
+                    "title": "Translation",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "comment": {
+                    "description": "Comments on the translation",
+                    "title": "Comment",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "translation",
+                "title",
+                "comment"
+            ],
+            "title": "Translation",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "english_translation": {
+        "comment": "Translation of Japanese footnotes of an Ainu chant into English. The original text is a Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. Keep the original meaning accurately. Use modern and simple English. If a term cannot be translated, keep the source language. For the original text which are not in Japanese, keep the original form.",
+        "title": "Ainu Chant Footnote Translation",
+        "translation": "achikara......\"dirty.\" It includes meanings such as strange and cheeky.\nIn this story, Okikirmui's father and pon nitnekamui's father had a very fierce war before, so this pon okikirmui and pon nitnekamui are enemies. The details of the war between their parents are described in detail in another story.",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "Translate the following text from source language Japanese to target language English. The original text is a Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning accurately. Use modern and simple English.\nIf a term cannot be translated, keep the source language.\nFor the original text which are not in Japanese, keep the original form. \n\n(1) achikara......「きたない」.おかしい,生意気なという意味をふくむ.\nこの物語は Okikirmui の父と pon nitnekamui の父とは,前に大層激しい戦争をしたことがあるので,この pon okikirmui と pon nitnekamui とは敵どうしになっています.その親たちの戦争した模様は別な物語に詳しく出ています.\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "description": "The translation, and the comments",
+            "properties": {
+                "translation": {
+                    "description": "The translation",
+                    "title": "Translation",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "comment": {
+                    "description": "Comments on the translation",
+                    "title": "Comment",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "translation",
+                "title",
+                "comment"
+            ],
+            "title": "Translation",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "eng_to_chi_translation": {
+        "comment": "Translation of English text to Traditional Chinese.",
+        "title": "阿奇卡拉與戰爭",
+        "translation": "achikara......「骯髒的」。它包含奇怪和厚臉皮等含義。\n在這個故事中，Okikirmui的父親和pon nitnekamui的父親之前發生過一場非常激烈的戰爭，所以這個pon okikirmui和pon nitnekamui是敵人。他們父母之間戰爭的細節在另一個故事中有詳細描述。",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "Translate the following text from source language English to target language Chinese. \nThe original text is translation of Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nFor the original text which are not in English, keep the original form. \n\nachikara......\"dirty.\" It includes meanings such as strange and cheeky.\nIn this story, Okikirmui's father and pon nitnekamui's father had a very fierce war before, so this pon okikirmui and pon nitnekamui are enemies. The details of the war between their parents are described in detail in another story.\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "description": "The translation, and the comments",
+            "properties": {
+                "translation": {
+                    "description": "The translation",
+                    "title": "Translation",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "comment": {
+                    "description": "Comments on the translation",
+                    "title": "Comment",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "translation",
+                "title",
+                "comment"
+            ],
+            "title": "Translation",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "chi_to_eng_translation": {
+        "comment": "Translation of Chinese text to English.",
+        "title": "Translation of Ainu Chant Footnote",
+        "translation": "(1) achikara......\"Dirty.\" It contains the meanings of strange and arrogant.\nThis story is about Okikirmui's father and pon nitnekamui's father having a very fierce war before, so this pon okikirmui and pon nitnekamui are in a hostile relationship. The appearance of their parents' war is described in detail in another story.",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "Translate the following text from source language Chinese to target language English. \nThe original text is translation of Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning. Use modern and simple English.\nFor the original text which are not in Chinese, keep the original form. \n\n(1) achikara......「骯髒」。包含奇怪、傲慢的意思。\n這個故事是 Okikirmui 的父親和 pon nitnekamui 的父親，之前有過非常激烈的戰爭，所以這個 pon okikirmui 和 pon nitnekamui 是敵對關係。他們的父母戰爭的樣子在另一個故事裡有詳細描述。\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "description": "The translation, and the comments",
+            "properties": {
+                "translation": {
+                    "description": "The translation",
+                    "title": "Translation",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "comment": {
+                    "description": "Comments on the translation",
+                    "title": "Comment",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "translation",
+                "title",
+                "comment"
+            ],
+            "title": "Translation",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "updated_translation_zh": {
+        "better_translation": "Translation 1",
+        "better_translation_comment": "Both translations are quite similar and accurate. Translation 1 is slightly better because it uses 「骯髒」 which is a more direct and common translation of \"きたない\" in this context compared to 「骯髒的」. Also, Translation 1 maintains better flow and sounds more natural in Chinese.",
+        "title": "阿伊努語歌翻譯",
+        "translation_comments": [
+            {
+                "comment": "Translation 1 is accurate and reads naturally. It maintains the original meaning well.",
+                "id": "Translation 1"
+            },
+            {
+                "comment": "Translation 2 is also accurate but slightly less natural in its phrasing. The addition of 的 after 骯髒 is unnecessary and makes it slightly less direct.",
+                "id": "Translation 2"
+            }
+        ],
+        "translation_scores": [
+            {
+                "id": "Translation 1",
+                "score_accuracy": 5,
+                "score_easy_understanding": 5,
+                "weighted_score": 5.0
+            },
+            {
+                "id": "Translation 2",
+                "score_accuracy": 4,
+                "score_easy_understanding": 4,
+                "weighted_score": 4.0
+            }
+        ],
+        "updated_translation": "(1) achikara......「骯髒」。包含奇怪、傲慢的意思。\n這個故事是 Okikirmui 的父親和 pon nitnekamui 的父親，之前有過非常激烈的戰爭，所以這個 pon okikirmui 和 pon nitnekamui 是敵對關係。他們的父母戰爭的樣子在另一個故事裡有詳細描述。",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "You are translating the following text from source language Japanese into target language Chinese. \nThe original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nYou have 2 versions of Chinese translations at hand.\nFor the original text which are not in Japanese, keep the original form. \n\nHere are your tasks:\n\n1. Compare the two Chinese translations with the source Japanese text. List out the Pros and Cons of the Translations.\n2. For each of translation from Japanese to Chinese, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].\nWhere one star means \"Nonsense/No meaning preserved\",\ntwo stars mean \"Some meaning preserved, but not understandable\",\nthree stars mean \"Some meaning preserved and understandable\",\nfour stars mean \"Most meaning preserved with possibly few grammar mistakes\",\nand five stars mean \"Perfect meaning and grammar\".\n\n3. For each of translation from Japanese to Chinese, score the translation on the easiness to understanding with one to five stars [1,2,3,4,5].\nWhere one star means \"The text is completely not understandable.\",\ntwo stars mean \"Most part of text is not understandable.\",\nthree stars mean \"While the text is understandable, the word usage and grammar are difficult.\",\nfour stars mean \"Most part of text can be understood easily.\",\nand five stars mean \"All the text can be understood easily.\".\n\n4. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (60%). Easiness to understanding is the second (40%).\n5. Based on the better translation, translate the Japanese text into Chinese again, incorporating the Pros of the two translations.\n\nKeep the original meaning accurately. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nIf a term cannot be translated, keep the original language.\nFor the original text which are not in Japanese, keep the original form. \n\nThis is the Japanese text.\n(1) achikara......「きたない」.おかしい,生意気なという意味をふくむ.\nこの物語は Okikirmui の父と pon nitnekamui の父とは,前に大層激しい戦争をしたことがあるので,この pon okikirmui と pon nitnekamui とは敵どうしになっています.その親たちの戦争した模様は別な物語に詳しく出ています.\n\nThis is the Chinese Translation 1.\n(1) achikara......「骯髒」。包含奇怪、傲慢的意思。\n這個故事是 Okikirmui 的父親和 pon nitnekamui 的父親，之前有過非常激烈的戰爭，所以這個 pon okikirmui 和 pon nitnekamui 是敵對關係。他們的父母戰爭的樣子在另一個故事裡有詳細描述。\n\nThis is the Chinese Translation 2.\nachikara......「骯髒的」。它包含奇怪和厚臉皮等含義。\n在這個故事中，Okikirmui的父親和pon nitnekamui的父親之前發生過一場非常激烈的戰爭，所以這個pon okikirmui和pon nitnekamui是敵人。他們父母之間戰爭的細節在另一個故事中有詳細描述。\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "$defs": {
+                "Comment": {
+                    "properties": {
+                        "id": {
+                            "description": "For example: Translation 1 or Translation 2",
+                            "title": "Id",
+                            "type": "string"
+                        },
+                        "comment": {
+                            "description": "comment of the translation",
+                            "title": "Comment",
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "id",
+                        "comment"
+                    ],
+                    "title": "Comment",
+                    "type": "object"
+                },
+                "Score": {
+                    "properties": {
+                        "id": {
+                            "description": "For example: Translation 1 or Translation 2",
+                            "title": "Id",
+                            "type": "string"
+                        },
+                        "score_accuracy": {
+                            "description": "Accuracy score of the translation",
+                            "title": "Score Accuracy",
+                            "type": "integer"
+                        },
+                        "score_easy_understanding": {
+                            "description": "easiness to understanding score of the translation",
+                            "title": "Score Easy Understanding",
+                            "type": "integer"
+                        },
+                        "weighted_score": {
+                            "description": "weighted score of the translation",
+                            "title": "Weighted Score",
+                            "type": "number"
+                        }
+                    },
+                    "required": [
+                        "id",
+                        "score_accuracy",
+                        "score_easy_understanding",
+                        "weighted_score"
+                    ],
+                    "title": "Score",
+                    "type": "object"
+                }
+            },
+            "description": "The updated translation, and the comments for the update",
+            "properties": {
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "translation_comments": {
+                    "description": "Comments of all translations",
+                    "items": {
+                        "$ref": "#/$defs/Comment"
+                    },
+                    "title": "Translation Comments",
+                    "type": "array"
+                },
+                "translation_scores": {
+                    "description": "Scores of all translations",
+                    "items": {
+                        "$ref": "#/$defs/Score"
+                    },
+                    "title": "Translation Scores",
+                    "type": "array"
+                },
+                "better_translation": {
+                    "description": "For example: Translation 1 or Translation 2",
+                    "title": "Better Translation",
+                    "type": "string"
+                },
+                "better_translation_comment": {
+                    "description": "Explanation of better translation choice.",
+                    "title": "Better Translation Comment",
+                    "type": "string"
+                },
+                "updated_translation": {
+                    "description": "Updated Translation",
+                    "title": "Updated Translation",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "title",
+                "translation_comments",
+                "translation_scores",
+                "better_translation",
+                "better_translation_comment",
+                "updated_translation"
+            ],
+            "title": "Reflection",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class '__main__.Reflection'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "updated_translation_en": {
+        "better_translation": "Translation 2",
+        "better_translation_comment": "Translation 2 uses 'arrogant' which is closer to the original meaning of 生意気 than 'cheeky'. It also uses 'hostile relationship' which is a more natural way to describe the relationship between the two pon.",
+        "title": "Ainu Chant Footnote Translation",
+        "translation_comments": [
+            {
+                "comment": "Translation 1 uses 'dirty' which is a direct translation of きたない. It uses 'cheeky' to translate 生意気, which is not accurate. It also uses 'enemies' which is not as descriptive as 'hostile relationship'.",
+                "id": "Translation 1"
+            },
+            {
+                "comment": "Translation 2 uses 'dirty' which is a direct translation of きたない. It uses 'arrogant' to translate 生意気, which is more accurate. It also uses 'hostile relationship' which is a more natural way to describe the relationship between the two pon.",
+                "id": "Translation 2"
+            }
+        ],
+        "translation_scores": [
+            {
+                "id": "Translation 1",
+                "score_accuracy": 4,
+                "score_easy_understanding": 4,
+                "weighted_score": 4.0
+            },
+            {
+                "id": "Translation 2",
+                "score_accuracy": 5,
+                "score_easy_understanding": 4,
+                "weighted_score": 4.6
+            }
+        ],
+        "updated_translation": "(1) achikara......\"dirty.\" It includes meanings such as strange and arrogant. This story is about Okikirmui's father and pon nitnekamui's father having a very fierce war before, so this pon okikirmui and pon nitnekamui are in a hostile relationship. The details of their parents' war are described in detail in another story.",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "You are translating the following text from source language Japanese into target language English. \nThe original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nYou have 2 versions of English translations at hand.\n\nHere are your tasks:\n\n1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.\n2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].\nWhere one star means \"Nonsense/No meaning preserved\",\ntwo stars mean \"Some meaning preserved, but not understandable\",\nthree stars mean \"Some meaning preserved and understandable\",\nfour stars mean \"Most meaning preserved with possibly few grammar mistakes\",\nand five stars mean \"Perfect meaning and grammar\".\n\n3. For each of translation from Japanese to English, score the translation on the easiness to understanding with one to five stars [1,2,3,4,5].\nWhere one star means \"The text is completely not understandable.\",\ntwo stars mean \"Most part of text is not understandable.\",\nthree stars mean \"While the text is understandable, the word usage and grammar are difficult.\",\nfour stars mean \"Most part of text can be understood easily.\",\nand five stars mean \"All part of text can be understood easily.\".\n\n4. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (60%). Easiness to understanding is the second (40%).\n5. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.\n\nKeep the original meaning accurately. \nIf a term cannot be translated, keep the original language.\nFor the original text which are not in Japanese, keep the original form. \n\nThis is the Japanese text.\n(1) achikara......「きたない」.おかしい,生意気なという意味をふくむ.\nこの物語は Okikirmui の父と pon nitnekamui の父とは,前に大層激しい戦争をしたことがあるので,この pon okikirmui と pon nitnekamui とは敵どうしになっています.その親たちの戦争した模様は別な物語に詳しく出ています.\n\nThis is the English Translation 1.\nachikara......\"dirty.\" It includes meanings such as strange and cheeky.\nIn this story, Okikirmui's father and pon nitnekamui's father had a very fierce war before, so this pon okikirmui and pon nitnekamui are enemies. The details of the war between their parents are described in detail in another story.\n\nThis is the English Translation 2.\n(1) achikara......\"Dirty.\" It contains the meanings of strange and arrogant.\nThis story is about Okikirmui's father and pon nitnekamui's father having a very fierce war before, so this pon okikirmui and pon nitnekamui are in a hostile relationship. The appearance of their parents' war is described in detail in another story.\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "$defs": {
+                "Comment": {
+                    "properties": {
+                        "id": {
+                            "description": "For example: Translation 1 or Translation 2",
+                            "title": "Id",
+                            "type": "string"
+                        },
+                        "comment": {
+                            "description": "comment of the translation",
+                            "title": "Comment",
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "id",
+                        "comment"
+                    ],
+                    "title": "Comment",
+                    "type": "object"
+                },
+                "Score": {
+                    "properties": {
+                        "id": {
+                            "description": "For example: Translation 1 or Translation 2",
+                            "title": "Id",
+                            "type": "string"
+                        },
+                        "score_accuracy": {
+                            "description": "Accuracy score of the translation",
+                            "title": "Score Accuracy",
+                            "type": "integer"
+                        },
+                        "score_easy_understanding": {
+                            "description": "easiness to understanding score of the translation",
+                            "title": "Score Easy Understanding",
+                            "type": "integer"
+                        },
+                        "weighted_score": {
+                            "description": "weighted score of the translation",
+                            "title": "Weighted Score",
+                            "type": "number"
+                        }
+                    },
+                    "required": [
+                        "id",
+                        "score_accuracy",
+                        "score_easy_understanding",
+                        "weighted_score"
+                    ],
+                    "title": "Score",
+                    "type": "object"
+                }
+            },
+            "description": "The updated translation, and the comments for the update",
+            "properties": {
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "translation_comments": {
+                    "description": "Comments of all translations",
+                    "items": {
+                        "$ref": "#/$defs/Comment"
+                    },
+                    "title": "Translation Comments",
+                    "type": "array"
+                },
+                "translation_scores": {
+                    "description": "Scores of all translations",
+                    "items": {
+                        "$ref": "#/$defs/Score"
+                    },
+                    "title": "Translation Scores",
+                    "type": "array"
+                },
+                "better_translation": {
+                    "description": "For example: Translation 1 or Translation 2",
+                    "title": "Better Translation",
+                    "type": "string"
+                },
+                "better_translation_comment": {
+                    "description": "Explanation of better translation choice.",
+                    "title": "Better Translation Comment",
+                    "type": "string"
+                },
+                "updated_translation": {
+                    "description": "Updated Translation",
+                    "title": "Updated Translation",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "title",
+                "translation_comments",
+                "translation_scores",
+                "better_translation",
+                "better_translation_comment",
+                "updated_translation"
+            ],
+            "title": "Reflection",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class '__main__.Reflection'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    }
+}

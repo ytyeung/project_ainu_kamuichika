@@ -4,26 +4,28 @@
 
 ## Nitatorunpe yaieyukar, “Harit kunna” 
 ## 谷地の魔神が自ら歌った謡「ハリツ クンナ」
-## Haritsu Kunna: The Marsh Demon's Song
+## 谷地の魔神が自ら歌った謡「ハリツ クンナ」
 
 ### System prompt
 ```
 You are a professional translator. 
-You know Japanese, Chinese and English. 
+You only know Japanese, Chinese and English. 
 You can translate Japanese into either Chinese or English. 
 You can also translate Chinese into English, and English into Chinese.
+All the translations should keep the original meaning.
+All the translations only contain characters of the source and target languages.
 
 
 ```
 
 ### Prompt
 ```
-You are translating the following Japanese text into English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
+You are translating the following text from source language Japanese into target language English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
 You have 2 versions of English translations at hand.
 
 Here are your tasks:
 
-1. Compare the two English translations with the original Japanese text. List out the Pros and Cons of the Translations.
+1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.
 2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].
 Where one star means "Nonsense/No meaning preserved",
 two stars mean "Some meaning preserved, but not understandable",
@@ -48,7 +50,7 @@ and five stars mean "All part of the text is a poet and rhythmic. It is a chant.
 5. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (50%). Easiness to understanding is the second (30%). Poetic flow is the third (20%).
 6. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.
 
-Keep the original meaning accurately.
+Keep the original meaning accurately. 
 If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
@@ -139,422 +141,330 @@ This is the Japanese text.
 と谷地の魔神が物語りました.
 
 This is the English Translation 1.
-Haritsu Kunna
+Harits Kunna
 
-One day, as the weather was fair,
-I peeked out from my mire,
-Only my eyes and mouth visible.
+One day, the weather being fair,
+I merely peeked out from my mire bog,
+Only my eyes and mouth showing.
 From the direction of the shore,
 I heard the voices of men.
-Looking, I saw two young men approaching side by side.
+I saw two young men approaching together.
 
 The first seemed a hero,
 bearing the marks of courage,
 as beautiful as a god.
-But the one behind him looked ill,
-a man of poor complexion.
-They came discussing something,
-passing by my mire.
-Just as they reached before me,
-the pale-faced man stopped,
-covering his nose.
-
-"Oh, the stench! A foul mire! Passing by this wretched place,
-what filth! What could smell so awful?"
+But the one who followed behind
+was a sorry sight,
+a man of ill complexion.
+They came along discussing something,
+and as they passed by my mire bog,
+right before me, the pale-faced man stopped.
+He paused, covering his nose.
+"Oh, how foul! This wretched bog! Passing by this vile mire,
+what is this filth, this stench?"
 he exclaimed.
-I merely heard his words,
-yet rage swelled within me,
-so much that I forgot myself.
-I burst from the mud,
-and as I leaped, the earth split and cracked.
-Gnashing my teeth, I pursued them fiercely.
 
-The first, seeing this,
-turned back swiftly, like a fish darting around,
-slipped under the pale man's arm,
-and fled far away.
-I chased the blue-faced man for a few steps,
-quickly overtaking him,
-and swallowed him whole.
+I merely heard his words,
+but rage swelled within me,
+so much that I forgot myself.
+I burst forth from the mud.
+As I leaped, the earth cracked and split.
+Gnashing my fangs, I fiercely pursued them.
+
+The first man, seeing this,
+turned back as swiftly as a fish,
+ducking under the pale man's arm
+and fleeing far away.
+I chased the blue-faced man a few steps,
+quickly overtaking him and swallowing him whole.
 
 Then, with all my speed, I pursued the other,
-reaching a human village,
+reaching the edge of a human village,
 a large settlement.
-From the other side,
-a fire old woman, a goddess old woman,
-in red robes, six layers of them,
-belted and draped,
-leaning on a red staff,
-flew towards me.
+There I saw,
+coming towards me,
+a fire old woman, a divine crone,
+in red robes, six layers bound
+with a sash, six layers draped,
+leaning on a red staff, flying to my side.
 
 "Well now, what brings you to this Ainu village?
 Be gone! Be gone!"
-she cried,
-raising her red staff, her metal staff,
-and struck me.
-Flames rained down upon me from the staff.
+she cried, raising her red staff,
+a staff of metal, and striking me.
+From the staff, flames rained down upon me.
 
 Yet I paid no heed,
-gnashing my teeth as I chased the man.
+gnashing my fangs as I chased the man.
 He ran through the village like a wheel turning,
-and I flew after him,
-the earth splitting and cracking.
+and I flew after him, causing the earth to crack and split.
 The village was in uproar,
-some pulling their wives' hands,
-some pulling their children's hands,
-crying out and fleeing,
-a scene of utter chaos.
+some pulling their wives by the hand,
+some pulling their children, crying out,
+fleeing in disarray, a scene of chaos.
 
 But I cared not,
 raising a storm of dust.
 The fire goddess ran beside me,
-and great flames danced above me.
-Amidst this, the man darted into a house,
-only to emerge again.
-I saw him nocking a small arrow of yomogi to a yomogi bow,
+and great flames flew about me.
+
+Then, the man darted into a house,
+only to emerge again at once.
+I saw him nocking a small arrow of mugwort
+to a small bow of mugwort,
 smiling as he aimed at me.
 
 Seeing this, I found it amusing.
-"How could anyone suffer from such a tiny yomogi arrow?"
-I thought,
-and as I gnashed my teeth,
-preparing to swallow him whole,
-he struck my neck with the arrow.
-After that, I knew no more.
+"How could anyone suffer from such a tiny mugwort arrow?"
+I thought, gnashing my fangs,
+and I lunged to swallow him whole.
 
-When I awoke,
+At that moment, the man struck my head
+with a mighty shot. After that, I knew nothing.
+When I came to my senses,
 I was between the ears of a great dragon.
-The villagers gathered,
-and the young man I had chased,
-gave loud instructions.
-They meticulously carved my corpse,
-carried the pieces to one place,
-burned them, and scattered the ashes
-behind a mountain rock.
 
-Only now do I realize that the one I thought
-was merely a human,
-a simple youth,
-was Okikirmui, a divine hero.
+The villagers gathered, and the young man I had chased,
+Okikirmui, directed them in a loud voice.
+They cut my corpse into tiny pieces,
+gathered them in one place, burned them,
+and scattered the ashes behind the rocks of the mountain.
+
+Only now do I see that he was no mere human,
+no mere youth.
+He was Okikirmui, a divine hero.
 A terrible, evil god, a demon god was I,
 and because I was near the human village,
-Okikirmui angered me for the sake of the village,
-made me chase him, and killed me with a yomogi arrow.
+Okikirmui, thinking of the village's welfare,
+angered me, made me chase him,
+and killed me with his mugwort arrow.
 
-Furthermore, the blue-faced man I swallowed,
-whom I thought was human,
-was a being Okikirmui created from his own excrement,
-and brought with him.
-Because I was a mire devil,
-I have now been cast into the terrible, evil land of hell.
+And the blue-faced man I swallowed,
+I thought he was a human,
+but he was merely a creation of Okikirmui's excrement,
+whom he had brought along.
+
+I was a demon, and now I am cast
+into the terrible, evil land of hell.
 From now on, there will be no danger,
 no disturbance in the land of humans.
+I was a fearsome demon,
+but I was defeated by the cunning of a single man,
+and now I meet a meaningless, wretched death.
 
-Though I was a fearsome mire devil,
-I was defeated by the scheme of a single human,
-and now I meet a meaningless, wretched end."
-
-So spoke the mire devil. 
+So spoke the mire bog demon.
 
 This is the English Translation 2.
-Harits Kunna
+Hallec Kunna,
 
-On a clear day,
-I revealed only my eyes and mouth,
-Peering out from my marsh.
+One day, the sky was clear and bright.
+I peered out, just my eyes and mouth,
+Watching over my marshland domain.
+From the distant shore, voices carried on the breeze.
+I saw two young men approaching side by side.
 
-From afar, the clamor of human voices reached me from the shore.
-I looked and saw two young men approaching together.
+The one in the lead, a hero it seemed,
+bearing the aura of a valiant warrior,
+as handsome as a god.
+Behind him, a man with a weary face and pallid complexion.
+They walked and talked, passing by my marsh,
+coming right before me. The sickly man
+stumbled to a halt, pinching his nose.
+He exclaimed, "Ah, how foul! This wretched swamp,
+to pass through such filth,
+what vile stench is this?"
 
-The one in front,
-With a noble air, seemed a hero,
-Possessing a divine and handsome face.
+I listened, my rage ignited, nearly forgetting myself.
+I burst forth from the mire, and as I rose,
+the earth cracked and crumbled. I roared,
+fiercely chasing after them.
+The leader, seeing this, swiftly
+turned like a fish, darting under the arm
+of his ill companion, fleeing with all his might.
 
-While the one following behind,
-Was gaunt and pale, his complexion poor.
+I pursued the pale-faced man for a few steps,
+quickly catching up, and devoured him whole.
+Then, with all my strength, I chased after the one who fled,
+reaching a human village, a vast settlement.
+There, coming towards me,
+was the old fire woman, the divine crone, adorned in red,
+six layers of robes,
+her waist cinched tight, draped in six layers,
+leaning on a red staff, rushing towards me.
 
-They walked and spoke in hushed tones,
-Passing by the edge of my marsh,
-Coming right before me.
-
-The pale-faced man stopped,
-Covering his nose,
-
-"Ah, how foul! This repulsive marsh,
-Passing through this filthy place,
-What is it that reeks so horribly?" he complained.
-
-I heard him, and rage consumed me,
-Almost forgetting my own existence.
-
-I leaped from the mire with a sudden burst,
-The earth cracking and shattering around me.
-
-I roared, baring my fangs,
-And charged fiercely after them.
-
-The hero in front, seeing this,
-Turned with the swiftness of a fish,
-Darted under the arm of the pale-faced man,
-And fled without looking back.
-
-I pursued the sickly man for a few steps,
-Quickly overtook him, and swallowed him whole.
-
-Then, with all haste,
-I chased after the hero who had fled,
-Reaching a human settlement, a great village.
-
-In the distance,
-A flame old woman, a sacred crone,
-Wore six layers of red robes, cinched at the waist,
-Holding a red staff, and rushed towards me.
-
-"Hey! Hey! Why have you come to this Ainu village?
-Go back! Go back!" she cried sternly.
-
-She waved her red staff, a metal staff,
-Igniting flames upon it,
-And showered them down upon me like rain.
-
-But I paid no heed,
-Only roared, baring my fangs,
-Continuing to chase the fleeing man.
-
-The man darted through the village,
-Like a spinning wheel.
-
-I followed close behind, rushing forth,
-The earth cracking and shattering once more,
-Plunging the entire village into panic.
-
-Some pulled their wives by the hand, others their children,
-Crying out, scattering in all directions,
-A scene of chaos and turmoil.
-
+"Halt, halt! Why do you come to this Ainu village?
+Return, return!"
+She cried, raising her red staff, her golden staff, striking me
+with it, flames erupting,
+raining down upon me.
 But I remained unmoved,
-Raising clouds of dust.
+roaring, continuing my pursuit of the man.
 
-The flame old goddess ran beside me,
-Vast flames weaving and dancing around me.
+He ran through the village,
+spinning like a wheel. I followed relentlessly,
+the earth splitting and collapsing. Chaos erupted in the village,
+people grabbing their wives' hands, their children's hands, crying out
+as they scattered, a scene of pandemonium.
+But I paid no heed, raising clouds of dust.
+The fire goddess rushed towards me,
+giant flames dancing around me.
 
-In the midst of the chaos, the man dashed into a house,
-And immediately ran out again.
+In the midst of the turmoil, the man darted into a house,
+and then emerged once more.
+He held a small bow made of mugwort, notched with an arrow of mugwort,
+smiling, aiming at me.
+Seeing this, I scoffed.
+"Such a tiny mugwort arrow, how could it harm me?"
+I thought, roaring,
+about to swallow him whole,
+when the man struck me hard in the neck.
+From that moment, I lost consciousness.
 
-He held a small artemisia bow,
-Nocked with an artemisia arrow,
-A smile on his face, aiming at me.
-
-Seeing this, I found it laughable.
-
-"Such a tiny artemisia arrow,
-How could it possibly harm anyone?" I thought.
-
-I roared, baring my fangs,
-About to swallow him whole,
-
-When, at that moment, the man fiercely,
-Shot me in the neck.
-
-I instantly lost consciousness,
-Unaware of what had happened.
-
-When I regained awareness,
+When I awoke again,
 I found myself between the ears of a giant dragon.
+The villagers gathered, the young man I had chased
+loudly commanding, chopping my corpse into pieces,
+transporting it to a place of burning, casting the ashes
+behind the mountain rocks.
 
-The villagers gathered,
-The young man I had chased,
-Commanded loudly,
-Chopping my corpse into pieces,
-Carrying them to a place of burning,
-And discarding the ashes behind the mountain rocks.
+Now I understand, the one I thought was merely human,
+a simple young man,
+was in truth Okikirmui, the divine hero.
+I was the terrible evil god, the demon god, because I dwelled
+near the human village,
+Okikirmui deliberately provoked me, causing me
+to chase him, and then killed me with a mugwort arrow.
 
-Only now did I understand,
-The ordinary humans, the ordinary young men I thought they were,
-Were actually Okikirmui, sacred heroes.
+And the pale-faced man I swallowed,
+whom I thought was human,
+was but a doll created by Okikirmui from his own excrement,
+and brought along.
+I, a demon god, have now been cast into
+the terrible, wicked realm of hell.
+From now on, the human realm will be free from danger,
+free from obstruction.
 
-I am a terrible evil god, a demon god,
-Because I approached the human village,
-Okikirmui, to protect the village,
-Deliberately provoked me, made me chase him,
-And then killed me with an artemisia arrow.
+Though I am a fearsome demon god,
+I was defeated by the cunning of a human,
+and now I die a pathetic, insignificant death.
 
-And also, the pale-faced man I swallowed,
-The human I thought he was,
-Was actually created by Okikirmui from feces,
-He brought that false man to lure me.
-
-I, as a demon god, now have been,
-Cast into the terrible evil realm of hell,
-From now on, the human realm,
-Will no longer be in any danger,
-Nor will there be any obstacles.
-
-Though I am a terrible demon god,
-I was defeated by a human scheme,
-And now can only die in an insignificant, miserable way.
-
-The marsh demon thus told his story.
+Thus spoke the demon of the marsh.
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand | Poetic Flow | Total Score |
 | ------------- | -------- | ------------------ | ------------ | ------------ |
-| Translation 1 | 4 | 4 | 3 | 3.8 |
+| Translation 1 | 4 | 4 | 3 | 3.9 |
 | Translation 2 | 4 | 4 | 4 | 4.0 |
 
 ### Comments
 #### Translation 1
-Generally accurate, but some phrasing is a bit clunky. The use of 'mire' is consistent with the original context. Some lines are a bit too literal, hindering the poetic flow.
+Translation 1 is accurate and maintains the original meaning well. However, some phrases are a bit literal, which affects the flow and poetic quality.
 
 #### Translation 2
-Maintains a slightly better flow and tone. The word choices are generally more evocative. The translation of certain phrases, like the description of the old woman, is more vivid.
+Translation 2 uses more descriptive language and maintains a slightly better flow, making it more engaging. The word choices enhance the storytelling aspect.
 
 ### Better Choice
 Translation 2
 #### Comment
-Translation 2 is slightly better because it maintains a more consistent tone and flow, which is important for a chant. While both translations are generally accurate, Translation 2 uses slightly more evocative language and avoids some of the slightly awkward phrasing present in Translation 1. The weighted score also reflects this preference.
+Translation 2 is slightly better because it uses more vivid language and maintains a more consistent tone, which enhances the storytelling. While both translations are accurate, Translation 2's phrasing and word choices make it slightly easier to understand and more engaging, aligning better with the original's intent to convey a dramatic narrative.
 
 ### Updated Output
 ```
-Haritsu Kunna
+Hallec Kunna,
 
-On a clear day,
-I revealed only my eyes and mouth,
-Peering out from my marsh.
+One day, the sky was clear and bright.
+I peered out, just my eyes and mouth,
+Watching over my marshland domain.
+From the distant shore, voices carried on the breeze.
+I saw two young men approaching side by side.
 
-From afar, the clamor of human voices reached me from the shore.
-I looked and saw two young men approaching together.
+The one in the lead, a hero it seemed,
+bearing the aura of a valiant warrior,
+as handsome as a god.
+Behind him, a man with a weary face and pallid complexion.
+They walked and talked, passing by my marsh,
+coming right before me. The sickly man
+stumbled to a halt, pinching his nose.
+He exclaimed, "Ah, how foul! This wretched swamp,
+to pass through such filth,
+what vile stench is this?"
 
-The one in front,
-With a noble air, seemed a hero,
-Possessing a divine and handsome face.
+I listened, my rage ignited, nearly forgetting myself.
+I burst forth from the mire, and as I rose,
+the earth cracked and crumbled. I roared,
+fiercely chasing after them.
+The leader, seeing this, swiftly
+turned like a fish, darting under the arm
+of his ill companion, fleeing with all his might.
 
-While the one following behind,
-Was gaunt and pale, his complexion poor.
+I pursued the pale-faced man for a few steps,
+quickly catching up, and devoured him whole.
+Then, with all my strength, I chased after the one who fled,
+reaching a human village, a vast settlement.
+There, coming towards me,
+was the old fire woman, the divine crone, adorned in red,
+six layers of robes,
+her waist cinched tight, draped in six layers,
+leaning on a red staff, rushing towards me.
 
-They walked and spoke in hushed tones,
-Passing by the edge of my marsh,
-Coming right before me.
-
-The pale-faced man stopped,
-Covering his nose,
-
-"Ah, how foul! This repulsive marsh,
-Passing through this filthy place,
-What is it that reeks so horribly?" he complained.
-
-I heard him, and rage consumed me,
-Almost forgetting my own existence.
-
-I leaped from the mire with a sudden burst,
-The earth cracking and shattering around me.
-
-I roared, baring my fangs,
-And charged fiercely after them.
-
-The hero in front, seeing this,
-Turned with the swiftness of a fish,
-Darted under the arm of the pale-faced man,
-And fled without looking back.
-
-I pursued the sickly man for a few steps,
-Quickly overtook him, and swallowed him whole.
-
-Then, with all haste,
-I chased after the hero who had fled,
-Reaching a human settlement, a great village.
-
-In the distance,
-A flame old woman, a sacred crone,
-Wore six layers of red robes, cinched at the waist,
-Holding a red staff, and rushed towards me.
-
-"Hey! Hey! Why have you come to this Ainu village?
-Go back! Go back!" she cried sternly.
-
-She waved her red staff, a metal staff,
-Igniting flames upon it,
-And showered them down upon me like rain.
-
-But I paid no heed,
-Only roared, baring my fangs,
-Continuing to chase the fleeing man.
-
-The man darted through the village,
-Like a spinning wheel.
-
-I followed close behind, rushing forth,
-The earth cracking and shattering once more,
-Plunging the entire village into panic.
-
-Some pulled their wives by the hand, others their children,
-Crying out, scattering in all directions,
-A scene of chaos and turmoil.
-
+"Halt, halt! Why do you come to this Ainu village?
+Be gone! Be gone!"
+She cried, raising her red staff, her golden staff, striking me
+with it, flames erupting,
+raining down upon me.
 But I remained unmoved,
-Raising clouds of dust.
+roaring, continuing my pursuit of the man.
 
-The flame old goddess ran beside me,
-Vast flames weaving and dancing around me.
+He ran through the village,
+spinning like a wheel. I followed relentlessly,
+the earth splitting and collapsing. Chaos erupted in the village,
+people grabbing their wives' hands, their children's hands, crying out
+as they scattered, a scene of pandemonium.
+But I paid no heed, raising clouds of dust.
+The fire goddess rushed towards me,
+giant flames dancing around me.
 
-In the midst of the chaos, the man dashed into a house,
-And immediately ran out again.
+In the midst of the turmoil, the man darted into a house,
+and then emerged once more.
+He held a small bow made of mugwort, notched with an arrow of mugwort,
+smiling, aiming at me.
+Seeing this, I scoffed.
+"Such a tiny mugwort arrow, how could it harm me?"
+I thought, roaring,
+about to swallow him whole,
+when the man struck me hard in the neck.
+From that moment, I lost consciousness.
 
-He held a small yomogi bow,
-Nocked with a yomogi arrow,
-A smile on his face, aiming at me.
-
-Seeing this, I found it laughable.
-
-"Such a tiny yomogi arrow,
-How could it possibly harm anyone?" I thought.
-
-I roared, baring my fangs,
-About to swallow him whole,
-
-When, at that moment, the man fiercely,
-Shot me in the neck.
-
-I instantly lost consciousness,
-Unaware of what had happened.
-
-When I regained awareness,
+When I awoke again,
 I found myself between the ears of a giant dragon.
+The villagers gathered, the young man I had chased
+loudly commanding, chopping my corpse into pieces,
+transporting it to a place of burning, casting the ashes
+behind the mountain rocks.
 
-The villagers gathered,
-The young man I had chased,
-Commanded loudly,
-Chopping my corpse into pieces,
-Carrying them to a place of burning,
-And discarding the ashes behind the mountain rocks.
+Now I understand, the one I thought was merely human,
+a simple young man,
+was in truth Okikirmui, the divine hero.
+I was the terrible evil god, the demon god, because I dwelled
+near the human village,
+Okikirmui deliberately provoked me, causing me
+to chase him, and then killed me with a mugwort arrow.
 
-Only now did I understand,
-The ordinary humans, the ordinary young men I thought they were,
-Were actually Okikirmui, sacred heroes.
+And the pale-faced man I swallowed,
+whom I thought was human,
+was but a doll created by Okikirmui from his own excrement,
+and brought along.
+I, a demon god, have now been cast into
+the terrible, wicked realm of hell.
+From now on, the human realm will be free from danger,
+free from obstruction.
 
-I am a terrible evil god, a demon god,
-Because I approached the human village,
-Okikirmui, to protect the village,
-Deliberately provoked me, made me chase him,
-And then killed me with a yomogi arrow.
+Though I am a fearsome demon god,
+I was defeated by the cunning of a human,
+and now I die a pathetic, insignificant death.
 
-And also, the pale-faced man I swallowed,
-The human I thought he was,
-Was actually created by Okikirmui from feces,
-He brought that false man to lure me.
-
-I, as a demon god, now have been,
-Cast into the terrible evil realm of hell,
-From now on, the human realm,
-Will no longer be in any danger,
-Nor will there be any obstacles.
-
-Though I am a terrible demon god,
-I was defeated by a human scheme,
-And now can only die in an insignificant, miserable way.
-
-The marsh demon thus told his story.
+Thus spoke the demon of the marsh.
 ```
 

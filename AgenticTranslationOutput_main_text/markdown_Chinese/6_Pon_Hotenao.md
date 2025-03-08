@@ -4,26 +4,28 @@
 
 ## Pon Horkeukamui yaieyukar, “Hotenao” 
 ## 小狼の神が自ら歌った謡「ホテナオ」
-## 小狼之神自歌謠
+## 小狼之神自歌之謠
 
 ### System prompt
 ```
 You are a professional translator. 
-You know Japanese, Chinese and English. 
+You only know Japanese, Chinese and English. 
 You can translate Japanese into either Chinese or English. 
 You can also translate Chinese into English, and English into Chinese.
+All the translations should keep the original meaning.
+All the translations only contain characters of the source and target languages.
 
 
 ```
 
 ### Prompt
 ```
-You are translating the following Japanese text into Chinese. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
+You are translating the following text from source language Japanese into target language Chinese. The original text is a Japanese translation of an Ainu chant, sung by Ainu god telling his story. 
 You have 2 versions of Chinese translations at hand.
 
 Here are your tasks:
 
-1. Compare the two Chinese translations with the original Japanese text. List out the Pros and Cons of the Translations.
+1. Compare the two Chinese translations with the source Japanese text. List out the Pros and Cons of the Translations.
 2. For each of translation from Japanese to Chinese, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].
 Where one star means "Nonsense/No meaning preserved",
 two stars mean "Some meaning preserved, but not understandable",
@@ -36,19 +38,19 @@ Where one star means "The text is completely not understandable.",
 two stars mean "Most part of text is not understandable.",
 three stars mean "While the text is understandable, the word usage and grammar are difficult.",
 four stars mean "Most part of text can be understood easily.",
-and five stars mean "All part of text can be understood easily.".
+and five stars mean "All the text can be understood easily.".
 
 4. For each of translation from Japanese to Chinese, score the translation on the poetic flow with one to five stars [1,2,3,4,5].
 Where one star means "All the text is literal and plain.",
 two stars mean "Most part of text is literal.",
 three stars mean "While the text flow is smooth, some part of the text is still literal and does not sound poetic.",
 four stars mean "Most part of text is poetic.",
-and five stars mean "All part of the text is a poet and rhythmic. It is a chant.".
+and five stars mean "All the text is poetic and rhythmic.".
 
 5. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (50%). Easiness to understanding is the second (30%). Poetic flow is the third (20%).
 6. Based on the better translation, translate the Japanese text into Chinese again, incorporating the Pros of the two translations.
 
-Keep the original meaning accurately. Use modern Chinese. Display in Traditional Chinese. No transliterations other than Chinese and English.
+Keep the original meaning accurately. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.
 If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
@@ -125,213 +127,213 @@ This is the Japanese text.
 と,幼い狼の神様が物語りました.
 
 This is the Chinese Translation 1.
-小狼神親自吟唱的歌謠
-
-「霍提納奧」
-
-某日，我百般無聊，便來到海邊。
-嬉戲之時，見一小矮人前來。
-我往河下游去，他也跟著下游；
-我往河上游去，他也跟著上游，阻擋我的去路。
-
-如此在下游往返六次，上游往返六次後，
-小矮人終於按捺不住，怒容滿面地說道：
-「匹伊匹伊！
-你這小鬼，真是個壞小子！
-若你真有本事，就說出這海岬的古名和今名！」
-
-我聽了，笑著回答：
-「誰會不知道這海岬的古名和今名呢？
-往昔，因有尊貴偉大的神祇和人類居住於此，
-故稱此海岬為神之岬。
-如今，時代衰頹，便稱之為御幣之岬！」
-
-小矮人聽罷，又說：
-「匹伊頓，匹伊頓！
-你這小鬼，若你真有本事，
-就說出這條河的舊名和現名！」
-
-我聽了，便說：
-「誰會不知道這條河的舊名和現名呢？
-往昔，在那個偉大的時代，這條河被稱為水流湍急之河。
-如今，世道衰敗，便稱之為水流遲緩之河！」
-
-小矮人聽後，嚷道：
-「匹伊頓頓，匹伊頓頓！
-你若真有本事，不如我們來互相揭露彼此的底細！」
-
-我聽了，回答說：
-「誰會不知道你的底細呢？
-很久以前，歐奇奇里穆伊前往山中，
-建造狩獵小屋時，用榛木做了爐緣。
-那爐緣被火烘烤得乾燥易裂。
-歐奇奇里穆伊一踩爐緣的一端，另一端便翹起。
-歐奇奇里穆伊一怒之下，便將那爐緣丟進河裡。
-
-從此，那爐緣便順著河流漂流，最終流入大海。
-眾神看見它被遠方的海浪、近處的海浪拍打，
-認為敬愛的歐奇奇里穆伊親手製作之物，
-竟落得如此下場，毫無用處地漂流，最終與海水一同腐朽，實在可惜。
-於是，眾神便將那爐緣變成了魚，
-並稱之為爐緣魚。
-
-然而，那爐緣魚不知自己的身世，
+霍特瑙
+某日，我百般無聊，便來到海邊，
+在那裡玩耍時，來了一個小矮人。
+我往河下游走去，
+他也跟著往河下游走，
+我往河上游走去，他也跟著往河上游走，擋住了我的去路。
+如此往河下游六次，
+往河上游六次之後，小矮人
+終於按捺不住，面露怒色地說道：
+「匹伊匹伊，
+你這小鬼，真是個壞小子，若你敢這麼做，
+就說說看，這海岬，過去的名字和現在的名字！」
+我聽了，笑著回答說：
+「誰會不知道這海岬過去的名字和
+現在的名字呢！
+從前，因為有尊貴偉大的神明和人類居住於此，
+所以這海岬被稱為神之岬，
+但如今時代衰落，
+便被稱作御幣之岬了！」
+聽我說完，小矮人說道：
+「匹伊頓，匹伊頓，
+你這小鬼，若你真這麼厲害，
+就說說看，這條河過去的名字和現在的名字。」
+聽了，我回答說：
+「誰會不知道這條河過去的
+名字和現在的名字呢！
+從前，在那個偉大的時代，這條河被稱為
+水流湍急之河，
+但如今世道衰敗，便被稱作水流遲緩之河了。」
+聽我說完，小矮人說道：
+「匹伊頓頓，匹伊頓頓，
+你若真這麼厲害，
+不如我們來互相揭露彼此的底細吧。」
+聽了，我回答說：
+「誰會不知道你的底細呢！
+很久以前，歐奇奇里穆伊去山裡
+建造狩獵小屋時，用榛木做了爐緣，
+那爐緣被火烤得乾燥。
+歐奇奇里穆伊一踩爐緣的一端，另一端就會
+翹起來，歐奇奇里穆伊對此感到惱火，
+便把那爐緣帶到河邊
+丟棄了。
+之後，那爐緣便順著河流漂流，
+流向大海，神明們看見它被遠方的海浪，近處的海浪
+拍打的樣子，
+認為敬愛的偉大歐奇奇里穆伊親手製作的東西竟然如此
+毫無用處地漂流，最終與海水一同腐爛，實在是
+太可惜了，於是神明們便將
+那爐緣變成了魚，
+並將其命名為爐緣魚。
+然而，那爐緣魚因為不知道自己的身世，
 便化為人形四處遊蕩。
-你，就是那條爐緣魚！」
-
-小矮人聽了，面色數變，
+那爐緣魚就是你啊。」
+聽我說完，小矮人面色
+數變，
 「匹伊頓頓，匹伊頓頓！
-你，是隻小小的，狼之子啊！」
-
-話音未落，便立刻「撲通」一聲跳入海中。
-我目送著他，只見一條紅色的魚，
-擺動著尾鰭，徑直游向遠方。
-
-——幼狼之神如是說。
+你，是隻小小的，狼崽子啊。」
+話音剛落，他便立刻撲通一聲跳入海中。
+我目送著他，只見一條紅色的魚
+擺動著尾鰭，一直游向遠方。
+這就是，年幼的狼神講述的故事。
 
 This is the Chinese Translation 2.
-霍特瑙。
-有一日，我感到百般無聊，便下到海灘嬉戲。
-來了一個小矮人。
-我順流而下，他也順流而下。
-我逆流而上，他也逆流而上，擋住我的去路。
-順流而下六次，逆流而上也是六次，都是如此。
-小矮人怒火中燒，面露慍色，說道：
-「Pii-pii！
-你這小毛孩，壞心眼的小毛孩！你要是再這樣，
-就說出這海岬的古名和現名！」
-我聽了，笑着說道：
-「誰不知道這海岬的古名和現名？
-往昔，因為有受人敬仰的偉大神祇和人民，
-這海岬被稱作神之岬。
-但如今，因為世道衰微，
-它被稱作努薩岬！」
-小矮人聽了，說道：
-「Pii-ton，pii-ton！
-你這小毛孩，如果你真的知道這麼多，
-就說出這條河的古名和現名！」
-我聽着他的話，說道：
-「誰不知道這條河的古名和現名？
-在古老而偉大的時代，這條河被稱作
-湍流之河，
-但如今世道衰微，它被稱作
-緩流之河。」
-小矮人聽了，說道：
-「Pii-ton-ton，pii-ton-ton！
-如果你真的知道這麼多，我們就來考驗彼此的來歷。」
-我聽着他的話，說道：
-「誰不知道你的來歷？
-很久以前，當Okikirmui去山裡
-建造狩獵小屋時，他用*hasibami*（榛木）做了個*robuchi*（爐框）。
-當*robuchi*暴露在火中時，它完全乾透了。
-當Okikirmui踩在一邊時，另一邊就會翹起來。
-Okikirmui對此感到惱火，
-便把*robuchi*拿到河邊
+霍特瑙
+有一天，我感到無聊，便下到海灘，
+當我玩耍時，一個小矮人出現了。
+當我順流而下時，
+他也順流而下。
+當我逆流而上時，他也逆流而上，擋住了我的去路。
+這種情況發生了六次順流而下，
+六次逆流而上，直到那個小矮人，
+他天生的脾氣爆發了，皺著眉頭說：
+「皮——皮！
+你這個小傢伙，你這個邪惡的小傢伙！如果你要這樣做，
+告訴我這個海角的古老名字和現在的名字，
+如果你能的話！」
+我聽了，笑著回答：
+「誰不知道這個海角的古老名字和現在的名字！
+在過去，當有高貴而偉大的神和人類時，
+這個海角被稱為神之岬，
+但現在時代衰落了，
+它被稱為御幣之岬！」
+聽到這話，小矮人說：
+「皮——頓，皮——頓！
+你這個小傢伙，如果你真的知道這麼多，
+告訴我這條河的古老名字和現在的名字。」
+聽著他的話，我說：
+「誰不知道這條河的古老名字
+和現在的名字！
+在過去，在偉大的時代，這條河
+被稱為急流之河，
+但現在世界正在衰落，它被稱為緩流之河。」
+聽到這話，小矮人說：
+「皮——頓——頓，皮——頓——頓！
+如果你真的知道這麼多，
+讓我們互相考驗一下彼此的起源。」
+聽著他的話，我說：
+「誰不知道你的起源！
+很久以前，當奧基克爾穆伊去山上
+建造一個狩獵小屋時，他用榛木做了一個爐框。
+當那個爐框暴露在火中時，它變得脆弱而乾燥。
+當奧基克爾穆伊踩在一邊時，另一邊
+升了起來，奧基克爾穆伊對此感到憤怒，
+把爐框帶到河邊
 扔掉了。
-然後，*robuchi*順着水流
-漂到海裡，眾神看着
-它被海浪遠近拋擲。
-眾神心想，
-『由受人敬仰的偉大Okikirmui所造之物，
-如此漫無目的地漂流，被海水腐蝕，毫無用處，實在是浪費。』
-於是眾神將
-*robuchi*變成了一條魚，
-並將其命名為*Robuchi*魚。
-然而，*Robuchi*魚不知道自己的來歷，
-便偽裝成人四處遊蕩。
-那條*Robuchi*魚就是你！」
-小矮人聽了，臉色大變。
-「Pii-ton-ton，pii-ton-ton！
-你是一隻小狼崽！」
-話音剛落，他就濺入海中。
-我望着他，看到一條紅色的魚
-擺動着尾鰭，向遠海游去。
-這就是年輕的狼神所講述的故事。
+然後那個爐框沿著水流漂浮
+到海裡，眾神看著
+它被遠處的波浪和這裡的波浪拋來拋去，
+心想，『被尊敬而偉大的奧基克爾穆伊的手所造的東西
+漫無目的地漂流，被海水腐蝕，毫無用處，這是一種浪費。』所以眾神
+把那個爐框變成了一條魚，
+它被命名為爐框魚。
+然而，那條爐框魚，不知道自己的起源，
+把自己偽裝成一個人四處遊蕩。
+那條爐框魚就是你。」
+聽到這話，小矮人的臉
+反覆變色，
+「皮——頓——頓，皮——頓——頓！
+你是一隻小小的、年輕的狼
+神。」
+他一說完，就濺入海中。
+當我看著他離開時，一條紅色的魚
+擺動著尾鰭，向遠海游去。
+所以，年輕的狼神講述了他的故事。
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand | Poetic Flow | Total Score |
 | ------------- | -------- | ------------------ | ------------ | ------------ |
-| Translation 1 | 4 | 5 | 4 | 4.3 |
-| Translation 2 | 3 | 3 | 2 | 2.8 |
+| Translation 1 | 4 | 4 | 4 | 4.0 |
+| Translation 2 | 4 | 3 | 3 | 3.7 |
 
 ### Comments
 #### Translation 1
-Generally well-translated, maintaining the narrative flow. Some phrases could be more nuanced to capture the original Ainu spirit, but overall, it's accurate and understandable.
+Translation 1 uses more common and natural Chinese expressions. It also maintains a slightly more poetic tone.
 
 #### Translation 2
-This translation is more literal and includes transliterated Japanese terms, which detracts from its readability and flow in Chinese. While attempting to be faithful, it becomes less accessible and less poetic.
+Translation 2 is more literal and sometimes uses slightly awkward phrasing. However, it is still understandable.
 
 ### Better Choice
 Translation 1
 #### Comment
-Translation 1 is better because it maintains a more consistent and natural flow in modern Chinese. Translation 2 includes transliterations of Japanese words (hasibami, robuchi) which disrupt the flow and make it less accessible to a general Chinese audience. While Translation 2 attempts to be more literal in some instances, it sacrifices overall readability and poetic quality. Translation 1 also avoids unnecessary repetition, making it more concise and engaging.
+Translation 1 is slightly better because it uses more natural and concise language, making it easier to read and understand. For example, the phrase "百般無聊" is more common than "感到無聊" in Translation 2. Additionally, Translation 1 maintains a slightly more poetic tone, which is appropriate for the source material.
 
 ### Updated Output
 ```
-小狼神親自吟唱的歌謠
-
-「霍提納奧」
-
+霍特瑙
 某日，我百般無聊，便來到海邊。
-嬉戲之時，見一小矮人前來。
-我往河下游去，他也跟著下游；
-我往河上游去，他也跟著上游，阻擋我的去路。
-
-如此在下游往返六次，上游往返六次後，
-小矮人終於按捺不住，怒容滿面地說道：
-「匹伊匹伊！
-你這小鬼，真是個壞小子！
-若你真有本事，就說出這海岬的古名和今名！」
-
-我聽了，笑著回答：
-「誰會不知道這海岬的古名和今名呢？
-往昔，因有尊貴偉大的神祇和人類居住於此，
-故稱此海岬為神之岬。
-如今，時代衰頹，便稱之為御幣之岬！」
-
-小矮人聽罷，又說：
-「匹伊頓，匹伊頓！
-你這小鬼，若你真有本事，
-就說出這條河的舊名和現名！」
-
-我聽了，便說：
-「誰會不知道這條河的舊名和現名呢？
-往昔，在那個偉大的時代，這條河被稱為水流湍急之河。
-如今，世道衰敗，便稱之為水流遲緩之河！」
-
-小矮人聽後，嚷道：
-「匹伊頓頓，匹伊頓頓！
-你若真有本事，不如我們來互相揭露彼此的底細！」
-
-我聽了，回答說：
-「誰會不知道你的底細呢？
-很久以前，歐奇奇里穆伊前往山中，
-建造狩獵小屋時，用榛木做了爐緣。
-那爐緣被火烘烤得乾燥易裂。
-歐奇奇里穆伊一踩爐緣的一端，另一端便翹起。
-歐奇奇里穆伊一怒之下，便將那爐緣丟進河裡。
-
-從此，那爐緣便順著河流漂流，最終流入大海。
-眾神看見它被遠方的海浪、近處的海浪拍打，
-認為敬愛的歐奇奇里穆伊親手製作之物，
-竟落得如此下場，毫無用處地漂流，最終與海水一同腐朽，實在可惜。
-於是，眾神便將那爐緣變成了魚，
-並稱之為爐緣魚。
-
-然而，那爐緣魚不知自己的身世，
+在那裡玩耍時，來了一個小矮人。
+我往河下游走去，
+他也跟著往河下游走，
+我往河上游走去，他也跟著往河上游走，擋住了我的去路。
+如此往河下游六次，
+往河上游六次之後，小矮人
+終於按捺不住，面露怒色地說道：
+「匹伊匹伊，
+你這小鬼，真是個壞小子，若你敢這麼做，
+就說說看，這海岬，過去的名字和現在的名字！」
+我聽了，笑著回答說：
+「誰會不知道這海岬過去的名字和
+現在的名字呢！
+從前，因為有尊貴偉大的神明和人類居住於此，
+所以這海岬被稱為神之岬，
+但如今時代衰落，
+便被稱作御幣之岬了！」
+聽我說完，小矮人說道：
+「匹伊頓，匹伊頓，
+你這小鬼，若你真這麼厲害，
+就說說看，這條河過去的名字和現在的名字。」
+聽了，我回答說：
+「誰會不知道這條河過去的
+名字和現在的名字呢！
+從前，在那個偉大的時代，這條河被稱為
+水流湍急之河，
+但如今世道衰敗，便被稱作水流遲緩之河了。」
+聽我說完，小矮人說道：
+「匹伊頓頓，匹伊頓頓，
+你若真這麼厲害，
+不如我們來互相揭露彼此的底細吧。」
+聽了，我回答說：
+「誰會不知道你的底細呢！
+很久以前，歐奇奇里穆伊去山裡
+建造狩獵小屋時，用榛木做了爐緣，
+那爐緣被火烤得乾燥。
+歐奇奇里穆伊一踩爐緣的一端，另一端就會
+翹起來，歐奇奇里穆伊對此感到惱火，
+便把那爐緣帶到河邊
+丟棄了。
+之後，那爐緣便順著河流漂流，
+流向大海，神明們看見它被遠方的海浪，近處的海浪
+拍打的樣子，
+認為敬愛的偉大歐奇奇里穆伊親手製作的東西竟然如此
+毫無用處地漂流，最終與海水一同腐爛，實在是
+太可惜了，於是神明們便將
+那爐緣變成了魚，
+並將其命名為爐緣魚。
+然而，那爐緣魚因為不知道自己的身世，
 便化為人形四處遊蕩。
-你，就是那條爐緣魚！」
-
-小矮人聽了，面色數變，
+那爐緣魚就是你啊。」
+聽我說完，小矮人面色
+數變，
 「匹伊頓頓，匹伊頓頓！
-你，是隻小小的，狼之子啊！」
-
-話音未落，便立刻「撲通」一聲跳入海中。
-我目送著他，只見一條紅色的魚，
-擺動著尾鰭，徑直游向遠方。
-
-——幼狼之神如是說。
+你，是隻小小的，狼崽子啊。」
+話音剛落，他便立刻撲通一聲跳入海中。
+我目送著他，只見一條紅色的魚
+擺動著尾鰭，一直游向遠方。
+這就是，年幼的狼神講述的故事。
 ```
 

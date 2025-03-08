@@ -4,26 +4,28 @@
 
 ## Isepo yaieyukar, “Sampaya terke” 
 ## 兎が自ら歌った謡「サンパヤ テレケ」
-## Sanpaya Tereke (Rabbit's Chant)
+## The Hare's Song: Sanpaya Tereke
 
 ### System prompt
 ```
 You are a professional translator. 
-You know Japanese, Chinese and English. 
+You only know Japanese, Chinese and English. 
 You can translate Japanese into either Chinese or English. 
 You can also translate Chinese into English, and English into Chinese.
+All the translations should keep the original meaning.
+All the translations only contain characters of the source and target languages.
 
 
 ```
 
 ### Prompt
 ```
-You are translating the following Japanese text into English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
+You are translating the following text from source language Japanese into target language English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
 You have 2 versions of English translations at hand.
 
 Here are your tasks:
 
-1. Compare the two English translations with the original Japanese text. List out the Pros and Cons of the Translations.
+1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.
 2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].
 Where one star means "Nonsense/No meaning preserved",
 two stars mean "Some meaning preserved, but not understandable",
@@ -48,7 +50,7 @@ and five stars mean "All part of the text is a poet and rhythmic. It is a chant.
 5. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (50%). Easiness to understanding is the second (30%). Poetic flow is the third (20%).
 6. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.
 
-Keep the original meaning accurately.
+Keep the original meaning accurately. 
 If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
@@ -162,297 +164,305 @@ This is the Japanese text.
 This is the English Translation 1.
 Sanpaya Tereke
 Across two valleys, leaping over three,
-I followed my elder brother to the mountains, playing as we went.
-Day after day, I trailed behind him,
-And saw that humans had set a crossbow trap.
-My brother would destroy these traps,
-And I would laugh at their futile efforts.
+I followed my elder brother to the mountains, playing along the way.
+Each day I went after my brother,
+And saw that humans had set a crossbow trap. My brother would break these traps,
+And I would laugh at this.
 But on this day,
 Unexpectedly,
 My brother was caught in a crossbow, crying out in pain.
-Startled, I rushed to his side.
-Weeping, he said to me,
-"Oh, little brother, run now,
-Go back to our village,
-And shout, 'My brother is caught in a crossbow! – Hoohohooi!'
-Cry it out loud."
+Startled, I flew to his side.
+My brother, weeping, said to me,
+'Oh, little brother, now you must run,
+Go behind our village,
+And shout loudly, "Brother is caught in a crossbow!" – Hohohoi!'
 I listened and replied,
-"Yes, yes," and then,
+'Yes, yes,' and then,
 Across two valleys, leaping over three,
-I returned, playing as I went.
-I arrived at the edge of our village.
-Only then did I remember why my brother had sent me.
+I came playing to the rear of our village.
+There, I finally remembered why my brother had sent me.
 I tried to shout the message,
-But I had completely forgotten what he had told me to say.
-I stood there, trying to recall,
-But it was no use.
+But I had completely forgotten what my brother had told me to say.
+I stood there, trying to remember, but I couldn't.
 Then again,
 Across two valleys, over three,
 I leaped and bounded back,
-To where my brother was.
+To where my brother was,
 But he was gone.
 Only his blood remained.
-(Here the story takes a turn)
+(Here the story shifts)
 Ketoka woiwoi ketoka, ketoka woi ketoka
-Day after day, I went to the mountains,
+Every day I went to the mountains,
 Destroying the crossbows that humans set,
 Finding amusement in it.
-Then one day, at the usual place, a crossbow was set,
-And beside it, a small mugwort crossbow.
+But one day, at the usual place, a crossbow was set,
+And beside it, a small crossbow made of mugwort.
 Seeing it, I thought,
-"What could this be for?"
-Amused, I touched it lightly.
+'What is this for?'
+And, finding it funny, I touched it.
 I tried to escape immediately,
 But unexpectedly,
-I was caught in the crossbow, held fast.
+I was caught in the crossbow, trapped completely.
 The more I struggled,
-The tighter it gripped me, and I could do nothing.
-I wept,
-And something flew to my side.
+The tighter it became, and I could do nothing.
+I was crying,
+When something flew to my side.
 It was my younger brother.
-I rejoiced and told him to inform our kin of what had happened.
-But no sound came, no one arrived.
+I rejoiced and told him to inform our kin of what had happened,
+But no sound came, no matter how long I waited.
 As I wept, a shadow appeared beside me.
-It was a young man, beautiful as a god.
+It was a young human, beautiful as a god,
 Smiling, he took me,
-And carried me away.
-I saw a great house filled with divine treasures.
+And carried me away. I saw that
+A large house was filled with divine treasures.
 The young man lit a fire,
-Placed a large pot over the flames, drew a knife,
+Placed a large pot over it, drew a sword,
 And cut my body, skin and all, into pieces,
-Filling the pot to the brim.
-Then he thrust my head under the pot,
-stoking the fire.
-Desperate to escape, I watched for an opening.
+Filling the pot. Then he put my head under the pot,
+And started the fire.
+Desperate to escape, I looked for an opening,
 But the young man never took his eyes off me.
-"If the pot boils and I am cooked,
-I will suffer a meaningless, terrible death."
-I watched for the young man's moment of inattention,
-And finally,
-I transformed myself into a single piece of meat,
-Mingled with the rising steam, and climbed to the pot's edge.
-I leaped to the left side,
-And immediately fled outdoors, weeping.
-Breathless, I ran to my home,
-Relieved to have escaped such danger.
+'If the pot boils and I am cooked,
+I will die a meaningless, terrible death!' I thought.
+I watched for the young man's carelessness,
+And finally transformed myself into a piece of meat,
+Mingled with the rising steam, climbed to the pot's edge,
+Leapt to the left side, and immediately
+Fled outside, crying.
+I ran, breathless, until I reached
+My home, and sighed in relief that I was safe.
 Looking back,
-I realized that the mere human, the mere young man,
-Was Okikirmui, a god of immense power.
-He was greatly angered by my daily mischief
-Of destroying the crossbows that the humans set.
-Okikirmui tried to kill me with the mugwort crossbow,
-But I am not a god of low standing.
-If I were to die a meaningless, terrible death,
-My relatives would be troubled and lost.
-He took pity on them and me,
-And so, he did not pursue me when I fled.
-From that day on, the hare,
-Who was once as large as a deer,
-Became as small as a piece of Okikirmui's flesh,
+I realized that the human, the young man,
+Was none other than Okikirmui, a god-like, powerful being.
+Okikirmui was greatly angered by my daily mischief
+Of destroying the crossbows set by humans, and tried to kill me with a small mugwort crossbow.
+But, because I was not just any minor god, and a meaningless, terrible death
+Would trouble and confuse my relatives,
+He took pity on me
+And did not chase after me when I escaped.
+Since then, the hare,
+Which was once as large as a deer,
+Became as small as a piece of Okikirmui's flesh
 because of my mischief.
-All of our kind will be this size from now on.
-Hares of the future, never be mischievous!
-So taught the leader of the hares to his children, and then he died.
+From now on, our companions will all be this size.
+From now on, hares, never be mischievous.
+So, the hare chief taught his children before he died.
 
 This is the English Translation 2.
-Across two valleys, then three,
+Crossing two valleys, leaping over three,
 I frolicked, following my brother into the mountains.
-Day after day, I trailed behind,
-Watching as he destroyed the crossbow traps set by humans.
-I always laughed at this,
-But on this one fateful day,
-I never imagined,
-My brother would be caught in a crossbow, wailing in pain.
-Startled, I rushed to his side,
-He cried out to me:
-"Little brother, run now,
-To the back of our village,
-And shout – Brother is trapped by a crossbow! – フオホホーイ!"
-I listened,
-Responding, "Yes, yes!" And then,
-Across two valleys, then three,
-I skipped along,
-Reaching the back of our village.
-There, I remembered why my brother had sent me,
-I was about to shout,
-But I completely forgot what he had told me to say.
-I stood there, blank, trying to recall, but I couldn't remember.
-Then, again,
-Across two valleys, across three valleys,
-I leaped back, I raced back,
-To where my brother was,
-But found only emptiness.
-Only my brother's blood, splattered everywhere.
-(The story shifts here)
-ケトカ ウォイウォイ ケトカ,ケトカ ウォイ ケトカ
-Day after day, I went into the mountains,
-Destroying the crossbow traps set by humans,
-And taking pleasure in it.
-One day, I returned to the same place and found
-A crossbow set there,
-And beside it, a small mugwort crossbow.
-Seeing it, I thought:
-"What is this thing? What use is it?"
-Finding it laughable, I
-Touched it slightly, intending to run away immediately,
-But never imagined,
-I would be tightly trapped by that crossbow.
-The more I struggled,
-The tighter it became, and I was helpless, only able to weep.
-At that moment, something
-Flew to my side, and I saw it was my little brother.
-Overjoyed, I told him to inform our kin,
-But waited for a long time, yet heard nothing.
-As I wept,
-A figure appeared beside me, and I saw
-A human youth, beautiful as a god.
-Smiling, he seized me,
-And took me to a place. I saw,
-It was a huge house, filled with sacred treasures.
-The youth lit a fire,
-Placed a large pot over the flames, drew a hanging knife,
-Chopped my body, skin and bones, into small pieces,
-Filled the entire pot, then held the bottom of the pot to my head, constantly
-Lighting the fire and boiling me. I desperately wanted to
-Escape, so I watched for an opening in the human youth's attention,
-But he watched me without blinking.
-"If the pot boils and I am cooked to mush,
-It will be a meaningless death, a death without a burial place."
-Thinking this, I watched for a moment of carelessness from the human youth,
-Finally, I transformed myself into a slice of meat,
-Mixed into the rising steam, climbed onto the edge of the pot,
-Jumped onto the seat to the left, and immediately
-Rushed out of the house, weeping,
-Panting, I fled back to my home,
-Relieved to have escaped with my life.
-Looking back,
-I had thought he was just an ordinary human, an ordinary youth,
-But I never imagined he was オキキリムイ, a being as powerful as a god.
-I had thought they were just crossbows set by humans, so I
-Played pranks day after day,
-オキキリムイ was very angry about this, and used a small mugwort crossbow
-To try to kill me, but I am not
-Just a god of low status, if I were to die meaninglessly, without a burial place,
-My kin would be confused and saddened,
-He pitied us,
-Therefore, when I ran away, he did not chase after me.
-From then on, originally
-Rabbits had bodies as large as deer,
-But because I played such a prank,
-I became as small as a slice of meat from オキキリムイ.
-From now on, our companions will all be this size.
-From now on, rabbits, never play pranks again.
-The rabbit leader taught the children this, and then passed away.
+Day after day, behind him I'd see,
+The crossbow traps of men, which he would shatter,
+While I stood by, and laughed with glee.
+
+One day, as usual, I went ahead,
+Never imagining what lay in store instead.
+My brother, caught within a snare,
+Trapped by a crossbow, wailing in despair.
+
+I rushed to him, aghast and shaken,
+He cried, "Dear brother, now forsaken,
+Hurry back to our village's rear,
+And shout aloud—'My brother's trapped, oh hear! Ho-o! Ho-o-i!'"
+
+I listened close, and quick replied, "I will!"
+Then crossed two valleys, leaping three, until
+I reached our village's hidden side.
+
+Then I recalled the task he gave,
+But all the words had fled my knave.
+I stood there, blank, and tried to grasp,
+But memory's hold had come unclasped.
+
+So back again, I went once more,
+Across two valleys, leaping three before,
+Reversed my path, with hurried bound,
+But found him gone, no trace around.
+Only his blood, upon the ground.
+
+(The story shifts, a different way)
+
+Ketoka, woi woi, ketoka, ketoka, woi ketoka.
+
+Each day I went into the hills,
+Destroying human traps, fulfilling thrills.
+One day I came upon a place,
+Where crossbows stood, in grim embrace.
+And by their side, a tiny thing,
+A crossbow made of wormwood, offering.
+
+I saw it there, and thought with scorn,
+"What use is this, so small, forlorn?"
+I touched it then, to run away,
+But found myself held fast that day.
+
+The more I struggled, more it bound,
+In tears, I knew I was earth-bound.
+Then something flew, and landed near,
+My brother came, dispelling fear.
+I bid him tell our kin my plight,
+But silence stretched throughout the night.
+
+I wept, until a form appeared,
+A human youth, divinely revered.
+He smiled, and seized me in his hand,
+And led me to a wondrous land.
+A giant house, with treasures bright,
+Filled with objects of sacred light.
+
+He lit a fire, placed a pot above,
+Drew out a knife, with cruelest love,
+And chopped my body, skin and bone,
+To fill the pot, and claim his own.
+My head he forced beneath the rest,
+And stoked the flames, put to the test.
+
+I sought a way to break the spell,
+To find a flaw, where I might dwell.
+But he was watchful, ever near,
+"If I am boiled, consumed with fear,
+My death is meaningless and vain!"
+
+I sought his lapse, to break the chain,
+And turned myself to vaporous meat,
+Escaped the pot, with hurried feet,
+Leapt to the seat upon the left,
+And fled outside, of sense bereft.
+I ran and wept, with gasping breath,
+And reached my home, escaping death.
+
+Too close, too close, I sighed with dread,
+Then turned to see the path I'd tread.
+The human youth, so plain and mild,
+Was Okikirmui, a god beguiled.
+I thought the traps were human-made,
+But Okikirmui, was dismayed.
+He sought to kill me with the small,
+Wormwood crossbow, standing tall.
+But I, too, am a god of might,
+And if I died, in such a plight,
+My kin would grieve, in deep despair,
+So Okikirmui, showed me care.
+
+He let me flee, he did not chase,
+And since that day, the rabbit race,
+Once large as deer, now small and meek,
+Became a scrap, a god's mystique.
+From now on, all our kin shall be,
+As small as this, for all to see.
+
+"From now on, rabbits, mischief cease!"
+The rabbit chief taught, then found release.
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand | Poetic Flow | Total Score |
 | ------------- | -------- | ------------------ | ------------ | ------------ |
-| Translation 1 | 4 | 5 | 3 | 4.0 |
-| Translation 2 | 5 | 4 | 4 | 4.5 |
+| Translation 1 | 4 | 4 | 3 | 3.9 |
+| Translation 2 | 3 | 3 | 4 | 3.2 |
 
 ### Comments
 #### Translation 1
-Translation 1 is a straightforward and clear rendition of the Japanese text into English. It is easily understandable and maintains the narrative flow. However, it lacks some of the cultural nuances and poetic elements present in the original Ainu chant.
+This translation is more literal and focuses on conveying the direct meaning of the text. It is generally easier to understand but lacks some of the poetic elements.
 
 #### Translation 2
-Translation 2 is more evocative and culturally sensitive. It retains some of the original Japanese terms, adding depth to the translation. The language used is slightly more poetic, capturing the essence of a traditional chant. However, it could be slightly improved in terms of clarity in certain phrases.
+This translation attempts to create a more poetic and rhythmic version of the text. While it succeeds in this aspect, it sometimes sacrifices accuracy and clarity for the sake of rhyme and meter. Some parts are difficult to understand without referring to the original Japanese.
 
 ### Better Choice
-Translation 2
+Translation 1
 #### Comment
-Translation 2 captures the nuances and cultural elements of the Ainu chant more effectively. It retains the original term "フオホホーイ" and "オキキリムイ", preserving the cultural context. The language used is also slightly more evocative and closer to the original intent. While both translations are good, Translation 2 edges out Translation 1 in terms of cultural accuracy and poetic feel.
+Translation 1 is more accurate in conveying the original meaning and easier to understand, although it lacks the poetic flow present in Translation 2. The weighted score reflects this, prioritizing accuracy and understandability.
 
 ### Updated Output
 ```
-Across two valleys, then three,
-I frolicked, following my brother into the mountains.
-Day after day, I trailed behind,
-Watching as he destroyed the crossbow traps set by humans.
-I always laughed at this,
-But on this one fateful day,
-I never imagined,
-My brother would be caught in a crossbow, wailing in pain.
-Startled, I rushed to his side,
-He cried out to me:
-"Little brother, run now,
-To the back of our village,
-And shout – Brother is trapped by a crossbow! – フオホホーイ!"
-I listened,
-Responding, "Yes, yes!" And then,
-Across two valleys, then three,
-I skipped along, playing as I went,
-Reaching the back of our village.
-There, I remembered why my brother had sent me,
-I was about to shout,
-But I completely forgot what he had told me to say.
-I stood there, blank, trying to recall, but I couldn't remember.
-Then, again,
-Across two valleys, across three valleys,
-I leaped back, I raced back,
+Sanpaya Tereke
+
+Across two valleys, leaping over three,
+I followed my elder brother to the mountains, playing along the way.
+Each day I went after my brother,
+And saw that humans had set a crossbow trap. My brother would break these traps,
+And I would laugh at this.
+But on this day,
+Unexpectedly,
+My brother was caught in a crossbow, crying out in pain.
+Startled, I flew to his side.
+My brother, weeping, said to me,
+'Oh, little brother, now you must run,
+Go behind our village,
+And shout loudly, "Brother is caught in a crossbow!" – Hohohoi!'
+I listened and replied, 'I will!'
+Then,
+Across two valleys, leaping over three,
+I came playing to the rear of our village.
+There, I finally remembered why my brother had sent me.
+But all the words had fled my knave.
+I stood there, blank, and tried to grasp,
+But memory's hold had come unclasped.
+Then again,
+Across two valleys, over three,
+I leaped and bounded back,
 To where my brother was,
-But found only emptiness.
-Only my brother's blood, splattered everywhere.
-(The story shifts here)
+But he was gone.
+Only his blood remained.
+
+(Here the story shifts)
+
 Ketoka woiwoi ketoka, ketoka woi ketoka
-Day after day, I went into the mountains,
-Destroying the crossbow traps set by humans,
-And taking pleasure in it.
-One day, I returned to the same place and found
-A crossbow set there,
-And beside it, a small mugwort crossbow.
-Seeing it, I thought:
-"What is this thing? What use is it?"
-Finding it laughable, I
-Touched it slightly, intending to run away immediately,
-But never imagined,
-I would be tightly trapped by that crossbow.
+
+Every day I went into the hills,
+Destroying human traps, fulfilling thrills.
+But one day, at the usual place, a crossbow was set,
+And beside it, a small crossbow made of mugwort.
+Seeing it, I thought,
+'What is this for?'
+And, finding it funny, I touched it.
+I tried to escape immediately,
+But unexpectedly,
+I was caught in the crossbow, trapped completely.
 The more I struggled,
-The tighter it became, and I was helpless, only able to weep.
-At that moment, something
-Flew to my side, and I saw it was my little brother.
-Overjoyed, I told him to inform our kin,
-But waited for a long time, yet heard nothing.
-As I wept,
-A figure appeared beside me, and I saw
-A human youth, beautiful as a god.
-Smiling, he seized me,
-And took me to a place. I saw,
-It was a huge house, filled with sacred treasures.
-The youth lit a fire,
-Placed a large pot over the flames, drew a hanging knife,
-Chopped my body, skin and bones, into small pieces,
-Filled the entire pot, then held the bottom of the pot to my head, constantly
-Lighting the fire and boiling me. I desperately wanted to
-Escape, so I watched for an opening in the human youth's attention,
-But he watched me without blinking.
-"If the pot boils and I am cooked to mush,
-It will be a meaningless death, a death without a burial place."
-Thinking this, I watched for a moment of carelessness from the human youth,
-Finally, I transformed myself into a slice of meat,
-Mixed into the rising steam, climbed onto the edge of the pot,
-Jumped onto the seat to the left, and immediately
-Rushed out of the house, weeping,
-Panting, I fled back to my home,
-Relieved to have escaped with my life.
+The tighter it became, and I could do nothing.
+I was crying,
+When something flew to my side.
+It was my younger brother.
+I rejoiced and told him to inform our kin of what had happened,
+But silence stretched throughout the night.
+As I wept, a shadow appeared beside me.
+It was a young human, beautiful as a god,
+Smiling, he took me,
+And carried me away. I saw that
+A large house was filled with divine treasures.
+The young man lit a fire,
+Placed a large pot over it, drew a sword,
+And cut my body, skin and all, into pieces,
+Filling the pot. Then he put my head under the pot,
+And started the fire.
+Desperate to escape, I looked for an opening,
+But the young man never took his eyes off me.
+'If the pot boils and I am cooked,
+I will die a meaningless, terrible death!' I thought.
+I watched for the young man's carelessness,
+And finally transformed myself into a piece of meat,
+Mingled with the rising steam, climbed to the pot's edge,
+Leapt to the left side, and immediately
+Fled outside, crying.
+I ran and wept, with gasping breath, until I reached
+My home, and sighed in relief that I was safe.
 Looking back,
-I had thought he was just an ordinary human, an ordinary youth,
-But I never imagined he was オキキリムイ, a being as powerful as a god.
-I had thought they were just crossbows set by humans, so I
-Played pranks day after day,
-オキキリムイ was very angry about this, and used a small mugwort crossbow
-To try to kill me, but I am not
-Just a god of low status, if I were to die meaninglessly, without a burial place,
-My kin would be confused and saddened,
-He pitied us,
-Therefore, when I ran away, he did not chase after me.
-From then on, originally
-Rabbits had bodies as large as deer,
-But because I played such a prank,
-I became as small as a slice of meat from オキキリムイ.
+I realized that the human, the young man,
+Was none other than Okikirmui, a god-like, powerful being.
+Okikirmui was greatly angered by my daily mischief
+Of destroying the crossbows set by humans, and tried to kill me with a small mugwort crossbow.
+But, because I was not just any minor god, and a meaningless, terrible death
+Would trouble and confuse my relatives,
+He took pity on me
+And did not chase after me when I escaped.
+Since then, the hare,
+Which was once as large as a deer,
+Became as small as a piece of Okikirmui's flesh
+because of my mischief.
 From now on, our companions will all be this size.
-Hares of the future, never play pranks again.
-The rabbit leader taught the children this, and then passed away.
+From now on, hares, never be mischievous.
+So, the hare chief taught his children before he died.
 ```
 

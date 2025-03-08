@@ -4,26 +4,28 @@
 
 ## Chironnup yaieyukar, “Towa towa to” 
 ## 狐が自ら歌った謡「トワトワト」
-## The Fox's Song: Towa Towato
+## The Fox's Song: Towatowato
 
 ### System prompt
 ```
 You are a professional translator. 
-You know Japanese, Chinese and English. 
+You only know Japanese, Chinese and English. 
 You can translate Japanese into either Chinese or English. 
 You can also translate Chinese into English, and English into Chinese.
+All the translations should keep the original meaning.
+All the translations only contain characters of the source and target languages.
 
 
 ```
 
 ### Prompt
 ```
-You are translating the following Japanese text into English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
+You are translating the following text from source language Japanese into target language English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
 You have 2 versions of English translations at hand.
 
 Here are your tasks:
 
-1. Compare the two English translations with the original Japanese text. List out the Pros and Cons of the Translations.
+1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.
 2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].
 Where one star means "Nonsense/No meaning preserved",
 two stars mean "Some meaning preserved, but not understandable",
@@ -48,7 +50,7 @@ and five stars mean "All part of the text is a poet and rhythmic. It is a chant.
 5. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (50%). Easiness to understanding is the second (30%). Poetic flow is the third (20%).
 6. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.
 
-Keep the original meaning accurately.
+Keep the original meaning accurately. 
 If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
@@ -192,450 +194,412 @@ This is the Japanese text.
 狐の頭かしらが物語りました.
 
 This is the English Translation 1.
-Towatowato,
-One day, I went to the seaside to gather food.
-Among the stones, chara-chara,
-Among the driftwood, chara-chara.
+Towatowato.
+One day, I went to the seashore to gather food.
+Chara-chara through the stones,
+Chara-chara through the wood chips.
 As I went, I looked ahead and saw
 A whale had washed ashore.
-The people were all in festive attire,
-Rejoicing in the bounty of the sea, dancing in celebration.
-Some cut the meat, others carried it.
-The important people offered thanks and prayers to the sea.
-Some sharpened their knives; the beach was black with people.
+The people were all dressed in finery,
+Rejoicing in the sea's bounty, dancing in joy,
+Some cutting the meat, others carrying it away.
+The important people offered thanks and prayers,
+Some sharpening their knives—the beach was black with them.
 Seeing this, I was overjoyed.
-"Ah, I must hurry and arrive there soon,
-I want to receive even just a little," I thought,
+"Ah, I must hurry there,
+And get even a little bit!" I thought,
 And shouting, "Banzai! Banzai!"
-Among the stones, chara-chara,
-Among the driftwood, chara-chara.
-I went closer and closer, but then,
+Chara-chara through the stones,
+Chara-chara through the wood chips.
+I went closer and closer, but then I saw,
 Unexpectedly,
-What I thought was a whale ashore
+That what I thought was a whale ashore
 Was just a dog's toilet on the beach,
 A great mountain of dung.
 That is what I had mistaken for a whale.
-What I thought were people rejoicing in the sea's bounty,
-Cutting and carrying meat,
-Were just crows
-Pecking at the dung, scattering it about,
-Flying this way and that.
+And what I thought were people rejoicing in the sea's bounty, dancing in joy,
+Cutting and carrying the meat,
+Were just crows pecking at the dung,
+Scattering it this way and that,
+Flying here and there.
 I was furious.
-"Blind, insignificant fool,
-Blind, wicked wretch,
-Stinky thing beneath the tail,
-Rotten thing beneath the tail,
-Pitch oozing from your rear,
-Filthy water flowing from your rear,
-What a way to see things!"
+"Blind, worthless fool!
+Blind, wicked fool!
+Stinky one beneath the tail!
+Rotten one beneath the tail!
+Pitch oozing from your backside!
+Filthy water dripping from your backside!
+What kind of vision is this?"
 Then again,
-Among the stones, chara-chara,
-Among the driftwood, chara-chara.
-Running from the seaside,
+Chara-chara through the stones,
+Chara-chara through the wood chips.
+Running from the seashore,
 I saw in the distance
-A boat, and in that boat
-Two people were exchanging condolences.
+A boat, and in the boat
+Two people exchanging condolences.
 "Oh, what sudden event
 Has caused them to do such a thing? Perhaps
-Someone has capsized with the boat.
-Ah, I must go closer and listen
-To what they are saying."
-So, I cried out, "Hoho-hoi!"
-Among the stones, chara-chara,
-Among the driftwood, chara-chara.
-I flew as if on wings to see,
-But what I thought was a boat was just
-A rock on the beach, and what I thought were people
+Someone has capsized with the boat?
+Ah, I must go closer
+And hear what they are saying!"
+So I shouted loudly, "Hoho-hoi!"
+Chara-chara through the stones,
+Chara-chara through the wood chips.
+I flew as if on wings, but what I thought was a boat
+Was just a rock on the beach,
+And what I thought were people
 Were just two large cormorants.
-The two large cormorants were stretching and retracting
-Their long necks, and I saw them as if they were
-Exchanging condolences.
-"Blind, insignificant fool,
-Blind, wicked wretch,
-Stinky thing beneath the tail,
-Rotten thing beneath the tail,
-Pitch oozing from your rear,
-Filthy water flowing from your rear,
-What a way to see things!"
+I saw the two large cormorants stretching and retracting their long necks,
+And mistook it for them exchanging condolences.
+"Blind, worthless fool!
+Blind, wicked fool!
+Stinky one beneath the tail!
+Rotten one beneath the tail!
+Pitch oozing from your backside!
+Filthy water dripping from your backside!
+What kind of vision is this?"
 Then again,
-Among the stones, chara-chara,
-Among the driftwood, chara-chara.
-I flew up the river,
-And far upstream,
-Two women were standing in the shallows,
-Weeping together.
-I was startled to see this.
-"Oh, what misfortune has occurred,
-What ill tidings have arrived
-That they weep together so?
-Ah, I must hurry and arrive and listen
-To what they are saying."
+Chara-chara through the stones,
+Chara-chara through the wood chips.
+I flew as if on wings, going up the river,
+And far upstream
+Two women were standing in the shallows, weeping together.
+I was startled by this.
+"Oh, what evil has occurred?
+What ill tidings have arrived that they weep so?
+Ah, I must hurry and hear what they are saying!"
 So,
-Among the stones, chara-chara,
-Among the driftwood, chara-chara.
-I flew as if on wings to see,
-But in the middle of the river were two fish weirs (yana),
-And the posts of the two weirs
-Were shaking in the current,
+Chara-chara through the stones,
+Chara-chara through the wood chips.
+I flew as if on wings, but what I saw
+Were two yana in the middle of the river,
+The posts of the two yana shaking in the current,
 And I thought the two women were looking up and down at them,
 Weeping together.
-"Blind, insignificant fool,
-Blind, wicked wretch,
-Stinky thing beneath the tail,
-Rotten thing beneath the tail,
-Pitch oozing from your rear,
-Filthy water flowing from your rear,
-What a way to see things!"
+"Blind, worthless fool!
+Blind, wicked fool!
+Stinky one beneath the tail!
+Rotten one beneath the tail!
+Pitch oozing from your backside!
+Filthy water dripping from your backside!
+What kind of vision is this?"
 Then again, I went up the river,
-Among the stones, chara-chara,
-Among the driftwood, chara-chara.
-I flew as if on wings and returned.
+Chara-chara through the stones,
+Chara-chara through the wood chips.
+I flew as if on wings, returning home.
 I looked ahead and saw
-That, for some reason,
+That somehow
 My house was ablaze,
 The smoke rising into the sky
 Like gathering clouds. Seeing this, I
 Was so startled I nearly fainted.
-I leaped up, crying out in a woman's voice,
-And from the other side,
-someone came flying toward me,
-Shouting loudly, "Hoi!" It was my wife,
-Her face pale with shock, breathless.
-"Husband, what has happened?" she asked.
-I looked, and what had seemed like a fire,
-My house stood as before.
+I leaped up, shouting in a woman's voice,
+And from the other side, someone
+Came flying towards me, shouting loudly, "Hoi!"
+It was my wife, her face pale with shock, breathless.
+"Husband, what is it?" she said.
+And then I saw
+That what looked like a fire
+Was just my house as it always was.
 No fire, no smoke.
-It was just that my wife was hulling grain (tsukimono),
-And at that moment, the wind blew strongly,
-And the blown-away rice bran (nuka)
-Was what I had seen as smoke.
-I had gone out to find food but found none, and on top of that,
+It was just that my wife was hulling grain,
+And the wind was blowing strongly,
+And I mistook the blown-away chaff
+For smoke.
+I had gone out to find food but found none, and then
 Because I shouted so loudly, my wife
-Was so startled that she threw away the grain she was hulling
-Along with the hull.
-So, tonight we have nothing to eat.
-I was furious and threw myself
-Under the bed and went to sleep.
-"Blind, insignificant fool,
-Blind, wicked wretch,
-Stinky thing beneath the tail,
-Rotten thing beneath the tail,
-Pitch oozing from your rear,
-Filthy water flowing from your rear,
-What a way to see things!"
-So,
-The fox's head told the story.
+Was so startled that she threw away the grain
+Along with the winnowing basket,
+So now we have nothing to eat tonight.
+I was furious, and threw myself onto the floor
+And went to sleep.
+"Blind, worthless fool!
+Blind, wicked fool!
+Stinky one beneath the tail!
+Rotten one beneath the tail!
+Pitch oozing from your backside!
+Filthy water dripping from your backside!
+What kind of vision is this?"
+So the fox's head told the story.
 
 This is the English Translation 2.
-Towa Towa Towa, the story unfolds,
-
-One day, I ventured to the shore, seeking sustenance.
-Among the pebbles, a rustling sound;
-Between the driftwood, a whispering noise.
-As I walked, gazing ahead,
-I saw upon the beach, a whale lay stranded.
-People adorned in finery,
-Celebrating the sea's bounty, dancing and singing;
-Rejoicing in the ocean's gift, leaping with joy.
-Some carved the whale's flesh, others carried it away.
-The esteemed elders, giving thanks to the sea god, worshipping devoutly.
-Wielders of sharpened knives, scattered across the beach, a dark, dense throng.
-
-Seeing this spectacle, my heart leaped with joy.
-"Ah, how I long to reach there swiftly,
-Even a small piece would suffice."
-I cried out, "Banzai! Banzai!"
-
-Among the pebbles, a rustling sound;
-Between the driftwood, a whispering noise.
-I journeyed onward, drawing closer, only to find,
-That reality betrayed my hopes.
+Towa towa to.
+One day, I went to the seaside, seeking food.
+Among the pebbles, shala shala,
+Between the driftwood, shala shala.
+As I walked, I gazed afar,
+And saw upon the shore, a beached whale.
+The people were adorned, joyful and excited,
+Celebrating the sea's bounty, singing and dancing,
+Those cutting the flesh, those carrying it, never ceasing,
+The respected elders, thanking the sea, praying sincerely,
+Those sharpening knives, covering the beach, a dark mass.
+Seeing this scene, my heart was gladdened.
+"Ah, if only I had arrived sooner,
+Even a little would have satisfied me."
+Thinking thus, I shouted, "Hooray! Hooray!"
+Among the pebbles, shala shala,
+Between the driftwood, shala shala.
+Approaching closer, I finally saw,
+That it was different from what I thought.
 What I thought was a beached whale,
-Was but a place on the shore where dogs relieve themselves,
-A mountain of excrement.
+Was actually a place where dogs relieve themselves on the beach,
+A mountain of feces.
 I had mistaken it for a whale.
-
-I thought people celebrated the sea's bounty, dancing and singing;
-Thought they carved whale meat, busily carrying it away,
-But in truth, it was crows,
-Pecking at the dung, scattering it about,
-Flying hither and thither.
-
+What I thought were people celebrating the sea's bounty, singing and dancing,
+Cutting flesh and carrying it, a lively scene,
+Were actually crows gathering,
+Pecking at the feces, scattering everywhere.
 My anger flared.
-"Truly short-sighted fools,
-Truly dim-eyed villains!
-Creatures reeking of stench from beneath their tails,
-Creatures rotting from beneath their tails,
-Whose anuses drip with resin,
-Whose anuses ooze with filth!
-How do you perceive the world!"
-
-Then again, I heard
-Among the pebbles, a rustling sound;
-Between the driftwood, a whispering noise.
-I ran along the shore,
-And in the distance, I saw a boat.
-Upon the boat were two figures, exchanging words of mourning.
-"Eh, what calamity has befallen?
-Why do they act in such a way? Could it be
-Someone has capsized with their vessel?
-Ah, how I long to draw near,
-To hear what they are saying."
-So I cried out, "Ohohooi!"
-
-Among the pebbles, a rustling sound;
-Between the driftwood, a whispering noise.
-I rushed forth, drawing closer, only to find,
-What I thought was a boat, was but a
-Rock upon the shore. What I thought were people,
-Were but two great pelicans.
-Two great pelicans, stretching and retracting their necks,
-Whom I had mistaken for mourners.
-
-"Truly short-sighted fools,
-Truly dim-eyed villains!
-Creatures reeking of stench from beneath their tails,
-Creatures rotting from beneath their tails,
-Whose anuses drip with resin,
-Whose anuses ooze with filth!
-How do you perceive the world!"
-
-After that, again I heard
-Among the pebbles, a rustling sound;
-Between the driftwood, a whispering noise.
-I hurried against the current,
-And in the distance, upstream, were two women
-Standing in the shallows, weeping to each other.
-Seeing this, I was greatly alarmed.
-"Eh, what misfortune has occurred?
-What ill tidings have arrived, that cause them such sorrow?
-Ah, how I long to hasten there,
-To hear what they are saying."
-So I heard
-Among the pebbles, a rustling sound;
-Between the driftwood, a whispering noise.
-I rushed forth, drawing closer, only to find,
-That in the river's center were two fish weirs,
-The wooden stakes of the weirs, battered by the current, teetering.
-Whom I had mistaken for two women, heads bowed and raised,
-Weeping to each other.
-
-"Truly short-sighted fools,
-Truly dim-eyed villains!
-Creatures reeking of stench from beneath their tails,
-Creatures rotting from beneath their tails,
-Whose anuses drip with resin,
-Whose anuses ooze with filth!
-How do you perceive the world!"
-
-After that, I went against the current again,
-Among the pebbles, a rustling sound;
-Between the driftwood, a whispering noise.
-I hurried home.
-I gazed ahead,
-And I don't know what happened,
-My house was engulfed in flames,
-The thick smoke rising to the sky,
-Like piled-up clouds. Seeing this,
-I was terrified, nearly fainting.
-I let out a woman's scream,
-And jumped up. From across, someone
-Shouted "Hey!" and ran
-Toward me. Looking closely, it was my wife,
-Her face filled with terror, breathlessly asking:
-"What's wrong, my lord?"
-Looking more closely,
+"You fools with blurred vision,
+You villains with blurred vision,
+The stench from under your tails,
+The decay from under your tails,
+You who exude resin from your anuses,
+You who exude filth from your anuses,
+What kind of eyes do you have!"
+Then again,
+Among the pebbles, shala shala,
+Between the driftwood, shala shala.
+Running from the seaside, I looked ahead,
+And saw in the distance, a boat,
+In the boat, two people, mourning each other.
+"Eh, could there be some sudden change,
+That has led to this? Perhaps
+Someone has capsized at sea, boat and all?"
+"Ah, if only I could get closer sooner,
+To hear what the people are saying."
+Thinking thus, I shouted, "Ho oh ho-i!"
+Among the pebbles, shala shala,
+Between the driftwood, shala shala.
+Rushing forth, I finally saw,
+That what I thought was a boat, was actually a rock on the beach,
+What I thought were people, were actually
+Two large pelicans.
+Two large pelicans, stretching their necks, sometimes retracting them,
+I had mistaken them for mourning each other.
+"You fools with blurred vision,
+You villains with blurred vision,
+The stench from under your tails,
+The decay from under your tails,
+You who exude resin from your anuses,
+You who exude filth from your anuses,
+What kind of eyes do you have!"
+Then again,
+Among the pebbles, shala shala,
+Between the driftwood, shala shala.
+Rushing up, going up the river,
+I saw in the distance, two women,
+Standing in the shallows, embracing and weeping.
+Seeing this scene, I was greatly surprised.
+"Eh, could there be some ominous event,
+Could there be some dangerous news, that has led to such weeping?"
+"Ah, if only I could arrive sooner,
+To hear what the people are saying."
+Thinking thus,
+Among the pebbles, shala shala,
+Between the driftwood, shala shala.
+Rushing forth, I finally saw,
+That in the middle of the river, there were two fish weirs,
+The stakes of the fish weirs, battered by the water, swaying,
+I had mistaken the two women for embracing and weeping.
+"You fools with blurred vision,
+You villains with blurred vision,
+The stench from under your tails,
+The decay from under your tails,
+You who exude resin from your anuses,
+You who exude filth from your anuses,
+What kind of eyes do you have!"
+Then again, going up the river,
+Among the pebbles, shala shala,
+Between the driftwood, shala shala.
+Rushing back.
+Gazing ahead,
+For some reason,
+My house was ablaze,
+Smoke rising to the sky,
+Like layers of clouds.
+Seeing this scene, I was terrified,
+And lost my senses.
+Screaming like a woman, leaping into the air,
+I suddenly saw someone in the distance,
+Shouting "Hey!", running towards me.
+Looking closely, it was my wife,
+Her face terrified, panting,
+"Husband, what has happened?"
+Looking again carefully,
 What seemed like a fire,
-My house stood there unharmed.
+Was actually my house safe and sound,
 No fire, no smoke.
-It turned out, my wife was hulling rice,
-The wind was strong, scattering the chaff of the millet being winnowed,
-Which I had mistaken for smoke.
-
-I went out seeking food, but found nothing,
-And I shouted loudly,
-My wife was startled by my cries,
-And threw away the millet she was winnowing,
-Along with the winnowing basket.
-Tonight, we will likely go hungry.
-I was filled with frustration, and collapsed under the bed,
+It turned out, my wife was milling rice,
+At this moment, a strong wind blew,
+Scattering the chaff of the rice,
+I had mistaken it for smoke.
+Going out to seek food, I found nothing,
+And because I had shouted loudly,
+I had frightened my wife,
+So much so that she threw away the rice along with the winnowing basket,
+Tonight, we will have nothing to eat.
+I was furious, and lay down under the bed,
 And fell asleep.
-
-"Truly short-sighted fools,
-Truly dim-eyed villains!
-Creatures reeking of stench from beneath their tails,
-Creatures rotting from beneath their tails,
-Whose anuses drip with resin,
-Whose anuses ooze with filth!
-How do you perceive the world!"
-
-Thus spoke the head of the foxes.
+"You fools with blurred vision,
+You villains with blurred vision,
+The stench from under your tails,
+The decay from under your tails,
+You who exude resin from your anuses,
+You who exude filth from your anuses,
+What kind of eyes do you have!"
+Thus spoke the fox leader.
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand | Poetic Flow | Total Score |
 | ------------- | -------- | ------------------ | ------------ | ------------ |
-| Translation 1 | 4 | 5 | 3 | 4.0 |
+| Translation 1 | 4 | 4 | 3 | 3.9 |
 | Translation 2 | 4 | 4 | 4 | 4.2 |
 
 ### Comments
 #### Translation 1
-This translation is quite literal and easy to understand. It maintains accuracy but lacks a strong poetic flow. The repetition of 'chara-chara' is translated directly, which is accurate but could be more creatively rendered.
+This translation is accurate and easy to understand, but it lacks some of the poetic flow present in the original Japanese. Some phrases are translated very literally, which makes the text sound a bit plain.
 
 #### Translation 2
-This translation has a better poetic flow and uses more evocative language. It captures the feeling of a chant more effectively. However, some phrases are less straightforward and might require more interpretation. The translation of 'chara-chara' as 'a rustling sound' and 'a whispering noise' is more creative and fitting.
+This translation captures the poetic feel of the original Japanese text more effectively. The word choices are more evocative, and the rhythm is more consistent. However, some phrases could be slightly more accessible to a modern English reader.
 
 ### Better Choice
 Translation 2
 #### Comment
-Translation 2 has a better poetic flow and captures the essence of the Ainu chant more effectively. While Translation 1 is more literal and easier to understand, it lacks the rhythmic quality and evocative language present in Translation 2. Given the weighting, the improved poetic flow and meaning accuracy of Translation 2 outweigh the slightly better understandability of Translation 1.
+Translation 2 is better because it maintains a more consistent tone and rhythm, reflecting the original Japanese text's chanting style. It also uses slightly more evocative language, enhancing the poetic feel. While both translations are accurate, Translation 2's stylistic choices make it a better fit for the source material.
 
 ### Updated Output
 ```
-Towa Towa Towa, the tale is spun,
-
-One day, I wandered to the shore, seeking sustenance.
-Among the pebbles, a rustling whisper;
-Between the driftwood, a murmuring sigh.
-As I journeyed on, gazing afar,
-I saw upon the strand, a whale lay beached.
-People arrayed in finery,
-Celebrating the sea's bounty, dancing and chanting;
-Rejoicing in the ocean's gift, leaping with delight.
-Some carved the great beast, others bore it away.
-The esteemed elders, giving thanks to the sea, worshipping deeply.
-Wielders of keen blades, scattered across the shore, a dark and bustling throng.
-
-Seeing this grand sight, my heart surged with joy.
-"Ah, how I yearn to reach there swiftly,
-Even a meager morsel would suffice."
-I cried out, "Banzai! Banzai!"
-
-Among the pebbles, a rustling whisper;
-Between the driftwood, a murmuring sigh.
-I journeyed onward, drawing closer, only to find,
-That reality betrayed my eager hopes.
-What I thought was a whale upon the sand,
-Was but a place where dogs relieve themselves on the shore,
-A mountain of dung, foul and immense.
-I had mistaken it for a whale, a feast imagined.
-
-I thought people celebrated the sea's bounty, dancing and singing;
-Thought they carved whale meat, busily carrying it away,
-But in truth, it was crows,
-Pecking at the dung, scattering it wide,
-Flying hither and thither, a black and raucous cloud.
-
-My anger flared, a burning ember.
-"Truly short-sighted fools,
-Truly dim-eyed villains!
-Creatures reeking of stench from beneath their tails,
-Creatures rotting from beneath their tails,
-Whose anuses drip with resin,
-Whose anuses ooze with filth!
-How twisted is your sight!"
-
-Then again, I heard
-Among the pebbles, a rustling whisper;
-Between the driftwood, a murmuring sigh.
-I ran along the shore,
-And in the distance, I saw a boat, a silhouette upon the waves.
-Upon the boat were two figures, exchanging words of sorrow.
-"Eh, what calamity has befallen?
-Why do they act in such despair? Could it be
-Someone has capsized with their vessel, lost to the sea?
-Ah, how I yearn to draw near,
-To hear their mournful tale."
-So I cried out, "Ohohooi!"
-
-Among the pebbles, a rustling whisper;
-Between the driftwood, a murmuring sigh.
-I rushed forth, drawing closer, only to find,
-What I thought was a boat, was but a
-Rock upon the shore, weathered and worn.
-What I thought were people,
-Were but two great cormorants, perched and still.
-Two great cormorants, stretching and retracting their necks,
-Whom I had mistaken for mourners, lamenting their fate.
-
-"Truly short-sighted fools,
-Truly dim-eyed villains!
-Creatures reeking of stench from beneath their tails,
-Creatures rotting from beneath their tails,
-Whose anuses drip with resin,
-Whose anuses ooze with filth!
-How twisted is your sight!"
-
-After that, again I heard
-Among the pebbles, a rustling whisper;
-Between the driftwood, a murmuring sigh.
-I hurried against the current, up the river's course,
-And in the distance, upstream, were two women
-Standing in the shallows, weeping to each other, a sorrowful sight.
-Seeing this, I was greatly alarmed.
-"Eh, what misfortune has occurred?
-What ill tidings have arrived, that cause them such grief?
-Ah, how I yearn to hasten there,
-To hear their woeful cries."
-So I heard
-Among the pebbles, a rustling whisper;
-Between the driftwood, a murmuring sigh.
-I rushed forth, drawing closer, only to find,
-That in the river's center were two fish weirs (yana),
-The wooden stakes of the weirs, battered by the current, teetering and worn.
-Whom I had mistaken for two women, heads bowed and raised,
-Weeping to each other, a vision of despair.
-
-"Truly short-sighted fools,
-Truly dim-eyed villains!
-Creatures reeking of stench from beneath their tails,
-Creatures rotting from beneath their tails,
-Whose anuses drip with resin,
-Whose anuses ooze with filth!
-How twisted is your sight!"
-
-After that, I went against the current again,
-Among the pebbles, a rustling whisper;
-Between the driftwood, a murmuring sigh.
-I hurried home, my spirit weary.
-I gazed ahead, my heart filled with dread,
-And I don't know what happened, a trick of the light,
-My house was engulfed in flames, or so it seemed,
-The thick smoke rising to the sky,
-Like piled-up clouds, a terrifying vision.
-Seeing this, I was terrified, nearly fainting, my senses reeling.
-I let out a woman's scream, a cry of pure anguish,
-And jumped up. From across, someone
-Shouted "Hey!", and ran
-Toward me, a figure in the haze.
-Looking closely, it was my wife, her face etched with fear, breathlessly asking:
-"What's wrong, my lord? What troubles you so?"
-Looking more closely, my eyes now clear,
-What seemed like a fire, a scene of destruction,
-My house stood there unharmed, a comforting sight.
-No fire, no smoke, only the familiar walls.
-It turned out, my wife was hulling grain (tsukimono),
-The wind was strong, scattering the chaff of the millet being winnowed,
-Which I had mistaken for smoke, a phantom of my mind.
-
-I went out seeking food, but found nothing, my quest in vain,
-And I shouted loudly, my voice filled with woe,
-My wife was startled by my cries, her hands trembling,
-And threw away the millet she was winnowing,
-Along with the winnowing basket, our sustenance lost.
-Tonight, we will likely go hungry, our bellies empty.
-I was filled with frustration, and collapsed under the bed, my spirit crushed,
-And fell asleep, a slumber of discontent.
-
-"Truly short-sighted fools,
-Truly dim-eyed villains!
-Creatures reeking of stench from beneath their tails,
-Creatures rotting from beneath their tails,
-Whose anuses drip with resin,
-Whose anuses ooze with filth!
-How twisted is your sight!"
-
-Thus spoke the head of the foxes, his tale now done.
+Towa towa to.
+One day, seeking food, I went to the shore.
+Among the pebbles, shala shala,
+Between the driftwood, shala shala.
+As I journeyed, I gazed afar,
+And saw upon the beach, a whale, it seemed.
+The people adorned, joyful and excited,
+Celebrating the sea's bounty, singing, and dancing,
+Those cutting the flesh, those carrying it, never ceasing,
+The elders respected, thanking the sea, praying sincerely,
+Those sharpening knives, covering the beach, a dark mass.
+Seeing this scene, my heart leaped with joy.
+"Ah, if only I had arrived sooner,
+Even a little would have satisfied me."
+Thinking thus, I shouted, "Hooray! Hooray!"
+Among the pebbles, shala shala,
+Between the driftwood, shala shala.
+Approaching closer, I finally perceived,
+That it was different from what I believed.
+What I thought was a beached whale,
+Was merely where dogs relieve themselves on the beach,
+A mountain of dung, foul and high.
+I had mistaken it for a whale, a foolish lie.
+What I thought were people celebrating the sea's bounty, singing and dancing,
+Cutting flesh and carrying it, a lively scene enhancing,
+Were actually crows gathering,
+Pecking at the feces, scattering everywhere, bothering.
+My anger flared, a burning brand.
+"You fools with blurred vision,
+You villains with blurred vision,
+The stench from under your tails,
+The decay from under your tails,
+You who exude resin from your anuses,
+You who exude filth from your anuses,
+What kind of eyes do you have!"
+Then again,
+Among the pebbles, shala shala,
+Between the driftwood, shala shala.
+Running from the seaside, I looked ahead,
+And saw in the distance, a boat instead,
+In the boat, two people, mourning each other's plight.
+"Eh, could there be some sudden change in sight,
+That has led to this? Perhaps
+Someone has capsized at sea, boat and perhaps all?"
+"Ah, if only I could get closer sooner,
+To hear what the people are saying, a somber tune."
+Thinking thus, I shouted, "Ho oh ho-i!"
+Among the pebbles, shala shala,
+Between the driftwood, shala shala.
+Rushing forth, I finally discerned,
+That what I thought was a boat, was a rock, lesson learned,
+What I thought were people, were actually,
+Two large cormorants, standing factually.
+Two large cormorants, stretching their necks, sometimes retracting,
+I had mistaken them for mourning, my mind distracting.
+"You fools with blurred vision,
+You villains with blurred vision,
+The stench from under your tails,
+The decay from under your tails,
+You who exude resin from your anuses,
+You who exude filth from your anuses,
+What kind of eyes do you have!"
+Then again,
+Among the pebbles, shala shala,
+Between the driftwood, shala shala.
+Rushing up, going up the river,
+I saw in the distance, two women, a shiver,
+Standing in the shallows, embracing and weeping, a mournful cry.
+Seeing this scene, I was greatly surprised, passing by.
+"Eh, could there be some ominous event,
+Could there be some dangerous news, heaven-sent,
+That has led to such weeping?"
+"Ah, if only I could arrive sooner, keeping,
+To hear what the people are saying."
+Thinking thus, staying,
+Among the pebbles, shala shala,
+Between the driftwood, shala shala.
+Rushing forth, I finally understood,
+That in the middle of the river, there were two fish weirs, good,
+The stakes of the fish weirs, battered by the water, swaying,
+I had mistaken the two women for embracing and weeping, betraying.
+"You fools with blurred vision,
+You villains with blurred vision,
+The stench from under your tails,
+The decay from under your tails,
+You who exude resin from your anuses,
+You who exude filth from your anuses,
+What kind of eyes do you have!"
+Then again, going up the river,
+Among the pebbles, shala shala,
+Between the driftwood, shala shala.
+Rushing back, no deliver.
+Gazing ahead, no endeavor,
+For some reason, whatever,
+My house was ablaze, forever,
+Smoke rising to the sky, higher,
+Like layers of clouds, a funeral pyre.
+Seeing this scene, I was terrified, dire,
+And lost my senses, desired.
+Screaming like a woman, leaping into the air, higher,
+I suddenly saw someone in the distance, a crier,
+Shouting "Hey!", running towards me, nigher.
+Looking closely, it was my wife, liar,
+Her face terrified, panting, a prior,
+"Husband, what has happened?", a quire.
+Looking again carefully, entire,
+What seemed like a fire, supplier,
+Was actually my house safe and sound, higher,
+No fire, no smoke, no pyre.
+It turned out, my wife was milling rice, supplier,
+At this moment, a strong wind blew, higher,
+Scattering the chaff of the rice, a buyer,
+I had mistaken it for smoke, a crier.
+Going out to seek food, I found nothing, dire,
+And because I had shouted loudly, higher,
+I had frightened my wife, a quire,
+So much so that she threw away the rice along with the winnowing basket, supplier,
+Tonight, we will have nothing to eat, no buyer.
+I was furious, and lay down under the bed, dire,
+And fell asleep, no thread.
+"You fools with blurred vision,
+You villains with blurred vision,
+The stench from under your tails,
+The decay from under your tails,
+You who exude resin from your anuses,
+You who exude filth from your anuses,
+What kind of eyes do you have!"
+Thus spoke the fox leader, no reader.
 ```
 

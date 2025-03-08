@@ -1,0 +1,427 @@
+{
+    "japanese_title": "蛙が自らを歌った謡「トーロロ ハンロク ハンロク!」",
+    "ainu_title": "Terkepi yaieyukar, “Tororo hanrok hanrok!”",
+    "japanese_text": "",
+    "chinese_translation": {
+        "comment": "Translation of Ainu chant footnotes from Japanese to Traditional Chinese.",
+        "title": "阿伊努語神歌腳註翻譯",
+        "translation": "請提供需要翻譯的日文阿伊努語神歌腳註。",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "Translate the following text from source language Japanese to target language Chinese. The original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning accurately. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nIf a term cannot be translated, keep the source language.\nFor the original text which are not in Japanese, keep the original form. \n\n\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "description": "The translation, and the comments",
+            "properties": {
+                "translation": {
+                    "description": "The translation",
+                    "title": "Translation",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "comment": {
+                    "description": "Comments on the translation",
+                    "title": "Comment",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "translation",
+                "title",
+                "comment"
+            ],
+            "title": "Translation",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "english_translation": {
+        "comment": "The original text is a Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. Keep the original meaning accurately. Use modern and simple English. If a term cannot be translated, keep the source language. For the original text which are not in Japanese, keep the original form.",
+        "title": "Translation of Ainu Chant Footnotes",
+        "translation": "Please provide the Japanese text for translation.",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "Translate the following text from source language Japanese to target language English. The original text is a Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning accurately. Use modern and simple English.\nIf a term cannot be translated, keep the source language.\nFor the original text which are not in Japanese, keep the original form. \n\n\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "description": "The translation, and the comments",
+            "properties": {
+                "translation": {
+                    "description": "The translation",
+                    "title": "Translation",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "comment": {
+                    "description": "Comments on the translation",
+                    "title": "Comment",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "translation",
+                "title",
+                "comment"
+            ],
+            "title": "Translation",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "eng_to_chi_translation": {
+        "comment": "Please provide the Japanese text for translation.",
+        "title": "請提供需要翻譯的日文文本",
+        "translation": "請提供需要翻譯的日文文本",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "Translate the following text from source language English to target language Chinese. \nThe original text is translation of Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nFor the original text which are not in English, keep the original form. \n\nPlease provide the Japanese text for translation.\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "description": "The translation, and the comments",
+            "properties": {
+                "translation": {
+                    "description": "The translation",
+                    "title": "Translation",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "comment": {
+                    "description": "Comments on the translation",
+                    "title": "Comment",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "translation",
+                "title",
+                "comment"
+            ],
+            "title": "Translation",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "chi_to_eng_translation": {
+        "comment": "Translation of the user's request.",
+        "title": "Translation Request",
+        "translation": "Please provide the Japanese footnotes of the Ainu chant that need to be translated.",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "Translate the following text from source language Chinese to target language English. \nThe original text is translation of Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning. Use modern and simple English.\nFor the original text which are not in Chinese, keep the original form. \n\n請提供需要翻譯的日文阿伊努語神歌腳註。\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "description": "The translation, and the comments",
+            "properties": {
+                "translation": {
+                    "description": "The translation",
+                    "title": "Translation",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "comment": {
+                    "description": "Comments on the translation",
+                    "title": "Comment",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "translation",
+                "title",
+                "comment"
+            ],
+            "title": "Translation",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "updated_translation_zh": {
+        "better_translation": "Translation 1",
+        "better_translation_comment": "Translation 1 is better because it specifically mentions the Ainu chant, which is crucial context. Translation 2 is too generic.",
+        "title": "阿伊努語神歌腳註翻譯",
+        "translation_comments": [
+            {
+                "comment": "Translation 1 correctly identifies the text as footnotes of an Ainu chant.",
+                "id": "Translation 1"
+            },
+            {
+                "comment": "Translation 2 is a more generic request for translation of Japanese text.",
+                "id": "Translation 2"
+            }
+        ],
+        "translation_scores": [
+            {
+                "id": "Translation 1",
+                "score_accuracy": 5,
+                "score_easy_understanding": 5,
+                "weighted_score": 5.0
+            },
+            {
+                "id": "Translation 2",
+                "score_accuracy": 3,
+                "score_easy_understanding": 5,
+                "weighted_score": 3.8
+            }
+        ],
+        "updated_translation": "請提供需要翻譯的日文阿伊努語神歌腳註。",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "You are translating the following text from source language Japanese into target language Chinese. \nThe original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nYou have 2 versions of Chinese translations at hand.\nFor the original text which are not in Japanese, keep the original form. \n\nHere are your tasks:\n\n1. Compare the two Chinese translations with the source Japanese text. List out the Pros and Cons of the Translations.\n2. For each of translation from Japanese to Chinese, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].\nWhere one star means \"Nonsense/No meaning preserved\",\ntwo stars mean \"Some meaning preserved, but not understandable\",\nthree stars mean \"Some meaning preserved and understandable\",\nfour stars mean \"Most meaning preserved with possibly few grammar mistakes\",\nand five stars mean \"Perfect meaning and grammar\".\n\n3. For each of translation from Japanese to Chinese, score the translation on the easiness to understanding with one to five stars [1,2,3,4,5].\nWhere one star means \"The text is completely not understandable.\",\ntwo stars mean \"Most part of text is not understandable.\",\nthree stars mean \"While the text is understandable, the word usage and grammar are difficult.\",\nfour stars mean \"Most part of text can be understood easily.\",\nand five stars mean \"All the text can be understood easily.\".\n\n4. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (60%). Easiness to understanding is the second (40%).\n5. Based on the better translation, translate the Japanese text into Chinese again, incorporating the Pros of the two translations.\n\nKeep the original meaning accurately. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nIf a term cannot be translated, keep the original language.\nFor the original text which are not in Japanese, keep the original form. \n\nThis is the Japanese text.\n\n\nThis is the Chinese Translation 1.\n請提供需要翻譯的日文阿伊努語神歌腳註。\n\nThis is the Chinese Translation 2.\n請提供需要翻譯的日文文本\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "$defs": {
+                "Comment": {
+                    "properties": {
+                        "id": {
+                            "description": "For example: Translation 1 or Translation 2",
+                            "title": "Id",
+                            "type": "string"
+                        },
+                        "comment": {
+                            "description": "comment of the translation",
+                            "title": "Comment",
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "id",
+                        "comment"
+                    ],
+                    "title": "Comment",
+                    "type": "object"
+                },
+                "Score": {
+                    "properties": {
+                        "id": {
+                            "description": "For example: Translation 1 or Translation 2",
+                            "title": "Id",
+                            "type": "string"
+                        },
+                        "score_accuracy": {
+                            "description": "Accuracy score of the translation",
+                            "title": "Score Accuracy",
+                            "type": "integer"
+                        },
+                        "score_easy_understanding": {
+                            "description": "easiness to understanding score of the translation",
+                            "title": "Score Easy Understanding",
+                            "type": "integer"
+                        },
+                        "weighted_score": {
+                            "description": "weighted score of the translation",
+                            "title": "Weighted Score",
+                            "type": "number"
+                        }
+                    },
+                    "required": [
+                        "id",
+                        "score_accuracy",
+                        "score_easy_understanding",
+                        "weighted_score"
+                    ],
+                    "title": "Score",
+                    "type": "object"
+                }
+            },
+            "description": "The updated translation, and the comments for the update",
+            "properties": {
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "translation_comments": {
+                    "description": "Comments of all translations",
+                    "items": {
+                        "$ref": "#/$defs/Comment"
+                    },
+                    "title": "Translation Comments",
+                    "type": "array"
+                },
+                "translation_scores": {
+                    "description": "Scores of all translations",
+                    "items": {
+                        "$ref": "#/$defs/Score"
+                    },
+                    "title": "Translation Scores",
+                    "type": "array"
+                },
+                "better_translation": {
+                    "description": "For example: Translation 1 or Translation 2",
+                    "title": "Better Translation",
+                    "type": "string"
+                },
+                "better_translation_comment": {
+                    "description": "Explanation of better translation choice.",
+                    "title": "Better Translation Comment",
+                    "type": "string"
+                },
+                "updated_translation": {
+                    "description": "Updated Translation",
+                    "title": "Updated Translation",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "title",
+                "translation_comments",
+                "translation_scores",
+                "better_translation",
+                "better_translation_comment",
+                "updated_translation"
+            ],
+            "title": "Reflection",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class '__main__.Reflection'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "updated_translation_en": {
+        "better_translation": "Translation 1",
+        "better_translation_comment": "Translation 1 is better because it maintains a higher degree of accuracy to the original meaning and is slightly easier to understand than Translation 2. While both have their strengths, the weighted score favors Translation 1 due to the higher importance placed on accuracy.",
+        "title": "Ainu Chant Footnotes Translation",
+        "translation_comments": [
+            {
+                "comment": "This translation seems to maintain the original meaning well and uses relatively straightforward language.",
+                "id": "Translation 1"
+            },
+            {
+                "comment": "This translation is a bit more complex in its sentence structure, making it slightly harder to understand, although it does offer some interesting alternative phrasing.",
+                "id": "Translation 2"
+            }
+        ],
+        "translation_scores": [
+            {
+                "id": "Translation 1",
+                "score_accuracy": 4,
+                "score_easy_understanding": 4,
+                "weighted_score": 4.0
+            },
+            {
+                "id": "Translation 2",
+                "score_accuracy": 3,
+                "score_easy_understanding": 3,
+                "weighted_score": 3.0
+            }
+        ],
+        "updated_translation": "Please provide the Japanese text and the two English translations for a more accurate comparison and improved translation.",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "You are translating the following text from source language Japanese into target language English. \nThe original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nYou have 2 versions of English translations at hand.\n\nHere are your tasks:\n\n1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.\n2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].\nWhere one star means \"Nonsense/No meaning preserved\",\ntwo stars mean \"Some meaning preserved, but not understandable\",\nthree stars mean \"Some meaning preserved and understandable\",\nfour stars mean \"Most meaning preserved with possibly few grammar mistakes\",\nand five stars mean \"Perfect meaning and grammar\".\n\n3. For each of translation from Japanese to English, score the translation on the easiness to understanding with one to five stars [1,2,3,4,5].\nWhere one star means \"The text is completely not understandable.\",\ntwo stars mean \"Most part of text is not understandable.\",\nthree stars mean \"While the text is understandable, the word usage and grammar are difficult.\",\nfour stars mean \"Most part of text can be understood easily.\",\nand five stars mean \"All part of text can be understood easily.\".\n\n4. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (60%). Easiness to understanding is the second (40%).\n5. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.\n\nKeep the original meaning accurately. \nIf a term cannot be translated, keep the original language.\nFor the original text which are not in Japanese, keep the original form. \n\nThis is the Japanese text.\n\n\nThis is the English Translation 1.\nPlease provide the Japanese text for translation.\n\nThis is the English Translation 2.\nPlease provide the Japanese footnotes of the Ainu chant that need to be translated.\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "$defs": {
+                "Comment": {
+                    "properties": {
+                        "id": {
+                            "description": "For example: Translation 1 or Translation 2",
+                            "title": "Id",
+                            "type": "string"
+                        },
+                        "comment": {
+                            "description": "comment of the translation",
+                            "title": "Comment",
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "id",
+                        "comment"
+                    ],
+                    "title": "Comment",
+                    "type": "object"
+                },
+                "Score": {
+                    "properties": {
+                        "id": {
+                            "description": "For example: Translation 1 or Translation 2",
+                            "title": "Id",
+                            "type": "string"
+                        },
+                        "score_accuracy": {
+                            "description": "Accuracy score of the translation",
+                            "title": "Score Accuracy",
+                            "type": "integer"
+                        },
+                        "score_easy_understanding": {
+                            "description": "easiness to understanding score of the translation",
+                            "title": "Score Easy Understanding",
+                            "type": "integer"
+                        },
+                        "weighted_score": {
+                            "description": "weighted score of the translation",
+                            "title": "Weighted Score",
+                            "type": "number"
+                        }
+                    },
+                    "required": [
+                        "id",
+                        "score_accuracy",
+                        "score_easy_understanding",
+                        "weighted_score"
+                    ],
+                    "title": "Score",
+                    "type": "object"
+                }
+            },
+            "description": "The updated translation, and the comments for the update",
+            "properties": {
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "translation_comments": {
+                    "description": "Comments of all translations",
+                    "items": {
+                        "$ref": "#/$defs/Comment"
+                    },
+                    "title": "Translation Comments",
+                    "type": "array"
+                },
+                "translation_scores": {
+                    "description": "Scores of all translations",
+                    "items": {
+                        "$ref": "#/$defs/Score"
+                    },
+                    "title": "Translation Scores",
+                    "type": "array"
+                },
+                "better_translation": {
+                    "description": "For example: Translation 1 or Translation 2",
+                    "title": "Better Translation",
+                    "type": "string"
+                },
+                "better_translation_comment": {
+                    "description": "Explanation of better translation choice.",
+                    "title": "Better Translation Comment",
+                    "type": "string"
+                },
+                "updated_translation": {
+                    "description": "Updated Translation",
+                    "title": "Updated Translation",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "title",
+                "translation_comments",
+                "translation_scores",
+                "better_translation",
+                "better_translation_comment",
+                "updated_translation"
+            ],
+            "title": "Reflection",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class '__main__.Reflection'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    }
+}

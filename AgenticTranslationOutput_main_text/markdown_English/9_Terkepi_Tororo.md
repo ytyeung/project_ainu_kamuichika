@@ -4,26 +4,28 @@
 
 ## Terkepi yaieyukar, “Tororo hanrok hanrok!” 
 ## 蛙が自らを歌った謡「トーロロ ハンロク ハンロク!」
-## The Song of the Frog
+## A Frog's Lament
 
 ### System prompt
 ```
 You are a professional translator. 
-You know Japanese, Chinese and English. 
+You only know Japanese, Chinese and English. 
 You can translate Japanese into either Chinese or English. 
 You can also translate Chinese into English, and English into Chinese.
+All the translations should keep the original meaning.
+All the translations only contain characters of the source and target languages.
 
 
 ```
 
 ### Prompt
 ```
-You are translating the following Japanese text into English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
+You are translating the following text from source language Japanese into target language English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
 You have 2 versions of English translations at hand.
 
 Here are your tasks:
 
-1. Compare the two English translations with the original Japanese text. List out the Pros and Cons of the Translations.
+1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.
 2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].
 Where one star means "Nonsense/No meaning preserved",
 two stars mean "Some meaning preserved, but not understandable",
@@ -48,7 +50,7 @@ and five stars mean "All part of the text is a poet and rhythmic. It is a chant.
 5. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (50%). Easiness to understanding is the second (30%). Poetic flow is the third (20%).
 6. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.
 
-Keep the original meaning accurately.
+Keep the original meaning accurately. 
 If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
@@ -100,169 +102,170 @@ This is the Japanese text.
 と,ふくれた蛙が云いながら死んでしまった.
 
 This is the English Translation 1.
-"Toro ro hanroku hanroku!" 
+A Frog's Self-Sung Song
+"Tōroro Hanroku Hanroku!"
 
-Toro ro hanroku hanroku!
+Tōroro Hanroku Hanroku!
 "One day, as I hopped and played in the meadow,
 I saw a house. I went to the doorway,
-and inside, beside a pile of treasures,
-was a raised platform. Upon that platform
-Sat a young man, carving a sheath, head bowed.
+And inside, beside a pile of treasures,
+Was a raised platform. On that platform,
+A young man was carving a sheath, head bowed.
 I thought to play a trick, so I sat on the threshold
-and sang, "Toro ro hanroku hanroku!"
+And sang, 'Tōroro Hanroku Hanroku!'
 But the young man raised the hand that held his knife,
 Looked at me, and smiled gently.
-"Is that your song? Your song of joy?
-I would hear more," he said.
-So, delighted, I sang, "Toro ro hanroku hanroku!"
-Then the young man spoke again:
-"Is that your yukar? Your sakehau?
-I would hear it closer."
+'Is that your song? Your song of joy?
+I'd like to hear more,' he said.
+So, delighted, I sang, 'Tōroro Hanroku Hanroku!'
+Then the young man said to me,
+'Is that your Yukara? Your Sakehau?
+I'd like to hear it closer.'
 Hearing this, I was pleased and hopped down
-to the edge of the hearth,
-Singing, "Toro ro hanroku hanroku!"
-And the young man said,
-"Is that your yukar? Your sakehau?
-I would hear it closer still!"
-Hearing this, I was truly happy, and hopped
-to the corner of the hearth, near the seat of honor,
-And sang, "Toro ro hanroku hanroku!"
-Suddenly! The young man leaped up,
-And with a swift motion,
-Seized a large, burning log
-And threw it upon me! The sound was
-as if the world before me had closed, and after that,
-I knew nothing more.
-When I awoke,
-At the edge of the refuse heap,
-Lay a dead frog with a swollen belly,
-And between its ears, I sat.
-Then I saw clearly, that what I thought
-was a simple human dwelling
-Was the home of Okikirmui, a god of immense power.
+To the edge of the hearth,
+And sang, 'Tōroro Hanroku Hanroku!'
+The young man said,
+'Is that your Yukara? Your Sakehau?
+I'd like to hear it closer still!' Hearing that, I,
+Truly delighted, hopped to the corner
+Of the hearth on the upper side,
+And sang, 'Tōroro Hanroku Hanroku!'
+Suddenly!
+The young man leaped up,
+And as I looked up, he grabbed a large, burning log
+And threw it at me! The sound was like
+The world in front of me had closed off, and after that
+I didn't know what happened.
+When I came to, I was
+At the edge of the garbage heap, a frog with a swollen belly
+Lay dead, and I was sitting between its ears.
+Looking closely, I realized that what I thought
+Was just a human's house was actually the home of
+Okikirmui, a god of great power.
 And without knowing it was Okikirmui,
-I had played my trick.
-Now I die this meaningless, wretched death.
+I had played a trick on him.
+Now I am dying such a meaningless, terrible death,
 So, frogs of the future,
 Never, ever play tricks on humans."
-And with those words, the swollen frog died.
+So spoke the swollen frog as it died.
 
 This is the English Translation 2.
-Tororo Hanroku Hanroku!
+Tororo Hankoku Hankoku!
 
-Tororo Hanroku Hanroku!
-
-One day, as I frolicked and leaped across the plains,
-I spied a dwelling and approached its entrance.
-Inside, I saw a treasure-filled room,
-And within it, a raised platform.
-Upon this platform,
-A young man was bent, carving a sheath.
-Seized by mischief, I sat upon the threshold,
-Chanting, "Tororo Hanroku Hanroku!"
-Unexpectedly, the young man raised his hand holding the knife,
-Looked at me, and smiled,
-"Is that your song? Your joyful sound?
-I long to hear more."
-Pleased, I chanted again, "Tororo Hanroku Hanroku!"
-The young man then said:
-"Is that your yukar? Your sakehau?
-I wish to hear it from closer by."
-Even more delighted, I leaped down,
-Towards the hearth,
-Chanting, "Tororo Hanroku Hanroku!"
-The young man spoke again:
-"Is that your yukar? Your sakehau?
-I wish to hear it from even closer."
-Hearing this, I was overjoyed, and I leaped towards the corner
-near the hearth,
-Chanting, "Tororo Hanroku Hanroku!"
-Suddenly! The young man rose swiftly,
-As if in flight, seized a large, burning log,
-And hurled it at me, the sound
-As if something blocked the front of my body, and after that
-I knew nothing more.
-When I came to,
-I found myself at the edge of a garbage dump, a bloated frog
-Lay dead, and I was seated between its ears.
-Looking closer, I realized the home I thought ordinary,
-Was the dwelling of Okikirmui, one as powerful as a god.
-And I,
-Unaware of Okikirmui's identity,
-Played a trick on him.
-Now I shall die in such a wretched, insignificant way,
-So, frogs of the future,
-Never play tricks on humans."
-Thus spoke the bloated frog, and breathed no more.
+Tororo Hankoku Hankoku!
+One day, as I frolicked upon the plains,
+I chanced upon a dwelling and peered within.
+There, treasures filled one side, and a high platform stood,
+Upon which a youth sat, carving a sheath of wood.
+A mischievous whim seized me, and I sat upon the sill,
+Crying, "Tororo Hankoku Hankoku!" with a thrill.
+But the youth, he raised his hand that held the knife,
+And looked at me, and smiled, as if to life,
+"Is this your song? Your joyful sound?
+I long to hear it more, upon this ground."
+Delighted, I cried, "Tororo Hankoku Hankoku!" with glee,
+And the youth spoke again, so gently to me,
+"Is this your yukar? Your sakehau so sweet?
+I wish to hear it closer, my joy complete."
+My heart swelled with joy, and I leaped down with grace,
+To the hearth's edge below, in that humble place,
+Crying, "Tororo Hankoku Hankoku!" with might,
+And the youth spoke again, with eyes so bright,
+"Is this your yukar? Your sakehau so clear?
+I wish to hear it closer, banishing all fear."
+At these words, I was overjoyed, and with a bound,
+I leaped to the hearth's corner, safe and sound,
+Crying, "Tororo Hankoku Hankoku!" with cheer,
+But suddenly! The youth rose up, drawing near!
+I thought he would approach, but instead, he seized,
+A burning log, immense, my spirit displeased,
+He hurled it at me, a sound that blocked my way,
+And after that, I knew nothing of the day.
+When I awoke, dazed and in a fright,
+I found myself at the dump's very end, in dim light,
+A frog lay dead, its belly swollen and vast,
+And I sat between its ears, my die was cast.
+I looked around, and realized with dread,
+This was no ordinary home, as I had instead,
+Believed, but the house of Okikirmui, so grand,
+A being of power, like a god in the land!
+And I, in ignorance, had played a trick,
+On Okikirmui himself, with a foolish flick.
+Now I die this wretched, insignificant death,
+So, frogs of the future, take heed with each breath,
+Never play tricks on humans, I implore,
+Or you may suffer a fate to deplore."
+The swollen frog spoke thus, and then expired,
+A lesson learned too late, a life retired.
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand | Poetic Flow | Total Score |
 | ------------- | -------- | ------------------ | ------------ | ------------ |
-| Translation 1 | 4 | 4 | 3 | 3.9 |
-| Translation 2 | 4 | 3 | 3 | 3.7 |
+| Translation 1 | 4 | 4 | 3 | 3.8 |
+| Translation 2 | 4 | 4 | 4 | 4.0 |
 
 ### Comments
 #### Translation 1
-This translation maintains a good balance between accuracy and readability. The language is relatively simple and easy to understand, while still capturing the essence of the original story. The repetition of "Toro ro hanroku hanroku!" is preserved, which is important for maintaining the chant-like quality of the text.
+This translation is accurate and easy to understand, but it lacks the poetic flow of the original Japanese text. The language is somewhat plain and literal.
 
 #### Translation 2
-This translation is also quite good, but some of the word choices are slightly less natural in English. For example, "frolicked and leaped across the plains" is a bit more stilted than "hopped and played in the meadow." However, it still conveys the meaning accurately.
+This translation captures the poetic essence of the original text more effectively. The language is more evocative, and the rhythm is more consistent. However, some word choices could be improved for clarity.
 
 ### Better Choice
-Translation 1
+Translation 2
 #### Comment
-Translation 1 and Translation 2 are very similar. Translation 1 is slightly better because it uses more natural English phrasing in a few places (e.g., "as I hopped and played in the meadow" vs. "as I frolicked and leaped across the plains"). The difference is subtle, but Translation 1 reads slightly more smoothly.
+Translation 2 captures the poetic essence of the original Japanese text more effectively than Translation 1. While both translations accurately convey the meaning, Translation 2 uses more evocative language and maintains a consistent rhythm, making it a better choice overall. The weighted score also reflects this preference, prioritizing accuracy but also considering readability and poetic flow.
 
 ### Updated Output
 ```
-"Toro ro hanroku hanroku!" 
+Tororo Hankoku Hankoku!
 
-Toro ro hanroku hanroku!
-
-"One day, as I hopped and played in the meadow,
-I saw a house. I went to the doorway,
-and inside, beside a pile of treasures,
-was a raised platform. Upon that platform
-sat a young man, carving a sheath, head bowed.
-I thought to play a trick, so I sat on the threshold
-and sang, "Toro ro hanroku hanroku!"
-But the young man raised the hand that held his knife,
-looked at me, and smiled gently.
-"Is that your song? Your song of joy?
-I would hear more," he said.
-So, delighted, I sang, "Toro ro hanroku hanroku!"
-Then the young man spoke again:
-"Is that your yukar? Your sakehau?
-I would hear it closer."
-Hearing this, I was pleased and hopped down
-to the edge of the hearth,
-singing, "Toro ro hanroku hanroku!"
-And the young man said,
-"Is that your yukar? Your sakehau?
-I would hear it closer still!"
-Hearing this, I was truly happy, and hopped
-to the corner of the hearth, near the seat of honor,
-and sang, "Toro ro hanroku hanroku!"
-Suddenly! The young man leaped up,
-and with a swift motion,
-seized a large, burning log
-and threw it upon me! The sound was
-as if the world before me had closed, and after that,
-I knew nothing more.
-When I awoke,
-at the edge of the refuse heap,
-lay a dead frog with a swollen belly,
-and between its ears, I sat.
-Then I saw clearly, that what I thought
-was a simple human dwelling
-was the home of Okikirmui, a god of immense power.
-And without knowing it was Okikirmui,
-I had played my trick.
-Now I die this meaningless, wretched death.
-So, frogs of the future,
-never, ever play tricks on humans."
-And with those words, the swollen frog died.
+Tororo Hankoku Hankoku!
+One day, as I frolicked upon the plains,
+I chanced upon a dwelling and peered within.
+There, treasures filled one side, and a high platform stood,
+Upon which a youth sat, carving a sheath of wood.
+A mischievous whim seized me, and I sat upon the sill,
+Crying, "Tororo Hankoku Hankoku!" with a thrill.
+But the youth, he raised his hand that held the knife,
+And looked at me, and smiled, as if to life,
+"Is this your song? Your joyful sound?
+I long to hear it more, upon this ground."
+Delighted, I cried, "Tororo Hankoku Hankoku!" with glee,
+And the youth spoke again, so gently to me,
+"Is this your yukar? Your sakehau so sweet?
+I wish to hear it closer, my joy complete."
+My heart swelled with joy, and I leaped down with grace,
+To the hearth's edge below, in that humble place,
+Crying, "Tororo Hankoku Hankoku!" with might,
+And the youth spoke again, with eyes so bright,
+"Is this your yukar? Your sakehau so clear?
+I wish to hear it closer, banishing all fear."
+At these words, I was overjoyed, and with a bound,
+I leaped to the hearth's corner, safe and sound,
+Crying, "Tororo Hankoku Hankoku!" with cheer,
+But suddenly! The youth rose up, drawing near!
+I thought he would approach, but instead, he seized,
+A burning log, immense, my spirit displeased,
+He hurled it at me, a sound that blocked my way,
+And after that, I knew nothing of the day.
+When I awoke, dazed and in a fright,
+I found myself at the garbage heap's end, in dim light,
+A frog lay dead, its belly swollen and vast,
+And I sat between its ears, my die was cast.
+I looked around, and realized with dread,
+This was no ordinary home, as I had instead,
+Believed, but the house of Okikirmui, so grand,
+A being of power, like a god in the land!
+And I, in ignorance, had played a trick,
+On Okikirmui himself, with a foolish flick.
+Now I die this wretched, insignificant death,
+So, frogs of the future, take heed with each breath,
+Never play tricks on humans, I implore,
+Or you may suffer a fate to deplore."
+The swollen frog spoke thus, and then expired,
+A lesson learned too late, a life retired.
 ```
 

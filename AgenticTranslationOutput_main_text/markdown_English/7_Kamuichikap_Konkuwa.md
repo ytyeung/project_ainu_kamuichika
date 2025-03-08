@@ -4,26 +4,28 @@
 
 ## Kamuichikap Kamui yaieyukar, “Konkuwa” 
 ## 梟の神が自ら歌った謡「コンクワ」
-## The Owl God's Song: Konkuwa
+## The Owl God's Chant
 
 ### System prompt
 ```
 You are a professional translator. 
-You know Japanese, Chinese and English. 
+You only know Japanese, Chinese and English. 
 You can translate Japanese into either Chinese or English. 
 You can also translate Chinese into English, and English into Chinese.
+All the translations should keep the original meaning.
+All the translations only contain characters of the source and target languages.
 
 
 ```
 
 ### Prompt
 ```
-You are translating the following Japanese text into English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
+You are translating the following text from source language Japanese into target language English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
 You have 2 versions of English translations at hand.
 
 Here are your tasks:
 
-1. Compare the two English translations with the original Japanese text. List out the Pros and Cons of the Translations.
+1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.
 2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].
 Where one star means "Nonsense/No meaning preserved",
 two stars mean "Some meaning preserved, but not understandable",
@@ -48,7 +50,7 @@ and five stars mean "All part of the text is a poet and rhythmic. It is a chant.
 5. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (50%). Easiness to understanding is the second (30%). Poetic flow is the third (20%).
 6. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.
 
-Keep the original meaning accurately.
+Keep the original meaning accurately. 
 If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
@@ -182,379 +184,352 @@ This is the Japanese text.
 物語って天国へ行きました.と.
 
 This is the English Translation 1.
-"Konkuwa,
-In days of old, when I spoke, it was like the twang of a cherry-bark-wrapped bow,
-Resounding from the center of the *kyuha*.
-But now, alas, I am weakened and aged.
-Yet, if there were one eloquent and confident as a messenger,
-I would entrust them with a mission to Heaven, a negotiation of five and a half measures."
-So I spoke, tapping the lid of the *shintoko* with its hoops.
-Then, at the entrance, someone declared,
-"Who but I is so eloquent and confident as a messenger?"
-And I saw it was a young raven.
-I welcomed him into my home, and then, tapping the lid of the *shintoko* with its hoops,
-To appoint the young raven as my messenger,
-I recounted the negotiation. Three days passed,
-And as I spoke of the third point, I saw
-The young raven dozing behind the hearth.
-Seeing this, I was enraged,
-And struck the young raven with all my feathers, killing him.
-Then again, tapping the lid of the *shintoko* with its hoops,
-"If there is anyone confident as a messenger,
-I would entrust them with a negotiation of five and a half measures to Heaven."
-Then, someone again at the entrance said,
-"Who but I is so eloquent,
-So fit to stand as a messenger to Heaven?"
-And I saw it was a jay from the mountains.
-I welcomed him into my home, and then again,
-Tapping the lid of the *shintoko* with its hoops,
-I spoke of the negotiation of five and a half measures.
+"Konkuwa,"
+In the old days, when I spoke, it was like the twang of a cherry-bark-wrapped bow,
+The sound echoing from the center of the bow-grip.
+But now, I have weakened and grown old.
+Yet, if there were someone eloquent,
+Someone confident as a messenger,
+I would entrust them with a mission to Heaven, a negotiation of five and a half matters."
+So I said, tapping on the lid of the hooped Shintoko.
+Then, at the entrance, someone said,
+"Who but I is eloquent and confident enough to be a messenger?"
+And when I looked, it was a young crow.
+I let him into the house, and then, tapping on the lid of the hooped Shintoko,
+To appoint the young crow as my messenger,
+I told him the details of the negotiation.
+Three days passed, and as I spoke of the third matter,
+The young crow was dozing behind the hearth.
+Seeing this, I was enraged, and I struck the young crow,
+Feathers and all, and killed him.
+Then again, tapping on the lid of the hooped Shintoko,
+"If there is anyone confident enough to be a messenger,
+I would entrust them with a mission to Heaven,
+a negotiation of five and a half matters."
+As I said this, someone again at the entrance said,
+"Who but I is eloquent enough,
+To stand as a messenger to Heaven?"
+And when I looked, it was a mountain jay.
+I let him into the house, and then again,
+Tapping on the lid of the hooped Shintoko,
+I spoke of the five and a half matters.
 Four days passed, and as I spoke of the fourth matter,
 The mountain jay was dozing behind the hearth.
-I was angered and struck the mountain jay with all my feathers,
-killing him.
-Then again, tapping the lid of the *shintoko* with its hoops,
+I was angered, and I struck the mountain jay, feathers and all,
+And killed him.
+Then again, tapping on the lid of the hooped Shintoko,
 "If there is anyone eloquent and confident as a messenger,
-I would entrust them with a negotiation of five and a half measures to Heaven."
-Then, someone entered with a respectful demeanor,
-And I saw it was a young river crow, beautiful in appearance,
+I would entrust them with a mission to Heaven,
+a negotiation of five and a half matters."
+As I said this, someone entered with
+A respectful demeanor, and when I looked,
+It was a young river crow, beautiful in appearance,
 Who sat on the left side. And so I,
-Tapping the lid of the *shintoko* with its hoops,
-Continued to speak of the five and a half measures,
-Night and day. And I saw
-The young river crow, showing no sign of fatigue,
+Tapping on the lid of the hooped Shintoko,
+Continued to speak of the five and a half matters,
+Night and day. And when I looked,
+The young river crow showed no sign of fatigue,
 Listening, and counting the days and nights,
-And on the sixth day, as soon as I finished speaking,
-He emerged from the skylight and went to Heaven.
-The gist of the negotiation was this: in the human world,
-There was a famine, and the humans were on the verge of starvation.
-And the reason for this was that in Heaven,
-The god who governs the deer and the god who governs the fish
-Had consulted and decided to withhold both deer and fish.
+On the sixth day, as soon as I finished speaking,
+He went straight out through the skylight,
+And departed for Heaven.
+The gist of the negotiation was this:
+There was a famine in the human world,
+And the humans were on the verge of starvation.
+The reason, it seemed,
+Was that the god who governs the deer in Heaven,
+And the god who governs the fish,
+had consulted and decided to withhold both deer and fish.
 No matter what was said to them, they feigned ignorance,
-So when the humans went to the mountains to hunt,
-There were no deer, and when they went to the rivers to fish,
-There were no fish.
-I was angered by this, and so
-I appointed a messenger to the deer god and the fish god.
-Then, many days passed,
+So the humans, when they went to the mountains to hunt,
+Found no deer, and when they went to the rivers to fish,
+Found no fish.
+I was angered by this, and so,
+I sent a messenger to the deer god and the fish god.
+Many days passed,
 And a faint sound could be heard in the sky,
-And someone entered. And I saw
-The young river crow, now even more beautiful,
-Adorned with valiant grace,
+Then someone entered. When I looked,
+It was the young river crow, now even more beautiful,
+Adorned with valiant dignity,
 And he began to deliver the counter-negotiation.
 The reason the deer god and the fish god of Heaven
-Had withheld deer and fish until this day
+Had withheld the deer and the fish until today,
 Was that when the humans caught deer,
 They struck the deer's head with wood, and when they skinned it,
-They left the deer's head discarded in the mountain fields.
+They left the deer's head as it was in the mountain fields.
 And when they caught fish,
 They struck the fish's head with rotten wood to kill it.
 So the deer, naked and weeping,
-Returned to the deer god, and the fish,
-Holding the rotten wood in their mouths, returned to the fish god.
-The deer god and the fish god,
-Angered, consulted and withheld deer
-And fish. But if from now on
-The humans treat both deer and fish
-With care, then they will release deer
-And fish, so the deer god and
-The fish god said, he reported in detail.
-Having heard this, I offered praise to the young river crow, and I saw that truly
-The humans had treated deer and fish
-Carelessly.
-Then, from then on, so that such things would never happen again,
+Returned to the deer god's presence, and the fish,
+Holding the rotten wood in their mouths,
+Returned to the fish god's presence. The deer god and the fish god,
+Angered, consulted and withheld the deer
+And the fish. But if from now on,
+The humans would treat both deer and fish
+With care, then they would release the deer
+And release the fish, so the deer god and
+The fish god had said, he reported in detail.
+After hearing this, I offered praise to the young river crow,
+And saw that indeed,
+The humans had treated the deer and the fish
+Carelessly. From then on, so as to never do such a thing again,
 I taught the humans in their sleep, in their dreams,
 And the humans realized their wrongdoings, and from then on,
-They beautifully crafted tools for catching fish, like *nusa*,
-And used them to catch fish. And when they caught deer, they also
-Beautifully adorned and celebrated the deer's head. And so
-The fish, rejoicing, held the beautiful *gohei* in their mouths
-And went to the fish god, and the deer,
-Rejoicing, freshly shaved their *sakayaki* and returned to the deer god.
-The deer god and
-The fish god, pleased with this,
-Released many fish and many deer.
-The humans now live without any hardship
+They beautifully crafted tools for catching fish, like Nusa,
+And used them to catch fish. When they caught deer, they also
+Beautifully decorated and worshipped the deer's head. And so,
+The fish, rejoicing, carried the beautiful Nusa in their mouths,
+And went to the fish god's presence, and the deer,
+Rejoicing, freshly shaved their forelocks, and returned
+To the deer god's presence. The deer god and
+The fish god rejoiced at this,
+And released many fish, and released many deer.
+The humans now lived without any hardship
 Or hunger,
-And seeing this, I was relieved.
+And I was relieved to see this.
 I am now old, weakened, and frail,
 And I had intended to go to Heaven,
 But because there was a famine in the human land that I protect,
 And the humans were on the verge of starvation, I could not
-Go without concern, and so
-I have remained until now, but now that there is no longer
-Any worry, I will place the strongest,
-A young hero, in my place to protect the human world,
-And now I shall go to Heaven."
+Go without concern, and so,
+I have remained until now, but now there is no
+Cause for worry, so I will place the strongest,
+A young hero, in my stead to protect the human world,
+And now I shall depart for Heaven."
 So spoke the old god (the owl), guardian of the land,
-And went to Heaven.
+And departed for Heaven.
 
 This is the English Translation 2.
-"Konkwa."
-In days of old, when I spoke, my words resonated like the twang of a cherry-bark bound bow,
-Echoing from the center of the bow's handle, reaching all directions.
-But now, I am aged, and time urges me onward.
+Long ago, I declared, like cherry bark binding a bow, the bow's center sings. But now, I am old and weary.
 Yet, if there be an eloquent one,
-Bearing the confidence of a messenger,
-I would send them to the heavens, to negotiate the five-and-a-half matters."
-
-So I spoke, striking the lid of the hooped *shintoko*.
-Suddenly, a voice from the entrance:
-"Who but I is eloquent,
-Bearing the confidence of a messenger?"
+bearing the confidence of an envoy,
+I would send them to the heavens, to negotiate the matter of five and a half."
+So I spoke, striking the hooped lid of the shintoko.
+Suddenly, at the entrance, a voice arose:
+"Who but I can be the messenger, eloquent and confident?"
 I looked, and it was a young crow.
-I invited him in, and again, I struck the lid of the hooped *shintoko*,
-Desiring to appoint the young crow as my envoy,
-I explained the matters of negotiation, diligently, for three days.
-On the third day, as I recounted the third matter,
-I saw the young crow dozing by the hearth.
+I welcomed him into the chamber, and again, I struck the hooped lid of the shintoko,
+to send the young crow as my envoy,
+recounting the matters of negotiation for three days.
+As I spoke of the third matter, I saw the young crow,
+beside the hearth, fast asleep.
 Seeing this, my anger flared,
-And I struck the young crow, feathers and all, until he died.
-
-Then, once more, I struck the lid of the hooped *shintoko*,
+and I struck the young crow's wings, slaying him.
+Then again, I struck the hooped lid of the shintoko,
 "If there be a confident messenger,
-I would send them to the heavens, to negotiate the five-and-a-half matters."
-As I spoke, another voice from the entrance:
+I would send them to the heavens, to negotiate the matter of five and a half."
+Before I finished speaking, another voice arose at the entrance:
 "Who but I is eloquent,
-Sufficient to serve as a messenger to the heavens?"
+worthy to be an envoy to the heavens?"
 I looked, and it was a mountain jay.
-I invited him in, and again,
-I struck the lid of the hooped *shintoko*,
-Explaining the five-and-a-half matters,
-For four days, and as I recounted the fourth crucial point,
-The mountain jay was dozing by the hearth.
-My rage was uncontrollable, and I struck the mountain jay, feathers and all, until he died.
-
-Then, once more, I struck the lid of the hooped *shintoko*,
-"If there be an eloquent one, bearing the confidence of a messenger,
-I would send them to the heavens, carrying the five-and-a-half matters."
-As I spoke, one entered with
-A respectful demeanor. I looked,
-And it was a young river otter, handsome of face,
-Who sat on the left.
-I then struck the lid of the hooped *shintoko*,
-Repeating the five-and-a-half
-Crucial matters, day and night.
-But the young river otter showed no sign of weariness,
-Listening intently, pressing on day and night,
-Until the sixth day,
-When I had finished speaking, he immediately departed through the skylight,
-And journeyed to the heavens.
-
-The crux of the negotiation was that the human world
-Was plagued by famine, and the people were on the verge
-Of starvation. The reason for this,
-Was that the gods of the heavens,
-The god of deer and the god of fish,
-Had conspired to send neither deer nor fish.
-No matter how earnestly the humans pleaded, the gods turned a deaf ear.
-Therefore, when humans hunted
-In the mountains, they found no trace of deer; when they fished
-In the rivers, they found no sign of fish.
+I welcomed him into the chamber, and again,
+I struck the hooped lid of the shintoko,
+recounting the negotiation of five and a half,
+for four days. As I spoke of the fourth matter,
+the mountain jay had already fallen asleep beside the hearth.
+My anger was uncontrollable, and I struck the mountain jay's wings,
+slaying him.
+Then again, I struck the hooped lid of the shintoko,
+"If there be an eloquent one, bearing the confidence of an envoy,
+I would send them to the heavens, to hold the negotiation of five and a half."
+Before I finished speaking, one entered
+with a humble demeanor. I looked,
+and it was a young river otter, handsome in appearance,
+seated on the left. So I
+struck the hooped lid of the shintoko,
+day and night, ceaselessly recounting the matter of five and a half.
+I watched the young river otter, showing no sign of weariness,
+listening patiently, day and night,
+until the sixth day.
+When I finished speaking, he immediately departed through the skylight,
+heading towards the heavens.
+The gist of his negotiation was that the human world
+was ravaged by famine, and the people were on the brink
+of starvation. The reason for this,
+was that the gods of the heavens,
+the god of deer and the god of fish,
+had agreed not to send down deer, nor to send down fish.
+No matter how the people pleaded, they turned a deaf ear.
+So when people went to the mountains to hunt, no deer could be found;
+when they went to the rivers to fish, no fish could be caught.
 Seeing this, my anger flared,
-And I sent a messenger to the deer god and the fish god.
-
+and I sent an envoy to the deer god and the fish god.
 After several days,
-A faint sound could be heard in the air,
-And then someone entered. I looked,
-And it was the young river otter, now even more
-Handsome and noble than before,
-Who began to recount the negotiated reply.
-The deer god and the fish god of the heavens
-Refused to send deer or fish
-Because, when humans hunted deer,
-They struck the deer's head with wood, skinned it,
-And carelessly discarded the deer's head in the mountain forests.
-When they caught fish,
-They killed them by striking their heads with rotten wood.
-Therefore, the deer, naked and weeping,
-Returned to the deer god; the fish,
-Mouths filled with rotten wood, returned to the fish god.
-The deer god and the fish god,
-Enraged, conspired to send neither deer
-Nor fish. However, if in the future
-Huans would treat the deer and fish with kindness,
-The deer god and the fish god would send deer
-And fish. The deer god and the
-Fish god spoke thus, explaining everything in detail.
-
-Hearing this, I offered praise to the young river otter,
-And learned that
-Humans had indeed
-Been treating the deer and fish cruelly.
-From that day forward, to prevent such things from happening again,
-When humans slept, in their dreams
-I warned them, and humans
-Realized their mistakes. From then on,
-They crafted their fishing and hunting tools with care, like making *nusa*,
-And used them to catch fish. When they hunted deer, they also
-Adorned the deer's head with care and held a festival. Therefore,
-The fish joyfully carried beautiful *gohei* in their mouths,
-And returned to the fish god; the deer
-Joyfully groomed their *sakayaki*, and returned to the deer god.
-The deer god and the
-Fish god, seeing this, were greatly pleased,
-And sent forth fish in abundance, and deer in abundance.
-The human world now had no hardship,
-Nor fear of starvation,
-And seeing this, I felt at peace.
-
-I am now old and frail,
-And had intended to journey to the heavens,
-But the human realm I protect
-Was plagued by famine, and the people were on the verge of starvation,
-And I could not abandon them,
-So I have remained until now. Now I have no
-Further concerns, so I wish to select the strongest,
-Youngest warrior to succeed me, to protect humanity,
-And I, today, shall journey to the heavens."
-
-Thus, the guardian god of the land, the old god (owl),
-Finished speaking, and journeyed to the heavens. So it is.
+a voice echoed in the air,
+and suddenly, one entered. I looked,
+and it was the young river otter, now even more radiant than before,
+with an increased air of bravery.
+He began to recount the reply of the negotiation.
+The deer god and the fish god of the heavens,
+had not sent down deer or fish until now
+because when people hunted deer,
+they struck the deer's head with wood, skinned it,
+and abandoned the deer's head in the mountains and fields.
+When they caught fish, they killed them by striking their heads with rotten wood.
+So the deer, naked and weeping,
+returned to the deer god. The fish, carrying rotten wood in their mouths,
+returned to the fish god. The deer god and the fish god,
+angered, agreed not to send down deer,
+nor to send down fish. But if from now on
+people treat the deer and fish with kindness,
+then the deer god and the fish god will send down deer,
+and send down fish. So said the deer god and the fish god,
+and they explained the matter in detail.
+Upon hearing this, I offered praise to the young river otter,
+and realized that
+people had indeed treated the deer and fish cruelly.
+From then on, to avoid repeating the mistake,
+when people slept, in their dreams
+I warned them. The people also knew their error,
+and offered gifts of cloth, and crafted fine fishing tools,
+with which to catch fish. When hunting deer, they also
+elaborately decorated the deer's head, and offered it in sacrifice. So
+the fish rejoiced, carrying beautiful offerings,
+to the fish god. The deer
+rejoiced, combing their new moon antlers, returning to the deer god.
+The deer god and the fish god, seeing this,
+were greatly pleased, and sent down countless fish,
+and countless deer.
+The people now have no hardship,
+nor fear of starvation.
+Seeing this, I am greatly relieved.
+I am old and frail,
+and had intended to depart for the heavens,
+but the human realm I protect
+was ravaged by famine, and the people were on the brink of starvation,
+so I dared not leave rashly,
+and only now do I depart. Now I have no more attachments,
+so I wish to choose the strongest,
+young warrior to succeed me, to protect humanity.
+Now I shall depart for the heavens."
+Thus, the guardian deity of the land, the old god (owl),
+having finished his tale, departed for the heavens.
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand | Poetic Flow | Total Score |
 | ------------- | -------- | ------------------ | ------------ | ------------ |
-| Translation 1 | 4 | 4 | 3 | 3.9 |
+| Translation 1 | 4 | 4 | 3 | 3.8 |
 | Translation 2 | 4 | 4 | 4 | 4.0 |
 
 ### Comments
 #### Translation 1
-Translation 1 is accurate and understandable, but at times it feels a bit literal. Some of the phrasing could be more poetic to better reflect the nature of a chant.
+Translation 1 is accurate but somewhat literal. It clearly conveys the story but lacks some of the poetic nuances of the original Japanese.
 
 #### Translation 2
-Translation 2 is slightly more poetic and evocative. The language used is a bit more elevated, which suits the context of a divine chant. The use of 'envoy' instead of 'messenger' is a good example.
+Translation 2 is more poetic and evocative, capturing the spirit of the Ainu chant more effectively. However, the term 'river otter' is not accurate. It should be 'river crow'.
 
 ### Better Choice
 Translation 2
 #### Comment
-Translation 2 has a slightly better poetic flow and maintains accuracy well. The word choices are more evocative, and the overall tone feels more consistent with a traditional chant. While both translations are good, Translation 2 edges out Translation 1 in terms of capturing the spirit of the original text.
+Translation 2 demonstrates a slightly better poetic flow and maintains the original meaning accurately. While both translations are good, Translation 2 uses more evocative language and captures the essence of the Ainu chant more effectively. The use of phrases like "radiant than before" and "increased air of bravery" adds depth to the narrative. It also avoids some of the literalness present in Translation 1, making it more engaging.
 
 ### Updated Output
 ```
-"Konkuwa."
-In days of old, when I spoke, my words resonated like the twang of a cherry-bark bound bow,
-Echoing from the heart of the *kyuha*, reaching all directions.
-But now, I am aged, and time urges me onward.
+Long ago, I declared, like cherry bark binding a bow, the bow's center sings. But now, I am old and weary.
 Yet, if there be an eloquent one,
-Bearing the confidence of a messenger,
-I would send them to the heavens, to negotiate the five-and-a-half matters."
-
-So I spoke, striking the lid of the hooped *shintoko*.
-Suddenly, a voice from the entrance:
-"Who but I is eloquent,
-Bearing the confidence of a messenger?"
+bearing the confidence of an envoy,
+I would send them to the heavens, to negotiate the matter of five and a half."
+So I spoke, striking the hooped lid of the Shintoko.
+Suddenly, at the entrance, a voice arose:
+"Who but I can be the messenger, eloquent and confident?"
 I looked, and it was a young crow.
-I invited him in, and again, I struck the lid of the hooped *shintoko*,
-Desiring to appoint the young crow as my envoy,
-I explained the matters of negotiation, diligently, for three days.
-On the third day, as I recounted the third matter,
-I saw the young crow dozing by the hearth.
+I welcomed him into the chamber, and again, I struck the hooped lid of the Shintoko,
+to send the young crow as my envoy,
+recounting the matters of negotiation for three days.
+As I spoke of the third matter, I saw the young crow,
+beside the hearth, fast asleep.
 Seeing this, my anger flared,
-And I struck the young crow, feathers and all, until he died.
-
-Then, once more, I struck the lid of the hooped *shintoko*,
+and I struck the young crow's wings, slaying him.
+Then again, I struck the hooped lid of the Shintoko,
 "If there be a confident messenger,
-I would send them to the heavens, to negotiate the five-and-a-half matters."
-As I spoke, another voice from the entrance:
+I would send them to the heavens, to negotiate the matter of five and a half."
+Before I finished speaking, another voice arose at the entrance:
 "Who but I is eloquent,
-Sufficient to serve as a messenger to the heavens?"
+worthy to be an envoy to the heavens?"
 I looked, and it was a mountain jay.
-I invited him in, and again,
-I struck the lid of the hooped *shintoko*,
-Explaining the five-and-a-half matters,
-For four days, and as I recounted the fourth crucial point,
-The mountain jay was dozing by the hearth.
-My rage was uncontrollable, and I struck the mountain jay, feathers and all, until he died.
-
-Then, once more, I struck the lid of the hooped *shintoko*,
-"If there be an eloquent one, bearing the confidence of a messenger,
-I would send them to the heavens, carrying the five-and-a-half matters."
-As I spoke, one entered with
-A respectful demeanor. I looked,
-And it was a young river crow, handsome of face,
-Who sat on the left.
-I then struck the lid of the hooped *shintoko*,
-Repeating the five-and-a-half
-Crucial matters, day and night.
-But the young river crow showed no sign of weariness,
-Listening intently, pressing on day and night,
-Until the sixth day,
-When I had finished speaking, he immediately departed through the skylight,
-And journeyed to the heavens.
-
-The crux of the negotiation was that the human world
-Was plagued by famine, and the people were on the verge
-Of starvation. The reason for this,
-Was that the gods of the heavens,
-The god of deer and the god of fish,
-Had conspired to send neither deer nor fish.
-No matter how earnestly the humans pleaded, the gods turned a deaf ear.
-Therefore, when humans hunted
-In the mountains, they found no trace of deer; when they fished
-In the rivers, they found no sign of fish.
+I welcomed him into the chamber, and again,
+I struck the hooped lid of the Shintoko,
+recounting the negotiation of five and a half,
+for four days. As I spoke of the fourth matter,
+the mountain jay had already fallen asleep beside the hearth.
+My anger was uncontrollable, and I struck the mountain jay's wings,
+slaying him.
+Then again, I struck the hooped lid of the Shintoko,
+"If there be an eloquent one, bearing the confidence of an envoy,
+I would send them to the heavens, to hold the negotiation of five and a half."
+Before I finished speaking, one entered
+with a humble demeanor. I looked,
+and it was a young river crow, handsome in appearance,
+seated on the left. So I
+struck the hooped lid of the Shintoko,
+day and night, ceaselessly recounting the matter of five and a half.
+I watched the young river crow, showing no sign of weariness,
+listening patiently, day and night,
+until the sixth day.
+When I finished speaking, he immediately departed through the skylight,
+heading towards the heavens.
+The gist of his negotiation was that the human world
+was ravaged by famine, and the people were on the brink
+of starvation. The reason for this,
+was that the gods of the heavens,
+the god of deer and the god of fish,
+had agreed not to send down deer, nor to send down fish.
+No matter how the people pleaded, they turned a deaf ear.
+So when people went to the mountains to hunt, no deer could be found;
+when they went to the rivers to fish, no fish could be caught.
 Seeing this, my anger flared,
-And I sent a messenger to the deer god and the fish god.
-
+and I sent an envoy to the deer god and the fish god.
 After several days,
-A faint sound could be heard in the air,
-And then someone entered. I looked,
-And it was the young river crow, now even more
-Handsome and noble than before,
-Who began to recount the negotiated reply.
-The deer god and the fish god of the heavens
-Refused to send deer or fish
-Because, when humans hunted deer,
-They struck the deer's head with wood, skinned it,
-And carelessly discarded the deer's head in the mountain forests.
-When they caught fish,
-They killed them by striking their heads with rotten wood.
-Therefore, the deer, naked and weeping,
-Returned to the deer god; the fish,
-Mouths filled with rotten wood, returned to the fish god.
-The deer god and the fish god,
-Enraged, conspired to send neither deer
-Nor fish. However, if in the future
-Huans would treat the deer and fish with kindness,
-The deer god and the fish god would send deer
-And fish. The deer god and the
-Fish god spoke thus, explaining everything in detail.
-
-Hearing this, I offered praise to the young river crow,
-And learned that
-Humans had indeed
-Been treating the deer and fish cruelly.
-From that day forward, to prevent such things from happening again,
-When humans slept, in their dreams
-I warned them, and humans
-Realized their mistakes. From then on,
-They crafted their fishing and hunting tools with care, like making *nusa*,
-And used them to catch fish. When they hunted deer, they also
-Adorned the deer's head with care and held a festival. Therefore,
-The fish joyfully carried beautiful *gohei* in their mouths,
-And returned to the fish god; the deer
-Joyfully groomed their *sakayaki*, and returned to the deer god.
-The deer god and the
-Fish god, seeing this, were greatly pleased,
-And sent forth fish in abundance, and deer in abundance.
-The human world now had no hardship,
-Nor fear of starvation,
-And seeing this, I felt at peace.
-
-I am now old and frail,
-And had intended to journey to the heavens,
-But the human realm I protect
-Was plagued by famine, and the people were on the verge of starvation,
-And I could not abandon them,
-So I have remained until now. Now I have no
-Further concerns, so I wish to select the strongest,
-Youngest warrior to succeed me, to protect humanity,
-And I, today, shall journey to the heavens."
-
-Thus, the guardian god of the land, the old god (owl),
-Finished speaking, and journeyed to the heavens. So it is.
+a voice echoed in the air,
+and suddenly, one entered. I looked,
+and it was the young river crow, now even more radiant than before,
+with an increased air of bravery.
+He began to recount the reply of the negotiation.
+The deer god and the fish god of the heavens,
+had not sent down deer or fish until now
+because when people hunted deer,
+they struck the deer's head with wood, skinned it,
+and abandoned the deer's head in the mountains and fields.
+When they caught fish, they killed them by striking their heads with rotten wood.
+So the deer, naked and weeping,
+returned to the deer god. The fish, carrying rotten wood in their mouths,
+returned to the fish god. The deer god and the fish god,
+angered, agreed not to send down deer,
+nor to send down fish. But if from now on
+people treat the deer and fish with kindness,
+then the deer god and the fish god will send down deer,
+and send down fish. So said the deer god and the fish god,
+and they explained the matter in detail.
+Upon hearing this, I offered praise to the young river crow,
+and realized that
+people had indeed treated the deer and fish cruelly.
+From then on, to avoid repeating the mistake,
+when people slept, in their dreams
+I warned them. The people also knew their error,
+and offered gifts of Nusa, and crafted fine fishing tools,
+with which to catch fish. When hunting deer, they also
+elaborately decorated the deer's head, and offered it in sacrifice. So
+the fish rejoiced, carrying beautiful Nusa,
+to the fish god. The deer
+rejoiced, combing their new moon antlers, returning to the deer god.
+The deer god and the fish god, seeing this,
+were greatly pleased, and sent down countless fish,
+and countless deer.
+The people now have no hardship,
+nor fear of starvation.
+Seeing this, I am greatly relieved.
+I am old and frail,
+and had intended to depart for the heavens,
+but the human realm I protect
+was ravaged by famine, and the people were on the brink of starvation,
+so I dared not leave rashly,
+and only now do I depart. Now I have no more attachments,
+so I wish to choose the strongest,
+young warrior to succeed me, to protect humanity.
+Now I shall depart for the heavens."
+Thus, the guardian deity of the land, the old god (owl),
+having finished his tale, departed for the heavens.
 ```
 

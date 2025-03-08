@@ -4,26 +4,28 @@
 
 ## Repun Kamui yaieyukar, “Atuika tomatomaki kuntuteashi hm hm!” 
 ## 海の神が自ら歌った謡「アトイカ トマトマキ クントテアシ フム フム!」
-## Atoika Tomatomaki Kuntoteashi Hum Hum
+## Ainu God's Chant
 
 ### System prompt
 ```
 You are a professional translator. 
-You know Japanese, Chinese and English. 
+You only know Japanese, Chinese and English. 
 You can translate Japanese into either Chinese or English. 
 You can also translate Chinese into English, and English into Chinese.
+All the translations should keep the original meaning.
+All the translations only contain characters of the source and target languages.
 
 
 ```
 
 ### Prompt
 ```
-You are translating the following Japanese text into English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
+You are translating the following text from source language Japanese into target language English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
 You have 2 versions of English translations at hand.
 
 Here are your tasks:
 
-1. Compare the two English translations with the original Japanese text. List out the Pros and Cons of the Translations.
+1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.
 2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].
 Where one star means "Nonsense/No meaning preserved",
 two stars mean "Some meaning preserved, but not understandable",
@@ -48,7 +50,7 @@ and five stars mean "All part of the text is a poet and rhythmic. It is a chant.
 5. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (50%). Easiness to understanding is the second (30%). Poetic flow is the third (20%).
 6. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.
 
-Keep the original meaning accurately.
+Keep the original meaning accurately. 
 If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
@@ -253,586 +255,614 @@ This is the Japanese text.
 This is the English Translation 1.
 Atoika tomatomaki kuntoteashi hum hum!
 
-Atoika tomatomaki kuntoteashi hum hum.
-My eldest brothers, six in number, my eldest sisters, six in number,
-My youngest brothers, six in number, my youngest sisters, six in number,
-Were raising me, but I,
-Had a raised platform built beside the treasures, and upon that platform,
-I sat, carving and engraving scabbards,
-That alone,
-Was my purpose in life.
-Every day, as morning arrived, my brothers would,
+Atoika tomatomaki kuntoteashi hum hum!
+My elder brothers, six in number, my elder sisters, six in number,
+My younger brothers, six in number, my younger sisters, six in number,
+They raised me well. I,
+Near the piled-up treasures, I built a raised platform, and upon it,
+I sat, carving sheaths, engraving sheaths,
+That alone
+Was my life's work.
+Each day, as morning broke, my brothers would
 Shoulder their quivers and go out with my sisters,
 And as evening fell, they would return with weary faces,
-Bringing nothing with them. My sisters,
-Though tired, would prepare the meals, setting a tray before me,
-And after they themselves had eaten and cleared away the dishes,
-Then my brothers would busily make arrows.
-When the quivers were full, everyone being weary,
+Empty-handed. My sisters,
+Though tired, would prepare the meal, setting a tray before me,
+Then eat themselves. When the dishes were cleared,
+My brothers would busily craft arrows.
+When the quivers were full, they would all be so tired
 They would sleep, their loud snores echoing.
 The next day, while it was still dark,
-Everyone would rise, my sisters preparing the meal and setting my tray,
-And once everyone had eaten, they would again shoulder their quivers,
+They would all rise, my sisters preparing the meal, setting a tray before me.
+When all had eaten, they would again shoulder their quivers
 And depart. Again, as evening fell,
-They would return with weary faces, bringing nothing with them,
-My sisters would prepare the meals, my brothers would make arrows,
-Always, they did the same things.
-One day, again, my brothers and sisters,
+They would return with weary faces, empty-handed.
+My sisters would prepare the meal, my brothers would craft arrows,
+Always the same.
+One day, again, my brothers and sisters
 Shouldered their quivers and went out.
-I was carving treasures, but soon,
-I rose upon the platform, and with a golden bow,
-And golden arrows, I went outside,
-And saw the sea, vast and calm,
-And to the east and west of the sea, whales were,
-Playing with splashes. Then,
-To the east of the sea, my eldest sisters, six in number, joined hands to form a ring,
-My youngest sisters, six in number, drove the whales into the ring,
-My eldest brothers, six in number, my youngest brothers, six in number,
-Aimed and shot at the whales within the ring, their arrows,
+I was carving treasures, but soon
+I rose from the platform, took my golden bow
+And golden arrows, and went outside.
+The sea was wide and calm,
+And whales were playing, splashing,
+To the east and west of the sea. Then,
+To the east of the sea, my elder sisters, six in number, joined hands and made a ring,
+My younger sisters, six in number, drove the whales into the ring,
+My elder brothers, six in number, my younger brothers, six in number,
+Aimed and shot at the whales within the ring, their arrows
 Passing beneath and above the whales.
-Every day, they did such things.
-I saw in the center of the sea,
-A great whale and its calf playing,
-Rising and falling with splashes, so,
+Every day they did this.
+Then, in the center of the sea,
+A great whale and its calf were playing,
+Splashing up and down. So,
 From afar, I nocked a golden arrow to my golden bow,
-Aimed, and with a single arrow,
-Pierced both whale and calf at once.
-Then, I cut the whale in half,
-Hurling one half into my sisters' ring.
-Then, with the whale and a half,
-I placed it beneath its tail and went towards the land of humans,
-Arriving at the village of Otasutsu,
-And pushed the whale and a half,
-Up onto the village's beach.
-Then, I slowly,
-Swam back across the sea,
-When someone came running breathlessly beside me,
-And I saw it was the sea-gome.
+Aimed, and shot, piercing both whale and calf
+With a single arrow.
+Then, I cut one whale in half,
+Hurling half into my sisters' ring.
+Then, with one and a half whales,
+I went towards the land of humans,
+Arriving at Otasutsu village,
+And pushed the one and a half whales
+Onto the village beach.
+Then, I swam slowly back
+Across the sea,
+When someone came running, breathless,
+It was the sea-gome.
 Breathlessly, it said,
-"Tomin karikuru Kamuy karikuru Isoyanke kuru,
+"Tominkarukuru kamuykarukuru isoyankerukuru!
 Brave god, great god,
 Why have you given such great sea bounty to the lowly humans, the wicked humans?
-The lowly humans, the wicked humans, with axes,
-With sickles, are cutting, poking,
-And scraping away at the great sea bounty, brave god,
-great god, quickly take back the great sea bounty.
-Even though you give them so much sea bounty,
+The lowly humans, the wicked humans, with axes
+And sickles, are cutting, poking,
+And scraping away at the great sea bounty. Brave god,
+great god, quickly
+Take back the great sea bounty! Even though you give them so much,
 the lowly humans, the wicked humans,
-Do not feel gratitude and do such things."
+Do not appreciate it and do such things!"
 So I laughed and said,
-"I have given it to the humans,
-Now it is theirs, so whether the humans,
-Poke at their possessions with sickles or,
-Scrape them with axes, is it not fine if they eat as they please?
-What is wrong with that?" I said,
-The sea-gome looked dismayed,
-But I paid it no mind and slowly swam across the sea,
-And as the day was about to end, I arrived at my sea.
-I saw,
-My twelve brothers, my twelve,
-Sisters, unable to carry the half whale,
-Were all struggling together,
-East of the sea. I was truly astonished.
-I paid them no mind and returned home,
-And sat upon the platform.
+"I gave it to the humans,
+It is theirs now, so let them
+Poke at it with sickles, or scrape at it with axes,
+Let them eat it as they please,
+What does it matter?" Then
+The sea-gome looked lost,
+But I paid it no mind and swam slowly
+Across the sea,
+And as the day was ending, I arrived at my sea.
+There,
+My twelve brothers, my twelve
+Sisters, could not carry
+The half whale, and were all struggling,
+Making a ruckus to the east of the sea.
+I was truly amazed.
+I paid them no mind and went home,
+Sitting on the raised platform.
 Then, looking back towards the human world,
-I saw that around the whale and a half I had beached,
-Fine men and fine women were dressed in finery,
-Joyfully dancing and celebrating the sea bounty, and upon the dunes behind,
-Fine mats were spread,
-And upon them, the village chief of Otasutsu,
-With six robes and a bundled sash, wearing six robes,
+Around the one and a half
+Whales I had beached, fine men and
+Fine women were dressed in finery,
+Rejoicing and dancing over the sea bounty, and on the dunes behind,
+A fine mat was spread,
+And upon it, the village chief of Otasutsu village,
+With six robes and bundled sashes, wearing six robes,
 And wearing a fine god's crown, an ancestral crown,
-Upon his head, and wearing a divinely granted sword at his waist,
-Looking as beautiful as a god, raised his hands high,
-And was worshipping. The humans were crying,
-And rejoicing in the sea bounty.
-What the gome said, that the humans were,
-Poking at the whale I had beached with axes and sickles,
-The village chief and the,
-villagers, since long ago,
-Took out the divine sword, which they considered the most precious of treasures,
-And were cutting the meat with it and carrying it away.
+Upon his head, and a god-given sword at his waist,
+Looking as beautiful as a god, raised his hands high
+And worshipped. The humans were crying,
+Rejoicing over the sea bounty.
+What the gome said, that the humans were
+Poking at the whale I had beached
+With axes and sickles,
+Was not true. The village chief and
+The villagers were taking out
+The god sword, which they had always
+Treasured most, and using it
+To cut the meat and carry it away.
 Then, my brothers and sisters showed no sign of returning.
-After two or three days, something seemed to appear in the window, so,
-I turned to look and saw upon the window,
-A golden cup filled to overflowing,
-With sake, and upon it,
-Sake chopsticks adorned with Nusa, were placed,
-Going back and forth, stating their message as envoys, saying,
-"I am a person from the village of Otasutsu,
-And with great reverence, I offer this sake." And,
-The village chief of Otasutsu, representing the villagers,
-Spoke in detail of their gratitude to me,
-"Tomin karikuru Kamuy karikuru Isoyanke kuru,
-Great god, brave god, who but you,
-Would have pity on our village, which is in famine,
-And is so desperately short of food?
-Thank you truly for giving life to our village,
-Rejoicing in the sea bounty,
-We have made a little sake, and added a small Nusa,
-And offer our gratitude to the great god."
-These things,
-The Nusa-adorned sake chopsticks stated, going back and forth.
-So I rose, and took the golden cup,
-And reverently received it, and opened,
-The lids of the six sake barrels in the upper seat,
-And poured a little of the fine sake into each,
-And placed the golden cup upon the window.
-When that was done, I sat down upon the platform,
-And saw that the cup and chopsticks had disappeared. Then, carving scabbards,
-And engraving scabbards, and soon,
-I raised my face and saw,
-The house was filled with beautiful Nusa,
-And the house was filled with white clouds and white lightning,
-Flashing brightly. I thought, "Ah, how beautiful."
-Then again, after two or three days,
-At that time, finally, outside the house, my brothers and,
-Sisters were heard pulling the whale,
-With loud cries. I was astonished.
-Looking at how they entered the house,
-My brothers and sisters were,
-Very tired, their faces withered.
-Everyone came in, and seeing the many Nusa,
-They were surprised and bowed many times.
-Meanwhile, the six sake barrels in the eastern seat,
-Were overflowing, and the scent of the god's favorite,
+Two or three days passed, and something
+Appeared in the window. So,
+I turned and looked, and in the window
+Was a golden cup, overflowing
+With sake, and upon it
+Were sake chopsticks adorned with gohei,
+Going back and forth, delivering a message as an envoy,
+saying,
+"I am from Otasutsu village,
+And with great reverence, I offer you sake." And
+The village chief of Otasutsu village,
+Representing all the villagers,
+Spoke in detail of his gratitude,
+saying,
+"Tominkarukuru kamuykarukuru isoyankerukuru!
+Great god, brave god, who else
+Would have pity on our village, which was suffering a famine
+And was so desperately
+Lacking food?
+Thank you truly for giving life to our village.
+Rejoicing over the sea bounty,
+We have made a little sake,
+Added a small nusa,
+And offer our thanks
+To the great god." This
+Was what the gohei-adorned sake chopsticks
+Repeated back and forth.
+So I rose, took the golden cup,
+And reverently received it,
+Opened the lids of the six sake barrels
+On the upper seat,
+Poured a little fine sake into each,
+And placed the golden cup in the window.
+When that was done, I sat down on the platform
+And saw that the cup and chopsticks
+Were gone. Then, I carved sheaths
+And engraved sheaths, and soon
+I looked up,
+And the house was full of beautiful gohei,
+And white clouds were drifting through the house, and white lightning
+Was flashing. I thought, "Ah, how beautiful!"
+Then, again, two or three days passed,
+And at that time, finally, outside the house,
+I heard my brothers and
+Sisters pulling the whale,
+Shouting loudly. I was amazed.
+I watched them enter the house,
+And my brothers and sisters
+Were very tired, their faces
+Withered. When they all came in and saw the many gohei,
+They were surprised and worshipped many times.
+Meanwhile, the six sake barrels on the east seat
+Were overflowing, and the scent of the god's favorite
 Sake filled the house.
-Then I decorated the house with beautiful Nusa,
-Invited the gods of afar, the gods of the neighborhood,
-And held a grand banquet. My sisters,
-Boiled the whale, and when they offered it to the gods,
-The gods smacked their lips and rejoiced.
-As the banquet reached its height, I rose,
-And told in detail how there was a famine in the human world,
-And feeling pity, I had beached the sea bounty, and how,
-When I did good to the humans, the wicked gods,
-Were jealous of it, and the sea-gome slandered me,
-And how the village chief of Otasutsu,
-Spoke such words and offered his gratitude to me,
-And how the Nusa-adorned sake chopsticks came as envoys,
-And as I told these things in detail, the gods,
+Then I decorated the house with beautiful gohei,
+Invited distant gods and nearby gods,
+And held a grand feast. My sisters
+Boiled the whale and offered it to the gods,
+And the gods smacked their lips and rejoiced.
+As the feast reached its height, I rose
+And told in detail how there was a famine in the human world
+And I pitied them and beached the sea bounty,
+And how the wicked gods
+Were jealous of this, and the sea-gome slandered me,
+And how the village chief of Otasutsu village
+Spoke those words and offered me thanks,
+And how the gohei-adorned sake chopsticks came as an envoy.
+Then the gods
 All nodded in unison,
 Praising me.
-Then again, holding a grand banquet,
-The sounds of the gods,
-Dancing and leaping here and there,
-Made beautiful echoes, and my sisters,
-Carried the Choshi and went around pouring sake between the seats,
-And sang with beautiful voices along with the goddesses.
-After two or three days, the banquet closed.
-When I gave the gods two or three beautiful Nusa each,
-The gods bent their waists,
-And bowed many times,
-And all returned to their own homes.
-After that, as always, my eldest brothers, six in number,
-My eldest sisters, six in number, my youngest sisters, six in number,
-My youngest brothers, six in number, and I,
-Whenever the humans made sake, they would,
-Send sake to me and send Nusa to my place.
-Now, the humans have no shortage of food,
-And live in peace without any troubles,
+Then, again, we held a grand feast,
+And the sounds of the gods
+Dancing and leaping here and there
+Made a beautiful sound, and my sisters
+Carried choshi and went around pouring sake
+Between the seats, and sang in beautiful voices
+With the goddesses.
+Two or three days passed, and the feast ended.
+I gave the gods two or three beautiful gohei each,
+And the gods bent low at the waist
+Many times, and
+All returned to their homes.
+After that, as always, my elder brothers, six in number,
+My elder sisters, six in number, my younger sisters, six in number,
+My younger brothers, six in number, were with me,
+And whenever the humans made sake,
+They would send sake to me and send gohei to my place.
+Now, the humans have no lack of food
+And live in peace without any trouble,
 So I am at ease.
 
 This is the English Translation 2.
-The sea god himself sings this song: “ATOIKA TOMATOMAKI KUNTOTEASI HUM HUM!”
-
-ATOIKA TOMATOMAKI KUNTOTEASI HUM HUM!
-My eldest brothers, six in all, my eldest sisters, six in all,
-My younger brothers, six in all, my younger sisters, six in all,
-They nurtured me. And I,
-Built a high bed in a place overflowing with treasures, and upon that high bed,
-I merely carved knife sheaths, sculpted the bodies of sheaths,
-Doing only this, I passed my days.
-Each day, as the morning sun rose, my brothers would
+Attoika Tomatoma-ki Kuntote-ashi Hum Hum!
+Eldest brother, six brothers, eldest sister, six sisters.
+Younger brother, six brothers, younger sister, six sisters.
+They raised me, but what did I do?
+I built a high platform in a place filled with treasures, and upon that platform,
+I carved sword hilts, adorned their surfaces,
+Doing nothing more,
+Day after day.
+Each morning, as soon as it dawned, my brothers would
 Carry their quivers, going out with my sisters,
-Returning only when twilight fell, wearily,
-With empty hands. Though weary, my sisters would prepare the meals, setting them before me,
-They themselves would eat, and after clearing away the dishes,
+Returning at dusk, weary,
+With empty hands. Though tired, my sisters would prepare the meals, setting them before me,
+Then eating themselves, and cleaning up afterward.
 My brothers would busily craft arrows.
-When the quivers were full, all would,
-Fall into a deep sleep from exhaustion, snoring loudly.
-The next day, before dawn,
-All would rise, my sisters preparing the meals, setting them before me,
-Everyone would eat, then carry their quivers
-And go out. As evening approached, again
-Returning wearily, with empty hands,
-My sisters preparing the meals, my brothers crafting arrows,
-Day after day, year after year, it was always so.
+When the quivers were full, everyone was exhausted,
+Falling asleep with loud snores.
+The next day, before the sky lightened,
+Everyone would rise, my sisters preparing the meals, setting them before me.
+After eating, they would again carry their quivers,
+And go out. At dusk, they would once more
+Return weary, with empty hands.
+My sisters would prepare the meals, my brothers would craft arrows,
+Day after day, always repeating the same things.
 One day, my brothers and sisters again
 Carried their quivers and went out.
-I carved treasures, and soon
-Arose, standing upon my high bed, holding a
-Golden small bow, golden small arrows, and went outside,
-Looking out, the sea was vast and calm,
-Wales frolicked on the sea's east side, the sea's west side,
-Playing. Suddenly, I saw
-On the sea's east side, my eldest sister, six eldest sisters, hand in hand, forming a circle,
-My youngest sisters, six youngest sisters, driving whales into the circle,
-My eldest brothers, six eldest brothers, my youngest brothers, six youngest brothers,
-Aiming at the whales in the circle, shooting arrows that
-Passed beneath the whales, grazed over the whales.
-Every day, they did this.
-I saw in the middle of the sea,
-A giant whale, a parent whale with its child, playing
-Up and down,
-From afar, I notched a golden small arrow onto my golden small bow,
-Aiming, I shot, and one arrow
-Pierced both the parent and child whales at once.
+I carved treasures, but soon
+Arose and stood upon the high platform, holding
+A golden small bow and golden small arrow, and went outside.
+I saw the vast, calm sea,
+Whales playing to the east and west.
+At that moment,
+To the east, my eldest sister and six sisters held hands, forming a circle,
+My younger sister and six sisters drove the whales into the ring,
+My eldest brother and six brothers, my younger brother and six brothers
+Aimed at the whales in the circle, but the arrows
+Passed beneath the whales, and flew over them.
+They did this every day.
+I saw in the center of the sea,
+A huge whale parent and child
+Playing and frolicking,
+So from afar, I notched a golden small arrow to my golden small bow,
+Aimed, and shot, an arrow
+Piercing both whale parent and child at once.
 Then, I cut one of the whales in half,
 Throwing half into my sisters' circle,
-And placed the other half whale
-Beneath my tail, heading towards the land of humans,
-Arriving at OTASUTSU village,
-Pushing that half whale
+And placed the other half of the whale
+Beneath its tail, heading towards the land of humans,
+Reaching the village of Otashutsu,
+Pushing that half-whale
 Onto the village's beach.
-Afterward, I leisurely
-Swam in the sea, returning,
+After that, I leisurely
+Swam back across the sea,
 When I heard someone
-Running breathlessly beside me,
-Looking closely, it was a seagull.
-The seagull said breathlessly:
-"TOMIN KARIKURU KAMUY KARIKURU ISO YANKEKURU
+Running breathlessly beside me.
+Looking closely, I saw it was the sea spirit, Go-me.
+He said, panting:
+"Tomin-karikuru Kamui-karikuru Iso-yanke-kuru
 Brave god, great god,
-Why do you bestow such abundant sea bounty upon lowly humans, wicked humans?
+Why do you give such a great sea blessing to lowly humans, wicked humans?
 Lowly humans, wicked humans, with axes,
-With sickles, cut, stab,
-And scrape the great sea bounty. Brave god,
-Great god, quickly take back the sea bounty!
-Even if you give them so much sea bounty,
+With sickles, hack and stab and
+Scrape at the great sea blessing! Brave god,
+Great god, quickly take back the great sea blessing!
+Even if you give them so much sea blessing,
 Lowly humans, wicked humans,
-Do not know gratitude, and instead do such things!"
+Do not appreciate it, and do such things!"
 Hearing this, I laughed and said:
 "Now that I have given it to humans,
-It is now theirs. What does it matter if humans
-Stab with sickles, scrape
-With axes?
-Let them enjoy it to their hearts' content,
+It is theirs. Whether humans
+Stab with sickles, or
+Scrape with axes, it is up to them.
+Let them enjoy it freely,
 What does it matter?"
-The seagull, hearing this, was somewhat at a loss,
-But I paid it no mind, leisurely
-Swimming in the sea,
-As the sun set, I returned to my sea domain.
+The sea spirit, Go-me, was somewhat at a loss,
+But I paid no attention, leisurely
+Swimming across the sea,
+As the sun was about to set, I returned to my sea.
 I saw
-The twelve brothers, the twelve
-Sisters, unable to carry that half whale,
-All shouting loudly together,
-Slowly moving it on the sea's east side.
-I was truly astonished.
-I ignored them, returning directly
-Home, sitting upon my high bed.
-Then I looked back towards the human world,
-Seeing around that half
-Whale I had pushed onto the beach, gathered men in splendid attire,
-Women in splendid attire, dressed in finery,
-Joyfully celebrating the sea bounty, upon the dunes behind,
-Laying out splendid mats,
-The village chief of OTASUTSU village
-Wearing six layers of clothing, with a belt,
-A splendid god's crown upon his head, an ancestral crown,
+Twelve brothers, twelve
+Sisters, unable to carry that half-whale,
+All shouting loudly,
+Dragging it slowly from the east.
+I felt truly helpless.
+I ignored them, went straight home,
+And sat on the high platform.
+Then I looked back at the human world,
+And saw around the half
+Whale I had pushed onto the beach, gathered men in formal attire and
+Women in formal attire,
+Joyfully celebrating the sea blessing, with gorgeous mats spread on the dunes
+Behind.
+The village chief of Otashutsu,
+Wore six kimonos, tightened his belt,
+And wore a splendid god's crown, an ancestral crown,
 A god-given sword at his waist,
-Beautiful as a god, raising both hands,
+Raising both hands in a godlike, beautiful pose,
 Offering prayers. The humans wept,
-Rejoicing in the sea bounty.
-The seagull said the humans
-Stabbed the whale I pushed ashore with axes, with sickles,
-But the village chief led the
-Villagers, taking out
-The god sword, regarded since ancient times as the most precious treasure,
-Using it to cut the meat, to carry the meat.
-However, my brothers, my sisters, were still not back.
-Two or three days passed, and from the direction of the window
+Rejoicing in the sea blessing.
+The sea spirit, Go-me, said that the humans
+Hacked and stabbed the whale I had pushed up with axes and sickles,
+But in fact,
+The village chief led
+The villagers, taking out
+The divine sword, regarded since ancient times as their most precious treasure,
+Using it to cut the meat, and carry it.
+Moreover, there was no sign of my brothers and sisters returning.
+Two or three days passed, and at the window
 There seemed to be something, so I
-Turned to look, and saw upon the window
+Turned to look, and saw at the window
 A golden cup filled with
-Fine sake, upon the cup
-Lay chopsticks adorned with gohei,
-Moving back and forth, as a messenger, stating:
-"I am a person from OTASUTSU village,
-Presumptuously offering you fine sake."
-The village chief of OTASUTSU village, representing
-All the villagers, expressed their gratitude to me in detail, saying:
-"TOMIN KARIKURU KAMUY KARIKURU ISO YANKEKURU
-If not for the great god, brave god,
-Who would have pity on our village suffering from famine,
-Having reached the point of having no recourse,
-Lacking food?
+Fine sake, with
+Sacred sticks decorated with gohei placed upon it,
+Moving back and forth, stating as a messenger:
+"I am from the village of Otashutsu,
+Though presumptuous, I humbly offer this fine sake."
+The village chief of Otashutsu, representing
+All the villagers, explained in detail the
+Reason for thanking me,
+"Tomin-karikuru Kamui-karikuru Iso-yanke-kuru
+If not for the great god, the brave god,
+Who would have had pity on our village, suffering from famine,
+And driven to the brink?
 You have given our village life,
-We are truly grateful! We celebrated the sea bounty,
-Brewed a little sake,
-Attached a small offering of nusa, expressing our gratitude to the great god."
-The chopsticks adorned with nusa moved back and forth, stating this.
-So I rose, took the golden cup,
-Holding it above my head,
-Opened the lids of the six sake barrels above my seat,
+We are truly grateful, and we have prepared some fine sake,
+Along with small gohei,
+To express our gratitude to the great god."
+The sacred sticks decorated with gohei moved back and forth, stating these words.
+So I rose, took the
+Golden cup, raised it above my head,
+Opened the lids of the six sake barrels in the upper seat,
 Pouring the fine sake in little by little,
-Placing the golden cup upon the window.
-Having done this, I sat back upon my high bed,
-And the golden cup, along with the chopsticks, had
-Disappeared. Afterward, I continued carving knife sheaths,
-Sculpting the bodies of sheaths, and soon
+And placed the golden cup on the window.
+After doing this, I sat on the high platform,
+And the golden cup, along with the sacred sticks,
+Disappeared. After that, I continued to carve sword hilts,
+Adorning their surfaces, and soon
 Looking up,
-The room was filled with beautiful nusa,
-White clouds swirled within the room, white lightning
-Flashed with light. I thought it was truly beautiful.
+The room was filled with beautiful gohei,
+White clouds swirled in the room, and white lightning
+Flashed. I thought it was truly beautiful.
 Two or three days passed again,
-And then, finally, I heard, outside, my brothers and
-Sisters shouting loudly,
-Pulling that whale back. I was very surprised.
+And finally, I heard my brothers and
+Sisters shouting loudly outside the house, dragging that whale
+Back. I felt truly helpless.
 I watched them enter the house,
-My brothers and sisters
-Were very tired, their faces gaunt.
-After everyone came in, seeing so much nusa,
-They were surprised, bowing repeatedly.
-Soon, the six sake barrels on the east side
-Were overflowing, the fragrance of the sake beloved by the gods
-Filled the room.
-So I decorated the room with beautiful nusa,
+My brothers and sisters were all
+Very tired, their faces haggard.
+After everyone came in, they saw the many gohei,
+And were surprised, repeatedly bowing in reverence.
+Soon, the six sake barrels in the eastern seat
+Overflowed, and the fragrance of the gods' beloved
+Fine sake filled the room.
+After that, I decorated the room with beautiful gohei,
 Inviting distant gods, neighboring gods,
-Holding a grand sake feast. My sisters
+And held a grand feast. My sisters
 Cooked the whale, offering it to the gods,
-The gods smacked their lips, very pleased.
+Who praised it highly, and were very pleased.
 As the feast was in full swing, I rose,
-Explaining in detail how the human world was suffering from famine,
-How I pitied them, pushing the sea bounty ashore,
-And how I treated humans kindly, but was envied by wicked gods,
-And how the seagull slandered me,
-And how the village chief of OTASUTSU village
-Expressed his gratitude to me in such and such words,
-And how the chopsticks adorned with nusa came as a messenger,
-The gods, hearing this,
-All nodded in agreement,
+And explained in detail how the human world was suffering from famine,
+And how I had taken pity on them, pushing the sea blessing onto the beach,
+And how I had treated humans kindly, but was envied by an evil god,
+The sea spirit, Go-me, slandering me,
+And how the village chief of Otashutsu
+Had thanked me in such and such words,
+The sacred sticks decorated with gohei coming as messengers,
+The gods listened,
+And nodded in unison,
 Praising me.
-Afterward, another grand feast was held,
-The gods, there,
-Here, the sounds of dancing, the sounds of leaping,
-Played beautiful music, my sisters
-Holding ewers, pouring sake at the tables,
-And also singing with the goddesses
-In beautiful voices.
+After that, another grand feast was held,
+The gods', there,
+Here, dancing voices, leaping voices,
+Making beautiful sounds, my sisters
+Holding sake pots, pouring sake at the tables,
+And singing beautiful songs
+Together with the goddesses.
 Two or three days passed, and the feast ended.
-I offered two or three beautiful nusa
-To the gods, the gods bent
-Their waists, bowing repeatedly,
-And everyone returned to their own homes.
-After that, as always, my eldest brothers, six eldest brothers,
-My eldest sisters, six eldest sisters, my youngest sisters, six youngest sisters,
-My youngest brothers, six youngest brothers, together,
-Whenever the humans brewed sake, they would always
-Send me sake, send me nusa.
-Now, the humans have neither a lack of food,
-Nor any troubles, living
-Peacefully, and I am at ease.
+I gave two or three beautiful gohei
+To the gods, who bowed
+And repeatedly paid their respects,
+And everyone returned to their homes.
+After that, I was always with my eldest brother, six brothers,
+Eldest sister, six sisters, younger sister, six sisters,
+Younger brother, six brothers,
+And whenever humans brewed sake,
+They would send sake to me, and send gohei to me.
+Now, humans have neither lack of food,
+Nor any difficulties, living
+Peacefully, so I feel at ease.
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand | Poetic Flow | Total Score |
 | ------------- | -------- | ------------------ | ------------ | ------------ |
-| Translation 1 | 4 | 5 | 3 | 4.0 |
-| Translation 2 | 5 | 4 | 4 | 4.5 |
+| Translation 1 | 4 | 4 | 3 | 3.9 |
+| Translation 2 | 5 | 3 | 4 | 4.4 |
 
 ### Comments
 #### Translation 1
-This translation is quite literal and straightforward. It accurately conveys the meaning but lacks some of the poetic flow that might be present in the original Ainu chant. The language is simple and easy to understand.
+Generally accurate, but some nuances are lost. The language is a bit plain and doesn't fully capture the poetic feel of the original chant. Some word choices could be more culturally sensitive.
 
 #### Translation 2
-This translation is slightly more poetic and attempts to capture the rhythm of the original chant. It uses more descriptive language and maintains a better sense of the cultural context. However, some phrases might be slightly less accessible to a modern reader.
+More nuanced and culturally sensitive translation. Retains more of the original sentence structure and rhythm. The word choices are more evocative and appropriate for the context of an Ainu chant.
 
 ### Better Choice
 Translation 2
 #### Comment
-Translation 2 captures the essence and flow of the original Japanese text more effectively. While both translations are generally accurate, Translation 2 uses slightly more evocative language and maintains a better sense of rhythm, making it more suitable for a chant. It also retains more of the original cultural context and nuances.
+Translation 2 captures the nuances of the original Japanese text more effectively, particularly in conveying the cultural context and the speaker's tone. While Translation 1 is generally accurate, it occasionally misses subtle implications present in the source material. Translation 2 also retains more of the original sentence structure, which helps to preserve the rhythm and flow of the chant. The use of terms like 'sword hilts' and 'sacred sticks' also feels more culturally appropriate than the alternatives in Translation 1.
 
 ### Updated Output
 ```
-Atoika tomatomaki kuntoteashi hum hum!
+Attoika Tomatoma-ki Kuntote-ashi Hum Hum!
 
-Atoika tomatomaki kuntoteashi hum hum!
-My eldest brothers, six in all, my eldest sisters, six in all,
-My younger brothers, six in all, my younger sisters, six in all,
-They nurtured me. And I,
-Built a high platform in a place overflowing with treasures, and upon that platform,
-I merely carved knife sheaths, sculpted the bodies of sheaths,
-Doing only this, I passed my days.
-Each day, as the morning sun rose, my brothers would
+Eldest brother, six brothers, eldest sister, six sisters.
+Younger brother, six brothers, younger sister, six sisters.
+They raised me, but what was my purpose?
+I built a high platform amidst piled treasures, and upon it,
+I carved sword hilts, adorned their surfaces,
+Doing nothing more,
+Day after day.
+
+Each morning, as soon as it dawned, my brothers would
 Carry their quivers, going out with my sisters,
-Returning only when twilight fell, wearily,
-With empty hands. Though weary, my sisters would prepare the meals, setting them before me,
-They themselves would eat, and after clearing away the dishes,
+Returning at dusk, weary,
+With empty hands. Though tired, my sisters would prepare the meals, setting them before me,
+Then eating themselves, and cleaning up afterward.
 My brothers would busily craft arrows.
-When the quivers were full, all would,
-Fall into a deep sleep from exhaustion, snoring loudly.
-The next day, before dawn,
-All would rise, my sisters preparing the meals, setting them before me,
-Everyone would eat, then carry their quivers
-And go out. As evening approached, again
-Returning wearily, with empty hands,
-My sisters preparing the meals, my brothers crafting arrows,
-Day after day, year after year, it was always so.
+When the quivers were full, everyone was exhausted,
+Falling asleep with loud snores.
+
+The next day, before the sky lightened,
+Everyone would rise, my sisters preparing the meals, setting them before me.
+After eating, they would again carry their quivers,
+And go out. At dusk, they would once more
+Return weary, with empty hands.
+My sisters would prepare the meals, my brothers would craft arrows,
+Day after day, always repeating the same things.
+
 One day, my brothers and sisters again
 Carried their quivers and went out.
-I carved treasures, and soon
-Arose, standing upon my high platform, holding a
-Golden small bow, golden small arrows, and went outside,
-Looking out, the sea was vast and calm,
-Whales frolicked on the sea's east side, the sea's west side,
-Playing. Suddenly, I saw
-On the sea's east side, my eldest sisters, six in number, hand in hand, forming a circle,
-My youngest sisters, six in number driving whales into the circle,
-My eldest brothers, six in number, my youngest brothers, six in number,
-Aiming at the whales in the circle, shooting arrows that
-Passed beneath the whales, grazed over the whales.
-Every day, they did this.
-I saw in the middle of the sea,
-A giant whale, a parent whale with its child, playing
-Up and down.
-From afar, I notched a golden small arrow onto my golden small bow,
-Aiming, I shot, and one arrow
-Pierced both the parent and child whales at once.
+I carved treasures, but soon
+Arose and stood upon the high platform, holding
+A golden small bow and golden small arrow, and went outside.
+I saw the vast, calm sea,
+Whales playing, splashing to the east and west.
+At that moment,
+To the east, my eldest sister and six sisters held hands, forming a circle,
+My younger sister and six sisters drove the whales into the ring,
+My eldest brother and six brothers, my younger brother and six brothers
+Aimed at the whales in the circle, but the arrows
+Passed beneath the whales, and flew over them.
+They did this every day.
+
+I saw in the center of the sea,
+A great whale parent and child
+Playing and frolicking,
+So from afar, I notched a golden small arrow to my golden small bow,
+Aimed, and shot, an arrow
+Piercing both whale parent and child at once.
 Then, I cut one of the whales in half,
 Throwing half into my sisters' circle,
-And placed the other half whale
-Beneath my tail, heading towards the land of humans,
+And placed the other half of the whale
+Beneath its tail, heading towards the land of humans,
 Arriving at Otasutsu village,
-Pushing that half whale
+Pushing that half-whale
 Onto the village's beach.
-Afterward, I leisurely
-Swam in the sea, returning,
+
+After that, I leisurely
+Swam back across the sea,
 When I heard someone
-Running breathlessly beside me,
-Looking closely, it was a sea-gome.
-The sea-gome said breathlessly:
-"Tomin karikuru Kamuy karikuru Isoyanke kuru,"
+Running breathlessly beside me.
+Looking closely, I saw it was the sea spirit, Go-me.
+He said, panting:
+"Tomin-karikuru Kamui-karikuru Iso-yanke-kuru!
 Brave god, great god,
-Why do you bestow such abundant sea bounty upon lowly humans, wicked humans?
-Lowly humans, wicked humans, with axes,
-With sickles, cut, stab,
-And scrape the great sea bounty. Brave god,
-Great god, quickly take back the sea bounty!
-Even if you give them so much sea bounty,
-Lowly humans, wicked humans,
-Do not know gratitude, and instead do such things!"
+Why do you give such a great sea blessing to lowly humans, wicked humans?
+The lowly humans, the wicked humans, with axes
+And sickles, are cutting, poking,
+And scraping away at the great sea bounty! Brave god,
+Great god, quickly take back the great sea blessing!
+Even if you give them so much sea blessing,
+The lowly humans, the wicked humans,
+Do not appreciate it, and do such things!"
 Hearing this, I laughed and said:
 "Now that I have given it to humans,
-It is now theirs. What does it matter if humans
-Stab with sickles, scrape
-With axes?
-Let them enjoy it to their hearts' content,
+It is theirs. Whether humans
+Poke at it with sickles, or scrape at it with axes,
+Let them eat it as they please,
 What does it matter?"
-The sea-gome, hearing this, was somewhat at a loss,
-But I paid it no mind, leisurely
-Swimming in the sea,
-As the sun set, I returned to my sea domain.
-I saw
-The twelve brothers, the twelve
-Sisters, unable to carry that half whale,
-All shouting loudly together,
-Slowly moving it on the sea's east side.
-I was truly astonished.
-I ignored them, returning directly
-Home, sitting upon my high platform.
-Then I looked back towards the human world,
-Seeing around that half
-Whale I had pushed onto the beach, gathered men in splendid attire,
-Women in splendid attire, dressed in finery,
-Joyfully celebrating the sea bounty, upon the dunes behind,
-Laying out splendid mats,
-The village chief of Otasutsu village
-Wearing six layers of clothing, with a belt,
-A splendid god's crown upon his head, an ancestral crown,
+The sea spirit, Go-me, looked somewhat lost,
+But I paid no attention, leisurely
+Swimming across the sea,
+And as the day was ending, I arrived at my sea.
+There,
+My twelve brothers, my twelve
+Sisters, could not carry that half-whale,
+All shouting loudly,
+Dragging it slowly from the east.
+I felt truly helpless.
+
+I ignored them, went straight home,
+And sat on the high platform.
+Then I looked back at the human world,
+And saw around the half
+Whale I had pushed onto the beach, fine men and
+Fine women were dressed in finery,
+Rejoicing and dancing over the sea bounty, and on the dunes behind,
+A fine mat was spread,
+And upon it, the village chief of Otasutsu village,
+Wore six kimonos, tightened his belt,
+And wore a splendid god's crown, an ancestral crown,
 A god-given sword at his waist,
-Beautiful as a god, raising both hands,
-Offering prayers. The humans wept,
+Raising both hands in a godlike, beautiful pose,
+And worshipped. The humans were crying,
 Rejoicing in the sea bounty.
-The sea-gome said the humans
-Stabbed the whale I pushed ashore with axes, with sickles,
-But the village chief led the
-Villagers, taking out
-The god sword, regarded since ancient times as the most precious treasure,
-Using it to cut the meat, to carry the meat.
-However, my brothers, my sisters, were still not back.
-Two or three days passed, and from the direction of the window
+What the Go-me said, that the humans were
+Poking at the whale I had pushed up with axes and sickles,
+Was not true. The village chief and
+The villagers were taking out
+The god sword, which they had always
+Treasured most, and using it
+To cut the meat and carry it away.
+
+Moreover, there was no sign of my brothers and sisters returning.
+Two or three days passed, and at the window
 There seemed to be something, so I
-Turned to look, and saw upon the window
+Turned to look, and saw at the window
 A golden cup filled with
-Fine sake, upon the cup
-Lay chopsticks adorned with Nusa,
-Moving back and forth, as a messenger, stating:
-"I am a person from Otasutsu village,
-Presumptuously offering you fine sake."
-The village chief of Otasutsu village, representing
-All the villagers, expressed their gratitude to me in detail, saying:
-"Tomin karikuru Kamuy karikuru Isoyanke kuru,"
-If not for the great god, brave god,
-Who would have pity on our village suffering from famine,
-Having reached the point of having no recourse,
-Lacking food?
+Fine sake, with
+Sacred sticks decorated with gohei placed upon it,
+Moving back and forth, stating as a messenger:
+"I am from the village of Otasutsu,
+Though presumptuous, I humbly offer this fine sake."
+The village chief of Otasutsu, representing
+All the villagers, explained in detail the
+Reason for thanking me,
+"Tomin-karikuru Kamui-karikuru Iso-yanke-kuru!
+If not for the great god, the brave god,
+Who would have had pity on our village, suffering from famine,
+And driven to the brink?
 You have given our village life,
-We are truly grateful! We celebrated the sea bounty,
-Brewed a little sake,
-Attached a small offering of Nusa, expressing our gratitude to the great god."
-The chopsticks adorned with Nusa moved back and forth, stating this.
-So I rose, took the golden cup,
-Holding it above my head,
-Opened the lids of the six sake barrels above my seat,
+We are truly grateful, and we have prepared some fine sake,
+Along with small nusa,
+To express our gratitude to the great god."
+The sacred sticks decorated with gohei moved back and forth, stating these words.
+
+So I rose, took the
+Golden cup, raised it above my head,
+Opened the lids of the six sake barrels in the upper seat,
 Pouring the fine sake in little by little,
-Placing the golden cup upon the window.
-Having done this, I sat back upon my high platform,
-And the golden cup, along with the chopsticks, had
-Disappeared. Afterward, I continued carving knife sheaths,
-Sculpting the bodies of sheaths, and soon
+And placed the golden cup in the window.
+After doing this, I sat on the high platform,
+And the golden cup, along with the sacred sticks,
+Disappeared. After that, I continued to carve sword hilts,
+Adorning their surfaces, and soon
 Looking up,
-The room was filled with beautiful Nusa,
-White clouds swirled within the room, white lightning
-Flashed with light. I thought it was truly beautiful.
+The room was filled with beautiful gohei,
+White clouds swirled in the room, and white lightning
+Was flashing. I thought it was truly beautiful.
+
 Two or three days passed again,
-And then, finally, I heard, outside, my brothers and
-Sisters shouting loudly,
-Pulling that whale back. I was very surprised.
+And finally, I heard my brothers and
+Sisters shouting loudly outside the house, dragging that whale
+Back. I felt truly helpless.
 I watched them enter the house,
-My brothers and sisters
-Were very tired, their faces gaunt.
-After everyone came in, seeing so much Nusa,
-They were surprised, bowing repeatedly.
-Soon, the six sake barrels on the east side
-Were overflowing, the fragrance of the sake beloved by the gods
-Filled the room.
-So I decorated the room with beautiful Nusa,
+My brothers and sisters were all
+Very tired, their faces haggard.
+After everyone came in, they saw the many gohei,
+And were surprised, repeatedly bowing in reverence.
+Soon, the six sake barrels in the eastern seat
+Overflowed, and the fragrance of the gods' beloved
+Fine sake filled the room.
+
+After that, I decorated the room with beautiful gohei,
 Inviting distant gods, neighboring gods,
-Holding a grand sake feast. My sisters
+And held a grand feast. My sisters
 Cooked the whale, offering it to the gods,
-The gods smacked their lips, very pleased.
+Who praised it highly, and were very pleased.
 As the feast was in full swing, I rose,
-Explaining in detail how the human world was suffering from famine,
-How I pitied them, pushing the sea bounty ashore,
-And how I treated humans kindly, but was envied by wicked gods,
-And how the sea-gome slandered me,
-And how the village chief of Otasutsu village
-Expressed his gratitude to me in such and such words,
-And how the chopsticks adorned with Nusa came as a messenger,
-The gods, hearing this,
-All nodded in agreement,
+And explained in detail how the human world was suffering from famine,
+And how I had taken pity on them, pushing the sea blessing onto the beach,
+And how I had treated humans kindly, but was envied by an evil god,
+The sea spirit, Go-me, slandering me,
+And how the village chief of Otasutsu
+Had thanked me in such and such words,
+The sacred sticks decorated with gohei coming as messengers,
+The gods listened,
+And nodded in unison,
 Praising me.
-Afterward, another grand feast was held,
-The gods, there,
-Here, the sounds of dancing, the sounds of leaping,
-Played beautiful music, my sisters
-Holding ewers, pouring sake at the tables,
-And also singing with the goddesses
-In beautiful voices.
+
+After that, another grand feast was held,
+The gods', there,
+Here, dancing voices, leaping voices,
+Making beautiful sounds, my sisters
+Holding choshi, pouring sake at the tables,
+And singing beautiful songs
+Together with the goddesses.
 Two or three days passed, and the feast ended.
-I offered two or three beautiful Nusa
-To the gods, the gods bent
-Their waists, bowing repeatedly,
-And everyone returned to their own homes.
-After that, as always, my eldest brothers, six eldest brothers,
-My eldest sisters, six eldest sisters, my youngest sisters, six youngest sisters,
-My youngest brothers, six youngest brothers, together,
-Whenever the humans brewed sake, they would always
-Send me sake, send me Nusa.
-Now, the humans have neither a lack of food,
-Nor any troubles, living
-Peacefully, and I am at ease.
+I gave two or three beautiful gohei
+To the gods, who bowed
+And repeatedly paid their respects,
+And everyone returned to their homes.
+
+After that, I was always with my eldest brother, six brothers,
+Eldest sister, six sisters, younger sister, six sisters,
+Younger brother, six brothers,
+And whenever humans brewed sake,
+They would send sake to me, and send gohei to me.
+Now, humans have neither lack of food,
+Nor any difficulties, living
+Peacefully, so I feel at ease.
 ```
 

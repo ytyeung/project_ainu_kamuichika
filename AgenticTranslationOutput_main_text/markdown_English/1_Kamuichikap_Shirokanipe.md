@@ -4,26 +4,28 @@
 
 ## Kamuichikap kamui yaieyukar, “Shirokanipe ranran pishkan” 
 ## 梟の神の自ら歌った謡「銀の滴しずく降る降るまわりに」
-## The Owl God's Chant
+## 梟神自歌之謡
 
 ### System prompt
 ```
 You are a professional translator. 
-You know Japanese, Chinese and English. 
+You only know Japanese, Chinese and English. 
 You can translate Japanese into either Chinese or English. 
 You can also translate Chinese into English, and English into Chinese.
+All the translations should keep the original meaning.
+All the translations only contain characters of the source and target languages.
 
 
 ```
 
 ### Prompt
 ```
-You are translating the following Japanese text into English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
+You are translating the following text from source language Japanese into target language English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
 You have 2 versions of English translations at hand.
 
 Here are your tasks:
 
-1. Compare the two English translations with the original Japanese text. List out the Pros and Cons of the Translations.
+1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.
 2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].
 Where one star means "Nonsense/No meaning preserved",
 two stars mean "Some meaning preserved, but not understandable",
@@ -48,7 +50,7 @@ and five stars mean "All part of the text is a poet and rhythmic. It is a chant.
 5. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (50%). Easiness to understanding is the second (30%). Poetic flow is the third (20%).
 6. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.
 
-Keep the original meaning accurately.
+Keep the original meaning accurately. 
 If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
@@ -287,553 +289,541 @@ This is the Japanese text.
 と,ふくろうの神様が物語りました.
 
 This is the English Translation 1.
-The Owl God himself sang this song:
+The Owl God's Own Song:
 "Silver drops fall, fall around me."
 
-Singing the song, "Silver drops fall, fall around me, golden drops fall, fall around me," I descended along the river, passing over a human village. Looking down, I saw the poor of old now rich, and the rich of old now poor.
-
-On the beach, human children played with toy bows and arrows. Singing, "Silver drops fall, fall around me, golden drops fall, fall around me," I passed over them. The children, running beneath me, cried out:
-
-"A beautiful bird! A god's bird! Come, let us shoot it! The first to strike down this god's bird shall be a true hero, a true warrior!"
-
-As they spoke, the children of those once poor, now rich, notched golden arrows into golden bows and shot at me. I dodged their golden arrows, passing above and below them.
-
-Among them, one child stood apart, with only a simple wooden bow and arrow. I saw at once, from his clothes, that he was the child of a poor man. Yet, looking into his eyes, I saw the spirit of a noble ancestor, a singular soul among them. He notched his simple arrow and aimed at me.
-
-The children of the once poor, now rich, laughed and jeered:
-
-"How foolish, child of poverty! This bird, this god's bird, would never deign to be struck by our golden arrows, let alone your wretched, rotten wooden stick!"
-
-They kicked and shoved the poor child, but he paid them no mind, focusing only on me.
-
-Seeing this, I felt a deep pity. Singing, "Silver drops fall, fall around me, golden drops fall, fall around me," I slowly circled in the vast sky. The poor child stood with one foot forward and one back, biting his lower lip in concentration, and then, with a shout, he released his arrow. The small arrow flew true and beautiful towards me, and I reached out my hand and caught it.
-
-Spinning and twirling, I danced down through the wind. The children ran, kicking up a storm of dust, racing to where I would fall. As I landed on the earth, the poor child reached me first and took me in his arms.
-
-Then, the children of the once poor, now rich, ran up, showering him with insults, pushing and hitting him.
-
-"Hateful child, child of poverty! You dared to take what we wanted first!"
-
-The poor child, shielding me with his body, pressed me tightly to his stomach. Struggling and wriggling, he finally broke free from their grasp and ran.
-
-The children of the once poor, now rich, threw stones and sticks, but the poor child paid them no mind, running through the dust storm until he reached a small hut. He slipped me through the first window, adding words, telling the story of what had happened.
-
-From inside the house, an old couple came, shading their eyes with their hands. Though they were clearly poor, they possessed the bearing of a gentleman and a lady. Seeing me, they bowed deeply in surprise.
-
-The old man straightened his belt and bowed to me, saying:
-
-"Oh, Owl God, Great God, thank you for visiting our humble home. Once, we counted ourselves among the wealthy, but now we are reduced to this poverty. It is an honor to host a god, a great god, though we are unworthy. As night has already fallen, please stay with us this night, and tomorrow we will send you on your way with only inau."
-
-He repeated his prayers many times. The old woman laid a mat beneath the east window and placed me there. Soon, everyone was asleep, snoring loudly.
-
-I, sitting between the ears of my own head, awoke near midnight. Singing softly, "Silver drops fall, fall around me, golden drops fall, fall around me," I flew with a beautiful sound from the left side of the house to the right.
-
-As I flapped my wings, beautiful treasures, divine treasures, fell around me with a melodious sound. In an instant, I filled the small house with magnificent treasures, divine treasures.
-
-Singing, "Silver drops fall, fall around me, golden drops fall, fall around me," I transformed the small house into a grand mansion, a house of gold. Inside, I created a storehouse of magnificent treasures and crafted beautiful, splendid garments to adorn the house.
-
-I decorated the grand mansion more lavishly than the home of any wealthy man. When I was finished, I returned to my place between the ears of my helmet.
-
-I showed the family a dream, revealing that I had seen the Ainu *nissay* unfairly impoverished and scorned by those who were once poor but now rich. Feeling pity, I, though not a god of high rank, had stayed in their human home and bestowed blessings upon them.
-
-After a while, as dawn broke, the family awoke together. Rubbing their eyes, they looked around the house and were stunned into silence. The old woman cried out, and the old man shed large tears. Finally, the old man rose and came to me, bowing twenty or thirty times, and said:
-
-"We thought it was just a dream, just sleep, but it is truly real! We are unworthy, unworthy. It is already an honor for you to visit our humble home, but you, god of the land, great god, have pitied our misfortune and bestowed upon us the greatest of blessings!" He spoke through his tears.
-
-Then, the old man cut inau wood and crafted beautiful, splendid inau to adorn me. The old woman prepared herself and had the small child help her gather firewood and draw water, preparing to brew sake. In an instant, she lined up six sake barrels in the upper seat.
-
-Then, I spoke with the old woman of fire, the old goddess, and various other gods.
-
+Singing the song, "Silver drops fall, fall around me, golden drops fall, fall around me," I descended along the river, passing over a human village. Looking down, I saw the poor of old had become rich, and the rich of old had become poor.
+On the beach, human children played with toy bows and arrows.
+Singing, "Silver drops fall, fall around me, golden drops fall, fall around me," as I passed over the children, they ran beneath me, saying,
+"A beautiful bird! A god's bird!
+Come, shoot the bird with arrows!
+The one who hits the god's bird first is the true hero, the true strong one!"
+As they spoke, the children of those who were once poor but now rich nocked golden arrows to golden bows and shot at me, the golden arrows passing above and below me.
+Among them, one child stood with a simple wooden bow and arrow, joining the group. Seeing him, I knew he was the child of a poor man, even from his clothes. But looking closely at his eyes, I saw he was likely descended from great people, a unique soul among them. He, too, nocked a simple arrow to his simple bow and aimed at me.
+The children of those who were once poor but now rich laughed loudly, saying,
+"How funny, the poor child!
+That bird, that god's bird, won't even take notice of our golden arrows. Why would it ever take the arrow of a poor child, a rotten wooden arrow?"
+They kicked and hit the poor child. But the poor child paid no mind, still aiming at me.
+Seeing this, I felt great pity.
+Singing, "Silver drops fall, fall around me, golden drops fall, fall around me," I slowly drew circles in the sky. The poor child stood with one foot forward and one back, biting his lower lip, aiming, and then he let fly. The small arrow flew beautifully towards me, and I reached out my hand and caught it.
+Spinning around and around, I cut through the wind and descended.
+The children ran, kicking up a sandstorm as they raced. As I landed on the ground, the poor child was the first to reach me and take hold of me.
+Then, the children of those who were once poor but now rich ran up, hurling insults, pushing and hitting the poor child.
+"Hateful child, poor child!
+You took what we were going to do first!"
+The poor child covered me, pressing me tightly against his belly. Struggling and struggling, he finally broke free from the crowd and ran.
+The children of those who were once poor but now rich threw stones and pieces of wood, but the poor child paid no mind, running through the sandstorm until he reached a small hut.
+The child put me through the first window, adding words, telling the story of what had happened.
+From inside the house, an old couple came, shading their eyes with their hands. Though they were very poor, they possessed the grace of a gentleman and a lady.
+Seeing me, they bent deeply at the waist, surprised. The old man straightened his belt and bowed to me.
+"Owl God, Great God,
+Thank you for coming to our humble home.
+We were once wealthy enough to count ourselves among the rich, but now we are mere paupers. It is presumptuous to host a god, a great god, but as the day is already done, we shall host you tonight, and tomorrow we shall send you off with only *inau*."
+He repeated his reverence many times.
+The old woman laid a mat beneath the east window and placed me there. Then, everyone went to sleep and soon began to snore loudly.
+I sat between the ears on my head, but soon, around midnight, I awoke.
+Singing softly, "Silver drops fall, fall around me, golden drops fall, fall around me," I flew with a beautiful sound from the left side of the house to the right.
+As I flapped my wings, beautiful treasures, god's treasures, fell around me with a beautiful sound.
+In an instant, I filled the small house with magnificent treasures, god's treasures.
+Singing, "Silver drops fall, fall around me, golden drops fall, fall around me," I transformed the small house into a house of gold, a large house, in an instant. Inside, I created a storehouse of magnificent treasures and quickly made beautiful, splendid clothes to decorate the house.
+I decorated the inside of this large house even more splendidly than a wealthy man's home. When I finished, I sat between the ears on my helmet as before.
+I showed the people in a dream how the Ainu *nispa* had been unlucky and become poor, and how I had seen him being scorned and bullied by those who were once poor but now rich, and I felt pity. So, though I am not a god of high status, I stayed in a human house and bestowed blessings.
+After that, as dawn approached, the people of the house woke up together. Rubbing their eyes, they looked around the house and all collapsed onto the floor. The old woman cried out, and the old man shed large tears, but soon the old man got up and came to me, bowing twenty or thirty times, and then said,
+"We thought it was just a dream, just sleep, but it really happened. It is too much, too much. We are grateful just for you to come to our humble home, but you, god of the land, great god, have pitied our misfortune and given us the greatest of blessings."
+He said this while crying.
+Then, the old man cut down an *inau* tree and made a splendid *inau* to decorate me. The old woman dressed and had the small child help her gather firewood and draw water, preparing to make sake. In an instant, she lined up six sake barrels in the upper seat.
+Then I spoke with the old woman of fire, the old goddess, and various other gods.
 After two days, the scent of sake filled the house, as it is a favorite of the gods.
-
-So, they deliberately dressed the small child in old clothes and sent him to invite the once poor, now rich, people of the village. As they watched him go, the child entered each house and delivered his message. The once poor, now rich, people laughed and said:
-
-"This is strange! What kind of sake could the poor be brewing? What kind of feast could they be preparing that they would invite us? Let us go and see what is happening and have a good laugh!"
-
-They gathered together and came, but from afar, just seeing the house, they were astonished and ashamed, and some turned back. Others came to the front of the house and were paralyzed with shock.
-
-Then, the lady of the house came out and took each person's hand, inviting them inside. Everyone crawled in, unable to lift their faces.
-
-Then, the master of the house rose and spoke in a beautiful voice like a cuckoo bird. He told the story of what had happened.
-
-"In this way, we were poor and unable to associate with each other without reservation, but the great god has pitied us. We have no ill intentions, and so we have received these blessings. From now on, we are all members of the same family in this village, and I hope that we can all be friendly and associate with each other."
-
-Hearing this, the people repeatedly clasped their hands together and apologized to the master of the house, promising to be friendly from now on.
-
-I, too, was worshipped by everyone.
-
-When that was done, everyone's heart softened, and they held a grand feast.
-
-I, conversing with the god of fire, the god of the house, and the god of the *gohei* shelf, watched the humans dance and sing, and I was deeply delighted. After two or three days, the feast came to an end.
-
-Seeing the humans in harmony, I was relieved and bid farewell to the god of fire, the god of the house, and the god of the *gohei* shelf.
-
-When that was done, I returned to my own home. Before I arrived, my house was filled with beautiful *gohei* and fine sake.
-
-So, I sent messengers to the gods near and far, inviting them to a grand feast. At the feast, I told the gods in detail about the situation in the human village and the events that had transpired. The gods praised me greatly.
-
-When the gods departed, I gave them two or three beautiful *gohei* each.
-
-Looking towards that Ainu village, I saw that it was now peaceful, and the humans were all living in harmony. That *nissay* was now the head of the village.
-
-His child had grown into adulthood, taken a wife, and had children, and was filial to his parents.
-
-Whenever they brewed sake, they would always send *gohei* and sake to me at the beginning of the feast.
-
-I, sitting behind the humans, always protect the human realm.
-
-So, the Owl God told his story.
+So, they deliberately dressed the small child in old clothes and sent him out to invite the people in the village who were once poor but now rich. Seeing him off, the child went to each house and delivered the message. The people who were once poor but now rich laughed loudly, saying,
+"This is strange. What kind of sake and what kind of feast could poor people make that they would invite people for? Let's go see what's going on and laugh at them!"
+They came in a large group, and some were so surprised and ashamed just by looking at the house from afar that they went home. Some came to the front of the house and collapsed.
+Then, the woman of the house came out and took everyone's hand, inviting them into the house. Everyone crawled in, unable to raise their faces.
+Then, the master of the house stood up and spoke in a beautiful voice like a cuckoo bird.
+He told the story of what had happened.
+"We were poor and unable to visit each other freely, but the great god took pity on us. We had no bad intentions, so we received these blessings. From now on, we are all members of the same family in the village, so we wish for everyone to be friendly and visit each other."
+As he said this, the people rubbed their hands together many times, apologizing to the master of the house for their sins, and discussed being friendly from now on.
+I was also worshiped by everyone.
+When that was over, everyone's hearts softened, and they held a lively sake feast.
+I spoke with the god of fire, the god of the house, and the god of the *gohei* shelf, watching the humans dance and sing, and I was deeply amused. And after two or three days, the sake feast ended.
+Seeing the humans being friendly with each other, I felt relieved and said goodbye to the god of fire, the god of the house, and the god of the *gohei* shelf.
+When that was over, I returned to my home. Before I arrived, my house was filled with beautiful *gohei* and fine sake.
+So, I sent messengers to the gods near and far, inviting them to a lively sake feast. At the feast, I told the gods in detail about the situation in the human village when I visited it, and the events that occurred, and the gods praised me greatly.
+When the gods left, I gave them two or three beautiful *gohei* each.
+Looking towards that Ainu village, it is now peaceful, and the humans are all friendly. That *nispa* is now the head of the village.
+His child is now an adult, with a wife and children, and is filial to his parents.
+Whenever they make sake, they always send *gohei* and sake to me at the beginning of the feast.
+I sit behind the humans and always protect the human country."
+So, the owl god told his story.
 
 This is the English Translation 2.
-A song sung by the Owl God himself:
-
-"Silver droplets, softly falling beside me."
-
-I sing the song of "Silver droplets, softly falling beside me, golden droplets softly falling beside me,"
-Flying down the river, over human villages,
+Silver drops fall all around,
+Silver drops fall all around, gold drops
+fall all around. I sing this song,
+flowing down the river, past the villages of men.
 Looking down below,
-The poor of yesterday are now rich, the rich of yesterday now poor.
-By the sea, human children play with toy bows and arrows.
-I sing the song of "Silver droplets, softly falling beside me, golden droplets softly falling beside me,"
-Flying over the children, who run beneath me, saying:
+the poor of yesterday are now rich, the rich of yesterday
+are now poor.
+By the sea, children play with toy bows and arrows,
+laughing and shouting.
+"Silver drops fall all around,
+Gold drops fall all around," I sing,
+flying over the children. They
+run beneath me, crying out:
 "A beautiful bird! A god's bird!
 Hurry, shoot the bird!
 The first to hit the god's bird,
-the first to claim it, is the true hero, the true strong one."
-So, the children of those once poor, now rich, take up golden bows and golden arrows,
+the first to claim it,
+is the true hero, the true strong one!"
+So say the children, once poor, now rich,
+and they nock golden arrows to golden bows,
 shooting at me. I let the golden arrows
-pass beneath me, then above me.
-Among those children,
-one holds a simple, wooden bow and arrow,
-joining the others. I see him,
-like a child from a poor family, as his clothes suggest.
-But looking closely at his eyes,
-he seems like a descendant of greatness, standing apart,
-unique among them. He too aims his simple bow and arrow at me,
-and the children of those once poor, now rich, laugh loudly,
+pass beneath me, fly above me.
+Among them,
+one child stands apart, with a simple (wooden) bow,
+joining the fray. I see him,
+and know him for a poor child, by the clothes he wears.
+Yet, looking closer, his eyes shine
+with the light of great ancestors. Alone,
+he joins the children. He aims his simple bow at me,
+and the children, once poor, now rich, laugh and mock him,
 saying:
-"How laughable, child of the poor!
+"How foolish, poor child!
 That bird, the god's bird, scorns even our
-golden arrows, so why would it care for your
-common arrow, made of rotten wood?
+golden arrows. Why would it heed your
+poor arrow, your arrow of rotten wood?
 That bird, the god's bird, would never
 accept your arrow!"
-Saying this, they kick and punch the poor child,
-but he pays no mind, focusing only on aiming at me.
-Seeing this, I feel great pity.
-I sing the song of "Silver droplets, softly falling beside me, golden droplets softly falling beside me,"
-Slowly circling
-in the sky. The poor child,
-one foot far out, one foot close,
-bites his lip, aiming,
-and with a whoosh, he shoots his arrow. The small arrow flies gracefully,
+They kick and shove
+the poor child. But he
+pays them no mind, only focuses on me.
+Seeing this, I feel pity.
+"Silver drops fall all around,
+Gold drops fall all around," I sing,
+slowly
+making circles in the sky. The poor child,
+one foot forward, one foot back,
+bites his lip, aims,
+and *whoosh* the arrow flies. The small arrow flies true,
 toward me, and I reach out my hand,
-catching the small arrow.
+catching the small shaft.
 I spin,
-tearing through the sky, dancing downwards.
-Then, the children run,
-raising dust, rushing forward.
-As I land on the ground, the first
-to arrive is the poor child, and he seizes me.
-Then, the children of those once poor, now rich,
+cutting the wind, and descend gracefully.
+The children run,
+raising dust, scrambling and shouting.
+As I touch the ground, the first
+to reach me is the poor child.
+Then, the children, once poor, now rich,
 run up from behind,
-scolding him with twenty, thirty words,
+shouting insults,
 pushing and shoving the poor child,
-"Wretched fellow, child of the poor!
-Daring to get ahead of us!"
-Saying this, the poor child
-presses me tightly to himself, holding me close with his belly.
-He struggles, struggles, finally breaking free from the crowd,
-and then, he runs away quickly.
-The children of those once poor, now rich,
-throw stones and pieces of wood at him,
-but the poor child pays no mind,
-raising dust, running to a small hut.
+"Wretched child, child of poverty!
+How dare you take what is ours!"
+The poor child,
+clutches me tightly, pressing me to his chest.
+Struggling, he breaks free from the crowd,
+and runs away.
+The children, once poor, now rich,
+throw stones and sticks after him,
+but the poor child pays them no mind,
+raising dust as he runs to a small hut.
 The child
 places me through the first window, and
-adds words, telling what happened.
-An old couple comes out of the hut,
-shading their eyes with their hands,
-though they are very poor,
-they possess the dignity of gentlefolk.
-Seeing me, they bow deeply, startled.
-The old man adjusts his belt,
-and worships me,
-"Owl God, great god,
-Thank you for coming to our poor, humble home.
-Once, we were wealthy,
-but now we have become such
-useless poor people, to have the country's god,
-great god, stay with us, is truly
-unnerving, but today it is already
-dark, so please, great god,
-stay the night, and tomorrow, even if it's just with inao,
-we will respectfully see you off."
-Saying this, he bows again and again.
-The old woman spreads a mat under the east window,
-placing me there.
-Then everyone sleeps, immediately snoring loudly,
-drifting into dreams.
-I sit in my body, between my ears,
-and soon, around midnight,
-I wake up.
-I quietly sing the song of "Silver droplets, softly falling beside me, golden droplets softly falling beside me,"
-making beautiful sounds, flying in the left and right seats of this house.
-As I flap my wings, beautiful treasures,
-godly treasures, scatter around me,
-making beautiful sounds.
-In an instant, I transform this hut into a house filled with magnificent treasures,
-godly treasures.
-I sing the song of "Silver droplets, softly falling beside me, golden droplets softly falling beside me,"
-In an instant, I transform this hut
-into a golden, shining home, a large house,
-building a magnificent treasure store inside,
-quickly creating gorgeous, beautiful clothes,
-decorating the house.
-I decorate this large house
-more splendidly than the home of the wealthy. Once finished, I
-return to my place, sitting between the ears of my helmet.
-I let this family dream,
-letting them know that an Ainu nishpa became poor due to bad luck,
-and was mocked and bullied by those once poor, now rich.
-Seeing this, I felt
-pity, so I am not a lowly god,
-but one who dwells in human homes,
-granting them blessings.
-After this, a while passes, and dawn breaks,
-this family wakes together,
-rubbing their eyes, looking at the house, everyone
-is so startled that they collapse onto the floor. The old woman
-cries loudly, and the old man
-sheds large, large tears.
-Soon, the old man rises,
-comes before me, bows twenty, thirty times,
+tells the whole story,
+embellishing it,
+to those inside.
+The old couple inside,
+shield their eyes, and come out,
+and though they are poor,
+they have the air of gentlefolk.
+Seeing me, they bow deeply,
+stunned.
+The old man straightens his belt,
+and bows to me,
+"Owl God, Great God,
+we thank you for coming to our humble home.
+Once, we were among the wealthy,
+but now we are brought low.
+To have the god of the land, a Great God,
+stay with us, fills us with unease, but as
+the day is late, Great God,
+rest here tonight, and tomorrow, we will see you off
+with *inaw*."
+He bows again and again.
+The old woman spreads a mat
+beneath the east window, and places me there.
+Then all sleep, and soon loud snores fill the air.
+I sit within my form, between my ears,
+and near midnight,
+I rise.
+"Silver drops fall all around,
+Gold drops fall all around."
+I sing softly,
+and fly around the left and right
+of this house, making beautiful sounds.
+As I beat my wings, around me
+beautiful treasures, god's treasures, ring out,
+scattering.
+In an instant, I transform this hut into a place filled with glittering treasures,
+treasures of the gods.
+"Silver drops fall all around,
+Gold drops fall all around."
+I sing, and transform this hut,
+in an instant, into a golden, shining house, a great house,
+and within it, I build a magnificent storehouse of treasures,
+and swiftly create magnificent clothes,
+adorn the house.
+I decorate this great house more splendidly than the home of any rich man.
+When this is done, I return to my place,
+sitting upon my helmet,
+between my ears.
+I give this family a dream,
+so they will know that because I saw the Ainu *niskipa* brought low, made poor,
+mocked and bullied by those once poor, now rich, and felt pity,
+I, though humble, not a great god,
+have stayed in their home,
+giving them blessings.
+When this is done, after a time, dawn breaks,
+and the family rises together,
+rubbing their eyes, looking around the house, and all
+fall to the ground in shock. The old woman
+weeps aloud, and the old man
+sheds great tears,
+and soon, the old man rises,
+comes before me, bows twenty or thirty times,
 and says:
-"I thought it was just a dream, a sleep,
-but to think, it was real, thank you for doing this.
-Just coming to our humble home
-is already a great honor,
-country's god, great god, you have pitied
+"We thought it was only a dream,
+but it is real. That you would visit
+our humble home is more than we could ever ask,
+god of the land, Great God, you have pitied
 our misfortune,
 granting us the greatest blessing."
-He says, weeping.
-Then, the old man cuts wood for inao,
-making gorgeous, beautiful inao to decorate me.
-The old woman dresses up,
-and has the child help, gathering firewood,
-drawing water, preparing to brew sake, and in an instant,
-six barrels of sake are placed in the upper seat.
-Then I discuss various godly stories with the old woman of fire, the old goddess.
-After about two days, because it is something the gods love,
-the house is already
-filled with the aroma of sake.
-Then, I intentionally have the child
-wear old clothes, to invite the villagers,
-those once poor, now rich,
-sending him as a messenger.
+He weeps as he speaks.
+Then, the old man cuts wood for *inaw*,
+making magnificent *inaw*, and decorates me.
+The old woman dresses,
+and has the child help her gather firewood,
+fetch water, and prepare to brew sake, and in an instant,
+six barrels of sake are placed in the best seats.
+Then, I speak with the old woman of fire, the old goddess,
+telling stories of the gods.
+After two days or so, because the gods love it,
+the house is filled with
+the scent of sake.
+Then, they dress the child
+in old clothes, and send him as a messenger,
+to invite those in the village,
+once poor, now rich.
 Watching him leave, the child goes from house to house,
-speaking the messenger's words,
+explaining his purpose,
 and those once poor, now rich,
-laugh loudly,
-"How strange, what kind of sake can the poor
-brew, what kind of
-delicacies can they have, that they would invite people for it?
-Let's go see what's so funny."
-Saying this, they come in groups,
-but just glancing at the house from afar,
-they are surprised and ashamed, some return like that,
-some come to the front of the house, collapsing to the ground in shock.
-Then, the mistress of the house goes outside,
-taking everyone's hand, inviting them inside,
-everyone crawls in on their knees,
-no one dares to raise their head.
+laugh aloud,
+"How strange, that the poor
+can brew sake, have
+delicious food, and invite others?
+Let us go see what is so funny."
+So they say, and come in a crowd,
+and from afar, seeing only the house,
+they are shocked and ashamed, and turn back,
+and some come to the house, and fall to the ground in shock.
+Then, the woman of the house goes outside,
+taking each person by the hand, and invites them in,
+and all crawl forward,
+not daring to raise their heads.
 Then, the master of the house rises,
-speaking in a voice as beautiful as a cuckoo.
-He tells the story,
-"Like this, because of poverty, we could not honestly
-interact with each other,
-but the great god pitied us, we had no bad intentions,
-so we received such a blessing,
-from now on, the people of the village, we are all one family,
-so I hope everyone can get along,
-and interact with each other."
-He says this, and the people
-rub their hands again and again,
-apologizing to the master of the house, and discussing how to
-live in harmony from now on.
-I also accept everyone's worship.
-After this, everyone's mood softens,
-and a grand banquet is held.
-I laugh and talk with the fire god, the house god,
-the gods of the sacred shelf,
-watching the humans dance and sing,
-feeling very happy. Then
-two or three days pass, and the banquet ends.
-Seeing the humans living in harmony,
-I feel at ease,
-saying goodbye to the fire god, the house god,
-the gods of the sacred shelf.
-After this, I return to my home.
-Before I return, my home is already filled with beautiful sacred sticks and
-fine sake.
-So I send a messenger
-to invite the nearby and distant gods, holding a grand banquet,
-and at the banquet, I tell the gods
-in detail about the conditions of the village and the events that occurred
-when I visited the human village,
-and the gods greatly praise me.
-When the gods leave, I give them beautiful sacred sticks,
-two or three each.
-Looking again at that Ainu village,
-it has now returned to peace, the humans
-are all living in harmony, that nishpa
-is the leader of the village,
-his child, now grown,
-has a wife and children,
-obeying his parents,
-and whenever and wherever he brews sake,
-he always sends me sacred sticks and sake at the start of the banquet.
-I also sit behind the humans,
-constantly
-guarding the human country."
-
-The Owl God tells it this way.
+and speaks with a voice as beautiful as the cuckoo.
+He explains the reason for all that has happened,
+"Like this, because of poverty, we could not
+visit each other,
+and the Great God pitied us. We have no ill will,
+and so we have received this blessing.
+From this day forward, all in the village, we are one family,
+and we hope that all will live in harmony,
+visiting each other."
+When he has finished, the people
+rub their hands together again and again,
+and apologize to the master of the house, and discuss
+living in harmony from now on.
+And I accept their worship.
+When this is done, the hearts of the people grow soft,
+and a great feast is held.
+I laugh and talk with the god of fire, the god of the house,
+the god of the sacred shelf,
+watching the people dance and sing,
+and I am very happy. Then,
+after two or three days, the feast ends.
+Seeing the people living in harmony,
+I feel at peace,
+and bid farewell to the god of fire, the god of the house,
+the god of the sacred shelf.
+When this is done, I return to my home.
+Before I return, my home is already filled with beautiful *inaw*,
+and fine sake.
+Then, I send messengers
+to invite the gods near and far, and hold a great feast.
+At the feast, I tell the gods
+in detail of my visit to the village of men,
+the state of the village, and all that happened,
+and the gods praise me greatly.
+When the gods leave, I give them beautiful *inaw*,
+two to some, three to others.
+Looking at that Ainu village,
+it is now at peace, and the people
+live in harmony, and that *niskipa*
+has become the leader of the village,
+and his child, now grown,
+has taken a wife and had children,
+and honors his parents,
+and whenever, wherever, when brewing sake,
+he always sends me *inaw* and sake at the start of the feast.
+And I sit behind the people,
+watching over
+the land of men.
+So speaks the Owl God.
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand | Poetic Flow | Total Score |
 | ------------- | -------- | ------------------ | ------------ | ------------ |
-| Translation 1 | 4 | 5 | 3 | 4.0 |
-| Translation 2 | 4 | 4 | 4 | 4.1 |
+| Translation 1 | 4 | 4 | 3 | 3.9 |
+| Translation 2 | 4 | 4 | 4 | 4.0 |
 
 ### Comments
 #### Translation 1
-Translation 1 is clear and easy to understand, but it lacks the poetic flow and rhythm of the original Japanese text. Some of the word choices are too modern and do not reflect the traditional nature of the chant.
+Translation 1 is accurate and clear, but it lacks some of the poetic flow and rhythmic quality of the original chant. It is a solid, understandable translation, but it reads more like a narrative than a song.
 
 #### Translation 2
-Translation 2 maintains a better poetic flow and rhythm, closer to the original Japanese. However, some phrases are slightly awkward and could be improved for clarity. It captures the essence of a traditional Ainu chant more effectively.
+Translation 2 is more poetic and captures the feeling of a chant. It uses more evocative language and maintains a better flow. However, some phrases could be slightly more precise in conveying the original meaning.
 
 ### Better Choice
 Translation 2
 #### Comment
-Translation 2 is better because it maintains a more poetic and rhythmic flow, which is crucial for a chant. While Translation 1 is understandable, it loses some of the original's lyrical quality. Translation 2 also retains more of the original's cultural context and nuances, making it a more accurate and immersive experience for the reader. The weighted score also reflects this preference.
+Translation 2 captures the poetic and rhythmic essence of the original Ainu chant more effectively than Translation 1. While both translations accurately convey the meaning, Translation 2 uses more evocative language and maintains a better flow, making it more engaging and closer to the spirit of a sung narrative. The use of repetition and slightly less formal phrasing also contributes to its chant-like quality.
 
-### Better Choice
-### Output
+### Updated Output
 ```
-A song sung by the Owl God himself:
-
-"Silver droplets, softly falling around me."
-
-I sing the song of "Silver droplets, softly falling around me, golden droplets softly falling around me,"
-Flying down the river, over human villages,
+The Owl God's Own Song:
+Silver drops fall around,
+Silver drops fall around, gold drops
+fall around. I sing this song,
+flowing down the river, past the villages of men.
 Looking down below,
-The poor of yesterday are now rich, the rich of yesterday now poor.
-By the sea, human children play with toy bows and arrows.
-I sing the song of "Silver droplets, softly falling around me, golden droplets softly falling around me,"
-Flying over the children, who run beneath me, saying:
+the poor of yesterday are now rich, the rich of yesterday
+are now poor.
+By the sea, children play with toy bows and arrows,
+laughing and shouting.
+"Silver drops fall around,
+Gold drops fall around," I sing,
+flying over the children. They
+run beneath me, crying out:
 "A beautiful bird! A god's bird!
 Hurry, shoot the bird!
 The first to hit the god's bird,
-the first to claim it, is the true hero, the true strong one."
-So, the children of those once poor, now rich, take up golden bows and golden arrows,
+the first to claim it,
+is the true hero, the true strong one!"
+So say the children, once poor, now rich,
+and they nock golden arrows to golden bows,
 shooting at me. I let the golden arrows
-pass beneath me, then above me.
-Among those children,
-one holds a simple, wooden bow and arrow,
-joining the others. I see him,
-like a child from a poor family, as his clothes suggest.
-But looking closely at his eyes,
-he seems like a descendant of greatness, standing apart,
-unique among them. He too aims his simple bow and arrow at me,
-and the children of those once poor, now rich, laugh loudly,
+pass beneath me, fly above me.
+Among them,
+one child stands apart, with a simple wooden bow,
+joining the fray. I see him,
+and know him for a poor child, by the clothes he wears.
+Yet, looking closer, his eyes shine
+with the light of great ancestors. Alone,
+he joins the children. He aims his simple bow at me,
+and the children, once poor, now rich, laugh and mock him,
 saying:
-"How laughable, child of the poor!
+"How foolish, poor child!
 That bird, the god's bird, scorns even our
-golden arrows, so why would it care for your
-common arrow, made of rotten wood?
+golden arrows. Why would it heed your
+poor arrow, your arrow of rotten wood?
 That bird, the god's bird, would never
 accept your arrow!"
-Saying this, they kick and punch the poor child,
-but he pays no mind, focusing only on aiming at me.
+They kick and shove
+the poor child. But he
+pays them no mind, only focuses on me.
 Seeing this, I feel great pity.
-I sing the song of "Silver droplets, softly falling around me, golden droplets softly falling around me,"
-Slowly circling
-in the vast sky. The poor child,
-one foot far out, one foot close,
-bites his lip, aiming,
-and with a whoosh, he shoots his arrow. The small arrow flies gracefully,
+"Silver drops fall around,
+Gold drops fall around," I sing,
+slowly
+making circles in the sky. The poor child,
+one foot forward, one foot back,
+bites his lip, aims,
+and *whoosh* the arrow flies. The small arrow flies true,
 toward me, and I reach out my hand,
-catching the small arrow.
-I spin and twirl,
-tearing through the sky, dancing downwards.
-Then, the children run,
-raising a storm of dust, rushing forward.
-As I land on the ground, the first
-to arrive is the poor child, and he seizes me.
-Then, the children of those once poor, now rich,
+catching the small shaft.
+Spinning around and around, I cut through the wind, and descend gracefully.
+The children run,
+raising a sandstorm, scrambling and shouting.
+As I touch the ground, the first
+to reach me is the poor child.
+Then, the children, once poor, now rich,
 run up from behind,
-scolding him with twenty, thirty insults,
+hurling insults,
 pushing and shoving the poor child,
-"Wretched fellow, child of the poor!
-Daring to get ahead of us!"
-Saying this, the poor child
-presses me tightly to himself, holding me close with his belly.
-He struggles, struggles, finally breaking free from the crowd,
-and then, he runs away quickly.
-The children of those once poor, now rich,
-throw stones and pieces of wood at him,
-but the poor child pays no mind,
-raising a storm of dust, running to a small hut.
+"Wretched child, child of poverty!
+You took what is ours!"
+The poor child,
+clutches me tightly, pressing me to his chest.
+Struggling, he breaks free from the crowd,
+and runs away.
+The children, once poor, now rich,
+throw stones and sticks after him,
+but the poor child pays them no mind,
+raising a sandstorm as he runs to a small hut.
 The child
 places me through the first window, and
-adds words, telling what happened.
-An old couple comes out of the hut,
-shading their eyes with their hands,
-though they are very poor,
-they possess the dignity of gentlefolk.
-Seeing me, they bow deeply, startled.
-The old man adjusts his belt,
-and worships me, saying:
-"Oh, Owl God, great god,
-Thank you for coming to our poor, humble home.
-Once, we were wealthy,
-but now we have become such
-useless poor people, to have the country's god,
-great god, stay with us, is truly
-unnerving, but today it is already
-dark, so please, great god,
-stay the night, and tomorrow, even if it's just with inau,
-we will respectfully see you off."
-Saying this, he bows again and again.
-The old woman spreads a mat under the east window,
-placing me there.
-Then everyone sleeps, immediately snoring loudly,
-drifting into dreams.
-I sit in my body, between my ears,
-and soon, around midnight,
-I wake up.
-I quietly sing the song of "Silver droplets, softly falling around me, golden droplets softly falling around me,"
-making beautiful sounds, flying in the left and right seats of this house.
-As I flap my wings, beautiful treasures,
-godly treasures, scatter around me,
-making beautiful sounds.
-In an instant, I transform this hut into a house filled with magnificent treasures,
-godly treasures.
-I sing the song of "Silver droplets, softly falling around me, golden droplets softly falling around me,"
-In an instant, I transform this hut
-into a golden, shining home, a grand mansion,
-building a magnificent treasure store inside,
-quickly creating gorgeous, beautiful clothes,
-decorating the house.
-I decorate this grand mansion
-more splendidly than the home of the wealthy. Once finished, I
-return to my place, sitting between the ears of my helmet.
-I let this family dream,
-letting them know that an Ainu *nishpa* became poor due to bad luck,
-and was mocked and bullied by those once poor, now rich.
-Seeing this, I felt
-pity, so I am not a lowly god,
-but one who dwells in human homes,
-granting them blessings.
-After this, a while passes, and dawn breaks,
-this family wakes together,
-rubbing their eyes, looking at the house, everyone
-is so startled that they collapse onto the floor. The old woman
-cries loudly, and the old man
-sheds large, large tears.
-Soon, the old man rises,
-comes before me, bows twenty, thirty times,
+tells the whole story,
+adding words, telling the story of what had happened,
+to those inside.
+The old couple inside,
+shield their eyes, and come out,
+and though they are poor,
+they have the air of gentlefolk.
+Seeing me, they bow deeply,
+stunned.
+The old man straightens his belt,
+and bows to me,
+"Owl God, Great God,
+we thank you for coming to our humble home.
+Once, we were among the wealthy,
+but now we are brought low.
+To have the god of the land, a Great God,
+stay with us, fills us with unease, but as
+the day is late, Great God,
+rest here tonight, and tomorrow, we will see you off
+with *inau*."
+He bows again and again.
+The old woman spreads a mat
+beneath the east window, and places me there.
+Then all sleep, and soon loud snores fill the air.
+I sit within my form, between my ears,
+and near midnight,
+I rise.
+"Silver drops fall around,
+Gold drops fall around."
+I sing softly,
+and fly around the left and right
+of this house, making beautiful sounds.
+As I beat my wings, around me
+beautiful treasures, god's treasures, ring out,
+scattering.
+In an instant, I transform this hut into a place filled with glittering treasures,
+treasures of the gods.
+"Silver drops fall around,
+Gold drops fall around."
+I sing, and transform this hut,
+in an instant, into a golden, shining house, a great house,
+and within it, I build a magnificent storehouse of treasures,
+and swiftly create magnificent clothes,
+adorn the house.
+I decorate this great house more splendidly than the home of any rich man.
+When this is done, I return to my place,
+sitting upon my helmet,
+between my ears.
+I give this family a dream,
+so they will know that because I saw the Ainu *nispa* brought low, made poor,
+mocked and bullied by those once poor, now rich, and felt pity,
+I, though humble, not a great god,
+have stayed in their home,
+giving them blessings.
+When this is done, after a time, dawn breaks,
+and the family rises together,
+rubbing their eyes, looking around the house, and all
+fall to the ground in shock. The old woman
+weeps aloud, and the old man
+sheds great tears,
+and soon, the old man rises,
+comes before me, bows twenty or thirty times,
 and says:
-"We thought it was just a dream, a sleep,
-but to think, it was real, thank you for doing this.
-Just coming to our humble home
-is already a great honor,
-country's god, great god, you have pitied
+"We thought it was only a dream,
+but it is real. That you would visit
+our humble home is more than we could ever ask,
+god of the land, Great God, you have pitied
 our misfortune,
 granting us the greatest blessing."
-He says, weeping.
-Then, the old man cuts wood for *inao*,
-making gorgeous, beautiful *inao* to decorate me.
-The old woman dresses up,
-and has the child help, gathering firewood,
-drawing water, preparing to brew sake, and in an instant,
-six barrels of sake are placed in the upper seat.
-Then I discuss various godly stories with the old woman of fire, the old goddess.
-After about two days, because it is something the gods love,
-the house is already
-filled with the aroma of sake.
-Then, I intentionally have the child
-wear old clothes, to invite the villagers,
-those once poor, now rich,
-sending him as a messenger.
+He weeps as he speaks.
+Then, the old man cuts wood for *inau*,
+making magnificent *inau*, and decorates me.
+The old woman dresses,
+and has the child help her gather firewood,
+fetch water, and prepare to brew sake, and in an instant,
+six barrels of sake are placed in the best seats.
+Then, I speak with the old woman of fire, the old goddess,
+telling stories of the gods.
+After two days or so, because the gods love it,
+the house is filled with
+the scent of sake.
+Then, they dress the child
+in old clothes, and send him as a messenger,
+to invite those in the village,
+once poor, now rich.
 Watching him leave, the child goes from house to house,
-speaking the messenger's words,
+explaining his purpose,
 and those once poor, now rich,
-laugh loudly, saying:
-"How strange, what kind of sake can the poor
-brew, what kind of
-delicacies can they have, that they would invite people for it?
-Let's go see what's so funny."
-Saying this, they come in groups,
-but just glancing at the house from afar,
-they are surprised and ashamed, some return like that,
-some come to the front of the house, collapsing to the ground in shock.
-Then, the mistress of the house goes outside,
-taking everyone's hand, inviting them inside,
-everyone crawls in on their knees,
-no one dares to raise their head.
+laugh aloud,
+"How strange, that the poor
+can brew sake, have
+delicious food, and invite others?
+Let us go see what is so funny."
+So they say, and come in a crowd,
+and from afar, seeing only the house,
+they are shocked and ashamed, and turn back,
+and some come to the house, and fall to the ground in shock.
+Then, the woman of the house goes outside,
+taking each person by the hand, and invites them in,
+and all crawl forward,
+not daring to raise their heads.
 Then, the master of the house rises,
-speaking in a voice as beautiful as a cuckoo.
-He tells the story,
-"Like this, because of poverty, we could not honestly
-interact with each other,
-but the great god pitied us, we had no bad intentions,
-so we received such a blessing,
-from now on, the people of the village, we are all one family,
-so I hope everyone can get along,
-and interact with each other."
-He says this, and the people
-rub their hands again and again,
-apologizing to the master of the house, and discussing how to
-live in harmony from now on.
-I also accept everyone's worship.
-After this, everyone's mood softens,
-and a grand banquet is held.
-I laugh and talk with the fire god, the house god,
-the gods of the sacred shelf,
-watching the humans dance and sing,
-feeling very happy. Then
-two or three days pass, and the banquet ends.
-Seeing the humans living in harmony,
-I feel at ease,
-saying goodbye to the fire god, the house god,
-the gods of the sacred shelf.
-After this, I return to my home.
-Before I return, my home is already filled with beautiful sacred sticks and
-fine sake.
-So I send a messenger
-to invite the nearby and distant gods, holding a grand banquet,
-and at the banquet, I tell the gods
-in detail about the conditions of the village and the events that occurred
-when I visited the human village,
-and the gods greatly praise me.
-When the gods leave, I give them beautiful sacred sticks,
-two or three each.
-Looking again at that Ainu village,
-it has now returned to peace, the humans
-are all living in harmony, that *nishpa*
-is the leader of the village,
-his child, now grown,
-has a wife and children,
-obeying his parents,
-and whenever and wherever he brews sake,
-he always sends me sacred sticks and sake at the start of the banquet.
-I also sit behind the humans,
-constantly
-guarding the human country."
-
-The Owl God tells it this way.
+and speaks with a voice as beautiful as the cuckoo.
+He explains the reason for all that has happened,
+"Like this, because of poverty, we could not
+visit each other,
+and the Great God pitied us. We have no ill will,
+and so we have received this blessing.
+From this day forward, all in the village, we are one family,
+and we hope that all will live in harmony,
+visiting each other."
+When he has finished, the people
+rub their hands together again and again,
+and apologize to the master of the house, and discuss
+living in harmony from now on.
+And I accept their worship.
+When this is done, the hearts of the people grow soft,
+and a great feast is held.
+I laugh and talk with the god of fire, the god of the house,
+the god of the sacred shelf,
+watching the people dance and sing,
+and I am very happy. Then,
+after two or three days, the feast ends.
+Seeing the people living in harmony,
+I feel at peace,
+and bid farewell to the god of fire, the god of the house,
+the god of the sacred shelf.
+When this is done, I return to my home.
+Before I return, my home is already filled with beautiful *inau*,
+and fine sake.
+Then, I send messengers
+to invite the gods near and far, and hold a great feast.
+At the feast, I tell the gods
+in detail of my visit to the village of men,
+the state of the village, and all that happened,
+and the gods praise me greatly.
+When the gods leave, I give them beautiful *inau*,
+two to some, three to others.
+Looking at that Ainu village,
+it is now at peace, and the people
+live in harmony, and that *nispa*
+has become the leader of the village,
+and his child, now grown,
+has taken a wife and had children,
+and honors his parents,
+and whenever, wherever, when brewing sake,
+he always sends me *inau* and sake at the start of the feast.
+And I sit behind the people,
+watching over
+the land of men.
+So speaks the Owl God.
 ```
 

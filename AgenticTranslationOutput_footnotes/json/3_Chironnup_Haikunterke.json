@@ -1,0 +1,427 @@
+{
+    "japanese_title": "狐が自ら歌った謡「ハイクンテレケ ハイコシテムトリ」",
+    "ainu_title": "Chironnup yaieyukar, “Haikunterke Haikoshitemturi”",
+    "japanese_text": "(1) pau.狐の鳴声の擬声詞.\n(2) pushtotta......鞄の様な形のもので,海猟に出かける時に火道具,薬類,その他細々の必要品を入れて持ってゆくもの.同じ用途のもので piuchiop,karop などがありますが,蒲がま,アツシ織などで作りますから,陸で使用します.pushtotta は熊の皮,あざらしの皮,その他の毛皮で製しますから水がとおらないので,海へ持って行くのです.\n(3) noya ai......蓬の矢.蓬はアイヌの尊ぶ草です.蓬の矢で打たれると,浮ぶ事が出来ないから悪魔の最も恐れるものだと云うので,遠出するとき必要品の一つに数えられます.\n(4) もとは男の便所と女の便所は別になっていました.ashinru も eosineru も同じく便所の事.\n狐の中で黒狐は最も尊いものだとしています.海の中に突き出ている岬は大概黒狐の所領で,黒狐はよっぽどの大へんがなければ,人に声をきかせないと申します.\nOkikurumi(Okikirmui)と Samayunkur と Shupunramka とはいとこ同士で,Shupunramka は一ばん年上で Okikirmui は一ばん年下だと云います.Shupunramka は温和な人で内気ですからなにも話がありませんが,Samayunkur は短気で,智恵が浅く,あわて者で,根性が悪い弱虫で,Okikirmui は神の様に智恵があり,情深く,勇気のあるえらい人だと云うので,その物語りは無限というほど沢山あります.",
+    "chinese_translation": {
+        "comment": "Translation of Ainu chant footnotes from Japanese to Chinese (Traditional Chinese). Terms that cannot be translated are kept in the source language.",
+        "title": "阿伊努語聖歌腳註翻譯",
+        "translation": "(1) pau。狐狸叫聲的擬聲詞。\n(2) pushtotta......形狀像袋子的東西，出海打獵時用來裝火具、藥品和其他細小必需品。相同用途的還有 piuchiop, karop 等，但因為是用蒲草蓆、アツシ織等製作，所以在陸地上使用。pushtotta 是用熊皮、海豹皮或其他毛皮製成，因為不透水，所以帶到海上去。\n(3) noya ai......蓬蒿之箭。蓬蒿是阿伊努人尊重的草。據說被蓬蒿之箭射中，就無法浮起來，所以惡魔最害怕它，因此遠行時會將其視為必需品之一。\n(4) 原本男廁和女廁是分開的。ashinru 和 eosineru 都是廁所的意思。\n在狐狸中，黑狐被認為是最尊貴的。突出於海中的海岬大多是黑狐的領地，據說除非發生非常重大的事情，否則黑狐不會讓人聽到它的聲音。\nOkikurumi(Okikirmui)和 Samayunkur 與 Shupunramka 是表兄弟，Shupunramka 是年紀最大的，Okikirmui 是年紀最小的。Shupunramka 性格溫和內向，所以沒有什麼故事，但 Samayunkur 脾氣暴躁，缺乏智慧，是個冒失鬼，性格惡劣的懦夫，Okikirmui 則像神一樣充滿智慧，富有同情心，是個勇敢偉大的人，因此關於他的故事多到數不清。",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "Translate the following text from source language Japanese to target language Chinese. The original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning accurately. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nIf a term cannot be translated, keep the source language.\nFor the original text which are not in Japanese, keep the original form. \n\n(1) pau.狐の鳴声の擬声詞.\n(2) pushtotta......鞄の様な形のもので,海猟に出かける時に火道具,薬類,その他細々の必要品を入れて持ってゆくもの.同じ用途のもので piuchiop,karop などがありますが,蒲がま,アツシ織などで作りますから,陸で使用します.pushtotta は熊の皮,あざらしの皮,その他の毛皮で製しますから水がとおらないので,海へ持って行くのです.\n(3) noya ai......蓬の矢.蓬はアイヌの尊ぶ草です.蓬の矢で打たれると,浮ぶ事が出来ないから悪魔の最も恐れるものだと云うので,遠出するとき必要品の一つに数えられます.\n(4) もとは男の便所と女の便所は別になっていました.ashinru も eosineru も同じく便所の事.\n狐の中で黒狐は最も尊いものだとしています.海の中に突き出ている岬は大概黒狐の所領で,黒狐はよっぽどの大へんがなければ,人に声をきかせないと申します.\nOkikurumi(Okikirmui)と Samayunkur と Shupunramka とはいとこ同士で,Shupunramka は一ばん年上で Okikirmui は一ばん年下だと云います.Shupunramka は温和な人で内気ですからなにも話がありませんが,Samayunkur は短気で,智恵が浅く,あわて者で,根性が悪い弱虫で,Okikirmui は神の様に智恵があり,情深く,勇気のあるえらい人だと云うので,その物語りは無限というほど沢山あります.\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "description": "The translation, and the comments",
+            "properties": {
+                "translation": {
+                    "description": "The translation",
+                    "title": "Translation",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "comment": {
+                    "description": "Comments on the translation",
+                    "title": "Comment",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "translation",
+                "title",
+                "comment"
+            ],
+            "title": "Translation",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "english_translation": {
+        "comment": "Translation of Japanese footnotes from an Ainu chant, focusing on accuracy and modern English.",
+        "title": "Translation of Ainu Chant Footnotes",
+        "translation": "(1) pau: Onomatopoeia for the sound of a fox's cry.\n(2) pushtotta: A bag-like item used when going sea hunting, to carry fire-making tools, medicines, and other necessary small items. Similar items for the same purpose include piuchiop and karop, but these are made from bulrush mats or attush weaving, so they are used on land. pushtotta is made from bear skin, seal skin, or other fur, making it waterproof and suitable for taking to sea.\n(3) noya ai: Arrow made of mugwort. Mugwort is a plant respected by the Ainu. It is said that demons fear it most because they cannot float if struck by a mugwort arrow, so it is counted as one of the necessities when traveling far.\n(4) Originally, men's and women's toilets were separate. ashinru and eosineru both mean toilet.\nAmong foxes, the black fox is considered the most sacred. Capes protruding into the sea are usually the territory of black foxes, and it is said that black foxes do not make their voices heard to people unless something very serious is happening.\nOkikurumi (Okikirmui), Samayunkur, and Shupunramka are cousins, with Shupunramka being the oldest and Okikirmui the youngest. Shupunramka is a gentle and shy person, so there is nothing to tell about him, but Samayunkur is short-tempered, shallow-minded, hasty, mean-spirited, and cowardly. Okikirmui, on the other hand, is said to be wise like a god, compassionate, brave, and great, so there are countless stories about him.",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "Translate the following text from source language Japanese to target language English. The original text is a Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning accurately. Use modern and simple English.\nIf a term cannot be translated, keep the source language.\nFor the original text which are not in Japanese, keep the original form. \n\n(1) pau.狐の鳴声の擬声詞.\n(2) pushtotta......鞄の様な形のもので,海猟に出かける時に火道具,薬類,その他細々の必要品を入れて持ってゆくもの.同じ用途のもので piuchiop,karop などがありますが,蒲がま,アツシ織などで作りますから,陸で使用します.pushtotta は熊の皮,あざらしの皮,その他の毛皮で製しますから水がとおらないので,海へ持って行くのです.\n(3) noya ai......蓬の矢.蓬はアイヌの尊ぶ草です.蓬の矢で打たれると,浮ぶ事が出来ないから悪魔の最も恐れるものだと云うので,遠出するとき必要品の一つに数えられます.\n(4) もとは男の便所と女の便所は別になっていました.ashinru も eosineru も同じく便所の事.\n狐の中で黒狐は最も尊いものだとしています.海の中に突き出ている岬は大概黒狐の所領で,黒狐はよっぽどの大へんがなければ,人に声をきかせないと申します.\nOkikurumi(Okikirmui)と Samayunkur と Shupunramka とはいとこ同士で,Shupunramka は一ばん年上で Okikirmui は一ばん年下だと云います.Shupunramka は温和な人で内気ですからなにも話がありませんが,Samayunkur は短気で,智恵が浅く,あわて者で,根性が悪い弱虫で,Okikirmui は神の様に智恵があり,情深く,勇気のあるえらい人だと云うので,その物語りは無限というほど沢山あります.\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "description": "The translation, and the comments",
+            "properties": {
+                "translation": {
+                    "description": "The translation",
+                    "title": "Translation",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "comment": {
+                    "description": "Comments on the translation",
+                    "title": "Comment",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "translation",
+                "title",
+                "comment"
+            ],
+            "title": "Translation",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "eng_to_chi_translation": {
+        "comment": "Translation of English explanations of Ainu chant footnotes into Traditional Chinese.",
+        "title": "阿伊努語吟唱註釋翻譯",
+        "translation": "（1）pau：狐狸叫聲的擬聲詞。\n（2）pushtotta：一種用於海上狩獵時的袋狀物品，用於攜帶生火工具、藥品和其他必要的小物品。用於相同目的的類似物品包括piuchiop和karop，但這些是由燈芯草墊或attush編織製成的，因此它們在陸地上使用。pushtotta由熊皮、海豹皮或其他毛皮製成，使其防水並適合帶到海上。\n（3）noya ai：用艾草製成的箭。艾草是阿伊努人尊重的一種植物。據說惡魔最害怕它，因為如果被艾草箭擊中，它們就無法漂浮，因此它被認為是遠行時的必需品之一。\n（4）最初，男女廁所是分開的。ashinru和eosineru都表示廁所。\n在狐狸中，黑狐被認為是最神聖的。突出到海中的海角通常是黑狐的領地，據說除非發生非常嚴重的事情，否則黑狐不會讓人們聽到它們的聲音。\nOkikurumi（Okikirmui）、Samayunkur和Shupunramka是堂兄弟，其中Shupunramka年紀最大，Okikirmui年紀最小。Shupunramka是一個溫柔而害羞的人，所以沒有什麼關於他的故事可講，但Samayunkur脾氣暴躁、思想膚淺、草率、心胸狹窄且懦弱。另一方面，Okikirmui據說像神一樣聰明、富有同情心、勇敢而偉大，因此有無數關於他的故事。",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "Translate the following text from source language English to target language Chinese. \nThe original text is translation of Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nFor the original text which are not in English, keep the original form. \n\n(1) pau: Onomatopoeia for the sound of a fox's cry.\n(2) pushtotta: A bag-like item used when going sea hunting, to carry fire-making tools, medicines, and other necessary small items. Similar items for the same purpose include piuchiop and karop, but these are made from bulrush mats or attush weaving, so they are used on land. pushtotta is made from bear skin, seal skin, or other fur, making it waterproof and suitable for taking to sea.\n(3) noya ai: Arrow made of mugwort. Mugwort is a plant respected by the Ainu. It is said that demons fear it most because they cannot float if struck by a mugwort arrow, so it is counted as one of the necessities when traveling far.\n(4) Originally, men's and women's toilets were separate. ashinru and eosineru both mean toilet.\nAmong foxes, the black fox is considered the most sacred. Capes protruding into the sea are usually the territory of black foxes, and it is said that black foxes do not make their voices heard to people unless something very serious is happening.\nOkikurumi (Okikirmui), Samayunkur, and Shupunramka are cousins, with Shupunramka being the oldest and Okikirmui the youngest. Shupunramka is a gentle and shy person, so there is nothing to tell about him, but Samayunkur is short-tempered, shallow-minded, hasty, mean-spirited, and cowardly. Okikirmui, on the other hand, is said to be wise like a god, compassionate, brave, and great, so there are countless stories about him.\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "description": "The translation, and the comments",
+            "properties": {
+                "translation": {
+                    "description": "The translation",
+                    "title": "Translation",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "comment": {
+                    "description": "Comments on the translation",
+                    "title": "Comment",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "translation",
+                "title",
+                "comment"
+            ],
+            "title": "Translation",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "chi_to_eng_translation": {
+        "comment": "Translation of Ainu chant footnotes from Chinese to English.",
+        "title": "Ainu Chant Footnotes Translation",
+        "translation": "(1) pau: An onomatopoeic word for the sound of a fox's cry.\n(2) pushtotta: A bag-like item used when hunting at sea to store fire-making tools, medicine, and other small necessities. Similar items include piuchiop and karop, but these are made from bulrush mats or attush weave and are used on land. pushtotta is made from bear skin, seal skin, or other fur, making it waterproof for use at sea.\n(3) noya ai: Arrow of mugwort. Mugwort is a grass respected by the Ainu people. It is said that being shot by a mugwort arrow makes it impossible to float, so demons fear it most, making it an essential item for long journeys.\n(4) Originally, men's and women's toilets were separate. ashinru and eosineru both mean toilet.\nAmong foxes, the black fox is considered the most noble. Headlands protruding into the sea are mostly the territory of black foxes, and it is said that a black fox will not let its voice be heard unless something very important is happening.\nOkikurumi (Okikirmui) and Samayunkur are cousins of Shupunramka. Shupunramka is the oldest, and Okikirmui is the youngest. Shupunramka is gentle and introverted, so there are not many stories about him. Samayunkur is short-tempered, lacks wisdom, and is a reckless, cowardly character. Okikirmui, on the other hand, is wise like a god, compassionate, brave, and great, so there are countless stories about him.",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "Translate the following text from source language Chinese to target language English. \nThe original text is translation of Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning. Use modern and simple English.\nFor the original text which are not in Chinese, keep the original form. \n\n(1) pau。狐狸叫聲的擬聲詞。\n(2) pushtotta......形狀像袋子的東西，出海打獵時用來裝火具、藥品和其他細小必需品。相同用途的還有 piuchiop, karop 等，但因為是用蒲草蓆、アツシ織等製作，所以在陸地上使用。pushtotta 是用熊皮、海豹皮或其他毛皮製成，因為不透水，所以帶到海上去。\n(3) noya ai......蓬蒿之箭。蓬蒿是阿伊努人尊重的草。據說被蓬蒿之箭射中，就無法浮起來，所以惡魔最害怕它，因此遠行時會將其視為必需品之一。\n(4) 原本男廁和女廁是分開的。ashinru 和 eosineru 都是廁所的意思。\n在狐狸中，黑狐被認為是最尊貴的。突出於海中的海岬大多是黑狐的領地，據說除非發生非常重大的事情，否則黑狐不會讓人聽到它的聲音。\nOkikurumi(Okikirmui)和 Samayunkur 與 Shupunramka 是表兄弟，Shupunramka 是年紀最大的，Okikirmui 是年紀最小的。Shupunramka 性格溫和內向，所以沒有什麼故事，但 Samayunkur 脾氣暴躁，缺乏智慧，是個冒失鬼，性格惡劣的懦夫，Okikirmui 則像神一樣充滿智慧，富有同情心，是個勇敢偉大的人，因此關於他的故事多到數不清。\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "description": "The translation, and the comments",
+            "properties": {
+                "translation": {
+                    "description": "The translation",
+                    "title": "Translation",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "comment": {
+                    "description": "Comments on the translation",
+                    "title": "Comment",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "translation",
+                "title",
+                "comment"
+            ],
+            "title": "Translation",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "updated_translation_zh": {
+        "better_translation": "Translation 2",
+        "better_translation_comment": "Translation 2 is slightly better because it uses more precise vocabulary and clearer sentence structures, making it easier to understand while maintaining accuracy. For example, it translates \"蓬の矢\" as \"艾草製成的箭\" which is more specific than \"蓬蒿之箭\". It also uses more natural phrasing in several places.",
+        "title": "阿伊努語聖歌日文腳註翻譯",
+        "translation_comments": [
+            {
+                "comment": "Translation 1 is generally accurate but sometimes uses slightly less precise or slightly awkward phrasing.",
+                "id": "Translation 1"
+            },
+            {
+                "comment": "Translation 2 is generally accurate and uses more precise and natural phrasing.",
+                "id": "Translation 2"
+            }
+        ],
+        "translation_scores": [
+            {
+                "id": "Translation 1",
+                "score_accuracy": 4,
+                "score_easy_understanding": 4,
+                "weighted_score": 4.0
+            },
+            {
+                "id": "Translation 2",
+                "score_accuracy": 5,
+                "score_easy_understanding": 4,
+                "weighted_score": 4.6
+            }
+        ],
+        "updated_translation": "（1）pau：狐狸叫聲的擬聲詞。\n（2）pushtotta：一種用於海上狩獵時的袋狀物品，用於攜帶生火工具、藥品和其他必要的小物品。用於相同目的的類似物品包括piuchiop和karop，但這些是由燈芯草墊或アツシ織製成的，因此它們在陸地上使用。pushtotta由熊皮、海豹皮或其他毛皮製成，使其防水並適合帶到海上。\n（3）noya ai：用艾草製成的箭。艾草是阿伊努人尊重的一種植物。據說惡魔最害怕它，因為如果被艾草箭擊中，它們就無法漂浮，因此它被認為是遠行時的必需品之一。\n（4）最初，男女廁所是分開的。ashinru和eosineru都表示廁所。\n在狐狸中，黑狐被認為是最神聖的。突出到海中的海角通常是黑狐的領地，據說除非發生非常嚴重的事情，否則黑狐不會讓人們聽到它們的聲音。\nOkikurumi（Okikirmui）、Samayunkur和Shupunramka是堂兄弟，其中Shupunramka年紀最大，Okikirmui年紀最小。Shupunramka是一個溫柔而害羞的人，所以沒有什麼關於他的故事可講，但Samayunkur脾氣暴躁、思想膚淺、草率、心胸狹窄且懦弱。另一方面，Okikirmui據說像神一樣聰明、富有同情心、勇敢而偉大，因此有無數關於他的故事。",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "You are translating the following text from source language Japanese into target language Chinese. \nThe original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nYou have 2 versions of Chinese translations at hand.\nFor the original text which are not in Japanese, keep the original form. \n\nHere are your tasks:\n\n1. Compare the two Chinese translations with the source Japanese text. List out the Pros and Cons of the Translations.\n2. For each of translation from Japanese to Chinese, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].\nWhere one star means \"Nonsense/No meaning preserved\",\ntwo stars mean \"Some meaning preserved, but not understandable\",\nthree stars mean \"Some meaning preserved and understandable\",\nfour stars mean \"Most meaning preserved with possibly few grammar mistakes\",\nand five stars mean \"Perfect meaning and grammar\".\n\n3. For each of translation from Japanese to Chinese, score the translation on the easiness to understanding with one to five stars [1,2,3,4,5].\nWhere one star means \"The text is completely not understandable.\",\ntwo stars mean \"Most part of text is not understandable.\",\nthree stars mean \"While the text is understandable, the word usage and grammar are difficult.\",\nfour stars mean \"Most part of text can be understood easily.\",\nand five stars mean \"All the text can be understood easily.\".\n\n4. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (60%). Easiness to understanding is the second (40%).\n5. Based on the better translation, translate the Japanese text into Chinese again, incorporating the Pros of the two translations.\n\nKeep the original meaning accurately. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nIf a term cannot be translated, keep the original language.\nFor the original text which are not in Japanese, keep the original form. \n\nThis is the Japanese text.\n(1) pau.狐の鳴声の擬声詞.\n(2) pushtotta......鞄の様な形のもので,海猟に出かける時に火道具,薬類,その他細々の必要品を入れて持ってゆくもの.同じ用途のもので piuchiop,karop などがありますが,蒲がま,アツシ織などで作りますから,陸で使用します.pushtotta は熊の皮,あざらしの皮,その他の毛皮で製しますから水がとおらないので,海へ持って行くのです.\n(3) noya ai......蓬の矢.蓬はアイヌの尊ぶ草です.蓬の矢で打たれると,浮ぶ事が出来ないから悪魔の最も恐れるものだと云うので,遠出するとき必要品の一つに数えられます.\n(4) もとは男の便所と女の便所は別になっていました.ashinru も eosineru も同じく便所の事.\n狐の中で黒狐は最も尊いものだとしています.海の中に突き出ている岬は大概黒狐の所領で,黒狐はよっぽどの大へんがなければ,人に声をきかせないと申します.\nOkikurumi(Okikirmui)と Samayunkur と Shupunramka とはいとこ同士で,Shupunramka は一ばん年上で Okikirmui は一ばん年下だと云います.Shupunramka は温和な人で内気ですからなにも話がありませんが,Samayunkur は短気で,智恵が浅く,あわて者で,根性が悪い弱虫で,Okikirmui は神の様に智恵があり,情深く,勇気のあるえらい人だと云うので,その物語りは無限というほど沢山あります.\n\nThis is the Chinese Translation 1.\n(1) pau。狐狸叫聲的擬聲詞。\n(2) pushtotta......形狀像袋子的東西，出海打獵時用來裝火具、藥品和其他細小必需品。相同用途的還有 piuchiop, karop 等，但因為是用蒲草蓆、アツシ織等製作，所以在陸地上使用。pushtotta 是用熊皮、海豹皮或其他毛皮製成，因為不透水，所以帶到海上去。\n(3) noya ai......蓬蒿之箭。蓬蒿是阿伊努人尊重的草。據說被蓬蒿之箭射中，就無法浮起來，所以惡魔最害怕它，因此遠行時會將其視為必需品之一。\n(4) 原本男廁和女廁是分開的。ashinru 和 eosineru 都是廁所的意思。\n在狐狸中，黑狐被認為是最尊貴的。突出於海中的海岬大多是黑狐的領地，據說除非發生非常重大的事情，否則黑狐不會讓人聽到它的聲音。\nOkikurumi(Okikirmui)和 Samayunkur 與 Shupunramka 是表兄弟，Shupunramka 是年紀最大的，Okikirmui 是年紀最小的。Shupunramka 性格溫和內向，所以沒有什麼故事，但 Samayunkur 脾氣暴躁，缺乏智慧，是個冒失鬼，性格惡劣的懦夫，Okikirmui 則像神一樣充滿智慧，富有同情心，是個勇敢偉大的人，因此關於他的故事多到數不清。\n\nThis is the Chinese Translation 2.\n（1）pau：狐狸叫聲的擬聲詞。\n（2）pushtotta：一種用於海上狩獵時的袋狀物品，用於攜帶生火工具、藥品和其他必要的小物品。用於相同目的的類似物品包括piuchiop和karop，但這些是由燈芯草墊或attush編織製成的，因此它們在陸地上使用。pushtotta由熊皮、海豹皮或其他毛皮製成，使其防水並適合帶到海上。\n（3）noya ai：用艾草製成的箭。艾草是阿伊努人尊重的一種植物。據說惡魔最害怕它，因為如果被艾草箭擊中，它們就無法漂浮，因此它被認為是遠行時的必需品之一。\n（4）最初，男女廁所是分開的。ashinru和eosineru都表示廁所。\n在狐狸中，黑狐被認為是最神聖的。突出到海中的海角通常是黑狐的領地，據說除非發生非常嚴重的事情，否則黑狐不會讓人們聽到它們的聲音。\nOkikurumi（Okikirmui）、Samayunkur和Shupunramka是堂兄弟，其中Shupunramka年紀最大，Okikirmui年紀最小。Shupunramka是一個溫柔而害羞的人，所以沒有什麼關於他的故事可講，但Samayunkur脾氣暴躁、思想膚淺、草率、心胸狹窄且懦弱。另一方面，Okikirmui據說像神一樣聰明、富有同情心、勇敢而偉大，因此有無數關於他的故事。\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "$defs": {
+                "Comment": {
+                    "properties": {
+                        "id": {
+                            "description": "For example: Translation 1 or Translation 2",
+                            "title": "Id",
+                            "type": "string"
+                        },
+                        "comment": {
+                            "description": "comment of the translation",
+                            "title": "Comment",
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "id",
+                        "comment"
+                    ],
+                    "title": "Comment",
+                    "type": "object"
+                },
+                "Score": {
+                    "properties": {
+                        "id": {
+                            "description": "For example: Translation 1 or Translation 2",
+                            "title": "Id",
+                            "type": "string"
+                        },
+                        "score_accuracy": {
+                            "description": "Accuracy score of the translation",
+                            "title": "Score Accuracy",
+                            "type": "integer"
+                        },
+                        "score_easy_understanding": {
+                            "description": "easiness to understanding score of the translation",
+                            "title": "Score Easy Understanding",
+                            "type": "integer"
+                        },
+                        "weighted_score": {
+                            "description": "weighted score of the translation",
+                            "title": "Weighted Score",
+                            "type": "number"
+                        }
+                    },
+                    "required": [
+                        "id",
+                        "score_accuracy",
+                        "score_easy_understanding",
+                        "weighted_score"
+                    ],
+                    "title": "Score",
+                    "type": "object"
+                }
+            },
+            "description": "The updated translation, and the comments for the update",
+            "properties": {
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "translation_comments": {
+                    "description": "Comments of all translations",
+                    "items": {
+                        "$ref": "#/$defs/Comment"
+                    },
+                    "title": "Translation Comments",
+                    "type": "array"
+                },
+                "translation_scores": {
+                    "description": "Scores of all translations",
+                    "items": {
+                        "$ref": "#/$defs/Score"
+                    },
+                    "title": "Translation Scores",
+                    "type": "array"
+                },
+                "better_translation": {
+                    "description": "For example: Translation 1 or Translation 2",
+                    "title": "Better Translation",
+                    "type": "string"
+                },
+                "better_translation_comment": {
+                    "description": "Explanation of better translation choice.",
+                    "title": "Better Translation Comment",
+                    "type": "string"
+                },
+                "updated_translation": {
+                    "description": "Updated Translation",
+                    "title": "Updated Translation",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "title",
+                "translation_comments",
+                "translation_scores",
+                "better_translation",
+                "better_translation_comment",
+                "updated_translation"
+            ],
+            "title": "Reflection",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class '__main__.Reflection'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "updated_translation_en": {
+        "better_translation": "Translation 1",
+        "better_translation_comment": "Translation 1 is slightly better because it maintains a more consistent tone and avoids some of the slightly awkward phrasing present in Translation 2. For example, Translation 1's description of 'noya ai' is clearer. While both are generally good, Translation 1 edges out due to its smoother flow and more natural word choices.",
+        "title": "Ainu Chant Footnotes Translation",
+        "translation_comments": [
+            {
+                "comment": "Translation 1 is generally accurate and easy to understand. It maintains a good flow and uses appropriate vocabulary. The explanations are clear and concise.",
+                "id": "Translation 1"
+            },
+            {
+                "comment": "Translation 2 is also accurate but has some slightly awkward phrasing. For example, 'Arrow of mugwort' is less natural than 'Arrow made of mugwort.' However, it captures the meaning well overall.",
+                "id": "Translation 2"
+            }
+        ],
+        "translation_scores": [
+            {
+                "id": "Translation 1",
+                "score_accuracy": 5,
+                "score_easy_understanding": 4,
+                "weighted_score": 4.6
+            },
+            {
+                "id": "Translation 2",
+                "score_accuracy": 4,
+                "score_easy_understanding": 4,
+                "weighted_score": 4.0
+            }
+        ],
+        "updated_translation": "(1) pau: Onomatopoeia for the sound of a fox's cry.\n(2) pushtotta: A bag-like item used when going sea hunting, to carry fire-making tools, medicines, and other necessary small items. Similar items for the same purpose include piuchiop and karop, but these are made from bulrush mats or attush weaving, so they are used on land. pushtotta is made from bear skin, seal skin, or other fur, making it waterproof and suitable for taking to sea.\n(3) noya ai: Arrow made of mugwort. Mugwort is a plant respected by the Ainu. It is said that demons fear it most because they cannot float if struck by a mugwort arrow, so it is counted as one of the necessities when traveling far.\n(4) Originally, men's and women's toilets were separate. ashinru and eosineru both mean toilet.\nAmong foxes, the black fox is considered the most sacred. Capes protruding into the sea are usually the territory of black foxes, and it is said that black foxes do not make their voices heard to people unless something very serious is happening.\nOkikurumi (Okikirmui), Samayunkur, and Shupunramka are cousins, with Shupunramka being the oldest and Okikirmui the youngest. Shupunramka is a gentle and shy person, so there is nothing to tell about him, but Samayunkur is short-tempered, shallow-minded, hasty, mean-spirited, and cowardly. Okikirmui, on the other hand, is said to be wise like a god, compassionate, brave, and great, so there are countless stories about him.",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "You are translating the following text from source language Japanese into target language English. \nThe original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nYou have 2 versions of English translations at hand.\n\nHere are your tasks:\n\n1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.\n2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].\nWhere one star means \"Nonsense/No meaning preserved\",\ntwo stars mean \"Some meaning preserved, but not understandable\",\nthree stars mean \"Some meaning preserved and understandable\",\nfour stars mean \"Most meaning preserved with possibly few grammar mistakes\",\nand five stars mean \"Perfect meaning and grammar\".\n\n3. For each of translation from Japanese to English, score the translation on the easiness to understanding with one to five stars [1,2,3,4,5].\nWhere one star means \"The text is completely not understandable.\",\ntwo stars mean \"Most part of text is not understandable.\",\nthree stars mean \"While the text is understandable, the word usage and grammar are difficult.\",\nfour stars mean \"Most part of text can be understood easily.\",\nand five stars mean \"All part of text can be understood easily.\".\n\n4. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (60%). Easiness to understanding is the second (40%).\n5. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.\n\nKeep the original meaning accurately. \nIf a term cannot be translated, keep the original language.\nFor the original text which are not in Japanese, keep the original form. \n\nThis is the Japanese text.\n(1) pau.狐の鳴声の擬声詞.\n(2) pushtotta......鞄の様な形のもので,海猟に出かける時に火道具,薬類,その他細々の必要品を入れて持ってゆくもの.同じ用途のもので piuchiop,karop などがありますが,蒲がま,アツシ織などで作りますから,陸で使用します.pushtotta は熊の皮,あざらしの皮,その他の毛皮で製しますから水がとおらないので,海へ持って行くのです.\n(3) noya ai......蓬の矢.蓬はアイヌの尊ぶ草です.蓬の矢で打たれると,浮ぶ事が出来ないから悪魔の最も恐れるものだと云うので,遠出するとき必要品の一つに数えられます.\n(4) もとは男の便所と女の便所は別になっていました.ashinru も eosineru も同じく便所の事.\n狐の中で黒狐は最も尊いものだとしています.海の中に突き出ている岬は大概黒狐の所領で,黒狐はよっぽどの大へんがなければ,人に声をきかせないと申します.\nOkikurumi(Okikirmui)と Samayunkur と Shupunramka とはいとこ同士で,Shupunramka は一ばん年上で Okikirmui は一ばん年下だと云います.Shupunramka は温和な人で内気ですからなにも話がありませんが,Samayunkur は短気で,智恵が浅く,あわて者で,根性が悪い弱虫で,Okikirmui は神の様に智恵があり,情深く,勇気のあるえらい人だと云うので,その物語りは無限というほど沢山あります.\n\nThis is the English Translation 1.\n(1) pau: Onomatopoeia for the sound of a fox's cry.\n(2) pushtotta: A bag-like item used when going sea hunting, to carry fire-making tools, medicines, and other necessary small items. Similar items for the same purpose include piuchiop and karop, but these are made from bulrush mats or attush weaving, so they are used on land. pushtotta is made from bear skin, seal skin, or other fur, making it waterproof and suitable for taking to sea.\n(3) noya ai: Arrow made of mugwort. Mugwort is a plant respected by the Ainu. It is said that demons fear it most because they cannot float if struck by a mugwort arrow, so it is counted as one of the necessities when traveling far.\n(4) Originally, men's and women's toilets were separate. ashinru and eosineru both mean toilet.\nAmong foxes, the black fox is considered the most sacred. Capes protruding into the sea are usually the territory of black foxes, and it is said that black foxes do not make their voices heard to people unless something very serious is happening.\nOkikurumi (Okikirmui), Samayunkur, and Shupunramka are cousins, with Shupunramka being the oldest and Okikirmui the youngest. Shupunramka is a gentle and shy person, so there is nothing to tell about him, but Samayunkur is short-tempered, shallow-minded, hasty, mean-spirited, and cowardly. Okikirmui, on the other hand, is said to be wise like a god, compassionate, brave, and great, so there are countless stories about him.\n\nThis is the English Translation 2.\n(1) pau: An onomatopoeic word for the sound of a fox's cry.\n(2) pushtotta: A bag-like item used when hunting at sea to store fire-making tools, medicine, and other small necessities. Similar items include piuchiop and karop, but these are made from bulrush mats or attush weave and are used on land. pushtotta is made from bear skin, seal skin, or other fur, making it waterproof for use at sea.\n(3) noya ai: Arrow of mugwort. Mugwort is a grass respected by the Ainu people. It is said that being shot by a mugwort arrow makes it impossible to float, so demons fear it most, making it an essential item for long journeys.\n(4) Originally, men's and women's toilets were separate. ashinru and eosineru both mean toilet.\nAmong foxes, the black fox is considered the most noble. Headlands protruding into the sea are mostly the territory of black foxes, and it is said that a black fox will not let its voice be heard unless something very important is happening.\nOkikurumi (Okikirmui) and Samayunkur are cousins of Shupunramka. Shupunramka is the oldest, and Okikirmui is the youngest. Shupunramka is gentle and introverted, so there are not many stories about him. Samayunkur is short-tempered, lacks wisdom, and is a reckless, cowardly character. Okikirmui, on the other hand, is wise like a god, compassionate, brave, and great, so there are countless stories about him.\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "$defs": {
+                "Comment": {
+                    "properties": {
+                        "id": {
+                            "description": "For example: Translation 1 or Translation 2",
+                            "title": "Id",
+                            "type": "string"
+                        },
+                        "comment": {
+                            "description": "comment of the translation",
+                            "title": "Comment",
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "id",
+                        "comment"
+                    ],
+                    "title": "Comment",
+                    "type": "object"
+                },
+                "Score": {
+                    "properties": {
+                        "id": {
+                            "description": "For example: Translation 1 or Translation 2",
+                            "title": "Id",
+                            "type": "string"
+                        },
+                        "score_accuracy": {
+                            "description": "Accuracy score of the translation",
+                            "title": "Score Accuracy",
+                            "type": "integer"
+                        },
+                        "score_easy_understanding": {
+                            "description": "easiness to understanding score of the translation",
+                            "title": "Score Easy Understanding",
+                            "type": "integer"
+                        },
+                        "weighted_score": {
+                            "description": "weighted score of the translation",
+                            "title": "Weighted Score",
+                            "type": "number"
+                        }
+                    },
+                    "required": [
+                        "id",
+                        "score_accuracy",
+                        "score_easy_understanding",
+                        "weighted_score"
+                    ],
+                    "title": "Score",
+                    "type": "object"
+                }
+            },
+            "description": "The updated translation, and the comments for the update",
+            "properties": {
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "translation_comments": {
+                    "description": "Comments of all translations",
+                    "items": {
+                        "$ref": "#/$defs/Comment"
+                    },
+                    "title": "Translation Comments",
+                    "type": "array"
+                },
+                "translation_scores": {
+                    "description": "Scores of all translations",
+                    "items": {
+                        "$ref": "#/$defs/Score"
+                    },
+                    "title": "Translation Scores",
+                    "type": "array"
+                },
+                "better_translation": {
+                    "description": "For example: Translation 1 or Translation 2",
+                    "title": "Better Translation",
+                    "type": "string"
+                },
+                "better_translation_comment": {
+                    "description": "Explanation of better translation choice.",
+                    "title": "Better Translation Comment",
+                    "type": "string"
+                },
+                "updated_translation": {
+                    "description": "Updated Translation",
+                    "title": "Updated Translation",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "title",
+                "translation_comments",
+                "translation_scores",
+                "better_translation",
+                "better_translation_comment",
+                "updated_translation"
+            ],
+            "title": "Reflection",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class '__main__.Reflection'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    }
+}

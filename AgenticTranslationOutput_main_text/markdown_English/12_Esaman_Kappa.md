@@ -4,26 +4,28 @@
 
 ## Esaman yaieyukar, “Kappa reureu kappa” 
 ## 獺かわうそが自ら歌った謡「カッパ レウレウ カッパ」
-## The Otter's Song
+## The Otter's Self-Sung Song
 
 ### System prompt
 ```
 You are a professional translator. 
-You know Japanese, Chinese and English. 
+You only know Japanese, Chinese and English. 
 You can translate Japanese into either Chinese or English. 
 You can also translate Chinese into English, and English into Chinese.
+All the translations should keep the original meaning.
+All the translations only contain characters of the source and target languages.
 
 
 ```
 
 ### Prompt
 ```
-You are translating the following Japanese text into English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
+You are translating the following text from source language Japanese into target language English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
 You have 2 versions of English translations at hand.
 
 Here are your tasks:
 
-1. Compare the two English translations with the original Japanese text. List out the Pros and Cons of the Translations.
+1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.
 2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].
 Where one star means "Nonsense/No meaning preserved",
 two stars mean "Some meaning preserved, but not understandable",
@@ -48,7 +50,7 @@ and five stars mean "All part of the text is a poet and rhythmic. It is a chant.
 5. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (50%). Easiness to understanding is the second (30%). Poetic flow is the third (20%).
 6. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.
 
-Keep the original meaning accurately.
+Keep the original meaning accurately. 
 If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
@@ -116,204 +118,170 @@ Kappa reureu kappa,
 One day, as I played along the stream,
 Swimming down, I came to Samayunkuru's
 Water-drawing place.
-Samayunkuru's younger sister, beautiful as a goddess,
-Carried a pail in one hand and
-A bundle of reeds in the other.
+Samayunkuru's sister, beautiful as a goddess,
+Carrying a pail in one hand and
+A bundle of reeds in the other, was there.
 I poked my head out at the river's edge and asked,
 "Do you have a father?
 Do you have a mother?"
-The maiden, startled, darted her eyes around,
-And finding me, a look of anger crossed her face.
+The maiden, startled, looked around,
+And finding me, her face filled with anger,
 "Oh, you hateful flathead, you wicked flathead,
 Making fun of people! Dogs, here!"
-At her call, large dogs came rushing out,
-Baring their fangs at me. Startled, I dove to the river bottom,
-And fled downstream along the riverbed.
+At her call, large dogs rushed out,
+Baring their fangs at me. Startled, I dove
+To the river bottom and fled downstream.
 
-Then, at Okikirmui's water-drawing place,
-I poked my head out again,
-Okikirmui's younger sister,
-Beautiful as a goddess, carried a pail in one hand
-A bundle of reeds in the other.
-So I said,
+Then, at the mouth of Okikirmui's water-drawing place,
+I poked my head out again.
+Okikirmui's sister, beautiful as a goddess,
+Carrying a pail in one hand and
+A bundle of reeds in the other, was there.
+I said to her,
 "Do you have a father?
 Do you have a mother?"
-The maiden, startled, darted her eyes around,
-And finding me, a look of anger crossed her face,
+The maiden, startled, looked around,
+And finding me, her face filled with anger,
 "Oh, you hateful flathead, you wicked flathead,
 Making fun of people! Dogs, here!"
-At her call, large dogs came rushing out.
-Remembering what happened before, I found it funny,
-And as I dove to the river bottom to escape,
-Though I never expected the dogs to do such a thing,
-They leaped into the river after me, teeth bared,
-Hauled me ashore, and bit and tore at my head and body,
+At her call, large dogs rushed out.
+Remembering what happened before, and finding it funny,
+I tried to dive to the river bottom to escape,
+But never would I have thought the dogs would do such a thing,
+Snapping their fangs, they leaped into the river after me,
+Hauled me ashore, bit and tore at my head and body,
 Until I lost all sense of what was happening.
 
-When I came to, I found myself
-Sitting between the ears of a large otter.
-I knew that neither Samayunkuru nor Okikirmui
-Had father or mother, and I played that prank,
-So I was punished, killed by Okikirmui's dogs,
-And met a meaningless, wretched death.
-Otters of the future, never play such pranks.
+When I came to, I was sitting
+Between the ears of a large otter.
+I knew that Samayunkuru and Okikirmui
+Had neither father nor mother, and I played
+Such pranks because of that. I was punished,
+Killed by Okikirmui's dogs,
+A meaningless, wicked death.
+From now on, you otters, never play such pranks.
 So, the otter told his story.
 
 This is the English Translation 2.
-"Kapa reureu kapa,"
+KAPPA REUREU KAPPA
 
-Kapa reureu kapa,
-
-One day, as I frolicked down the river,
-I swam to the watering place of Samayunkuru.
-
-There I saw the sister of Samayunkuru,
-Beautiful as a goddess,
-With a bucket in one hand and a cattail in the other.
-
-I peeked my head above the water and asked:
-"Do you have a father? Do you have a mother?"
-
-The maiden was startled,
-Her eyes widened as she looked around,
-Spotting me, her face filled with rage.
-
-"Ah, hateful flathead, detestable flathead,
-Daring to mock me! Dogs, get him!"
-
+One day, I was frolicking down the stream,
+When I swam to the water-drawing place of Samaunkuru.
+The sister of Samaunkuru, beautiful as a goddess,
+Held a bucket in one hand and a cattail in the other.
+I only showed my head by the river and asked:
+"Do you have a father?
+Do you have a mother?"
+The maiden was startled, her eyes flustered.
+When she found me, her face filled with anger,
+"Ah, hateful flathead, wicked flathead,
+Daring to fool people. Dogs, go!"
 Before she finished speaking, several large dogs rushed out,
-Snarling and baring their teeth at me.
-Startled, I immediately dove to the river bottom,
-Fleeing along the riverbed.
+Snarling at me. I was startled,
+Quickly dived to the bottom of the river and fled along the riverbed.
 
-Later, I poked my head out again,
-At the mouth of the watering place of Okikirmui.
-
-There I saw the sister of Okikirmui,
-Also beautiful as a goddess,
-With a bucket in one hand and a cattail in the other.
-
+Then, I was at the water-drawing place of Okikirimui,
+Only showing my head.
+The sister of Okikirimui, also with the beauty of a goddess,
+Held a bucket in one hand and a cattail in the other.
 So I asked:
-"Do you have a father? Do you have a mother?"
+"Do you have a father?
+Do you have a mother?"
+The maiden panicked, looking around,
+After finding me, her face was full of anger,
+"Ah, hateful flathead, wicked flathead,
+Daring to fool people. Dogs, go!"
+Before she finished speaking, the big dogs swarmed up.
 
-The maiden was startled as well,
-Her eyes widened as she looked around,
-Finding me, anger surfaced on her face.
-
-"Ah, hateful flathead, detestable flathead,
-Daring to mock me! Dogs, get him!"
-
-The large dogs immediately rushed out.
-
-Seeing this, I recalled my previous encounter,
-Found it amusing, and was about to dive to the river bottom to escape,
-
-But I never expected those dogs to do such a thing,
-They plunged into the river, snarling and snapping,
+Seeing this, I remembered what had just happened,
+I found it funny, and was about to dive into the river to escape,
+But I never expected the dogs to do that.
+They chased me all the way to the bottom of the river, barking at me,
 Dragging me ashore, my head and body,
-Were torn and devoured, and finally, I lost consciousness.
+Were bitten and torn by them, and in the end I didn't know what happened.
 
-When I awoke, I found myself,
-Sitting between the ears of a large otter.
+Suddenly, I came back to my senses,
+I found myself sitting between the ears of a huge otter.
 
-Samayunkuru and Okikirmui,
-I knew they had no parents,
-Yet I still played a prank, and thus I was punished,
-Killed by the dogs of Okikirmui,
-Meeting such a pointless, pathetic end.
+I knew that both Samaunkuru and Okikirimui
+Had no parents, but I deliberately teased them,
+That's why I was punished, bitten to death by Okikirimui's dogs,
+Ending up in such a boring and sad end.
 
-Future otters, never play such pranks again.
+Future otters, never play pranks again.
 
-So spoke the otter.
+The otter tells the story.
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand | Poetic Flow | Total Score |
 | ------------- | -------- | ------------------ | ------------ | ------------ |
-| Translation 1 | 4 | 4 | 3 | 3.9 |
-| Translation 2 | 4 | 4 | 4 | 4.1 |
+| Translation 1 | 5 | 4 | 4 | 4.5 |
+| Translation 2 | 5 | 3 | 3 | 4.1 |
 
 ### Comments
 #### Translation 1
-Translation 1 is a solid translation that accurately conveys the meaning of the original Japanese text. It is easy to understand and maintains a consistent tone. However, it could benefit from more vivid language and a slightly more poetic flow.
+Translation 1 is generally well-written and maintains a good flow. It captures the essence of the story and is easy to understand. The repetition is also well-handled.
 
 #### Translation 2
-Translation 2 is a slightly more vivid and engaging translation. It uses stronger language and maintains a consistent tone. However, it could benefit from a slightly more polished feel.
+Translation 2 is accurate but feels a bit more literal and less poetic. Some of the phrasing is slightly awkward, making it a bit less engaging to read.
 
 ### Better Choice
-Translation 2
+Translation 1
 #### Comment
-Translation 2 is slightly better because it uses more vivid language and maintains a more consistent tone. For example, "frolicked down the river" is more evocative than "played along the stream." The phrase "Daring to mock me!" captures the anger more effectively than "Making fun of people!" However, both translations are quite good and capture the essence of the original Japanese text.
+Translation 1 maintains a slightly better poetic flow and rhythm, which is important for a chant. While both translations are accurate, Translation 1's phrasing is generally more evocative and easier to read. The weighted score also reflects this preference, prioritizing accuracy but also considering readability and poetic quality.
 
 ### Updated Output
 ```
-"Kapa reureu kapa," 
+"Kappa reureu kappa" 
 
-Kapa reureu kapa,
-
-One day, as I frolicked down the stream,
-I swam to the watering place of Samayunkuru.
-
-There I saw the sister of Samayunkuru,
-Beautiful as a goddess,
-With a bucket in one hand and a bundle of reeds in the other.
-
-I peeked my head above the water and asked:
+Kappa reureu kappa,
+One day, as I played along the stream,
+Swimming down, I came to Samayunkuru's
+Water-drawing place.
+Samayunkuru's sister, beautiful as a goddess,
+Holding a pail in one hand and
+A bundle of reeds in the other, was there.
+I poked my head out at the river's edge and asked,
 "Do you have a father?
 Do you have a mother?"
+The maiden, startled, looked around, her eyes flustered,
+And finding me, her face filled with anger,
+"Oh, you hateful flathead, you wicked flathead,
+Daring to fool people! Dogs, here!"
+At her call, large dogs rushed out,
+Baring their fangs at me. Startled, I dove
+To the river bottom and fled downstream.
 
-The maiden was startled,
-Her eyes widened as she looked around,
-Spotting me, her face filled with rage.
-
-"Ah, hateful flathead, detestable flathead,
-Daring to mock me! Dogs, get him!"
-
-Before she finished speaking, several large dogs rushed out,
-Snarling and baring their teeth at me.
-Startled, I immediately dove to the river bottom,
-Fleeing along the riverbed.
-
-Later, I poked my head out again,
-At the mouth of the watering place of Okikirmui.
-
-There I saw the sister of Okikirmui,
-Also beautiful as a goddess,
-With a bucket in one hand and a bundle of reeds in the other.
-
-So I asked:
+Then, at the mouth of Okikirmui's water-drawing place,
+I poked my head out again.
+Okikirmui's sister, beautiful as a goddess,
+Holding a pail in one hand and
+A bundle of reeds in the other, was there.
+I said to her,
 "Do you have a father?
 Do you have a mother?"
+The maiden, startled, looked around,
+And finding me, her face filled with anger,
+"Oh, you hateful flathead, you wicked flathead,
+Daring to fool people! Dogs, here!"
+At her call, large dogs rushed out.
+Remembering what happened before, and finding it funny,
+I tried to dive to the river bottom to escape,
+But never would I have thought the dogs would do such a thing,
+Snapping their fangs, they leaped into the river after me,
+Hauled me ashore, bit and tore at my head and body,
+Until I lost all sense of what was happening.
 
-The maiden was startled as well,
-Her eyes widened as she looked around,
-Finding me, anger surfaced on her face.
-
-"Ah, hateful flathead, detestable flathead,
-Daring to mock me! Dogs, get him!"
-
-The large dogs immediately rushed out.
-
-Seeing this, I recalled my previous encounter,
-Found it amusing, and was about to dive to the river bottom to escape,
-
-But I never expected those dogs to do such a thing,
-They plunged into the river, snarling and snapping,
-Dragging me ashore, my head and body
-Were torn and devoured, and finally, I lost consciousness.
-
-When I awoke, I found myself,
-Sitting between the ears of a large otter.
-
-Samayunkuru and Okikirmui,
-I knew they had no parents,
-Yet I still played a prank, and thus I was punished,
-Killed by the dogs of Okikirmui,
-Meeting such a pointless, pathetic end.
-
-Future otters, never play such pranks again.
-
-So spoke the otter.
+When I came to, I was sitting
+Between the ears of a large otter.
+I knew that Samayunkuru and Okikirmui
+Had neither father nor mother, and I played
+Such pranks because of that. I was punished,
+Killed by Okikirmui's dogs,
+A meaningless, wicked death.
+From now on, you otters, never play such pranks.
+So, the otter told his story.
 ```
 

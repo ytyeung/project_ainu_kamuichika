@@ -1,0 +1,427 @@
+{
+    "japanese_title": "沼貝が自ら歌った謡「トヌペカ ランラン」",
+    "ainu_title": "Pipa yaieyukar, “Tonupeka ranran”",
+    "japanese_text": "(1) kinatantuka......蒲の束.蒲は編んで筵の様な敷物にするのですが,よく乾いているのをそのまま編むといけませんから,少し湿してからつかいます.この話にあるのも,そのために女が川へ持って行くのでしょう.\n(2) i-okapushpa.人は死んでしまった親や親類などの名を言ったり,その事をふだん話したりする事を i-okapushpa と言って大へん嫌います.また,人のかくしていた事をそばからほじり出して,みんなに言ったり,その人の聞きにくい様なその人の前の行為などを口に出したりする事をも i-okapushpa と言います.\n(3) nimakitara......牙の剥き出している.これは犬の事.山のけものたちは,人が猟に行くと犬を連れて行きますが,その犬に歯をむき出してかかられるのが一ばん恐いので,犬にこんな名をつけて恐がっています.",
+    "chinese_translation": {
+        "comment": "Translation of Japanese footnotes of an Ainu chant into Traditional Chinese.",
+        "title": "阿伊努語吟唱腳註翻譯",
+        "translation": "(1) kinatantuka......蒲草束。蒲草會被編織成類似蓆子的墊子，但如果直接編織乾燥的蒲草是不行的，所以要稍微弄濕後再使用。故事裡提到的也是這樣，所以女人才會把它帶到河邊吧。\n(2) i-okapushpa. 人們非常忌諱說出已故父母或親戚的名字，或是在平時談論他們的事情，這被稱作 i-okapushpa。此外，挖出別人隱藏的事情，告訴大家，或是說出那個人難以啟齒的、在人前的行為等等，也被稱作 i-okapushpa。\n(3) nimakitara......露出獠牙。這裡指的是狗。山裡的野獸們，人們去狩獵時會帶著狗，因為被露出牙齒的狗攻擊是最可怕的，所以用這樣的名字來稱呼狗，表示害怕。",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "Translate the following text from source language Japanese to target language Chinese. The original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning accurately. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nIf a term cannot be translated, keep the source language.\nFor the original text which are not in Japanese, keep the original form. \n\n(1) kinatantuka......蒲の束.蒲は編んで筵の様な敷物にするのですが,よく乾いているのをそのまま編むといけませんから,少し湿してからつかいます.この話にあるのも,そのために女が川へ持って行くのでしょう.\n(2) i-okapushpa.人は死んでしまった親や親類などの名を言ったり,その事をふだん話したりする事を i-okapushpa と言って大へん嫌います.また,人のかくしていた事をそばからほじり出して,みんなに言ったり,その人の聞きにくい様なその人の前の行為などを口に出したりする事をも i-okapushpa と言います.\n(3) nimakitara......牙の剥き出している.これは犬の事.山のけものたちは,人が猟に行くと犬を連れて行きますが,その犬に歯をむき出してかかられるのが一ばん恐いので,犬にこんな名をつけて恐がっています.\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "description": "The translation, and the comments",
+            "properties": {
+                "translation": {
+                    "description": "The translation",
+                    "title": "Translation",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "comment": {
+                    "description": "Comments on the translation",
+                    "title": "Comment",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "translation",
+                "title",
+                "comment"
+            ],
+            "title": "Translation",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "english_translation": {
+        "comment": "Translation of Japanese footnotes of an Ainu chant into English.",
+        "title": "Translation of Ainu Chant Footnotes",
+        "translation": "(1) kinatantuka......A bundle of cattails. Cattails are woven into mats, but if you weave them when they are completely dry, it won't work, so you moisten them a little before using them. In this story, the woman is probably taking them to the river for that purpose.\n(2) i-okapushpa. People greatly dislike saying the names of deceased parents or relatives, or talking about them in everyday conversation, which is called i-okapushpa. Also, digging up things that people have hidden and telling everyone, or bringing up past actions of that person that are difficult for them to hear, is also called i-okapushpa.\n(3) nimakitara......Bare fangs. This refers to a dog. When people go hunting in the mountains, they take dogs with them, and they are most afraid of being attacked by a dog with its teeth bared, so they give the dog this name out of fear.",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "Translate the following text from source language Japanese to target language English. The original text is a Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning accurately. Use modern and simple English.\nIf a term cannot be translated, keep the source language.\nFor the original text which are not in Japanese, keep the original form. \n\n(1) kinatantuka......蒲の束.蒲は編んで筵の様な敷物にするのですが,よく乾いているのをそのまま編むといけませんから,少し湿してからつかいます.この話にあるのも,そのために女が川へ持って行くのでしょう.\n(2) i-okapushpa.人は死んでしまった親や親類などの名を言ったり,その事をふだん話したりする事を i-okapushpa と言って大へん嫌います.また,人のかくしていた事をそばからほじり出して,みんなに言ったり,その人の聞きにくい様なその人の前の行為などを口に出したりする事をも i-okapushpa と言います.\n(3) nimakitara......牙の剥き出している.これは犬の事.山のけものたちは,人が猟に行くと犬を連れて行きますが,その犬に歯をむき出してかかられるのが一ばん恐いので,犬にこんな名をつけて恐がっています.\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "description": "The translation, and the comments",
+            "properties": {
+                "translation": {
+                    "description": "The translation",
+                    "title": "Translation",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "comment": {
+                    "description": "Comments on the translation",
+                    "title": "Comment",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "translation",
+                "title",
+                "comment"
+            ],
+            "title": "Translation",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "eng_to_chi_translation": {
+        "comment": "Translation of English text to Traditional Chinese, maintaining the original meaning and context.",
+        "title": "阿伊努語吟唱的日文腳註翻譯",
+        "translation": "（1）kinatantuka......香蒲草束。香蒲草被編織成墊子，但如果它們完全乾燥時編織，就行不通，所以你在使用它們之前稍微潤濕它們。在這個故事中，這位女子可能正把它們帶到河邊以達到這個目的。\n（2）i-okapushpa。人們非常不喜歡說已故父母或親戚的名字，或在日常談話中談論他們，這被稱為i-okapushpa。此外，挖出人們隱藏的東西並告訴大家，或提起那個人的過去的、他們難以聽到的行為，也被稱為i-okapushpa。\n（3）nimakitara......裸露的獠牙。 這裡指的是狗。 當人們去山裡打獵時，他們會帶上狗，他們最害怕被一隻露出牙齒的狗攻擊，所以他們因為害怕而給狗起了這個名字。",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "Translate the following text from source language English to target language Chinese. \nThe original text is translation of Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nFor the original text which are not in English, keep the original form. \n\n(1) kinatantuka......A bundle of cattails. Cattails are woven into mats, but if you weave them when they are completely dry, it won't work, so you moisten them a little before using them. In this story, the woman is probably taking them to the river for that purpose.\n(2) i-okapushpa. People greatly dislike saying the names of deceased parents or relatives, or talking about them in everyday conversation, which is called i-okapushpa. Also, digging up things that people have hidden and telling everyone, or bringing up past actions of that person that are difficult for them to hear, is also called i-okapushpa.\n(3) nimakitara......Bare fangs. This refers to a dog. When people go hunting in the mountains, they take dogs with them, and they are most afraid of being attacked by a dog with its teeth bared, so they give the dog this name out of fear.\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "description": "The translation, and the comments",
+            "properties": {
+                "translation": {
+                    "description": "The translation",
+                    "title": "Translation",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "comment": {
+                    "description": "Comments on the translation",
+                    "title": "Comment",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "translation",
+                "title",
+                "comment"
+            ],
+            "title": "Translation",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "chi_to_eng_translation": {
+        "comment": "Translation of Chinese to English, keeping original meaning and using simple English.",
+        "title": "Translation of Ainu Chant Footnotes",
+        "translation": "(1) kinatantuka......Cattail bundle. Cattails are woven into mat-like pads, but dry cattails cannot be woven directly, so they must be slightly moistened before use. This is also mentioned in the story, which is why the woman brought it to the riverside.\n(2) i-okapushpa. People are very taboo about saying the names of deceased parents or relatives, or talking about them in ordinary times, which is called i-okapushpa. In addition, digging up other people's hidden things and telling everyone, or telling that person's embarrassing behavior in front of others, etc., is also called i-okapushpa.\n(3) nimakitara......Baring fangs. This refers to dogs. When people go hunting for wild animals in the mountains, they bring dogs. Because being attacked by a dog with bared teeth is the most terrifying thing, they call dogs by this name to express fear.",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "Translate the following text from source language Chinese to target language English. \nThe original text is translation of Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning. Use modern and simple English.\nFor the original text which are not in Chinese, keep the original form. \n\n(1) kinatantuka......蒲草束。蒲草會被編織成類似蓆子的墊子，但如果直接編織乾燥的蒲草是不行的，所以要稍微弄濕後再使用。故事裡提到的也是這樣，所以女人才會把它帶到河邊吧。\n(2) i-okapushpa. 人們非常忌諱說出已故父母或親戚的名字，或是在平時談論他們的事情，這被稱作 i-okapushpa。此外，挖出別人隱藏的事情，告訴大家，或是說出那個人難以啟齒的、在人前的行為等等，也被稱作 i-okapushpa。\n(3) nimakitara......露出獠牙。這裡指的是狗。山裡的野獸們，人們去狩獵時會帶著狗，因為被露出牙齒的狗攻擊是最可怕的，所以用這樣的名字來稱呼狗，表示害怕。\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "description": "The translation, and the comments",
+            "properties": {
+                "translation": {
+                    "description": "The translation",
+                    "title": "Translation",
+                    "type": "string"
+                },
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "comment": {
+                    "description": "Comments on the translation",
+                    "title": "Comment",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "translation",
+                "title",
+                "comment"
+            ],
+            "title": "Translation",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "updated_translation_zh": {
+        "better_translation": "Translation 1",
+        "better_translation_comment": "Both translations are quite similar and accurate. Translation 1 uses \"蒲草束\" which is a more direct and common translation of \"蒲の束\" compared to Translation 2's \"香蒲草束\". While \"香蒲草\" (cattail) is technically correct, \"蒲草\" (bulrush) is a broader term that encompasses the intended meaning in the context of mat weaving. Therefore, Translation 1 is slightly better.",
+        "title": "阿伊努語吟唱腳註翻譯",
+        "translation_comments": [
+            {
+                "comment": "Good translation, accurately conveys the meaning of the original Japanese text. The language is natural and easy to understand.",
+                "id": "Translation 1"
+            },
+            {
+                "comment": "Very similar to Translation 1, with minor differences in wording. Also a good and accurate translation.",
+                "id": "Translation 2"
+            }
+        ],
+        "translation_scores": [
+            {
+                "id": "Translation 1",
+                "score_accuracy": 5,
+                "score_easy_understanding": 5,
+                "weighted_score": 5.0
+            },
+            {
+                "id": "Translation 2",
+                "score_accuracy": 5,
+                "score_easy_understanding": 5,
+                "weighted_score": 5.0
+            }
+        ],
+        "updated_translation": "（1）kinatantuka......蒲草束。蒲草會被編織成類似蓆子的墊子，但如果直接編織乾燥的蒲草是不行的，所以要稍微弄濕後再使用。故事裡提到的也是這樣，所以女人才會把它帶到河邊吧。\n（2）i-okapushpa。人們非常忌諱說出已故父母或親戚的名字，或是在平時談論他們的事情，這被稱作i-okapushpa。此外，挖出別人隱藏的事情，告訴大家，或是說出那個人難以啟齒的、在人前的行為等等，也被稱作i-okapushpa。\n（3）nimakitara......露出獠牙。這裡指的是狗。山裡的野獸們，人們去狩獵時會帶著狗，因為被露出牙齒的狗攻擊是最可怕的，所以用這樣的名字來稱呼狗，表示害怕。",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "You are translating the following text from source language Japanese into target language Chinese. \nThe original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nYou have 2 versions of Chinese translations at hand.\nFor the original text which are not in Japanese, keep the original form. \n\nHere are your tasks:\n\n1. Compare the two Chinese translations with the source Japanese text. List out the Pros and Cons of the Translations.\n2. For each of translation from Japanese to Chinese, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].\nWhere one star means \"Nonsense/No meaning preserved\",\ntwo stars mean \"Some meaning preserved, but not understandable\",\nthree stars mean \"Some meaning preserved and understandable\",\nfour stars mean \"Most meaning preserved with possibly few grammar mistakes\",\nand five stars mean \"Perfect meaning and grammar\".\n\n3. For each of translation from Japanese to Chinese, score the translation on the easiness to understanding with one to five stars [1,2,3,4,5].\nWhere one star means \"The text is completely not understandable.\",\ntwo stars mean \"Most part of text is not understandable.\",\nthree stars mean \"While the text is understandable, the word usage and grammar are difficult.\",\nfour stars mean \"Most part of text can be understood easily.\",\nand five stars mean \"All the text can be understood easily.\".\n\n4. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (60%). Easiness to understanding is the second (40%).\n5. Based on the better translation, translate the Japanese text into Chinese again, incorporating the Pros of the two translations.\n\nKeep the original meaning accurately. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nIf a term cannot be translated, keep the original language.\nFor the original text which are not in Japanese, keep the original form. \n\nThis is the Japanese text.\n(1) kinatantuka......蒲の束.蒲は編んで筵の様な敷物にするのですが,よく乾いているのをそのまま編むといけませんから,少し湿してからつかいます.この話にあるのも,そのために女が川へ持って行くのでしょう.\n(2) i-okapushpa.人は死んでしまった親や親類などの名を言ったり,その事をふだん話したりする事を i-okapushpa と言って大へん嫌います.また,人のかくしていた事をそばからほじり出して,みんなに言ったり,その人の聞きにくい様なその人の前の行為などを口に出したりする事をも i-okapushpa と言います.\n(3) nimakitara......牙の剥き出している.これは犬の事.山のけものたちは,人が猟に行くと犬を連れて行きますが,その犬に歯をむき出してかかられるのが一ばん恐いので,犬にこんな名をつけて恐がっています.\n\nThis is the Chinese Translation 1.\n(1) kinatantuka......蒲草束。蒲草會被編織成類似蓆子的墊子，但如果直接編織乾燥的蒲草是不行的，所以要稍微弄濕後再使用。故事裡提到的也是這樣，所以女人才會把它帶到河邊吧。\n(2) i-okapushpa. 人們非常忌諱說出已故父母或親戚的名字，或是在平時談論他們的事情，這被稱作 i-okapushpa。此外，挖出別人隱藏的事情，告訴大家，或是說出那個人難以啟齒的、在人前的行為等等，也被稱作 i-okapushpa。\n(3) nimakitara......露出獠牙。這裡指的是狗。山裡的野獸們，人們去狩獵時會帶著狗，因為被露出牙齒的狗攻擊是最可怕的，所以用這樣的名字來稱呼狗，表示害怕。\n\nThis is the Chinese Translation 2.\n（1）kinatantuka......香蒲草束。香蒲草被編織成墊子，但如果它們完全乾燥時編織，就行不通，所以你在使用它們之前稍微潤濕它們。在這個故事中，這位女子可能正把它們帶到河邊以達到這個目的。\n（2）i-okapushpa。人們非常不喜歡說已故父母或親戚的名字，或在日常談話中談論他們，這被稱為i-okapushpa。此外，挖出人們隱藏的東西並告訴大家，或提起那個人的過去的、他們難以聽到的行為，也被稱為i-okapushpa。\n（3）nimakitara......裸露的獠牙。 這裡指的是狗。 當人們去山裡打獵時，他們會帶上狗，他們最害怕被一隻露出牙齒的狗攻擊，所以他們因為害怕而給狗起了這個名字。\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "$defs": {
+                "Comment": {
+                    "properties": {
+                        "id": {
+                            "description": "For example: Translation 1 or Translation 2",
+                            "title": "Id",
+                            "type": "string"
+                        },
+                        "comment": {
+                            "description": "comment of the translation",
+                            "title": "Comment",
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "id",
+                        "comment"
+                    ],
+                    "title": "Comment",
+                    "type": "object"
+                },
+                "Score": {
+                    "properties": {
+                        "id": {
+                            "description": "For example: Translation 1 or Translation 2",
+                            "title": "Id",
+                            "type": "string"
+                        },
+                        "score_accuracy": {
+                            "description": "Accuracy score of the translation",
+                            "title": "Score Accuracy",
+                            "type": "integer"
+                        },
+                        "score_easy_understanding": {
+                            "description": "easiness to understanding score of the translation",
+                            "title": "Score Easy Understanding",
+                            "type": "integer"
+                        },
+                        "weighted_score": {
+                            "description": "weighted score of the translation",
+                            "title": "Weighted Score",
+                            "type": "number"
+                        }
+                    },
+                    "required": [
+                        "id",
+                        "score_accuracy",
+                        "score_easy_understanding",
+                        "weighted_score"
+                    ],
+                    "title": "Score",
+                    "type": "object"
+                }
+            },
+            "description": "The updated translation, and the comments for the update",
+            "properties": {
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "translation_comments": {
+                    "description": "Comments of all translations",
+                    "items": {
+                        "$ref": "#/$defs/Comment"
+                    },
+                    "title": "Translation Comments",
+                    "type": "array"
+                },
+                "translation_scores": {
+                    "description": "Scores of all translations",
+                    "items": {
+                        "$ref": "#/$defs/Score"
+                    },
+                    "title": "Translation Scores",
+                    "type": "array"
+                },
+                "better_translation": {
+                    "description": "For example: Translation 1 or Translation 2",
+                    "title": "Better Translation",
+                    "type": "string"
+                },
+                "better_translation_comment": {
+                    "description": "Explanation of better translation choice.",
+                    "title": "Better Translation Comment",
+                    "type": "string"
+                },
+                "updated_translation": {
+                    "description": "Updated Translation",
+                    "title": "Updated Translation",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "title",
+                "translation_comments",
+                "translation_scores",
+                "better_translation",
+                "better_translation_comment",
+                "updated_translation"
+            ],
+            "title": "Reflection",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class '__main__.Reflection'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    },
+    "updated_translation_en": {
+        "better_translation": "Translation 1",
+        "better_translation_comment": "Translation 1 is slightly better because it uses more natural English phrasing and avoids some of the slightly awkward constructions found in Translation 2. While both are generally accurate, Translation 1's clarity gives it a slight edge.",
+        "title": "Ainu Chant Footnotes Translation",
+        "translation_comments": [
+            {
+                "comment": "Translation 1 is generally accurate and reads well. The explanations are clear and easy to understand.",
+                "id": "Translation 1"
+            },
+            {
+                "comment": "Translation 2 is also accurate, but some of the phrasing is a bit less natural and slightly more awkward compared to Translation 1.",
+                "id": "Translation 2"
+            }
+        ],
+        "translation_scores": [
+            {
+                "id": "Translation 1",
+                "score_accuracy": 5,
+                "score_easy_understanding": 4,
+                "weighted_score": 4.6
+            },
+            {
+                "id": "Translation 2",
+                "score_accuracy": 4,
+                "score_easy_understanding": 4,
+                "weighted_score": 4.0
+            }
+        ],
+        "updated_translation": "(1) kinatantuka......A bundle of cattails. Cattails are woven into mats or mat-like pads. To weave them, they must be moistened a little before using them. In this story, the woman is probably taking them to the river for that purpose.\n(2) i-okapushpa. People greatly dislike saying the names of deceased parents or relatives, or talking about them in everyday conversation; this is called i-okapushpa. Also, digging up things that people have hidden and telling everyone, or bringing up past actions of that person that are difficult for them to hear, is also called i-okapushpa.\n(3) nimakitara......Bare fangs. This refers to a dog. When people go hunting in the mountains, they take dogs with them, and they are most afraid of being attacked by a dog with its teeth bared, so they give the dog this name out of fear.",
+        "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
+        "input_prompt": "You are translating the following text from source language Japanese into target language English. \nThe original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nYou have 2 versions of English translations at hand.\n\nHere are your tasks:\n\n1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.\n2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].\nWhere one star means \"Nonsense/No meaning preserved\",\ntwo stars mean \"Some meaning preserved, but not understandable\",\nthree stars mean \"Some meaning preserved and understandable\",\nfour stars mean \"Most meaning preserved with possibly few grammar mistakes\",\nand five stars mean \"Perfect meaning and grammar\".\n\n3. For each of translation from Japanese to English, score the translation on the easiness to understanding with one to five stars [1,2,3,4,5].\nWhere one star means \"The text is completely not understandable.\",\ntwo stars mean \"Most part of text is not understandable.\",\nthree stars mean \"While the text is understandable, the word usage and grammar are difficult.\",\nfour stars mean \"Most part of text can be understood easily.\",\nand five stars mean \"All part of text can be understood easily.\".\n\n4. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (60%). Easiness to understanding is the second (40%).\n5. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.\n\nKeep the original meaning accurately. \nIf a term cannot be translated, keep the original language.\nFor the original text which are not in Japanese, keep the original form. \n\nThis is the Japanese text.\n(1) kinatantuka......蒲の束.蒲は編んで筵の様な敷物にするのですが,よく乾いているのをそのまま編むといけませんから,少し湿してからつかいます.この話にあるのも,そのために女が川へ持って行くのでしょう.\n(2) i-okapushpa.人は死んでしまった親や親類などの名を言ったり,その事をふだん話したりする事を i-okapushpa と言って大へん嫌います.また,人のかくしていた事をそばからほじり出して,みんなに言ったり,その人の聞きにくい様なその人の前の行為などを口に出したりする事をも i-okapushpa と言います.\n(3) nimakitara......牙の剥き出している.これは犬の事.山のけものたちは,人が猟に行くと犬を連れて行きますが,その犬に歯をむき出してかかられるのが一ばん恐いので,犬にこんな名をつけて恐がっています.\n\nThis is the English Translation 1.\n(1) kinatantuka......A bundle of cattails. Cattails are woven into mats, but if you weave them when they are completely dry, it won't work, so you moisten them a little before using them. In this story, the woman is probably taking them to the river for that purpose.\n(2) i-okapushpa. People greatly dislike saying the names of deceased parents or relatives, or talking about them in everyday conversation, which is called i-okapushpa. Also, digging up things that people have hidden and telling everyone, or bringing up past actions of that person that are difficult for them to hear, is also called i-okapushpa.\n(3) nimakitara......Bare fangs. This refers to a dog. When people go hunting in the mountains, they take dogs with them, and they are most afraid of being attacked by a dog with its teeth bared, so they give the dog this name out of fear.\n\nThis is the English Translation 2.\n(1) kinatantuka......Cattail bundle. Cattails are woven into mat-like pads, but dry cattails cannot be woven directly, so they must be slightly moistened before use. This is also mentioned in the story, which is why the woman brought it to the riverside.\n(2) i-okapushpa. People are very taboo about saying the names of deceased parents or relatives, or talking about them in ordinary times, which is called i-okapushpa. In addition, digging up other people's hidden things and telling everyone, or telling that person's embarrassing behavior in front of others, etc., is also called i-okapushpa.\n(3) nimakitara......Baring fangs. This refers to dogs. When people go hunting for wild animals in the mountains, they bring dogs. Because being attacked by a dog with bared teeth is the most terrifying thing, they call dogs by this name to express fear.\n",
+        "input_model": "gemini-2.0-flash-001",
+        "input_schema": {
+            "$defs": {
+                "Comment": {
+                    "properties": {
+                        "id": {
+                            "description": "For example: Translation 1 or Translation 2",
+                            "title": "Id",
+                            "type": "string"
+                        },
+                        "comment": {
+                            "description": "comment of the translation",
+                            "title": "Comment",
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "id",
+                        "comment"
+                    ],
+                    "title": "Comment",
+                    "type": "object"
+                },
+                "Score": {
+                    "properties": {
+                        "id": {
+                            "description": "For example: Translation 1 or Translation 2",
+                            "title": "Id",
+                            "type": "string"
+                        },
+                        "score_accuracy": {
+                            "description": "Accuracy score of the translation",
+                            "title": "Score Accuracy",
+                            "type": "integer"
+                        },
+                        "score_easy_understanding": {
+                            "description": "easiness to understanding score of the translation",
+                            "title": "Score Easy Understanding",
+                            "type": "integer"
+                        },
+                        "weighted_score": {
+                            "description": "weighted score of the translation",
+                            "title": "Weighted Score",
+                            "type": "number"
+                        }
+                    },
+                    "required": [
+                        "id",
+                        "score_accuracy",
+                        "score_easy_understanding",
+                        "weighted_score"
+                    ],
+                    "title": "Score",
+                    "type": "object"
+                }
+            },
+            "description": "The updated translation, and the comments for the update",
+            "properties": {
+                "title": {
+                    "description": "The translated title",
+                    "title": "Title",
+                    "type": "string"
+                },
+                "translation_comments": {
+                    "description": "Comments of all translations",
+                    "items": {
+                        "$ref": "#/$defs/Comment"
+                    },
+                    "title": "Translation Comments",
+                    "type": "array"
+                },
+                "translation_scores": {
+                    "description": "Scores of all translations",
+                    "items": {
+                        "$ref": "#/$defs/Score"
+                    },
+                    "title": "Translation Scores",
+                    "type": "array"
+                },
+                "better_translation": {
+                    "description": "For example: Translation 1 or Translation 2",
+                    "title": "Better Translation",
+                    "type": "string"
+                },
+                "better_translation_comment": {
+                    "description": "Explanation of better translation choice.",
+                    "title": "Better Translation Comment",
+                    "type": "string"
+                },
+                "updated_translation": {
+                    "description": "Updated Translation",
+                    "title": "Updated Translation",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "title",
+                "translation_comments",
+                "translation_scores",
+                "better_translation",
+                "better_translation_comment",
+                "updated_translation"
+            ],
+            "title": "Reflection",
+            "type": "object"
+        },
+        "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class '__main__.Reflection'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
+    }
+}

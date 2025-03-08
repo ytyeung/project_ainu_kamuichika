@@ -4,26 +4,28 @@
 
 ## Pon Horkeukamui yaieyukar, “Hotenao” 
 ## 小狼の神が自ら歌った謡「ホテナオ」
-## The Song of the Little Wolf God: Hotenao
+## The Song Sung by the Little Wolf God Himself: "Hotenao"
 
 ### System prompt
 ```
 You are a professional translator. 
-You know Japanese, Chinese and English. 
+You only know Japanese, Chinese and English. 
 You can translate Japanese into either Chinese or English. 
 You can also translate Chinese into English, and English into Chinese.
+All the translations should keep the original meaning.
+All the translations only contain characters of the source and target languages.
 
 
 ```
 
 ### Prompt
 ```
-You are translating the following Japanese text into English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
+You are translating the following text from source language Japanese into target language English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
 You have 2 versions of English translations at hand.
 
 Here are your tasks:
 
-1. Compare the two English translations with the original Japanese text. List out the Pros and Cons of the Translations.
+1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.
 2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].
 Where one star means "Nonsense/No meaning preserved",
 two stars mean "Some meaning preserved, but not understandable",
@@ -48,7 +50,7 @@ and five stars mean "All part of the text is a poet and rhythmic. It is a chant.
 5. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (50%). Easiness to understanding is the second (30%). Poetic flow is the third (20%).
 6. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.
 
-Keep the original meaning accurately.
+Keep the original meaning accurately. 
 If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
@@ -125,205 +127,206 @@ This is the Japanese text.
 と,幼い狼の神様が物語りました.
 
 This is the English Translation 1.
-Hotenao.
-One day, feeling bored, I went down to the beach to play.
-A little man came along.
-When I went downstream, he also went downstream.
+Hotenao
+One day, feeling bored, I went down to the beach,
+As I was playing, a little man appeared.
+When I went downstream,
+He also went downstream.
 When I went upstream, he also went upstream, blocking my path.
-This happened six times downstream and six times upstream.
-The little man, his temper flaring, showed it on his face and said,
+This happened six times downstream,
+And six times upstream, until the little man,
+His inherent temper flaring up, said with a scowl:
 "Pii-pii!
-You little brat, you bad little brat! If you're going to act like that,
-tell me the old name and the current name of this cape!"
-I listened and, laughing, said,
-"Who doesn't know the old name and the current name of this cape?
-In the old days, because there were revered and great gods and people,
-this cape was called God's Cape.
-But now, because the times have declined,
-it is called Nusa Cape!"
-Upon hearing this, the little man said,
+You little brat, you wicked little brat! If you're going to act like that,
+Tell me the old name and the current name
+Of this cape, if you can!"
+I listened and, laughing, replied:
+"Who doesn't know the old name and the current name
+Of this cape!
+In the old days, when there were noble and great gods and humans,
+This cape was called the Cape of the Gods,
+But now that the times have declined,
+It is called the Cape of Gohei!"
+Upon hearing this, the little man said:
 "Pii-ton, pii-ton!
 You little brat, if you really know so much,
-tell me the old name and the current name of this river!"
-Listening to him, I said,
-"Who doesn't know the old name and the current name of this river?
-In the old, great times, this river was called
-The River with the Swift Current,
-but now that the world has declined, it is called
-The River with the Slow Current."
-Upon hearing this, the little man said,
+Tell me the old name and the current name
+Of this river."
+Listening to him, I said:
+"Who doesn't know the old name
+And the current name of this river!
+In the old days, in the era of greatness, this river
+Was called the River of Swift Currents,
+But now that the world is declining, it is called the River of Slow Currents."
+Upon hearing this, the little man said:
 "Pii-ton-ton, pii-ton-ton!
-If you really know so much, let's test each other's origins."
-Listening to him, I said,
-"Who doesn't know your origin?
+If you really know so much,
+Let us test each other's origins."
+Listening to him, I said:
+"Who doesn't know your origin!
 Long ago, when Okikirmui went to the mountains
-and built a hunting lodge, he made a *hasibami* (hazel) wood *robuchi* (fire surround).
-When the *robuchi* was exposed to the fire, it dried out completely.
-When Okikirmui stepped on one side, the other side would rise up.
-Okikirmui, angered by this,
-took the *robuchi* down to the river
-and threw it away.
-Then, the *robuchi* floated along the current
-out to the sea, and the gods watched
-as it was tossed about by the waves far and near.
-The gods thought,
-'It is a waste that something made by the revered and great Okikirmui
-is drifting aimlessly and rotting with the seawater, serving no purpose.'
-So the gods transformed
-the *robuchi* into a fish,
-and it was named *Robuchi* Fish.
-However, the *Robuchi* Fish, not knowing its own origin,
-disguises itself as a person and wanders about.
-That *Robuchi* Fish is you!"
-The little man listened, his face changing color.
+And built a hunting lodge, he made a hearth frame of hazel wood.
+When that hearth frame was exposed to the fire, it became brittle and dry.
+When Okikirmui stepped on one side, the other side
+Rose up, and Okikirmui, angered by this,
+Took the hearth frame down to the river
+And threw it away.
+Then that hearth frame floated along the current
+Out to the sea, and the gods, watching
+It being tossed by the waves from afar and the waves from here,
+Thought, 'It is a waste that something made by the hands
+Of the revered and great Okikirmui should be
+Wandering aimlessly and rotting away with the seawater, serving no purpose.' So the gods
+Turned that hearth frame into a fish,
+And it was named the Hearth Frame Fish.
+However, that Hearth Frame Fish, not knowing its own origin,
+Disguises itself as a person and wanders about.
+That Hearth Frame Fish is you."
+Upon hearing this, the little man's face
+Changed color repeatedly,
 "Pii-ton-ton, pii-ton-ton!
-You are a small wolf child!"
+You are a small, young wolf
+God."
 As soon as he finished speaking, he splashed into the sea.
-Looking after him, I saw a single red fish
-moving its tail fins and going far out to sea.
+As I watched him go, a single red fish
+Moved its tail fins and went far out to sea.
 So, the young wolf god told his story.
 
 This is the English Translation 2.
-One day, overcome by boredom, I wandered to the sea.
-As I played, a little dwarf appeared before me.
-I went down the river, and he followed me downstream;
-I went up the river, and he followed me upstream, blocking my path.
-
-After going back and forth six times downstream, and six times upstream,
-the little dwarf, unable to contain himself any longer, said with a face full of anger:
-"Pii pii!
-You little brat, you are truly a bad kid!
-If you really have the ability, then speak the ancient and current names of this cape!"
-
-I listened and replied with a smile:
-"Who wouldn't know the ancient and current names of this cape?
+One day, seized by utter boredom, I wandered to the seaside.
+As I played there, a little dwarf appeared.
+I went down the river,
+He followed, going down the river too.
+I went up the river, and he also went up, blocking my way.
+Six times down the river,
+Six times up the river, the little dwarf,
+At last, unable to contain himself, said with a face full of anger:
+"Piyi Piyi,
+You little imp, you are a bad kid. If you dare to do this,
+Tell me, what were the old and current names of this cape!"
+Hearing this, I laughed and replied:
+"Who wouldn't know the old and current names of this cape!
 In the past, because noble and great gods and humans lived here,
-this cape was called the Cape of the Gods.
-Now, as the times decline, it is called the Cape of Sacred Wands!"
-
-The little dwarf listened and said:
-"Pii ton, pii ton!
-You little brat, if you really have the ability,
-speak the old and current names of this river!"
-
-I listened and said:
-"Who wouldn't know the old and current names of this river?
-In that great era of the past, this river was called the River of Swift Currents.
-Now, as the world declines, it is called the River of Slow Currents!"
-
-The little dwarf listened and shouted:
-"Pii ton ton, pii ton ton!
-If you really have the ability, why don't we reveal each other's secrets!"
-
-I listened and replied:
-"Who wouldn't know your secrets?
-Long ago, Okikirmui went to the mountains,
-and when building a hunting lodge, he made a hearth frame from hazel wood.
-That hearth frame was baked by the fire until it was dry and brittle.
-When Okikirmui stepped on one end of the hearth frame, the other end lifted up.
-In anger, Okikirmui threw that hearth frame into the river.
-
-From then on, that hearth frame drifted down the river, eventually flowing into the sea.
-The gods saw it being struck by the distant waves and the nearby waves,
-and thought it a pity that something made by the beloved Okikirmui himself
-should end up in such a state, drifting uselessly and eventually decaying with the seawater.
-So, the gods transformed that hearth frame into a fish,
-and called it the Hearth Frame Fish.
-
-However, that Hearth Frame Fish did not know its own origins,
-so it transformed into a human and wandered around.
-You, are that Hearth Frame Fish!"
-
-The little dwarf listened, his face changing colors repeatedly,
-"Pii ton ton, pii ton ton!
-You, are just a small, wolf's child!"
-
-Before his voice faded, he immediately jumped into the sea with a "splash".
-I watched him go, and saw a red fish,
-swimming straight into the distance, wagging its tail fin.
-
--- Thus spoke the young wolf god.
+This cape was called the Cape of Gods.
+But now that times have declined,
+It is called the Cape of Gohei!"
+After hearing me, the little dwarf said:
+"Piyiton, Piyiton,
+You little imp, if you are so great,
+Tell me, what were the old and current names of this river?"
+Hearing this, I replied:
+"Who wouldn't know the old and current names of this river!
+In the past, in that great era, this river was called
+The River of Rushing Water,
+But now that the world has decayed, it is called the River of Slow Water."
+After hearing me, the little dwarf said:
+"Piyiton ton, Piyiton ton,
+If you are so great,
+Why don't we reveal each other's secrets?"
+Hearing this, I replied:
+"Who wouldn't know your secrets!
+Long ago, when Okikirmui went to the mountains
+To build a hunting lodge, he made a hearth frame from hazel wood.
+The hearth frame was dried by the fire.
+When Okikirmui stepped on one end of the hearth frame, the other end would
+Lift up, and Okikirmui was annoyed by this,
+So he took the hearth frame to the riverbank
+And discarded it.
+After that, the hearth frame drifted along the river,
+Flowing into the sea. The gods saw it being battered by the distant waves and the nearby waves,
+They thought it was a pity that something made by the beloved and great Okikirmui himself was
+Drifting so uselessly, eventually rotting with the seawater, so the gods
+Turned the hearth frame into a fish,
+And named it Hearth Frame Fish.
+However, that Hearth Frame Fish, not knowing its origins,
+Transformed into a human form and wandered around.
+That Hearth Frame Fish is you."
+After hearing me, the little dwarf's face
+Changed several times,
+"Piyiton ton, Piyiton ton!
+You, are just a little, wolf cub."
+As soon as he finished speaking, he plunged into the sea with a splash.
+I watched him go, and saw a red fish
+Waving its tail fins, swimming far away.
+This is the story told by the young wolf god.
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand | Poetic Flow | Total Score |
 | ------------- | -------- | ------------------ | ------------ | ------------ |
-| Translation 1 | 4 | 5 | 3 | 4.0 |
-| Translation 2 | 4 | 4 | 4 | 4.1 |
+| Translation 1 | 4 | 4 | 3 | 3.9 |
+| Translation 2 | 4 | 4 | 4 | 4.0 |
 
 ### Comments
 #### Translation 1
-This translation is straightforward and easy to understand. It accurately conveys the plot and dialogue. However, it could benefit from more evocative language to capture the tone of a traditional Ainu chant.
+This translation is accurate and easy to understand. However, some of the phrasing is a bit literal and lacks the poetic quality that might be present in the original Ainu chant. The use of 'inherent temper flaring up' is a bit clunky.
 
 #### Translation 2
-This translation uses slightly more descriptive language and maintains a consistent tone. The phrases like 'wandered to the sea' and 'unable to contain himself any longer' add more color. The use of 'dwarf' instead of 'little man' is a stylistic choice that adds to the story-telling feel.
+This translation feels slightly more natural and captures the tone of a traditional story. The phrasing is generally smoother, and the word choices are more evocative. For example, 'seized by utter boredom' and 'unable to contain himself' are more vivid than the corresponding phrases in Translation 1.
 
 ### Better Choice
 Translation 2
 #### Comment
-Translation 2 is slightly better because it uses more vivid language and maintains a more consistent tone, which is important for conveying the story-telling aspect of the chant. For example, phrases like 'wandered to the sea' and 'unable to contain himself any longer' add more color than the plainer language in Translation 1. However, both translations are quite good and capture the essence of the original Japanese text.
+Translation 2 captures the tone and rhythm of the original Japanese text slightly better, particularly in the dialogue. The word choices in Translation 2 also feel more evocative of a traditional Ainu narrative. While both translations are good, Translation 2 edges out Translation 1 in terms of overall flow and capturing the spirit of the original.
 
 ### Updated Output
 ```
-One day, overcome by boredom, I wandered to the sea.
-As I played, a little dwarf appeared before me.
-I went down the river, and he followed me downstream;
-I went up the river, and he followed me upstream, blocking my path.
-
-After going back and forth six times downstream, and six times upstream,
-the little dwarf, unable to contain himself any longer, said with a face full of anger:
-"Pii pii!
-You little brat, you are truly a bad kid!
-If you really have the ability, then speak the ancient and current names of this cape!"
-
-I listened and replied with a smile:
-"Who wouldn't know the ancient and current names of this cape?
+One day, seized by utter boredom, I wandered to the seaside.
+As I played there, a little dwarf appeared.
+I went down the river,
+He followed, going down the river too.
+I went up the river, and he also went up, blocking my way.
+Six times down the river,
+Six times up the river, the little dwarf,
+At last, unable to contain himself, said with a face full of anger:
+"Piyi Piyi,
+You little imp, you are a bad kid. If you dare to do this,
+Tell me, what were the old and current names of this cape!"
+Hearing this, I laughed and replied:
+"Who wouldn't know the old and current names of this cape!
 In the past, because noble and great gods and humans lived here,
-this cape was called the Cape of the Gods.
-Now, as the times decline, it is called the Nusa Cape!"
-
-The little dwarf listened and said:
-"Pii ton, pii ton!
-You little brat, if you really have the ability,
-speak the old and current names of this river!"
-
-I listened and said:
-"Who wouldn't know the old and current names of this river?
-In that great era of the past, this river was called the River of Swift Currents.
-Now, as the world declines, it is called the River of Slow Currents!"
-
-The little dwarf listened and shouted:
-"Pii ton ton, pii ton ton!
-If you really have the ability, why don't we reveal each other's secrets!"
-
-I listened and replied:
-"Who wouldn't know your secrets?
-Long ago, Okikirmui went to the mountains,
-and when building a hunting lodge, he made a *hasibami* wood *robuchi* (hearth frame) .
-That *robuchi* was baked by the fire until it was dry and brittle.
-When Okikirmui stepped on one end of the *robuchi*, the other end lifted up.
-In anger, Okikirmui threw that *robuchi* into the river.
-
-From then on, that *robuchi* drifted down the river, eventually flowing into the sea.
-The gods saw it being struck by the distant waves and the nearby waves,
-and thought it a pity that something made by the beloved Okikirmui himself
-should end up in such a state, drifting uselessly and eventually decaying with the seawater.
-So, the gods transformed that *robuchi* into a fish,
-and called it the *Robuchi* Fish.
-
-However, that *Robuchi* Fish did not know its own origins,
-so it transformed into a human and wandered around.
-You, are that *Robuchi* Fish!"
-
-The little dwarf listened, his face changing colors repeatedly,
-"Pii ton ton, pii ton ton!
-You, are just a small, wolf's child!"
-
-Before his voice faded, he immediately jumped into the sea with a "splash".
-I watched him go, and saw a red fish,
-swimming straight into the distance, wagging its tail fin.
-
--- Thus spoke the young wolf god.
+This cape was called the Cape of Gods.
+But now that times have declined,
+It is called the Cape of Gohei!"
+After hearing me, the little dwarf said:
+"Piyiton, Piyiton,
+You little imp, if you are so great,
+Tell me, what were the old and current names of this river?"
+Hearing this, I replied:
+"Who wouldn't know the old and current names of this river!
+In the past, in that great era, this river was called
+The River of Rushing Water,
+But now that the world has decayed, it is called the River of Slow Water."
+After hearing me, the little dwarf said:
+"Piyiton ton, Piyiton ton,
+If you are so great,
+Why don't we reveal each other's secrets?"
+Hearing this, I replied:
+"Who wouldn't know your secrets!
+Long ago, when Okikirmui went to the mountains
+To build a hunting lodge, he made a hearth frame from hazel wood.
+The hearth frame was dried by the fire.
+When Okikirmui stepped on one end of the hearth frame, the other end would
+Lift up, and Okikirmui was annoyed by this,
+So he took the hearth frame to the riverbank
+And discarded it.
+After that, the hearth frame drifted along the river,
+Flowing into the sea. The gods saw it being battered by the distant waves and the nearby waves,
+They thought it was a pity that something made by the beloved and great Okikirmui himself was
+Drifting so uselessly, eventually rotting with the seawater, so the gods
+Turned that hearth frame into a fish,
+And named it Hearth Frame Fish.
+However, that Hearth Frame Fish, not knowing its origins,
+Transformed into a human form and wandered around.
+That Hearth Frame Fish is you."
+After hearing me, the little dwarf's face
+Changed several times,
+"Piyiton ton, Piyiton ton!
+You, are just a little, wolf cub."
+As soon as he finished speaking, he plunged into the sea with a splash.
+I watched him go, and saw a red fish
+Waving its tail fins, swimming far away.
+This is the story told by the young wolf god.
 ```
 

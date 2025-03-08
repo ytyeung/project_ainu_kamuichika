@@ -4,26 +4,28 @@
 
 ## Chironnup yaieyukar, “Haikunterke Haikoshitemturi” 
 ## 狐が自ら歌った謡「ハイクンテレケ ハイコシテムトリ」
-## The Fox's Song
+## The Fox's Own Song
 
 ### System prompt
 ```
 You are a professional translator. 
-You know Japanese, Chinese and English. 
+You only know Japanese, Chinese and English. 
 You can translate Japanese into either Chinese or English. 
 You can also translate Chinese into English, and English into Chinese.
+All the translations should keep the original meaning.
+All the translations only contain characters of the source and target languages.
 
 
 ```
 
 ### Prompt
 ```
-You are translating the following Japanese text into English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
+You are translating the following text from source language Japanese into target language English. The original text is a Japanese translation of a Ainu chant, sung by Ainu god telling his story. 
 You have 2 versions of English translations at hand.
 
 Here are your tasks:
 
-1. Compare the two English translations with the original Japanese text. List out the Pros and Cons of the Translations.
+1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.
 2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].
 Where one star means "Nonsense/No meaning preserved",
 two stars mean "Some meaning preserved, but not understandable",
@@ -48,7 +50,7 @@ and five stars mean "All part of the text is a poet and rhythmic. It is a chant.
 5. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (50%). Easiness to understanding is the second (30%). Poetic flow is the third (20%).
 6. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.
 
-Keep the original meaning accurately.
+Keep the original meaning accurately. 
 If a term cannot be translated, keep the original language.
 
 This is the Japanese text.
@@ -179,246 +181,242 @@ This is the Japanese text.
 と狐の神様が物語りました.
 
 This is the English Translation 1.
-“Haikun Tekere Haikoshitemutori”
+The Fox's Own Song:
+"Haikunteleke Haikoshitemutori"
 
-Haikun Tekere Haikoshitemutori,
+Haikunteleke Haikoshitemutori
 Upon the cape of the land, the cape of the gods,
 I sat in my place.
 One day, I ventured out to look,
 The sea was calm and vast, and upon it,
-Okikirmui, Shupunramka, and Samayunkur
+Okikirmui, Shupunkamui, and Samayunkur
 Set out on a sea hunt, three in a boat. Seeing this,
 The wicked thoughts within me stirred.
 This cape, the cape of the land, the cape of the gods,
-Up and down, with light steps,
-I ran, my waist swaying gently.
-With a heavy tone, like snapping wood,
-I cried, “Pau, Pau!”
-Glaring at the source of this river, I summoned
-The demon of the storm. In response, from the river's
-Source, a fierce wind, a whirlwind,
-Erupted and rushed into the sea, and at once,
-The upper sea became the lower, and
-The lower sea the upper. Okikirmui and his companions’
-Fishing boat, at the meeting place of the sea of men offshore and the sea of men on land (mid-sea),
-Met with a sudden change, spinning
-Amidst the waves. A great wave, like a mountain,
+Up and down, I ran with light steps and a supple waist.
+With heavy rhythm, as if snapping wood, I cried, "Pau, pau!"
+And glared at the source of the river, summoning the demon of storms.
+Then, from the river's source,
+A fierce wind, a whirlwind,
+Burst forth and rushed into the sea, and at once
+The upper sea became the lower, and the lower the upper.
+Okikirmui's fishing boat,
+Met with a sudden change where the sea of offshore people and the sea of land people met (mid-sea),
+And spun around in the waves.
+A great wave, like a mountain,
 Crashed over the boat. Then,
-Okikirmui, Samayunkur, and Shupunramka,
+Okikirmui, Samayunkur, Shupunkamui
 Raised their voices and rowed the boat.
 This small boat was blown like a falling leaf,
-On the verge of capsizing, yet
+And though it seemed about to capsize,
 Admirably, the humans were strong,
 And the small boat glided through the wind,
-Over the waves. Seeing this,
-The wicked thoughts within me stirred.
-With light steps, I ran, my waist swaying gently,
-With a heavy tone, like snapping wood, I cried, “Pau, Pau!”
-Devoting myself to cheering on the demon of the storm.
-As I did so, at last, Samayunkur’s
-Hands bled from above and below,
-And he collapsed, exhausted.
+Over the waves.
+Seeing this, the wicked thoughts within me stirred.
+With light steps and a supple waist, I ran about,
+With heavy rhythm, as if snapping wood, I cried, "Pau, pau!"
+And devoted myself to cheering on the demon of storms.
+As I did so, at last, Samayunkur
+Bled from his hands, from above and below,
+And collapsed in exhaustion.
 Seeing this, I secretly smiled.
 Then again, I exerted myself,
-With light steps, I ran, my waist swaying gently,
-With a heavy tone, like snapping wood, I cried,
-Cheering on the demon of the storm.
-Okikirmui and Shupunramka, the two of them,
-Encouraging each other, bravely rowed the boat,
-But then, at one moment, Shupunramka’s
-Hands bled from above and below,
-And he collapsed, exhausted. Seeing this,
+With light steps and a supple waist, I ran about,
+With heavy rhythm, as if snapping wood, I cried,
+Cheering on the demon of storms.
+Okikirmui and Shupunkamui, the two of them,
+Encouraged each other and bravely rowed the boat,
+But then, at one moment, Shupunkamui
+Bled from his hands, from above and below,
+And collapsed in exhaustion. Seeing this,
 I secretly smiled.
-Then again, with light steps, my waist swaying gently,
-I leaped about, with a heavy tone, like snapping
-Hard wood, I cried, exerting myself.
-Yet, Okikirmui showed no sign of fatigue.
+Then again, with light steps and a supple waist,
+I leaped about, with heavy rhythm, as if snapping hard wood,
+I cried, exerting myself.
+But Okikirmui showed no sign of fatigue.
 With a single thin garment wrapped around his body,
-He rowed the boat, until
-Under his hand, the oar he held snapped.
-Then, leaping upon the exhausted Samayunkur,
-He snatched the oar he held and rowed alone.
-Seeing this, the wicked thoughts within me stirred.
-With a heavy tone, like snapping hard wood, I cried,
-With light steps, I ran, my waist swaying gently,
-Exerting myself to cheer on the demon of the storm.
-As I did so, Samayunkur’s rudder also
-Snapped. Okikirmui leaped upon Shupunramka,
-Took his oar, and
-Bravely rowed the boat.
+He rowed the boat, until,
+In his hands, the oar he held snapped.
+Then, he leaped upon the exhausted Samayunkur
+Tore away the oar he held, and rowed the boat alone.
+When I saw this, the wicked thoughts within me stirred.
+With heavy rhythm, as if snapping hard wood, I cried,
+With light steps and a supple waist, I ran about,
+Exerting myself, cheering on the demon of storms.
+As I did so, Samayunkur's rudder also
+Snapped. Okikirmui leaped upon Shupunkamui
+Took his oar,
+And bravely rowed the boat.
 But his oar was also broken by the waves.
 Thereupon, Okikirmui stood
 In the boat, amidst the fierce wind,
 Never imagining that a human like him could find me,
-He gazed at the center of my eyes,
-Upon the cape of the land, the cape of the gods.
-His gentle face now showing anger,
+He gazed into the center of my eyes, upon
+The cape of the land, the cape of the gods.
+His face, once gentle, now showed anger,
 He fiddled with a bag,
-And from within, he took out a small mugwort bow and
-A small mugwort arrow.
+And took out from within a small mugwort bow
+And a small mugwort arrow.
 Seeing this, I secretly smiled.
-“What can a human do to frighten me?
-What use is such a mugwort arrow?”
+"What can humans do? Is there anything to fear?
+What use is such a mugwort arrow?"
 Thinking this, upon this cape,
 The cape of the land, the cape of the gods,
-Up and down, with light steps,
-I ran, my waist swaying gently, with a heavy tone,
-Like snapping hard wood, I cried, “Pau, Pau!”
-Praising the demon of the storm.
-In the midst of this, the arrow shot by Okikirmui flew,
-And pierced the back of my neck.
-From then on, I knew nothing more.
-When I came to, it was
-A very fine day, the sea was
-Vast, and there was no sign of Okikirmui’s fishing boat.
+Up and down, I ran with light steps
+And a supple waist, with heavy rhythm,
+As if snapping hard wood, I cried, "Pau, pau!"
+Praising the demon of storms.
+In the midst of this, the arrow shot by Okikirmui came flying,
+And pierced me right at the nape of my neck.
+After that, I no longer knew what happened.
+When I came to, I found
+The weather was very fine, and the sea was
+Vast, and there was no sign of Okikirmui's fishing boat.
 What had happened? From the tip of my head
-To the tip of my toes, it ached as if birch bark was burning and shrinking.
-Never imagining that a small arrow shot by a human could torment me so,
-I writhed in agony, flailing my limbs,
+To the tip of my toes, it ached as if bark was burning and shrinking.
+Never did I imagine that a small arrow shot by a human could torment me so,
+Then, writhing in agony, I struggled with my hands and feet,
 Upon this cape, the cape of the land, the cape of the gods,
-Up and down, crying out,
+Up and down, crying and screaming,
 Writhing in agony, living and
-Dying, day and night, until I knew not
+Dying, day and night, until I no longer knew
 What had become of me.
-When I came to, I was
-Between the ears of a great black fox.
-Two days later, Okikirmui arrived, looking like a god,
+When I came to, I found myself
+Between the ears of a large black fox.
+Two days later, Okikirmui came in the guise of a god,
 Smiling and saying,
-“How beautiful! The black fox god who watches over
+"How beautiful! The black fox god who watches over
 The cape of the land, the cape of the gods,
-Because he had a good heart, a god’s heart,
-Has died a beautiful death.”
+Possessed a good heart, a divine heart,
+And so died a beautiful death."
 Saying this, he took my head,
-Brought it to his house, and made my upper jawbone
-The foundation of his toilet, and my lower jaw
-The cornerstone of his wife’s toilet,
+Brought it to his house, and used my upper jawbone
+As the foundation of his toilet, and my lower jaw
+As the cornerstone of his wife's toilet,
 And my body rotted away with the earth.
-From then on, day and night,
+Then, night and day,
 Suffering from a foul stench, I died a meaningless, bad
 Death.
 Though I was not merely a god of low rank,
-Because I had a terribly wicked heart, I died a useless,
+Because I possessed a terribly wicked heart, I died a useless,
 Bad death. Therefore,
 Foxes of the future, never
-Hold wicked thoughts."
+Hold a wicked heart."
 
 So the fox god told his story.
 
 This is the English Translation 2.
-"Haikunteleke Haikoshitemtori" 
+Haikunteleke Haikoshitemturi
 
-Haikunteleke Haikoshitemtori
 I once sat upon the cape of the land, the cape of the gods.
-One day, I emerged from my cave and gazed out,
-The sea was calm, vast, and boundless.
-I saw Okikirmui, Shupunramka, and Samayunkur,
-The three of them, setting out to sea in a boat to hunt. Seeing this,
-A wicked thought arose in my heart.
-Upon this cape, the cape of the land, the cape of the gods,
-I moved nimbly back and forth, my waist supple.
-In a heavy voice, like the sound of breaking wood, I cried, "Pau, Pau!"
-I glared at the source of the river, summoning the demon of the storm.
-Then, from the river's source,
-A fierce wind howled, a tornado arose,
-Plunging straight into the sea, and in an instant,
-The sea overturned, upside down. Okikirmui and the others'
-fishing boat, at the meeting point of the near and far seas,
-Encountered a sudden change, swirling in the waves.
-Giant waves crashed down like mountains.
-Thus, Okikirmui, Samayunkur, and Shupunramka
-Shouted and rowed with all their might.
-The small boat was tossed by the wind like a fallen leaf,
-Nearly capsizing,
-Yet the resilience of humans is admirable,
-The small boat weaved through the storm.
-Seeing this, the wickedness in my heart grew stronger.
-I moved nimbly back and forth, my waist supple,
-In a heavy voice, like the sound of breaking wood, I cried, "Pau, Pau!"
-Striving to encourage the demon of the storm.
-As this continued, finally, Samayunkur's
-hands bled profusely,
-And he collapsed, exhausted.
-Seeing this tragic sight, I secretly laughed.
-Afterward, I tried even harder,
-Moving nimbly back and forth, my waist supple,
-Crying out in a heavy voice, like the sound of breaking wood,
-Encouraging the demon of the storm.
+One day, I emerged from my cave and gazed afar,
+The sea was calm, vast and boundless. Upon it,
+Okikirmui, Shupunramka, and Samayunkur
+Sailed together in a boat, hunting at sea. Witnessing this,
+Evil thoughts surged within me like the rising tide.
+This cape, the cape of the land, the cape of the gods,
+I ran back and forth with nimble steps and a supple waist,
+Heavily uttering cries of "Pau, Pau," like the sound of snapping wood,
+I glared at the river's source, summoning the magic of the storm.
+In response, from the river's source,
+A gale howled, a tornado arose, striking the sea,
+In an instant, the ocean churned, turning upside down.
+Okikirmui and his companions' fishing boat, at the meeting point of the near and far seas,
+Encountered a sudden upheaval, spinning in the waves.
+The giant waves crashed down like mountains.
+Thus,
+Okikirmui, Samayunkur, and Shupunramka
+Shouted with all their might, paddling desperately.
+The small boat, like a fallen leaf, was tossed by the gale,
+On the verge of capsizing,
+But admirable were the people, full of strength,
+The small boat sailed on the wind,
+Gliding on the waves.
+Seeing this, evil thoughts surged within me once more.
+I ran back and forth with nimble steps and a supple waist,
+Heavily uttering cries of "Pau, Pau," like the sound of snapping wood,
+I shouted with all my might, cheering on the magic of the storm.
+Amidst this turmoil, finally, Samayunkur
+His hands bleeding profusely,
+Collapsed, exhausted.
+Seeing him in this state, I chuckled to myself.
+Then, I exerted myself even more,
+Running back and forth with nimble steps and a supple waist,
+Heavily uttering cries like the sound of snapping wood,
+Cheering on the magic of the storm.
 Okikirmui and Shupunramka encouraged each other,
-Rowing bravely,
-However, at some point, Shupunramka's
-hands bled profusely,
-And he collapsed, exhausted. Seeing this,
-I secretly laughed.
-Afterward, I once again nimbly
-Leapt back and forth, crying out in a heavy voice, like the sound of breaking hard wood,
-With all my strength.
+Bravely rowing the boat,
+Suddenly, Shupunramka
+His hands bleeding profusely,
+Collapsed, exhausted. Seeing this,
+I chuckled to myself.
+Then, I ran back and forth,
+Jumping, heavily uttering cries like the sound of snapping hard wood, exerting all my strength.
 However, Okikirmui showed no signs of fatigue.
-Clad only in thin clothing,
-He rowed with all his might, and soon,
-The oar in his hands snapped.
-Then, he lunged at the exhausted and dead Samayunkur,
-Seizing his oar, and rowed alone.
-Seeing this, the wickedness in my heart surged again.
-Crying out in a heavy voice, like the sound of breaking hard wood,
-Moving nimbly back and forth, my waist supple,
-Striving to encourage the demon of the storm.
-As this continued, Samayunkur's oar also
-Snapped. Okikirmui lunged at Shupunramka,
-Seizing his oar,
-Rowing bravely.
+He wore a thin garment,
+Paddling the boat, and soon,
+The oar in his hand snapped.
+So, he lunged towards the already exhausted Samayunkur,
+Seized the oar from his hands, and alone,
+Paddled the boat.
+Seeing this, the inherent evil thoughts within me surged again.
+I heavily uttered cries like the sound of snapping hard wood,
+Running back and forth with nimble steps and a supple waist,
+Exerting all my strength, cheering on the magic of the storm.
+Amidst this turmoil, Samayunkur's rudder
+Also broke. Okikirmui lunged towards Shupunramka,
+Seized his oar,
+Bravely paddling the boat.
 However, his oar was also broken by the waves.
-Then, Okikirmui stood in the boat,
-In the midst of the storm,
-He never expected that he, a human, would discover me,
-Above the cape of the land, the cape of the gods,
-Looking directly into my eyes.
-His originally gentle face showed anger,
-And he fiddled with a pouch,
-Taking out from it a small wormwood bow and
-A small wormwood arrow.
-Seeing this, I secretly laughed.
-"What is there to fear from a mere human,
-And what use is that small wormwood arrow?"
-So I thought, upon this cape,
+So, Okikirmui stood
+In the boat, amidst the gale,
+Never did he imagine that he, a human, could discover me, above the cape of the land, the cape of the gods,
+He gazed into my eyes.
+His originally gentle face revealed an expression of anger,
+He fiddled with a pouch,
+From which he took a small bow made of mugwort and
+A small arrow made of mugwort.
+Seeing these, I chuckled to myself.
+"What can humans do? What is there to fear?
+What use is that small arrow made of mugwort?"
+Thinking this, on this cape,
 The cape of the land, the cape of the gods,
-I moved nimbly back and forth,
-My waist supple, in a heavy voice,
-Like the sound of breaking hard wood, I cried, "Pau, Pau!"
-Praising the demon of the storm.
-In the meantime, the arrow shot by Okikirmui flew,
-Striking me right in the collar.
-From then on, I knew nothing of what happened.
-Suddenly awakened,
+I ran back and forth with nimble steps and a supple waist, heavily
+Uttering cries of "Pau, Pau," like the sound of snapping hard wood,
+Praising the magic of the storm.
+Amidst this clamor, the arrow shot by Okikirmui flew,
+Striking my collar.
+From then on, I knew nothing more.
+Suddenly regaining consciousness,
 The weather was clear,
 The sea was vast, and Okikirmui's fishing boat was nowhere to be seen.
-For some reason, from the top of my head to
-My toes, it ached as if Japanese paper was burning.
-I never expected that a small arrow shot by a human would torment me so, I struggled,
-Upon this cape, the cape of the land, the cape of the gods,
-Crying out,
-Struggling, whether day or night, sometimes alive, sometimes dead,
-I don't know how long it lasted.
-Suddenly awakened,
+What had happened? From the top of my head to
+My toes, it burned like burning daphne bark.
+Never did I imagine that a small arrow shot by a human could torment me so, so I struggled with my hands and feet, in agony,
+On this cape, the cape of the land, the cape of the gods,
+I cried out,
+Struggling, in agony, day and night, sometimes alive,
+Sometimes dead, in this state, I lost consciousness.
+Suddenly regaining consciousness,
 I found myself between the ears of a giant black fox.
-Two days later, Okikirmui came like a deity,
-Smiling and saying,
-"What a beautiful sight, the black fox god who protects the cape of the land, the cape of the gods,
-Because he harbored good thoughts and possessed the heart of a god,
-He was able to die so peacefully."
+About two days later, Okikirmui, in the guise of a god,
+Came, smiling, and said,
+"How beautiful, the black fox god guarding the cape of the land, the cape of the gods,
+Because he possessed a kind heart, a god's heart,
+He died so honorably."
 Saying this, he took my head,
-Brought it home, and used my upper jawbone
-As the foundation for his toilet, and my lower jaw
+Brought it back to his home, using my upper jawbone
+As the foundation for his toilet, and my lower jawbone
 As the cornerstone for his wife's toilet,
-And my body rotted with the soil.
+My body rotted with the soil.
 From then on, day and night,
-I was tormented by the stench, I died without value, I died miserably.
-I was not a god of low status,
-But because I harbored wicked thoughts, I ended up in such a
-Worthless, miserable end,
-Therefore, future foxes, never
-Harbor wicked thoughts.
+I suffered from the stench, I died without value, I died miserably.
+I was not merely a low-ranking god,
+But because I harbored extremely evil thoughts, I met such an end.
+So, from now on, foxes, never
+Harbor evil thoughts.
 
-Thus spoke the Fox God.
+The fox god tells it this way.
 
 ```
 ### Scoring
@@ -426,144 +424,132 @@ Thus spoke the Fox God.
 |               | Accuracy | Easy to understand | Poetic Flow | Total Score |
 | ------------- | -------- | ------------------ | ------------ | ------------ |
 | Translation 1 | 4 | 4 | 3 | 3.8 |
-| Translation 2 | 3 | 4 | 4 | 3.4 |
+| Translation 2 | 4 | 4 | 4 | 4.0 |
 
 ### Comments
 #### Translation 1
-Pros: Accurate translation of the original meaning. Cons: Some phrases are slightly awkward and lack poetic flow. The repetition of 'cape of the land, cape of the gods' can feel redundant.
+Translation 1 is accurate and understandable, but some phrases feel a bit literal and lack a certain poetic quality. The rhythm is not as pronounced as it could be.
 
 #### Translation 2
-Pros: Uses more varied vocabulary and attempts to create a more dramatic tone. Cons: Occasionally sacrifices accuracy for the sake of dramatic effect. Some phrases are less literal, which can alter the original meaning slightly.
+Translation 2 has a better flow and captures the essence of the chant more effectively. The word choices are slightly more evocative, and the rhythm feels more natural.
 
 ### Better Choice
-Translation 1
+Translation 2
 #### Comment
-Translation 1 is slightly better because it maintains a more consistent tone and rhythm throughout the poem. While both translations are generally accurate, Translation 1's word choices and sentence structure create a more engaging and poetic reading experience. The weighted score also reflects this preference, prioritizing accuracy but also considering readability and poetic flow.
+Translation 2 has a slightly better poetic flow and feels more natural in its phrasing. While both translations are accurate, Translation 2 edges out Translation 1 in terms of readability and capturing the spirit of the original text. The weighted score also reflects this slight advantage.
 
 ### Updated Output
 ```
-"Haikun Tekere Haikoshitemutori"
+Haikunteleke Haikoshitemturi
 
-Haikun Tekere Haikoshitemutori,
-Upon the cape of the land, the cape of the gods,
-I sat in my place.
-One day, I ventured out to look,
-The sea was calm and vast, and upon it,
+Upon the cape of the land, the cape of the gods, I once sat.
+One day, I emerged and gazed afar,
+The sea was calm, vast, and boundless. Upon it,
 Okikirmui, Shupunramka, and Samayunkur
-Set out on a sea hunt, three in a boat. Seeing this,
-A wicked thought arose within me.
+Sailed together, hunting at sea. Witnessing this,
+Evil thoughts surged within me, a rising tide.
 This cape, the cape of the land, the cape of the gods,
-Up and down, with light steps,
-I ran, my waist swaying gently.
-With a heavy tone, like snapping wood, I cried, “Pau, Pau!”
-Glaring at the source of this river, I summoned
-The demon of the storm. In response, from the river's
-Source, a fierce wind, a whirlwind,
-Erupted and rushed into the sea, and at once,
-The upper sea became the lower, and
-The lower sea the upper. Okikirmui and his companions’
-Fishing boat, at the meeting place of the sea of men offshore and the sea of men on land (mid-sea),
-Met with a sudden change, spinning
-Amidst the waves. A great wave, like a mountain,
-Crashed over the boat. Then,
-Okikirmui, Samayunkur, and Shupunramka,
-Raised their voices and rowed with all their might.
-This small boat was blown like a falling leaf,
-On the verge of capsizing, yet
-Admirably, the humans were resilient,
-And the small boat weaved through the wind,
-Over the waves. Seeing this,
-The wickedness in my heart grew stronger.
-With light steps, I ran, my waist swaying gently,
-With a heavy tone, like snapping wood, I cried, “Pau, Pau!”
-Devoting myself to cheering on the demon of the storm.
-As I did so, at last, Samayunkur’s
-Hands bled profusely,
-And he collapsed, exhausted.
-Seeing this tragic sight, I secretly laughed.
-Then again, I exerted myself,
-With light steps, I ran, my waist swaying gently,
-With a heavy tone, like snapping wood, I cried,
-Cheering on the demon of the storm.
-Okikirmui and Shupunramka, the two of them,
-Encouraging each other, bravely rowed the boat,
-But then, at one moment, Shupunramka’s
-Hands bled profusely,
-And he collapsed, exhausted. Seeing this,
-I secretly laughed.
-Then again, with light steps, my waist swaying gently,
-I leaped about, with a heavy tone, like snapping
-hard wood, I cried, exerting myself.
-Yet, Okikirmui showed no sign of fatigue.
-With a single thin garment wrapped around his body,
-He rowed the boat, until
-Under his hand, the oar he held snapped.
-Then, leaping upon the exhausted Samayunkur,
-He snatched the oar he held and rowed alone.
-Seeing this, the wickedness in my heart surged again.
-With a heavy tone, like snapping hard wood, I cried,
-With light steps, I ran, my waist swaying gently,
-Exerting myself to cheer on the demon of the storm.
-As I did so, Samayunkur’s rudder also
-Snapped. Okikirmui leaped upon Shupunramka,
-Took his oar, and
-Bravely rowed the boat.
-But his oar was also broken by the waves.
-Thereupon, Okikirmui stood
-In the boat, amidst the fierce wind,
-Never imagining that a human like him could find me,
-He gazed at the center of my eyes,
-Upon the cape of the land, the cape of the gods.
-His gentle face now showing anger,
-He fiddled with a bag,
-And from within, he took out a small mugwort bow and
+I ran back and forth with nimble steps, supple waist,
+Heavily uttering "Pau, Pau," like snapping wood,
+Glaring at the river's source, summoning storm's magic.
+In response, from the river's source,
+A gale howled, a tornado arose, striking the sea,
+Instantly, the ocean churned, turning upside down.
+Okikirmui's boat, at the meeting point of near and far seas,
+Met a sudden upheaval, spinning in the waves.
+Giant waves crashed down like mountains.
+Thus,
+Okikirmui, Samayunkur, and Shupunramka
+Shouted with all their might, paddling desperately.
+The small boat, like a fallen leaf, was tossed by the gale,
+On the verge of capsizing,
+But admirable were the people, full of strength,
+The small boat sailed on the wind,
+Gliding on the waves.
+Seeing this, evil thoughts surged within me once more.
+I ran back and forth with nimble steps, supple waist,
+Heavily uttering "Pau, Pau," like snapping wood,
+Shouting with all my might, cheering storm's magic.
+Amidst this turmoil, finally, Samayunkur,
+Hands bleeding profusely,
+Collapsed, exhausted.
+Seeing him thus, I chuckled to myself.
+Then, I exerted myself even more,
+Running back and forth with nimble steps, supple waist,
+Heavily uttering cries like snapping wood,
+Cheering storm's magic.
+Okikirmui and Shupunramka encouraged each other,
+Bravely rowing,
+Suddenly, Shupunramka,
+Hands bleeding profusely,
+Collapsed, exhausted. Seeing this,
+I chuckled to myself.
+Then, I ran back and forth,
+Jumping, heavily uttering cries like snapping hard wood, exerting all my strength.
+However, Okikirmui showed no fatigue.
+He wore a thin garment,
+Paddling, and soon,
+The oar in his hand snapped.
+So, he lunged towards the exhausted Samayunkur,
+Seized the oar, and alone,
+Paddled.
+Seeing this, inherent evil surged again.
+Heavily uttering cries like snapping hard wood,
+Running back and forth with nimble steps, supple waist,
+Exerting all my strength, cheering storm's magic.
+Amidst this turmoil, Samayunkur's rudder
+Also broke. Okikirmui lunged towards Shupunramka,
+Seized his oar,
+Bravely paddling.
+However, his oar was broken by the waves.
+So, Okikirmui stood
+In the boat, amidst the gale,
+Never imagining a human could find me, above the cape of the land, the cape of the gods,
+He gazed into my eyes.
+His gentle face revealed anger,
+He fiddled with a pouch,
+From which he took a small mugwort bow and
 A small mugwort arrow.
-Seeing this, I secretly laughed.
-“What can a human do to frighten me?
-What use is such a mugwort arrow?”
-Thinking this, upon this cape,
+Seeing these, I chuckled.
+"What can humans do? What is there to fear?
+What use is that small mugwort arrow?"
+Thinking this, on this cape,
 The cape of the land, the cape of the gods,
-Up and down, with light steps,
-I ran, my waist swaying gently, with a heavy tone,
-Like snapping hard wood, I cried, “Pau, Pau!”
-Praising the demon of the storm.
-In the midst of this, the arrow shot by Okikirmui flew,
-And pierced the back of my neck.
+I ran back and forth with nimble steps, supple waist, heavily
+Uttering "Pau, Pau," like snapping hard wood,
+Praising storm's magic.
+Amidst this clamor, the arrow shot by Okikirmui flew,
+Striking my collar.
 From then on, I knew nothing more.
-When I came to, it was
-A very fine day, the sea was
-Vast, and there was no sign of Okikirmui’s fishing boat.
-What had happened? From the tip of my head
-To the tip of my toes, it ached as if birch bark was burning and shrinking.
-Never imagining that a small arrow shot by a human could torment me so,
-I writhed in agony, flailing my limbs,
-Upon this cape, the cape of the land, the cape of the gods,
-Up and down, crying out,
-Writhing in agony, living and
-Dying, day and night, until I knew not
-What had become of me.
-When I came to, I was
-Between the ears of a great black fox.
-Two days later, Okikirmui arrived, looking like a god,
-Smiling and saying,
-“How beautiful! The black fox god who watches over
-The cape of the land, the cape of the gods,
-Because he had a good heart, a god’s heart,
-Has died a beautiful death.”
+Suddenly regaining consciousness,
+The weather was clear,
+The sea was vast, Okikirmui's boat gone.
+What had happened? From the top of my head to
+My toes, it burned like burning daphne bark.
+Never imagining a small arrow could torment me so, I struggled, in agony,
+On this cape, the cape of the land, the cape of the gods,
+I cried out,
+Struggling, in agony, day and night, sometimes alive,
+Sometimes dead, in this state, I lost consciousness.
+Suddenly regaining consciousness,
+I found myself between the ears of a giant black fox.
+About two days later, Okikirmui, as a god,
+Came, smiling, and said,
+"How beautiful, the black fox god guarding the cape of the land, the cape of the gods,
+Because he possessed a kind heart, a god's heart,
+He died so honorably."
 Saying this, he took my head,
-Brought it to his house, and made my upper jawbone
-The foundation of his toilet, and my lower jaw
-The cornerstone of his wife’s toilet,
-And my body rotted away with the earth.
+Brought it home, using my upper jawbone
+As the foundation for his toilet, and my lower jawbone
+As the cornerstone for his wife's toilet,
+My body rotted with the soil.
 From then on, day and night,
-Suffering from a foul stench, I died a meaningless, bad
-Death.
-Though I was not merely a god of low rank,
-Because I had a terribly wicked heart, I died a useless,
-Bad death. Therefore,
-Foxes of the future, never
-Hold wicked thoughts."
+I suffered the stench, I died without value, miserably.
+I was not merely a low-ranking god,
+But because I harbored evil thoughts, I met such an end.
+So, from now on, foxes, never
+Harbor evil thoughts.
 
-So the fox god told his story.
+The fox god tells it this way.
 ```
 
