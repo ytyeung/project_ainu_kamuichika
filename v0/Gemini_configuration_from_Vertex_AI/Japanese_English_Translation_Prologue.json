@@ -1,0 +1,45 @@
+{
+  "title": "Japanese-English Translation",
+  "description": "",
+  "note": "",
+  "parameters": {
+    "temperature": 0,
+    "tokenLimits": 8192,
+    "topP": 0,
+    "groundingPromptConfig": {
+      "disabled": true,
+      "groundingConfig": {
+        "sources": [
+          {
+            "type": "WEB"
+          }
+        ]
+      }
+    },
+    "responseModalities": [
+      "TEXT"
+    ],
+    "voiceName": ""
+  },
+  "testDataV2": [
+    {
+      "testData": {}
+    }
+  ],
+  "systemInstruction": {
+    "parts": [
+      {
+        "text": "You are a professional translator. You know Japanese, English and Chinese. You can translate Japanese into either Chinese or English.\n"
+      }
+    ]
+  },
+  "type": "freeform",
+  "prompt": {
+    "parts": [
+      {
+        "text": "Translate the following text from Japanese to English:\n\n{japanese_text}"
+      }
+    ]
+  },
+  "model": "google/gemini-2.0-flash-001"
+}

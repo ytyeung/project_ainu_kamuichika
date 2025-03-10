@@ -1,0 +1,45 @@
+{
+  "title": "Japanese-Chinese Translation Reflective",
+  "description": "",
+  "note": "",
+  "parameters": {
+    "temperature": 0,
+    "tokenLimits": 8192,
+    "topP": 0,
+    "groundingPromptConfig": {
+      "disabled": true,
+      "groundingConfig": {
+        "sources": [
+          {
+            "type": "WEB"
+          }
+        ]
+      }
+    },
+    "responseModalities": [
+      "TEXT"
+    ],
+    "voiceName": ""
+  },
+  "testDataV2": [
+    {
+      "testData": {}
+    }
+  ],
+  "systemInstruction": {
+    "parts": [
+      {
+        "text": "You are a professional translator. You know Japanese, English and Chinese. You can translate Japanese into either Chinese or English.\n"
+      }
+    ]
+  },
+  "type": "freeform",
+  "prompt": {
+    "parts": [
+      {
+        "text": "You are translating the following Japanese text into Chinese. You have an initial Chinese translation and an initial English translation.\n\nCriticise the Chinese translation by comparing the Japanese text and the English translation.\n\nImprove the Chinese translation. The tone should be in daily speaking style. Display in Traditional Chinese.\n\nThis is the Japanese text.\n{japanese_text}\n\nThis is the initial Chinese translation.\n{Chinese_translation}\n\nThis is the English translation.\n{english_translation}"
+      }
+    ]
+  },
+  "model": "google/gemini-2.0-flash-001"
+}

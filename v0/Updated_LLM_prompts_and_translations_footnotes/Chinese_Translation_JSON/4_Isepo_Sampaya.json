@@ -1,0 +1,10 @@
+{
+    "ainu_title": "Isepo yaieyukar, “Sampaya terke”",
+    "japanese_title": "兎が自ら歌った謡「サンパヤ テレケ」",
+    "japanese_translation": "(1) アマツポ(弩いしゆみ)すなわち「仕掛け弓」を仕掛ける事.\n(2) 刀剣.これは戦争の時に使う刀剣とは違うので,ふだん家の右座の宝物の積んである上に吊してあるのがそれです.戦争の時には使いませんが,uniwente などのときには使います.",
+    "english_translation": "(1) Amatsupo (弩いしゆみ): That is, setting up a \"trick bow.\"\n(2) Swords. These are different from the swords used in war. They are usually hung above the pile of treasures on the right side of the house. They are not used in war, but are used during *uniwente*, etc.\n",
+    "chinese_translation_1": "(1) アマツポ(弩いしゆみ),即「機關弓」的設置。\n(2) 刀劍。此與戰爭時使用的刀劍不同,平時是吊在家中右座堆放寶物之處。戰爭時不會使用,但在 uniwente 等場合會使用。\n",
+    "chinese_translation_2": "（1）Amatsupo (弩いしゆみ)：意即設置一個「機關弓」。\n（2）劍。這些與戰爭中使用的劍不同。它們通常懸掛在房屋右側的寶物堆之上。它們不用於戰爭，而是用於 *uniwente* 等場合。",
+    "updated_chinese_translation": "（1）アマツポ(弩いしゆみ)：意即設置「機關弓」。\n（2）刀劍。此刀劍與戰爭時所用刀劍不同，平時懸掛於家中右座堆放寶物之處。戰爭時不會使用，但在uniwente等場合會使用。",
+    "comment": "Analysis of the two Chinese translations:\n\nTranslation 1:\nPros: More concise in (1).\nCons: Less detailed in (1), using Japanese term directly without explanation. Less descriptive in (2).\n\nTranslation 2:\nPros: More detailed explanation in (1), providing the original Japanese term. More descriptive in (2).\nCons: Slightly wordy in (1).\n\nChoice:\nTranslation 2 is better because it provides more context and explanation, which is crucial for understanding the original meaning accurately. It also retains the original Japanese term, which can be helpful for those familiar with the Ainu language.\n\nUpdated Translation Strategy:\nCombine the conciseness of Translation 1 with the detail of Translation 2. Keep the original Japanese term and provide a clear explanation. Use more descriptive language in (2) while maintaining clarity."
+}

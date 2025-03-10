@@ -1,0 +1,42 @@
+# Project Ainu Kamuichika: LLM-assisted Translation of Ainu shin'yoshu (アイヌ神謡集) collected by Chiri Yukie 知里幸惠 (1903 - 1922).
+
+## Updated {target_language} Translation of
+
+## {ainu_title} 
+## {japanese_title}
+## {translated_title}
+
+### System prompt
+```
+{system_prompt}
+
+```
+
+### Prompt
+```
+{formatted_prompt}
+```
+### Scoring
+
+|               | Accuracy | Easy to understand | Poetic Flow | Total Score |
+| ------------- | -------- | ------------------ | ------------ | ------------ |
+| Translation 1 | {score_accuracy_1} | {score_understanding_1} | {score_poetic_1} | {weighted_score_1} |
+| Translation 2 | {score_accuracy_2} | {score_understanding_2} | {score_poetic_2} | {weighted_score_2} |
+
+### Comments
+#### Translation 1
+{comment_1}
+
+#### Translation 2
+{comment_2}
+
+### Better Choice
+{better_choice}
+#### Comment
+{better_comment}
+
+### Updated Output
+```
+{output}
+```
+
