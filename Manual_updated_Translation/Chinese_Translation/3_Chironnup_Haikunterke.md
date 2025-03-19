@@ -8,13 +8,13 @@ Haikunterke Haikoshitemturi
 我曾端坐於此。
 某日，我外出遠眺，
 海面風平浪靜，遼闊無垠，海面上
-只見 Okikirmui, Shupunramka 和 Samayunkur
+只見 奧基基爾穆伊 (Okikirmui), 舒蓬拉穆卡 (Shupunramka) 和 薩瑪雲庫魯 (Samayunkur)
 三人同舟，出海狩獵。見此情景，
 我心中惡念頓生。
 
 此岬角，國之岬，神之岬，
 我輕盈地來回奔走，腰肢輕擺。
-以沉重聲調，如折斷木片般，發出「咆，咆 (Pau, pau)!」[1] 的叫喊，
+以沉重聲調，如折斷木片般，發出「咆，咆 (Pau)!」[1] 的叫喊，
 怒視河流源頭，召喚暴風之魔。
 隨之而來，自河流源頭，
 狂風驟起，化作旋風，
@@ -25,7 +25,7 @@ Okikirmui 等人的漁船，
 在近海與遠海交匯之處，遭遇突變，
 波濤之間，旋轉顛簸。
 巨浪如山，傾覆而下。
-於是，Okikirmui, Shupunramka 和 Samayunkur
+於是，奧基基爾穆伊 (Okikirmui), 舒蓬拉穆卡 (Shupunramka) 和 薩瑪雲庫魯 (Samayunkur)
 竭力呼喊，拼命划槳。
 小舟如落葉般被狂風吹拂，幾近傾覆，
 但人類之堅韌，令人欽佩，
@@ -37,7 +37,7 @@ Okikirmui 等人的漁船，
 以沉重聲調，如折斷木片般，發出「咆，咆!」的叫喊，
 竭力聲援暴風之魔。
 
-如此持續，終於，Samayunkur
+如此持續，終於，薩瑪雲庫魯 (Samayunkur)
 雙手血流如注，力竭倒下。
 見此慘狀，我暗自竊笑。
 
@@ -46,9 +46,9 @@ Okikirmui 等人的漁船，
 以沉重聲調，如折斷木片般叫喊，
 聲援暴風之魔。
 
-Okikirmui 和 Shupunramka 二人
+奧基基爾穆伊 (Okikirmui), 舒蓬拉穆卡 (Shupunramka) 二人
 互相鼓勵，奮勇划槳，
-然而某時，Shupunramka
+然而某時，舒蓬拉穆卡 (Shupunramka)
 雙手血流如注，力竭倒下，
 見此情景，我暗自竊笑。
 
@@ -56,11 +56,11 @@ Okikirmui 和 Shupunramka 二人
 以沉重聲調，如折斷堅硬木片般叫喊，
 竭盡全力。
 
-然而，Okikirmui 卻毫無疲態。
+然而，奧基基爾穆伊 (Okikirmui) 卻毫無疲態。
 僅以單薄衣物蔽體，
 奮力划槳，不久，
 他手中的船槳斷裂。
-於是，他撲向已疲憊倒下的 Samayunkur，
+於是，他撲向已疲憊倒下的 薩瑪雲庫魯 (Samayunkur)，
 奪其船槳，獨自划行。
 
 見此情景，我心中惡念再次湧現。
@@ -68,12 +68,12 @@ Okikirmui 和 Shupunramka 二人
 我輕盈地來回奔走，腰肢輕擺，
 竭力聲援暴風之魔。
 
-如此持續，Samayunkur 的船槳也斷裂了。
-Okikirmui 撲向 Shupunramka，
+如此持續，薩瑪雲庫魯 (Samayunkur) 的船槳也斷裂了。
+奧基基爾穆伊 (Okikirmui) 撲向 舒蓬拉穆卡 (Shupunramka)，
 奪其船槳，奮勇划行。
 然而，那支船槳也被海浪折斷。
 
-於是，Okikirmui 立於船中。
+於是，奧基基爾穆伊 (Okikirmui) 立於船中。
 我竟未曾料到，身為人類的他，於狂風之中，
 他會發現我在國之岬，神之岬的方，他直視我的雙眼。
 
@@ -90,12 +90,12 @@ Okikirmui 撲向 Shupunramka，
 我輕盈地來回奔走，腰肢輕擺，
 以沉重聲調，如折斷堅硬木片般，發出「咆，咆」的叫喊，
 讚頌暴風之魔。
-其間，Okikirmui 射出的箭矢飛來，
+其間，奧基基爾穆伊 (Okikirmui) 射出的箭矢飛來，
 正中我頸項。
 自此之後，我便不知發生了何事。
 
 猛然驚醒，天氣晴朗，
-海面遼闊，Okikirmui 的漁船也無影無蹤。
+海面遼闊，奧基基爾穆伊 (Okikirmui) 的漁船也無影無蹤。
 不知為何，自我的頭頂至腳尖，
 如雁皮燃燒收縮般疼痛。
 我萬萬沒想到，人類射出的小箭，竟會如此折磨我，
@@ -104,7 +104,7 @@ Okikirmui 撲向 Shupunramka，
 不知過了多久，猛然驚醒，
 我身處於巨大黑狐雙耳之間。
 
-兩日後，其間，Okikirmui如神祇般前來，
+兩日後，其間，奧基基爾穆伊 (Okikirmui) 如神祇般前來，
 笑盈盈地說道，
 「真是美麗的景象，
 守護國之岬，神之岬之上的黑狐神，
@@ -140,5 +140,5 @@ Okikirmui 撲向 Shupunramka，
 
 在狐狸中，黑狐被認為是最受尊敬的。突出到海中的海岬通常被認為是黑狐的領地，據說除非發生非常嚴重的事情，否則黑狐不會讓人們知道它的存在。
 
-Okikirmui、Samayunkur 和 Shupunramka 是堂兄弟，其中 Shupunramka*年紀最大，Okikirmui 年紀最小。Shupunramka 是一個溫和而內向的人，所以沒有關於他的故事。Samayunkur 脾氣暴躁、缺乏智慧、很草率、本性不好，而且是個懦夫。另一方面，Okikirmui 像神一樣聰明、富有同情心、勇敢，是個偉人，所以有數不清關於他的故事。
+Okikirmui、Samayunkur 和 Shupunramka 是堂兄弟，其中 Shupunramka 年紀最大，Okikirmui 年紀最小。Shupunramka 是一個溫和而內向的人，所以沒有關於他的故事。Samayunkur 脾氣暴躁、缺乏智慧、很草率、本性不好，而且是個懦夫。另一方面，Okikirmui 像神一樣聰明、富有同情心、勇敢，是個偉人，所以有數不清關於他的故事。
 ```
