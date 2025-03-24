@@ -1,6 +1,6 @@
 # Chironnup yaieyukar, “Haikunterke Haikoshitemturi”
 # 狐が自ら歌った謡「ハイクンテレケ　ハイコシテムトリ」
-# 狐狸親自吟唱的歌謠 “Haikunterke Haikoshitemturi”
+# 狐狸自謠 “Haikunterke Haikoshitemturi”
 
 ```
 Haikunterke Haikoshitemturi
@@ -21,7 +21,7 @@ Haikunterke Haikoshitemturi
 直撲入海，頃刻之間，
 海面翻覆，上下顛倒。
 
-Okikirmui 等人的漁船，
+奧基基爾穆伊 (Okikirmui) 等人的漁船，
 在近海與遠海交匯之處，遭遇突變，
 波濤之間，旋轉顛簸。
 巨浪如山，傾覆而下。
@@ -99,12 +99,17 @@ Okikirmui 等人的漁船，
 不知為何，自我的頭頂至腳尖，
 如雁皮燃燒收縮般疼痛。
 我萬萬沒想到，人類射出的小箭，竟會如此折磨我，
-我掙扎著，此岬角，國之岬，神之岬之上，哭喊著，掙扎，
-無論晝夜，時生時死，
+我手腳掙扎，痛苦不堪。
+此岬角，國之岬，神之岬上，
+我哭喊著，
+掙扎著，痛苦不堪，
+白晝黑夜，時而活著，時而死去，
+在這樣的狀態中，
+我失去了知覺。
 不知過了多久，猛然驚醒，
 我身處於巨大黑狐雙耳之間。
 
-兩日後，其間，奧基基爾穆伊 (Okikirmui) 如神祇般前來，
+兩日後，奧基基爾穆伊 (Okikirmui) 如神祇般前來，
 笑盈盈地說道，
 「真是美麗的景象，
 守護國之岬，神之岬之上的黑狐神，

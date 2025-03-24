@@ -1,6 +1,6 @@
 ## Nitatorunpe yaieyukar, “Harit kunna” 
 ## 谷地の魔神が自ら歌った謡「ハリツ クンナ」
-## 谷地魔神親自吟唱的歌謠 “Harit kunna”
+## 谷地魔神自謠 “Harit kunna”
 
 ```
 Harit kunna

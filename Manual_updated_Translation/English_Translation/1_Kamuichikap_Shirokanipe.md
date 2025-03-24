@@ -9,8 +9,8 @@ Browsing below, the poor of yesterday are now rich,
 The rich of yesterday are now poor.  
 
 On the beach, children were playing with little toy bows and arrows [1].  
-“Silver drops falling, falling all around, golden drops falling,   
-Falling all around.” I sang and flew over the children.   
+“Silver drops falling, falling all around, golden drops 
+Falling, falling all around.” I sang and flew over the children.   
 They ran beneath me, crying out:  
 
 "A beautiful bird! A god's bird!  

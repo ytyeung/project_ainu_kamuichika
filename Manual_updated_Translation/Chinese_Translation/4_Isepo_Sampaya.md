@@ -1,6 +1,6 @@
 ## Isepo yaieyukar, “Sampaya terke” 
 ## 兎が自ら歌った謡「サンパヤ テレケ」
-## 兔子親自吟唱的歌謠 “Sampaya terke” 
+## 兔子自謠 “Sampaya terke” 
 
 ```
 Sampaya terke

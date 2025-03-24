@@ -1,6 +1,6 @@
 ## Pon Horkeukamui yaieyukar, “Hotenao” 
 ## 小狼の神が自ら歌った謡「ホテナオ」
-## 小狼之神親自吟唱的歌謠 “Hotenao”
+## 小狼之神自謠 “Hotenao”
 
 ```
 Hotenao
