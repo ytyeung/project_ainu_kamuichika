@@ -24,6 +24,6 @@ class Reflection(BaseModel):
 
     better_translation:  str = Field(description="For example: Translation 1 or Translation 2")
     better_translation_comment: str = Field(description="Explanation of better translation choice.")
-    #updated_translation: str = Field(description="Updated Translation")
+    updated_translation: str = Field(description="Updated Translation")
 
     
