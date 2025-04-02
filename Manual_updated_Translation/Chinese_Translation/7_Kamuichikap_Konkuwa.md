@@ -1,8 +1,8 @@
 ## Kamuichikap Kamui yaieyukar, “Konkuwa” 
 ## 梟の神が自ら歌った謡「コンクワ」
-## 貓頭鷹神自謠 “Konkuwa” 
+## 貓頭鷹神自謠 「剛古雅」 
 
-「剛-古-雅 （Konkuwa）
+「剛古雅 （Konkuwa）
 往昔我發言之時，如拉動包著櫻皮的弓弦般響亮，
 聲音迴盪於弓柄中心。
 如今，我已體衰力竭。

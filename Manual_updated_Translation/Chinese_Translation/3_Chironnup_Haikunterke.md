@@ -3,7 +3,8 @@
 # 狐狸自謠 “Haikunterke Haikoshitemturi”
 
 ```
-Haikunterke Haikoshitemturi
+海崑托奇 海高史旦圖里 (Haikunterke Haikoshitemturi)
+
 國之岬，神之岬上，
 我曾端坐於此。
 某日，我外出遠眺，
@@ -15,8 +16,8 @@ Haikunterke Haikoshitemturi
 此岬角，國之岬，神之岬，
 我輕盈地來回奔走，腰肢輕擺。
 以沉重聲調，如折斷木片般，發出「咆，咆 (Pau)!」[1] 的叫喊，
-怒視河流源頭，召喚暴風之魔。
-隨之而來，自河流源頭，
+怒視河流之源，召喚暴風之魔。
+隨之而來，自河流之源，
 狂風驟起，化作旋風，
 直撲入海，頃刻之間，
 海面翻覆，上下顛倒。
@@ -107,7 +108,7 @@ Haikunterke Haikoshitemturi
 在這樣的狀態中，
 我失去了知覺。
 不知過了多久，猛然驚醒，
-我身處於巨大黑狐雙耳之間。
+我身處巨大黑狐兩耳之間。
 
 兩日後，奧基基爾穆伊 (Okikirmui) 如神祇般前來，
 笑盈盈地說道，
