@@ -1,6 +1,6 @@
 # Chironnup yaieyukar, “Haikunterke Haikoshitemturi”
 # 狐が自ら歌った謡「ハイクンテレケ　ハイコシテムトリ」
-# 狐狸自謠 “Haikunterke Haikoshitemturi”
+# 狐狸自謠 「海崑托奇 海高史旦圖里」
 
 ```
 海崑托奇 海高史旦圖里 (Haikunterke Haikoshitemturi)
