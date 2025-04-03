@@ -1,8 +1,8 @@
 ## Pon Okikirmui yaieyukar, “Kutnisa kutunkutun” 
 ## 小オキキリムイが自ら歌った謡「クツニサ クトンクトン」
-## 小奧基基爾穆伊 (Okikirmui) 自謠 「古尼薩 古通古通」 
+## 小奧基基爾穆伊 (Okikirmui) 自謠 「古尼沙 古通古通」 
 
-古尼薩 古通古通 (Kutnisa kutunkutun)
+古尼沙 古通古通 (Kutnisa kutunkutun)
 
 某日，我往水源之地遊玩，
 見到一個矮小的男子，正彎腰曲背，

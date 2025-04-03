@@ -1,9 +1,9 @@
 ## Nitatorunpe yaieyukar, “Harit kunna” 
 ## 谷地の魔神が自ら歌った謡「ハリツ クンナ」
-## 谷地魔神自謠 “Harit kunna”
+## 谷地魔神自謠 「哈烈 群拿」
 
 ```
-Harit kunna
+哈烈 群拿 (Harit kunna)
 
 某日，天朗氣清，
 我從泥沼中探出頭來，

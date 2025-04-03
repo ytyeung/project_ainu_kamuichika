@@ -1,9 +1,9 @@
 ## Isepo yaieyukar, “Sampaya terke” 
 ## 兎が自ら歌った謡「サンパヤ テレケ」
-## 兔子自謠 “Sampaya terke” 
+## 兔子自謠 「三巴雅 達奇」 
 
 ```
-Sampaya terke
+三巴雅 達奇 (Sampaya terke)
 
 越過兩道山谷，跳過三道山谷，
 我嬉戲著，跟隨兄長的腳步前往山中。
@@ -40,7 +40,8 @@ Sampaya terke
 
 （故事至此轉向另一視角）
 
-Ketka woiwoi ketka, ketka woi ketka.
+劇卡 和伊和伊 劇卡 劇卡 和伊 劇卡
+(Ketka woiwoi ketka, ketka woi ketka)
 
 每日每日，我前往山中，
 破壞人類設下的弩弓陷阱，

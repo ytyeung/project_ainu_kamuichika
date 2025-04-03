@@ -1,9 +1,9 @@
 ## Pon Horkeukamui yaieyukar, “Hotenao” 
 ## 小狼の神が自ら歌った謡「ホテナオ」
-## 小狼之神自謠 “Hotenao”
+## 小狼之神自謠 「浩天拿奧」
 
 ```
-Hotenao
+浩天拿奧 (Hotenao)
 
 某日，我百般無聊，便來到海邊。
 玩耍的時候，遇到一個矮小的男子。
