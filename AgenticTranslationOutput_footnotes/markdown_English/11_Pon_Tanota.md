@@ -4,7 +4,7 @@
 
 ## Pon Okikirmui yaieyukar, “Tanota hurehure” 
 ## 小オキキリムイが自ら歌った謡「この砂赤い赤い」
-## (1) iwan poknashir......六つの地獄.地の下には六段の世界があってそこには種々な悪魔が住んでいます.
+## Translation of Ainu Chant Footnotes
 
 ### System prompt
 ```
@@ -49,36 +49,40 @@ If a term cannot be translated, keep the original language.
 For the original text which are not in Japanese, keep the original form. 
 
 This is the Japanese text.
-(1) iwan poknashir......六つの地獄.地の下には六段の世界があってそこには種々な悪魔が住んでいます.
+(1) achikara......「きたない」.おかしい,生意気なという意味をふくむ.
+この物語は Okikirmui の父と pon nitnekamui の父とは,前に大層激しい戦争をしたことがあるので,この pon okikirmui と pon nitnekamui とは敵どうしになっています.その親たちの戦争した模様は別な物語に詳しく出ています.
 
 This is the English Translation 1.
-iwan poknashir......Six Hells. There are six levels of worlds beneath the ground, where various demons live.
+(1) achikara......"dirty." It also includes the meanings of strange and cheeky.
+In this story, Okikirmui's father and pon nitnekamui's father had a very fierce war before, so this pon okikirmui and pon nitnekamui are enemies. The details of the war between their parents are described in another story.
 
 This is the English Translation 2.
-iwan poknashir......Six Hells. There are six layers of worlds beneath the earth, where all kinds of demons live.
+(1) achikara......"Dirty." It contains the meanings of strange and arrogant.
+This story is about Okikirmui's father and pon nitnekamui's father. They had a very fierce war before, so this pon okikirmui and pon nitnekamui became enemies. The details of the war between their fathers are described in detail in another story.
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 4 | 5 |  4.4 |
-| Translation 2 | 5 | 5 |  5.0 |
+| Translation 1 | 4 | 4 |  4.0 |
+| Translation 2 | 4 | 4 |  4.0 |
 
 ### Comments
 #### Translation 1
-Accurate and understandable, but "levels" is a slightly less evocative word choice than "layers."
+Pros: Direct translation, retains 'pon' before names. Cons: 'cheeky' might not be the best word choice for 生意気な.
 
 #### Translation 2
-Accurate and understandable. "Layers" is a good choice. "All kinds of demons" is slightly more emphatic.
+Pros: Flows slightly better, uses 'arrogant' which is a good interpretation of 生意気な. Cons: Slightly less literal, omits the 'pon' before names in the second instance.
 
 ### Better Choice
 Translation 2
 #### Comment
-Both translations are quite similar and accurate. Translation 2 uses "layers" instead of "levels" which is slightly better imagery for describing the underworld. Also, "all kinds of demons" is slightly more emphatic than "various demons."
+Both translations are quite good. Translation 2 is slightly better due to the more natural flow and better word choice ('arrogant'). However, it loses some accuracy by omitting 'pon' in the second instance. The weighted scores are the same.
 
 ### Updated Output
 ```
-iwan poknashir......Six Hells. There are six layers of worlds beneath the ground, where all kinds of demons live.
+(1) achikara......"Dirty." It contains the meanings of strange and arrogant.
+This story is about Okikirmui's father and pon nitnekamui's father. They had a very fierce war before, so this pon okikirmui and pon nitnekamui became enemies. The details of the war between their fathers are described in detail in another story.
 ```
 

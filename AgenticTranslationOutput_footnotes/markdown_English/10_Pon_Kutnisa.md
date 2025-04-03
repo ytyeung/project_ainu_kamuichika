@@ -4,7 +4,7 @@
 
 ## Pon Okikirmui yaieyukar, “Kutnisa kutunkutun” 
 ## 小オキキリムイが自ら歌った謡「クツニサ クトンクトン」
-## Ainu Chant Footnotes Translation
+## Translation of Ainu Chant Footnote
 
 ### System prompt
 ```
@@ -49,36 +49,36 @@ If a term cannot be translated, keep the original language.
 For the original text which are not in Japanese, keep the original form. 
 
 This is the Japanese text.
-
+(1) iwan poknashir......六つの地獄.地の下には六段の世界があってそこには種々な悪魔が住んでいます.
 
 This is the English Translation 1.
-Please provide the Japanese text for translation.
+(1) iwan poknashir......Six hells. There are six levels of worlds under the ground, where various demons live.
 
 This is the English Translation 2.
-Please provide the Japanese footnotes of the Ainu chant that need to be translated.
+iwan poknashir......Six Hells. There are six layers of world under the earth, where all kinds of demons live.
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 4 | 4 |  4.0 |
-| Translation 2 | 3 | 3 |  3.0 |
+| Translation 1 | 4 | 5 |  4.4 |
+| Translation 2 | 5 | 4 |  4.6 |
 
 ### Comments
 #### Translation 1
-This translation seems to maintain the original meaning well and uses relatively straightforward language.
+Pros: Simple and direct word choice. Cons: 'Six hells' might be slightly less evocative than 'Six Hells'.
 
 #### Translation 2
-This translation is a bit more complex in its sentence structure, making it slightly harder to understand, although it does offer some interesting alternative phrasing.
+Pros: 'Six Hells' is a good translation of the original meaning. 'All kinds of demons' is also a good translation. Cons: 'layers of world' is slightly awkward.
 
 ### Better Choice
-Translation 1
+Translation 2
 #### Comment
-Translation 1 is better because it maintains a higher degree of accuracy to the original meaning and is slightly easier to understand than Translation 2. While both have their strengths, the weighted score favors Translation 1 due to the higher importance placed on accuracy.
+Translation 2 has a slightly better weighted score due to its higher accuracy in conveying the original meaning, especially with the term 'Six Hells'.
 
 ### Updated Output
 ```
-Please provide the Japanese text and the two English translations for a more accurate comparison and improved translation.
+(1) iwan poknashir......Six Hells. There are six layers of worlds under the ground, where all kinds of demons live.
 ```
 

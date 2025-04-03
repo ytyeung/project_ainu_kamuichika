@@ -52,10 +52,10 @@ This is the Japanese text.
 (1) katken......川ガラス.昔から大そういい鳥として尊ばれる鳥です.
 
 This is the English Translation 1.
-katken......River crow. It is a bird that has been highly respected as a very good bird since ancient times.
+katken... River crow. It is a bird that has been respected as a very good bird since ancient times.
 
 This is the English Translation 2.
-katken......Dipper. It has been respected as a very good bird since ancient times.
+katken...... Dipper. It has been regarded as a very good and respected bird since ancient times.
 
 ```
 ### Scoring
@@ -63,22 +63,22 @@ katken......Dipper. It has been respected as a very good bird since ancient time
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
 | Translation 1 | 4 | 5 |  4.4 |
-| Translation 2 | 5 | 5 |  5.0 |
+| Translation 2 | 5 | 4 |  4.6 |
 
 ### Comments
 #### Translation 1
-This translation is understandable and conveys the general meaning. However, "River crow" is not the most accurate translation of "川ガラス".
+Pros: Simple and direct translation. Cons: 'River crow' is not the most accurate translation of 'katken'.
 
 #### Translation 2
-This translation is also understandable and conveys the meaning. "Dipper" is a more accurate translation of "川ガラス".
+Pros: 'Dipper' is a more accurate translation of 'katken'. Cons: Slightly less natural phrasing compared to Translation 1.
 
 ### Better Choice
 Translation 2
 #### Comment
-Both translations are quite similar and accurate. Translation 2 uses "Dipper" which is a more precise translation of "川ガラス(kawa garasu)" than "River crow". Therefore, Translation 2 is slightly better.
+Translation 2 is slightly better because it uses the more accurate translation 'Dipper' for 'katken'. While Translation 1 is easier to understand, accuracy is prioritized.
 
 ### Updated Output
 ```
-katken......Dipper. It is a bird that has been highly respected as a very good bird since ancient times.
+katken (Dipper)...... It is a bird that has been regarded as a very good and respected bird since ancient times.
 ```
 

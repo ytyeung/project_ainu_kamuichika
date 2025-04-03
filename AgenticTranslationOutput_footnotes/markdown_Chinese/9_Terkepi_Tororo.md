@@ -4,7 +4,7 @@
 
 ## Terkepi yaieyukar, “Tororo hanrok hanrok!” 
 ## 蛙が自らを歌った謡「トーロロ ハンロク ハンロク!」
-## 阿伊努語神歌腳註翻譯
+## 翻譯比較與改進
 
 ### System prompt
 ```
@@ -53,33 +53,33 @@ This is the Japanese text.
 
 
 This is the Chinese Translation 1.
-請提供需要翻譯的日文阿伊努語神歌腳註。
+請提供需要翻譯的日文文本。
 
 This is the Chinese Translation 2.
-請提供需要翻譯的日文文本
+請提供您希望我翻譯成中文的日語文本。
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 5 | 5 |  5.0 |
-| Translation 2 | 3 | 5 |  3.8 |
+| Translation 1 | 4 | 3 |  3.6 |
+| Translation 2 | 4 | 4 |  4.0 |
 
 ### Comments
 #### Translation 1
-Translation 1 correctly identifies the text as footnotes of an Ainu chant.
+此翻譯請求提供日文文本。語法正確，但略顯生硬。
 
 #### Translation 2
-Translation 2 is a more generic request for translation of Japanese text.
+此翻譯請求提供您希望我翻譯成中文的日語文本。語法更自然，更貼近日常用語。
 
 ### Better Choice
-Translation 1
+Translation 2
 #### Comment
-Translation 1 is better because it specifically mentions the Ainu chant, which is crucial context. Translation 2 is too generic.
+Translation 2 在語法和自然度上略勝一籌，更易於理解。雖然兩者在準確性上都表現不錯，但易於理解性是選擇 Translation 2 的關鍵。
 
 ### Updated Output
 ```
-請提供需要翻譯的日文阿伊努語神歌腳註。
+請提供您希望我翻譯成中文的日語文本。
 ```
 

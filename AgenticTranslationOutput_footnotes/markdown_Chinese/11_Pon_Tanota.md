@@ -4,7 +4,7 @@
 
 ## Pon Okikirmui yaieyukar, “Tanota hurehure” 
 ## 小オキキリムイが自ら歌った謡「この砂赤い赤い」
-## アイヌ語の呪文の翻訳
+## 阿伊努語歌翻譯
 
 ### System prompt
 ```
@@ -50,36 +50,42 @@ If a term cannot be translated, keep the original language.
 For the original text which are not in Japanese, keep the original form. 
 
 This is the Japanese text.
-(1) iwan poknashir......六つの地獄.地の下には六段の世界があってそこには種々な悪魔が住んでいます.
+(1) achikara......「きたない」.おかしい,生意気なという意味をふくむ.
+この物語は Okikirmui の父と pon nitnekamui の父とは,前に大層激しい戦争をしたことがあるので,この pon okikirmui と pon nitnekamui とは敵どうしになっています.その親たちの戦争した模様は別な物語に詳しく出ています.
 
 This is the Chinese Translation 1.
-iwan poknashir......六個地獄。地的下面有六層世界，那裡住著各種各樣的惡魔。
+(1) achikara......「骯髒」。包含奇怪、傲慢的意思。
+這個故事是關於 Okikirmui 的父親和 pon nitnekamui 的父親，之前曾發生過非常激烈的戰爭，所以這個 pon okikirmui 和 pon nitnekamui 變成了敵人。關於他們父輩之間戰爭的詳細情況，在另一個故事中有詳細描述。
 
 This is the Chinese Translation 2.
-iwan poknashir......六層地獄。 地底下有六層世界，住著各種惡魔。
+(1) achikara......「骯髒」。它也包含奇怪和厚臉皮的含義。
+在這個故事中，Okikirmui的父親和pon nitnekamui的父親之前發生過一場非常激烈的戰爭，所以這個pon okikirmui和pon nitnekamui是敵人。他們父母之間戰爭的細節在另一個故事中描述。
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 4 | 4 |  4.0 |
-| Translation 2 | 5 | 5 |  5.0 |
+| Translation 1 | 4 | 3 |  3.6 |
+| Translation 2 | 4 | 4 |  4.0 |
 
 ### Comments
 #### Translation 1
-Translation 1 is accurate but slightly verbose. The phrase "各種各樣的惡魔" (various kinds of demons) is a bit redundant.
+Pros:忠於原文，使用較為直接的翻譯。
+Cons:部分語句略顯生硬，不夠自然。
 
 #### Translation 2
-Translation 2 is concise and reads more naturally in Chinese. It effectively conveys the meaning of the original Japanese text.
+Pros: 語句更流暢自然，更符合現代漢語習慣。
+Cons: 個別詞語的翻譯略有簡化，可能損失細微含義。
 
 ### Better Choice
 Translation 2
 #### Comment
-Translation 2 is more concise and natural in its wording. While both translations convey the same meaning, Translation 2 avoids unnecessary repetition and uses more common phrasing.
+Translation 2 在保持準確性的同時，更易於理解，語句更流暢。因此，選擇 Translation 2 作為更好的翻譯。
 
 ### Updated Output
 ```
-iwan poknashir......六層地獄。地底下有六層世界，住著各種惡魔。
+(1) achikara......「骯髒」。它也包含奇怪和厚臉皮的含義。
+在這個故事中，Okikirmui的父親和pon nitnekamui的父親之前發生過一場非常激烈的戰爭，因此pon okikirmui和pon nitnekamui是敵人。他們父輩之間戰爭的細節在另一個故事中有詳細描述。
 ```
 

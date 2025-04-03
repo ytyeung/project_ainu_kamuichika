@@ -1,13 +1,13 @@
 {
     "japanese_title": "小オキキリムイが自ら歌った謡「クツニサ クトンクトン」",
     "ainu_title": "Pon Okikirmui yaieyukar, “Kutnisa kutunkutun”",
-    "japanese_text": "",
+    "japanese_text": "(1) iwan poknashir......六つの地獄.地の下には六段の世界があってそこには種々な悪魔が住んでいます.",
     "chinese_translation": {
-        "comment": "Translation of Ainu chant footnotes from Japanese to Traditional Chinese.",
-        "title": "阿伊努語神歌腳註翻譯",
-        "translation": "請提供需要翻譯的日文阿伊努語神歌腳註。",
+        "translation": "iwan poknashir......六個地獄。地的下面有六層世界，那裡住著各種各樣的惡魔。",
+        "title": "阿伊努語歌謠註釋翻譯",
+        "comment": "將日語註釋翻譯成現代中文（繁體）。專有名詞iwan poknashir保留原文。",
         "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
-        "input_prompt": "Translate the following text from source language Japanese to target language Chinese. The original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning accurately. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nIf a term cannot be translated, keep the source language.\nFor the original text which are not in Japanese, keep the original form. \n\n\n",
+        "input_prompt": "Translate the following text from source language Japanese to target language Chinese. The original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning accurately. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nIf a term cannot be translated, keep the source language.\nFor the original text which are not in Japanese, keep the original form. \n\n(1) iwan poknashir......六つの地獄.地の下には六段の世界があってそこには種々な悪魔が住んでいます.\n",
         "input_model": "gemini-2.0-flash-001",
         "input_schema": {
             "description": "The translation, and the comments",
@@ -39,11 +39,11 @@
         "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
     },
     "english_translation": {
-        "comment": "The original text is a Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. Keep the original meaning accurately. Use modern and simple English. If a term cannot be translated, keep the source language. For the original text which are not in Japanese, keep the original form.",
-        "title": "Ainu Chant Footnotes Translation",
-        "translation": "Please provide the Japanese text for translation.",
+        "translation": "(1) iwan poknashir......Six hells. There are six levels of worlds under the ground, where various demons live.",
+        "title": "Translation of Ainu Chant Footnote",
+        "comment": "Translated from Japanese to English, keeping the original meaning.",
         "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
-        "input_prompt": "Translate the following text from source language Japanese to target language English. The original text is a Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning accurately. Use modern and simple English.\nIf a term cannot be translated, keep the source language.\nFor the original text which are not in Japanese, keep the original form. \n\n\n",
+        "input_prompt": "Translate the following text from source language Japanese to target language English. The original text is a Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning accurately. Use modern and simple English.\nIf a term cannot be translated, keep the source language.\nFor the original text which are not in Japanese, keep the original form. \n\n(1) iwan poknashir......六つの地獄.地の下には六段の世界があってそこには種々な悪魔が住んでいます.\n",
         "input_model": "gemini-2.0-flash-001",
         "input_schema": {
             "description": "The translation, and the comments",
@@ -75,11 +75,11 @@
         "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
     },
     "eng_to_chi_translation": {
-        "comment": "Please provide the Japanese text for translation.",
-        "title": "請提供需要翻譯的日文文本",
-        "translation": "請提供需要翻譯的日文文本。",
+        "translation": "iwan poknashir......六層地獄。地下有六層世界，住著各種惡魔。",
+        "title": "翻譯",
+        "comment": "將英文翻譯成繁體中文。",
         "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
-        "input_prompt": "Translate the following text from source language English to target language Chinese. \nThe original text is translation of Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nFor the original text which are not in English, keep the original form. \n\nPlease provide the Japanese text for translation.\n",
+        "input_prompt": "Translate the following text from source language English to target language Chinese. \nThe original text is translation of Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nFor the original text which are not in English, keep the original form. \n\n(1) iwan poknashir......Six hells. There are six levels of worlds under the ground, where various demons live.\n",
         "input_model": "gemini-2.0-flash-001",
         "input_schema": {
             "description": "The translation, and the comments",
@@ -111,11 +111,11 @@
         "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
     },
     "chi_to_eng_translation": {
-        "comment": "Translation of the user's request.",
-        "title": "Translation Request",
-        "translation": "Please provide the Japanese footnotes of the Ainu chant that need to be translated.",
+        "translation": "iwan poknashir......Six Hells. There are six layers of world under the earth, where all kinds of demons live.",
+        "title": "Translation of Ainu Chant Footnote",
+        "comment": "Translated from Chinese to English, keeping original meaning.",
         "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
-        "input_prompt": "Translate the following text from source language Chinese to target language English. \nThe original text is translation of Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning. Use modern and simple English.\nFor the original text which are not in Chinese, keep the original form. \n\n請提供需要翻譯的日文阿伊努語神歌腳註。\n",
+        "input_prompt": "Translate the following text from source language Chinese to target language English. \nThe original text is translation of Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning. Use modern and simple English.\nFor the original text which are not in Chinese, keep the original form. \n\niwan poknashir......六個地獄。地的下面有六層世界，那裡住著各種各樣的惡魔。\n",
         "input_model": "gemini-2.0-flash-001",
         "input_schema": {
             "description": "The translation, and the comments",
@@ -147,36 +147,36 @@
         "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
     },
     "updated_translation_zh": {
-        "better_translation": "Translation 1",
-        "better_translation_comment": "Translation 1 is better because it specifically mentions the Ainu chant, which is crucial context. Translation 2 is too generic.",
-        "title": "阿伊努語神歌腳註翻譯",
+        "title": "阿伊努語歌翻譯",
         "translation_comments": [
             {
-                "comment": "This translation correctly identifies the text as Ainu chant footnotes, providing necessary context.",
-                "id": "Translation 1"
+                "id": "Translation 1",
+                "comment": "翻譯1使用了“六個地獄”，更接近原文的字面意思，但可能在現代漢語語境下稍顯不自然。使用了“各種各樣的惡魔”，更強調種類的繁多。"
             },
             {
-                "comment": "This translation is too general and misses the specific context of the Ainu chant.",
-                "id": "Translation 2"
+                "id": "Translation 2",
+                "comment": "翻譯2使用了“六層地獄”，更符合中文的表達習慣，更自然。使用了“各種惡魔”，簡潔明瞭。"
             }
         ],
         "translation_scores": [
             {
                 "id": "Translation 1",
-                "score_accuracy": 5,
-                "score_easy_understanding": 5,
-                "weighted_score": 5.0
+                "score_accuracy": 4,
+                "score_easy_understanding": 4,
+                "weighted_score": 4.0
             },
             {
                 "id": "Translation 2",
-                "score_accuracy": 3,
+                "score_accuracy": 4,
                 "score_easy_understanding": 5,
-                "weighted_score": 3.8
+                "weighted_score": 4.4
             }
         ],
-        "updated_translation": "請提供需要翻譯的日文阿伊努語神歌腳註。",
+        "better_translation": "Translation 2",
+        "better_translation_comment": "翻譯2在易於理解方面略勝一籌，更符合現代漢語的表達習慣。雖然翻譯1在字面意思上更接近原文，但翻譯2在整體語感上更流暢自然。",
+        "updated_translation": "iwan poknashir......六層地獄。地的下面有六層世界，那裡住著各種各樣的惡魔。",
         "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
-        "input_prompt": "You are translating the following text from source language Japanese into target language Chinese. \nThe original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nYou have 2 versions of Chinese translations at hand.\nFor the original text which are not in Japanese, keep the original form. \n\nHere are your tasks:\n\n1. Compare the two Chinese translations with the source Japanese text. List out the Pros and Cons of the Translations.\n2. For each of translation from Japanese to Chinese, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].\nWhere one star means \"Nonsense/No meaning preserved\",\ntwo stars mean \"Some meaning preserved, but not understandable\",\nthree stars mean \"Some meaning preserved and understandable\",\nfour stars mean \"Most meaning preserved with possibly few grammar mistakes\",\nand five stars mean \"Perfect meaning and grammar\".\n\n3. For each of translation from Japanese to Chinese, score the translation on the easiness to understanding with one to five stars [1,2,3,4,5].\nWhere one star means \"The text is completely not understandable.\",\ntwo stars mean \"Most part of text is not understandable.\",\nthree stars mean \"While the text is understandable, the word usage and grammar are difficult.\",\nfour stars mean \"Most part of text can be understood easily.\",\nand five stars mean \"All the text can be understood easily.\".\n\n4. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (60%). Easiness to understanding is the second (40%).\n5. Based on the better translation, translate the Japanese text into Chinese again, incorporating the Pros of the two translations.\n\nKeep the original meaning accurately. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nIf a term cannot be translated, keep the original language.\nFor the original text which are not in Japanese, keep the original form. \n\nThis is the Japanese text.\n\n\nThis is the Chinese Translation 1.\n請提供需要翻譯的日文阿伊努語神歌腳註。\n\nThis is the Chinese Translation 2.\n請提供需要翻譯的日文文本。\n",
+        "input_prompt": "You are translating the following text from source language Japanese into target language Chinese. \nThe original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nYou have 2 versions of Chinese translations at hand.\nFor the original text which are not in Japanese, keep the original form. \n\nHere are your tasks:\n\n1. Compare the two Chinese translations with the source Japanese text. List out the Pros and Cons of the Translations.\n2. For each of translation from Japanese to Chinese, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].\nWhere one star means \"Nonsense/No meaning preserved\",\ntwo stars mean \"Some meaning preserved, but not understandable\",\nthree stars mean \"Some meaning preserved and understandable\",\nfour stars mean \"Most meaning preserved with possibly few grammar mistakes\",\nand five stars mean \"Perfect meaning and grammar\".\n\n3. For each of translation from Japanese to Chinese, score the translation on the easiness to understanding with one to five stars [1,2,3,4,5].\nWhere one star means \"The text is completely not understandable.\",\ntwo stars mean \"Most part of text is not understandable.\",\nthree stars mean \"While the text is understandable, the word usage and grammar are difficult.\",\nfour stars mean \"Most part of text can be understood easily.\",\nand five stars mean \"All the text can be understood easily.\".\n\n4. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (60%). Easiness to understanding is the second (40%).\n5. Based on the better translation, translate the Japanese text into Chinese again, incorporating the Pros of the two translations.\n\nKeep the original meaning accurately. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nIf a term cannot be translated, keep the original language.\nFor the original text which are not in Japanese, keep the original form. \n\nThis is the Japanese text.\n(1) iwan poknashir......六つの地獄.地の下には六段の世界があってそこには種々な悪魔が住んでいます.\n\nThis is the Chinese Translation 1.\niwan poknashir......六個地獄。地的下面有六層世界，那裡住著各種各樣的惡魔。\n\nThis is the Chinese Translation 2.\niwan poknashir......六層地獄。地下有六層世界，住著各種惡魔。\n",
         "input_model": "gemini-2.0-flash-001",
         "input_schema": {
             "$defs": {
@@ -286,36 +286,36 @@
         "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class '__main__.Reflection'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
     },
     "updated_translation_en": {
-        "better_translation": "Translation 1",
-        "better_translation_comment": "Translation 1 is better because it maintains a higher degree of accuracy to the original meaning and is slightly easier to understand than Translation 2. While both have their strengths, the weighted score favors Translation 1 due to the higher importance placed on accuracy.",
-        "title": "Ainu Chant Footnotes Translation",
+        "title": "Translation of Ainu Chant Footnote",
         "translation_comments": [
             {
-                "comment": "This translation seems to maintain the original meaning well and uses relatively straightforward language.",
-                "id": "Translation 1"
+                "id": "Translation 1",
+                "comment": "Pros: Simple and direct word choice. Cons: 'Six hells' might be slightly less evocative than 'Six Hells'."
             },
             {
-                "comment": "This translation is a bit more complex in its sentence structure, making it slightly harder to understand, although it does offer some interesting alternative phrasing.",
-                "id": "Translation 2"
+                "id": "Translation 2",
+                "comment": "Pros: 'Six Hells' is a good translation of the original meaning. 'All kinds of demons' is also a good translation. Cons: 'layers of world' is slightly awkward."
             }
         ],
         "translation_scores": [
             {
                 "id": "Translation 1",
                 "score_accuracy": 4,
-                "score_easy_understanding": 4,
-                "weighted_score": 4.0
+                "score_easy_understanding": 5,
+                "weighted_score": 4.4
             },
             {
                 "id": "Translation 2",
-                "score_accuracy": 3,
-                "score_easy_understanding": 3,
-                "weighted_score": 3.0
+                "score_accuracy": 5,
+                "score_easy_understanding": 4,
+                "weighted_score": 4.6
             }
         ],
-        "updated_translation": "Please provide the Japanese text and the two English translations for a more accurate comparison and improved translation.",
+        "better_translation": "Translation 2",
+        "better_translation_comment": "Translation 2 has a slightly better weighted score due to its higher accuracy in conveying the original meaning, especially with the term 'Six Hells'.",
+        "updated_translation": "(1) iwan poknashir......Six Hells. There are six layers of worlds under the ground, where all kinds of demons live.",
         "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
-        "input_prompt": "You are translating the following text from source language Japanese into target language English. \nThe original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nYou have 2 versions of English translations at hand.\n\nHere are your tasks:\n\n1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.\n2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].\nWhere one star means \"Nonsense/No meaning preserved\",\ntwo stars mean \"Some meaning preserved, but not understandable\",\nthree stars mean \"Some meaning preserved and understandable\",\nfour stars mean \"Most meaning preserved with possibly few grammar mistakes\",\nand five stars mean \"Perfect meaning and grammar\".\n\n3. For each of translation from Japanese to English, score the translation on the easiness to understanding with one to five stars [1,2,3,4,5].\nWhere one star means \"The text is completely not understandable.\",\ntwo stars mean \"Most part of text is not understandable.\",\nthree stars mean \"While the text is understandable, the word usage and grammar are difficult.\",\nfour stars mean \"Most part of text can be understood easily.\",\nand five stars mean \"All part of text can be understood easily.\".\n\n4. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (60%). Easiness to understanding is the second (40%).\n5. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.\n\nKeep the original meaning accurately. \nIf a term cannot be translated, keep the original language.\nFor the original text which are not in Japanese, keep the original form. \n\nThis is the Japanese text.\n\n\nThis is the English Translation 1.\nPlease provide the Japanese text for translation.\n\nThis is the English Translation 2.\nPlease provide the Japanese footnotes of the Ainu chant that need to be translated.\n",
+        "input_prompt": "You are translating the following text from source language Japanese into target language English. \nThe original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nYou have 2 versions of English translations at hand.\n\nHere are your tasks:\n\n1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.\n2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].\nWhere one star means \"Nonsense/No meaning preserved\",\ntwo stars mean \"Some meaning preserved, but not understandable\",\nthree stars mean \"Some meaning preserved and understandable\",\nfour stars mean \"Most meaning preserved with possibly few grammar mistakes\",\nand five stars mean \"Perfect meaning and grammar\".\n\n3. For each of translation from Japanese to English, score the translation on the easiness to understanding with one to five stars [1,2,3,4,5].\nWhere one star means \"The text is completely not understandable.\",\ntwo stars mean \"Most part of text is not understandable.\",\nthree stars mean \"While the text is understandable, the word usage and grammar are difficult.\",\nfour stars mean \"Most part of text can be understood easily.\",\nand five stars mean \"All part of text can be understood easily.\".\n\n4. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (60%). Easiness to understanding is the second (40%).\n5. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.\n\nKeep the original meaning accurately. \nIf a term cannot be translated, keep the original language.\nFor the original text which are not in Japanese, keep the original form. \n\nThis is the Japanese text.\n(1) iwan poknashir......六つの地獄.地の下には六段の世界があってそこには種々な悪魔が住んでいます.\n\nThis is the English Translation 1.\n(1) iwan poknashir......Six hells. There are six levels of worlds under the ground, where various demons live.\n\nThis is the English Translation 2.\niwan poknashir......Six Hells. There are six layers of world under the earth, where all kinds of demons live.\n",
         "input_model": "gemini-2.0-flash-001",
         "input_schema": {
             "$defs": {

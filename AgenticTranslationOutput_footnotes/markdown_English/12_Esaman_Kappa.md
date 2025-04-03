@@ -49,39 +49,44 @@ If a term cannot be translated, keep the original language.
 For the original text which are not in Japanese, keep the original form. 
 
 This is the Japanese text.
-(1) achikara......「きたない」.おかしい,生意気なという意味をふくむ.
-この物語は Okikirmui の父と pon nitnekamui の父とは,前に大層激しい戦争をしたことがあるので,この pon okikirmui と pon nitnekamui とは敵どうしになっています.その親たちの戦争した模様は別な物語に詳しく出ています.
+(1) kinatantuka......蒲の束.蒲は編んで筵の様な敷物にするのですが,よく乾いているのをそのまま編むといけませんから,少し湿してからつかいます.この話にあるのも,そのために女が川へ持って行くのでしょう.
+(2) i-okapushpa.人は死んでしまった親や親類などの名を言ったり,その事をふだん話したりする事を i-okapushpa と言って大へん嫌います.また,人のかくしていた事をそばからほじり出して,みんなに言ったり,その人の聞きにくい様なその人の前の行為などを口に出したりする事をも i-okapushpa と言います.
+(3) nimakitara......牙の剥き出している.これは犬の事.山のけものたちは,人が猟に行くと犬を連れて行きますが,その犬に歯をむき出してかかられるのが一ばん恐いので,犬にこんな名をつけて恐がっています.
 
 This is the English Translation 1.
-achikara......"dirty." It includes meanings such as strange and cheeky.
-In this story, Okikirmui's father and pon nitnekamui's father had a very fierce war before, so this pon okikirmui and pon nitnekamui are enemies. The details of the war between their parents are described in detail in another story.
+[1] kinatantuka: A bundle of cattails. Cattails are woven into mats, but if you weave them when they are completely dry, it won't work, so you moisten them a little before using them. In this story, the woman probably takes them to the river for that purpose.
+[2] i-okapushpa: People greatly dislike mentioning the names of deceased parents or relatives, or talking about them in everyday conversation, which is called i-okapushpa. Also, digging up things that people have hidden and telling everyone, or bringing up a person's past actions that are difficult for them to hear, is also called i-okapushpa.
+[3] nimakitara: Baring its fangs. This refers to a dog. When people go hunting in the mountains, they take dogs with them, and they are most afraid of being attacked by a dog baring its teeth, so they give the dog this name out of fear.
 
 This is the English Translation 2.
-(1) achikara......"Dirty." It contains the meanings of strange and arrogant.
-This story is about Okikirmui's father and pon nitnekamui's father having a very fierce war before, so this pon okikirmui and pon nitnekamui are in a hostile relationship. The appearance of their parents' war is described in detail in another story.
+(1) kinatantuka......A bundle of cattails. Cattails can be woven into mats, but dry cattails cannot be woven directly, so they must be slightly moistened before use. This is also mentioned in the story, which is why the woman brought it to the riverside.
+(2) i-okapushpa. People are very taboo about saying the names of deceased parents or relatives, or talking about them in ordinary times, which is called i-okapushpa. In addition, digging out things that others have hidden and telling everyone, or saying things that are difficult for that person to say, or their behavior in front of others, etc., is also called i-okapushpa.
+(3) nimakitara......Baring fangs. Refers to dogs. The beasts in the mountains, because people take dogs with them when they go hunting, and they are most afraid of being attacked by dogs with bared teeth, so they gave dogs such a name to express their fear.
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 4 | 4 |  4.0 |
+| Translation 1 | 4 | 5 |  4.4 |
 | Translation 2 | 5 | 4 |  4.6 |
 
 ### Comments
 #### Translation 1
-Translation 1 uses 'dirty' which is a direct translation of きたない. It uses 'cheeky' to translate 生意気, which is not accurate. It also uses 'enemies' which is not as descriptive as 'hostile relationship'.
+Pros: Clear and straightforward language. Cons: Slightly less detailed in explaining the cultural context of 'i-okapushpa'.
 
 #### Translation 2
-Translation 2 uses 'dirty' which is a direct translation of きたない. It uses 'arrogant' to translate 生意気, which is more accurate. It also uses 'hostile relationship' which is a more natural way to describe the relationship between the two pon.
+Pros: More detailed explanation of 'i-okapushpa', capturing nuances. Cons: Slightly less fluent in certain sentences, like the last sentence in (3).
 
 ### Better Choice
 Translation 2
 #### Comment
-Translation 2 uses 'arrogant' which is closer to the original meaning of 生意気 than 'cheeky'. It also uses 'hostile relationship' which is a more natural way to describe the relationship between the two pon.
+Translation 2 has a slightly higher weighted score due to its more accurate and detailed explanation of the cultural nuances, especially regarding 'i-okapushpa'. While Translation 1 is easier to understand, the accuracy of meaning is prioritized.
 
 ### Updated Output
 ```
-(1) achikara......"dirty." It includes meanings such as strange and arrogant. This story is about Okikirmui's father and pon nitnekamui's father having a very fierce war before, so this pon okikirmui and pon nitnekamui are in a hostile relationship. The details of their parents' war are described in detail in another story.
+(1) kinatantuka: A bundle of cattails. Cattails can be woven into mats, but dry cattails cannot be woven directly, so they must be slightly moistened before use. This is also mentioned in the story, which is why the woman brought it to the riverside.
+(2) i-okapushpa: People are very taboo about saying the names of deceased parents or relatives, or talking about them in ordinary times, which is called i-okapushpa. In addition, digging out things that others have hidden and telling everyone, or saying things that are difficult for that person to say, or their behavior in front of others, etc., is also called i-okapushpa.
+(3) nimakitara: Baring fangs. Refers to dogs. When people go hunting in the mountains, they take dogs with them, and they are most afraid of being attacked by dogs with bared teeth, so they give dogs such a name to express their fear.
 ```
 

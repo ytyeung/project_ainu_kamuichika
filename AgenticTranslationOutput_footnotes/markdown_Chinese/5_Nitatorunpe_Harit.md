@@ -4,7 +4,7 @@
 
 ## Nitatorunpe yaieyukar, “Harit kunna” 
 ## 谷地の魔神が自ら歌った謡「ハリツ クンナ」
-## 翻譯比較與更新
+## 關於翻譯日文文本為中文的請求
 
 ### System prompt
 ```
@@ -53,33 +53,33 @@ This is the Japanese text.
 
 
 This is the Chinese Translation 1.
-請提供需要翻譯的日語原文。
+請提供需要翻譯的日文文本。
 
 This is the Chinese Translation 2.
-請提供需要翻譯的日文文本。
+請提供您希望我翻譯成中文的日語文本。
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 3 | 4 |  3.4 |
-| Translation 2 | 3 | 4 |  3.4 |
+| Translation 1 | 4 | 3 |  3.6 |
+| Translation 2 | 5 | 4 |  4.6 |
 
 ### Comments
 #### Translation 1
-Very basic and literal translation. Lacks context.
+此翻譯版本較為簡潔，但缺乏明確的請求對象，讀者可能不清楚需要提供什麼樣的日文文本。
 
 #### Translation 2
-Very basic and literal translation. Lacks context.
+此翻譯版本更為明確，清楚地表明需要翻譯成中文的日語文本，但稍顯冗長。
 
 ### Better Choice
-Translation 1
+Translation 2
 #### Comment
-Both translations are essentially the same and very basic. Translation 1 uses "日語原文" which is slightly more common and natural than "日文文本". Therefore, Translation 1 is marginally better.
+Translation 2 在準確性和易懂性方面都略勝一籌，更清晰地表達了請求翻譯日文文本為中文的意圖。
 
 ### Updated Output
 ```
-請提供需要翻譯的日語原文。
+請提供您希望我翻譯成繁體中文的日語文本。
 ```
 

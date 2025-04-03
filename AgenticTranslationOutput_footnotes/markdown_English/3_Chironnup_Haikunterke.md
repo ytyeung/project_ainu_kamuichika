@@ -4,7 +4,7 @@
 
 ## Chironnup yaieyukar, “Haikunterke Haikoshitemturi” 
 ## 狐が自ら歌った謡「ハイクンテレケ ハイコシテムトリ」
-## Ainu Chant Footnotes Translation
+## Translation of Ainu Chant Footnotes
 
 ### System prompt
 ```
@@ -57,48 +57,50 @@ This is the Japanese text.
 Okikurumi(Okikirmui)と Samayunkur と Shupunramka とはいとこ同士で,Shupunramka は一ばん年上で Okikirmui は一ばん年下だと云います.Shupunramka は温和な人で内気ですからなにも話がありませんが,Samayunkur は短気で,智恵が浅く,あわて者で,根性が悪い弱虫で,Okikirmui は神の様に智恵があり,情深く,勇気のあるえらい人だと云うので,その物語りは無限というほど沢山あります.
 
 This is the English Translation 1.
-(1) pau: Onomatopoeia for the sound of a fox's cry.
-(2) pushtotta: A bag-like item used when going sea hunting, to carry fire-making tools, medicines, and other necessary small items. Similar items for the same purpose include piuchiop and karop, but these are made from bulrush mats or attush weaving, so they are used on land. pushtotta is made from bear skin, seal skin, or other fur, making it waterproof and suitable for taking to sea.
-(3) noya ai: Arrow made of mugwort. Mugwort is a plant respected by the Ainu. It is said that demons fear it most because they cannot float if struck by a mugwort arrow, so it is counted as one of the necessities when traveling far.
+(1) pau: Onomatopoeia of a fox's cry.
+(2) pushtotta: A bag-like object used when going sea hunting, to carry fire-making tools, medicines, and other small necessities. Similar items for the same purpose include piuchiop and karop, but these are made from bulrush or attush weaving, so they are used on land. pushtotta is made from bear skin, seal skin, or other fur, so it is waterproof and taken to sea.
+(3) noya ai: Artemisia arrow. Artemisia is a plant respected by the Ainu. It is said that demons fear it most because they cannot float if struck by an artemisia arrow, so it is counted as one of the necessities when traveling far.
 (4) Originally, men's and women's toilets were separate. ashinru and eosineru both mean toilet.
-Among foxes, the black fox is considered the most sacred. Capes protruding into the sea are usually the territory of black foxes, and it is said that black foxes do not make their voices heard to people unless something very serious is happening.
-Okikurumi (Okikirmui), Samayunkur, and Shupunramka are cousins, with Shupunramka being the oldest and Okikirmui the youngest. Shupunramka is a gentle and shy person, so there is nothing to tell about him, but Samayunkur is short-tempered, shallow-minded, hasty, mean-spirited, and cowardly. Okikirmui, on the other hand, is said to be wise like a god, compassionate, brave, and great, so there are countless stories about him.
+Among foxes, the black fox is considered the most sacred. Capes protruding into the sea are usually the territory of black foxes, and it is said that black foxes do not make their voices heard to people unless something very serious happens.
+Okikurumi (Okikirmui), Samayunkur, and Shupunramka are cousins, with Shupunramka being the oldest and Okikirmui the youngest. Shupunramka is a gentle and shy person, so there is nothing to tell about him, but Samayunkur is short-tempered, shallow-minded, hasty, mean-spirited, and cowardly, while Okikirmui is said to be a wise, compassionate, and courageous person like a god, so there are countless stories about him.
 
 This is the English Translation 2.
-(1) pau: An onomatopoeic word for the sound of a fox's cry.
-(2) pushtotta: A bag-like item used when hunting at sea to store fire-making tools, medicine, and other small necessities. Similar items include piuchiop and karop, but these are made from bulrush mats or attush weave and are used on land. pushtotta is made from bear skin, seal skin, or other fur, making it waterproof for use at sea.
-(3) noya ai: Arrow of mugwort. Mugwort is a grass respected by the Ainu people. It is said that being shot by a mugwort arrow makes it impossible to float, so demons fear it most, making it an essential item for long journeys.
+(1) pau: An onomatopoeia for the sound a fox makes.
+(2) pushtotta: Something shaped like a bag, used when hunting at sea to carry fire-making tools, medicines, and other small necessities. piuchiop and karop are used for the same purpose, but because they are made of bulrushes, attush weaving, etc., they are used on land. pushtotta is made of bear skin, seal skin, or other fur, and is taken to sea because it is waterproof.
+(3) noya ai: Arrow of mugwort. Mugwort is a grass respected by the Ainu people. It is said that if shot by an arrow of mugwort, one cannot float, so it is the thing that demons fear most, and is therefore regarded as one of the necessities when traveling far.
 (4) Originally, men's and women's toilets were separate. ashinru and eosineru both mean toilet.
-Among foxes, the black fox is considered the most noble. Headlands protruding into the sea are mostly the territory of black foxes, and it is said that a black fox will not let its voice be heard unless something very important is happening.
-Okikurumi (Okikirmui) and Samayunkur are cousins of Shupunramka. Shupunramka is the oldest, and Okikirmui is the youngest. Shupunramka is gentle and introverted, so there are not many stories about him. Samayunkur is short-tempered, lacks wisdom, and is a reckless, cowardly character. Okikirmui, on the other hand, is wise like a god, compassionate, brave, and great, so there are countless stories about him.
+Among foxes, the black fox is considered the most noble. Most capes protruding into the sea are the territory of black foxes, and it is said that unless there is a very important matter, the black fox will not let anyone hear its voice.
+Okikurumi (Okikirmui) and Samayunkur and Shupunramka are cousins. Shupunramka is the oldest, and Okikirmui is the youngest. Shupunramka is gentle and introverted, so there are not many stories about him, but Samayunkur is short-tempered, lacks wisdom, and is a reckless, cowardly person with a bad personality. Okikirmui, on the other hand, is as wise as a god, full of compassion, and is a brave and great person, so there are countless stories about him.
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 5 | 4 |  4.6 |
+| Translation 1 | 4 | 4 |  4.0 |
 | Translation 2 | 4 | 4 |  4.0 |
 
 ### Comments
 #### Translation 1
-Translation 1 is generally accurate and easy to understand. It maintains a good flow and uses appropriate vocabulary. The explanations are clear and concise.
+Pros: Uses more precise botanical term 'Artemisia'.
+Cons: 'Artemisia arrow' sounds slightly awkward. 'Necessities when traveling far' is a bit verbose.
 
 #### Translation 2
-Translation 2 is also accurate but has some slightly awkward phrasing. For example, 'Arrow of mugwort' is less natural than 'Arrow made of mugwort.' However, it captures the meaning well overall.
+Pros: Flows more naturally in certain parts, e.g., 'Arrow of mugwort', 'the thing that demons fear most'.
+Cons: 'Mugwort' is less precise than 'Artemisia' for botanical accuracy. 'Lacks wisdom' is a bit simplistic.
 
 ### Better Choice
 Translation 1
 #### Comment
-Translation 1 is slightly better because it maintains a more consistent tone and avoids some of the slightly awkward phrasing present in Translation 2. For example, Translation 1's description of 'noya ai' is clearer. While both are generally good, Translation 1 edges out due to its smoother flow and more natural word choices.
+Both translations are quite good. Translation 1 is slightly preferred due to the more accurate botanical term 'Artemisia'. However, incorporating the natural flow of Translation 2 in certain phrases would improve the overall result.
 
 ### Updated Output
 ```
-(1) pau: Onomatopoeia for the sound of a fox's cry.
-(2) pushtotta: A bag-like item used when going sea hunting, to carry fire-making tools, medicines, and other necessary small items. Similar items for the same purpose include piuchiop and karop, but these are made from bulrush mats or attush weaving, so they are used on land. pushtotta is made from bear skin, seal skin, or other fur, making it waterproof and suitable for taking to sea.
-(3) noya ai: Arrow made of mugwort. Mugwort is a plant respected by the Ainu. It is said that demons fear it most because they cannot float if struck by a mugwort arrow, so it is counted as one of the necessities when traveling far.
+(1) pau: Onomatopoeia of a fox's cry.
+(2) pushtotta: A bag-like object used when going sea hunting, to carry fire-making tools, medicines, and other small necessities. Similar items for the same purpose include piuchiop and karop, but these are made from bulrush or attush weaving, so they are used on land. pushtotta is made from bear skin, seal skin, or other fur, so it is waterproof and taken to sea.
+(3) noya ai: Arrow of Artemisia. Artemisia is a plant respected by the Ainu. It is said that demons fear it most because they cannot float if struck by an arrow of Artemisia, so it is counted as one of the necessities when traveling far.
 (4) Originally, men's and women's toilets were separate. ashinru and eosineru both mean toilet.
-Among foxes, the black fox is considered the most sacred. Capes protruding into the sea are usually the territory of black foxes, and it is said that black foxes do not make their voices heard to people unless something very serious is happening.
-Okikurumi (Okikirmui), Samayunkur, and Shupunramka are cousins, with Shupunramka being the oldest and Okikirmui the youngest. Shupunramka is a gentle and shy person, so there is nothing to tell about him, but Samayunkur is short-tempered, shallow-minded, hasty, mean-spirited, and cowardly. Okikirmui, on the other hand, is said to be wise like a god, compassionate, brave, and great, so there are countless stories about him.
+Among foxes, the black fox is considered the most sacred. Capes protruding into the sea are usually the territory of black foxes, and it is said that black foxes do not make their voices heard to people unless something very serious happens.
+Okikurumi (Okikirmui), Samayunkur, and Shupunramka are cousins, with Shupunramka being the oldest and Okikirmui the youngest. Shupunramka is a gentle and shy person, so there is nothing to tell about him, but Samayunkur is short-tempered, shallow-minded, hasty, mean-spirited, and cowardly, while Okikurumi is said to be a wise, compassionate, and courageous person like a god, so there are countless stories about him.
 ```
 

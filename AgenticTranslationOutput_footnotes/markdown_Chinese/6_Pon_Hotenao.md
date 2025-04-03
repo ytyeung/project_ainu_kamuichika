@@ -4,7 +4,7 @@
 
 ## Pon Horkeukamui yaieyukar, “Hotenao” 
 ## 小狼の神が自ら歌った謡「ホテナオ」
-## 阿伊努語神歌腳註翻譯
+## 關於翻譯日文文本為中文的請求
 
 ### System prompt
 ```
@@ -53,33 +53,33 @@ This is the Japanese text.
 
 
 This is the Chinese Translation 1.
-請提供需要翻譯的日文阿伊努語神歌腳註文本。
+請提供需要翻譯的日文文本。
 
 This is the Chinese Translation 2.
-請提供需要翻譯的日文文本。
+請提供您希望我翻譯成中文的日語文本。
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 5 | 5 |  5.0 |
-| Translation 2 | 3 | 5 |  3.8 |
+| Translation 1 | 4 | 3 |  3.6 |
+| Translation 2 | 5 | 4 |  4.6 |
 
 ### Comments
 #### Translation 1
-This translation accurately reflects the request for translating Japanese Ainu chant footnotes.
+此翻譯版本較為簡潔，但缺乏明確的請求對象，讀者可能不清楚需要提供什麼樣的日文文本。
 
 #### Translation 2
-This translation is too general and does not specify the Ainu chant context.
+此翻譯版本更為明確，清楚地表明需要翻譯成中文的日語文本，但稍顯冗長。
 
 ### Better Choice
-Translation 1
+Translation 2
 #### Comment
-Translation 1 is better because it specifically mentions "阿伊努語神歌腳註", which is more accurate to the user's request for translating Ainu chant footnotes. Translation 2 is too general.
+Translation 2 在準確性和易懂性方面都略勝一籌，更清晰地表達了請求翻譯日文文本為中文的意圖。
 
 ### Updated Output
 ```
-請提供需要翻譯的日文阿伊努語神歌腳註文本。
+請提供您希望我翻譯成繁體中文的日語文本。
 ```
 

@@ -4,7 +4,7 @@
 
 ## Pon Horkeukamui yaieyukar, “Hotenao” 
 ## 小狼の神が自ら歌った謡「ホテナオ」
-## Ainu Chant Footnote Translation
+## Ainu Chant Footnotes Translation
 
 ### System prompt
 ```
@@ -52,33 +52,33 @@ This is the Japanese text.
 
 
 This is the English Translation 1.
-Please provide the Japanese text for translation.
+Please provide the Japanese text you would like me to translate into English.
 
 This is the English Translation 2.
-Please provide the Japanese Ainu chant footnote text that needs to be translated.
+Please provide the Japanese text that needs to be translated.
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 4 | 4 |  4.0 |
-| Translation 2 | 3 | 5 |  3.8 |
+| Translation 1 | 0 | 0 |  0.0 |
+| Translation 2 | 0 | 0 |  0.0 |
 
 ### Comments
 #### Translation 1
-Translation 1 maintains a closer connection to the original Japanese, making it more suitable for understanding the nuances of the chant. It prioritizes accuracy over stylistic flair.
+Need Japanese text to provide pros and cons.
 
 #### Translation 2
-Translation 2 attempts a more poetic rendering, which can be helpful for conveying the spirit of the chant but sacrifices some accuracy in the details. It might be less useful for someone trying to understand the literal meaning of the footnotes.
+Need Japanese text to provide pros and cons.
 
 ### Better Choice
-Translation 1
+N/A
 #### Comment
-Translation 1 is better because it maintains a more literal connection to the original Japanese, which is crucial for understanding footnotes related to a chant. While Translation 2 attempts to be more poetic, it loses some of the directness and clarity needed for annotations. The weighted score reflects this preference for accuracy.
+Cannot determine the better translation without the Japanese text and the two English translations.
 
 ### Updated Output
 ```
-Please provide the Japanese Ainu chant footnote text that needs to be translated, along with the two English translations you have.
+Please provide the Japanese text and the two English translations to proceed.
 ```
 

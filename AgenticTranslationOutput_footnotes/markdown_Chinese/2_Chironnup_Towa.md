@@ -66,72 +66,71 @@ ashurkorkur は村の近くへ来た時に先ず大声をあげて hokokse(フ�
 (8) peutanke......rimimse と同じ意ですが,これは普通よく用いられる言葉で,rimimse の方は少し難かしい言葉になっています.
 
 This is the Chinese Translation 1.
-[1] isoeonkami.iso 是海幸,eonkami 是......謝罪之意. 
-人們相信鯨魚擱淺是海神為了賜予人類，親自帶來並推上岸的。屆時，德高望重之人必會盛裝打扮，面向大海的方向進行禮拜。
-[2] ononno.這是出海或上山打獵的人，帶著獵物歸來時，迎接他們的人們口中常說的話語。
-[3] uniwente......大水災、火災、火山爆發等各種天災之後，或有人被熊吞食、落入海或河中，以及其他因意外而受傷或死亡時所舉行的儀式。
-屆時，人們會互相用槍或刀尖碰觸，並互致哀悼之意。一個村莊若有受災者，鄰近村莊會派遣眾多代表聚集到該村莊舉行儀式，即使只有一人也會舉行。
-[4] hokokse......在 uniwente 時，或發生重大變故時，向神明祈求救助時男性的呼喊聲。發出「フオホホーイ」的聲音，僅限男性。
-[5] ashur 是奇異的故事，ek 是到來。
-......指從遠離村莊的地方旅行的人，生病或去世時，由該地派遣使者將變故告知其故鄉，或由其他村莊的人前來告知某人去世，或發生了某某奇異之事。 
-該使者被稱為 ashurkorkur（帶有奇異故事之人）。
-ashurkorkur 在靠近村莊時，首先會大聲呼喊 hokokse（フオホホーイ）。聽到呼喊聲的村民，也會大聲呼喊，並到村莊邊緣迎接使者，詢問變故。
-[6] uchishkar......互相哭泣。這是女性的寒暄方式，久別重逢時、近親去世時、有人遭遇重大危險倖免於難時等情況下，女性之間會手牽著手，或互相擁抱頭部或肩膀哭泣。
-[7] matrimimse（女性的呼喊聲）......在緊急情況或 uniwente 的情況下，男性會發出粗獷的 hokokse（フオホホーイ）聲，而女性則會發出細微的ホーイ聲。
-據說女性的聲音比男性的聲音更高亢響亮，因此神明會先聽到。因此，在發生緊急情況時，即使是男性也會像女性一樣發出細微的聲音，呼喊兩三聲。
-[8] peutanke......與 rimimse 意思相同，但這是通常使用的詞語，rimimse 則稍微是較難的詞語。
+(1) isoeonkami.iso 是海幸, eonkami 是......謝罪之事.
+鯨魚被沖上岸，是因為相信海神為了賜予人類，親自帶來並沖上岸的，所以這時一定會由重要人物盛裝打扮，面向大海的方向進行禮拜。
+(2) ononno. 這是出海或上山打獵的人，帶著獵物回來時，迎接的人們異口同聲說的話語。
+(3) uniwente......大水災之後、火災之後、火山爆發之後，或其他種種天災之後等等，或者有人被熊吃掉，掉入海或河裡，或其他任何原因受傷或死亡時所舉行的儀式。
+那時會互相將槍或刀的尖端抵在一起，交換慰問的話語。一個村莊若有災民，附近村莊會有很多代表聚集到該村莊舉行儀式，即使只有一個人也會舉行。
+(4) hokokse......uniwente 的時候，或者發生重大變故時，向神明尋求救助時男人的叫喊聲。フオホホーイ，這僅限於男性。
+(5) ashur 是變故的消息，ek 是到來。
+......從村莊遙遠的地方出外旅行的人，生病或死亡時，從該地派遣使者到那人的故鄉告知變故，或者從其他村莊有人來告知誰誰誰死了，或發生了什麼變故等等。將該使者稱為 ashurkorkur(帶有變故消息的人)。
+ashurkorkur 在靠近村莊時，首先會大聲呼喊 hokokse(フオホホーイ)。聽到叫聲的村民，也會大聲叫喊著到村莊邊緣迎接，並詢問變故。
+(6) uchishkar......互相哭泣。這是女性的寒暄，長久分離後再次相遇時，近親過世時，或有人遭遇重大危險好不容易脫險時等等，女性之間會手牽著手，或互相擁抱頭或肩膀哭泣。
+(7) matrimimse(女性的叫喊聲)......在發生緊急情況或 uniwente 的情況下，男性會發出粗獷的 hokokse(フオホホーイ)聲，而女性則會細聲地叫ホーイ。據說女性的聲音比男性的聲音更高亢響亮，所以神明會先聽到。因此，在發生緊急變故時，即使是男性也會像女性一樣發出細微的聲音，叫喊兩三聲。
+(8) peutanke......與 rimimse 意思相同，但這是普通常用的詞語，rimimse 則稍微是比較難的詞語。
 
 This is the Chinese Translation 2.
-（1）isoeonkami。iso 意為海洋的祝福，eonkami 意為……感謝某事。
-人們相信，當鯨魚被沖上岸時，是海神親自將其帶給人類並沖上岸。那時，重要人物會盛裝打扮，朝向大海祭拜。
+（1）isoeonkami。iso 意為捕魚，eonkami 意為感謝某事。
+人們相信，當鯨魚被沖上岸時，是海神親自將其帶給人類並沖上岸。屆時，重要人物會盛裝打扮，面向大海祭拜。
 （2）ononno。這是人們在有人從山裡或海上帶著獵物回來時所說的話。
-（3）uniwente……在發生重大洪水、火災、火山爆發或其他自然災害之後，或者當有人被熊吃掉、掉入海或河流中，或因任何不尋常的事件而受傷或死亡時，所舉行的儀式。
-那時，他們會互相用矛和劍的尖端指著對方，交換慰問之詞。當一個村莊出現災難受害者時，許多來自鄰近村莊的代表會聚集在該村莊舉行儀式，但也可以由一個人來完成。
-（4）hokokse……在 uniwente 期間或發生可怕事件時，男人向神發出的求救聲。它就像「Hoo-hoo-hoi」，而且僅限於男性。
+（3）uniwente... 在發生重大洪水、火災、火山爆發或其他自然災害之後，或者當一個人被熊吃掉、掉入海或河流中，或因某些不尋常的事件而受傷或死亡時所進行的儀式。
+屆時，他們會互相用矛和劍尖指著對方，同時交換慰問之詞。當一個村莊出現災民時，許多鄰村的代表會聚集到該村莊舉行儀式，但也可以由一個人來完成。
+（4）hokokse... 男人在 uniwente 期間或發生可怕事件時向神發出的求救聲。是「Hohohoi」，而且僅限於男性。
 （5）ashur 意為奇怪的故事，ek 意為到來。
-……當有人遠離村莊生病或死亡時，會有人從那個地方來通知他們的家鄉發生了這件事，或者當有人從另一個村莊來通知該村莊有人死亡或發生了奇怪的事情時。
-那個信使被稱為 ashurkorkur（一個帶著奇怪故事的人）。
-ashurkorkur 接近村莊時，他們首先大聲喊叫 hokokse（Hoo-hoo-hoi）。然後，聽到它的村民也會大聲喊叫，並走到村莊的邊緣去聽這個奇怪的故事。
-（6）uchishkar……一起哭泣。這是女性的問候語，當她們在長期分離後相遇，當一位近親去世，或者當有人身處極大的危險中並勉強逃脫時，女性會手牽著手，擁抱彼此的頭或肩膀，然後哭泣。
-（7）matrimimse（女性的哭聲）……在發生突發變化或 uniwente 的情況下，男性會發出像 hokokse（Hoo-hoo-hoi）一樣的響亮聲音，但女性會發出像「Hoo-ee」一樣的細微聲音。
-據說女性的聲音比男性的聲音更高更強，所以她們的聲音首先傳到神靈的耳朵裡。因此，當發生突發事件時，即使是男性也會發出像女性一樣的細微聲音，並喊叫兩三次。
-（8）peutanke……它的意思與 rimimse 相同，但這是一個常用的詞，而 rimimse 是一個稍微難懂的詞。
+...當有人遠離村莊生病或死亡時，會從那個地方派來使者，將事件告知此人的家鄉，或者當另一個村莊的人來告知該村莊有人死亡或發生了奇怪的事情時。
+那個使者被稱為 ashurkorkur（講述奇怪故事的人）。
+ashurkorkur 靠近村莊時，他首先會大聲喊叫 hokokse（Hohohoi）。然後，聽到它的村民也會大聲喊叫，並走到村莊邊緣去聽這個奇怪的故事。
+（6）uchishkar... 一起哭泣。這是女性的問候語，當她們在長期分離後相遇，當近親去世，或者當有人身處極度危險之中並勉強逃脫時，女性會手牽手或互相擁抱頭部或肩膀並哭泣。
+（7）matrimimse（女性的哭聲）... 在發生突發變化或 uniwente 時，男性會發出高亢的 hokokse（Hohohoi）聲音，但女性會發出微弱的「Hoi」哭聲。
+據說女性的聲音比男性的聲音更高更強，因此她們的聲音首先傳到神靈的耳朵裡。因此，當發生突發變化時，即使是男性也會像女性一樣發出微弱的聲音並喊叫兩三聲。
+（8）peutanke... 它與 rimimse 具有相同的含義，但這是一個常用的詞，而 rimimse 是一個稍微難懂的詞。
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 4 | 4 |  4.0 |
-| Translation 2 | 5 | 5 |  5.0 |
+| Translation 1 | 4 | 5 |  4.4 |
+| Translation 2 | 5 | 4 |  4.6 |
 
 ### Comments
 #### Translation 1
-Translation 1 is generally accurate but uses some slightly less common expressions.
+Pros: Translation 1 uses more modern and common vocabulary, making it easier to understand for contemporary Chinese readers. It also maintains a good flow and readability.
+Cons: There are a few instances where the translation could be more precise in conveying the nuances of the original Japanese text. The consistency in handling Ainu terms could be improved.
 
 #### Translation 2
-Translation 2 is generally accurate and uses more modern and natural Chinese.
+Pros: Translation 2 is generally more accurate in conveying the original meaning, especially in the nuances of certain cultural aspects and explanations. It also consistently keeps the original Ainu terms.
+Cons: Some parts of Translation 2 sound a bit formal or less natural in modern Chinese. The flow and readability could be improved in certain sections.
 
 ### Better Choice
 Translation 2
 #### Comment
-Translation 2 is slightly better because it uses more natural and modern Chinese expressions. For example, in (3), Translation 2 uses "自然災害" (natural disasters) which is more common than Translation 1's "天災" (natural disasters). Also, Translation 2 keeps the original form of "Hoo-hoo-hoi" and "Hoo-ee", which is better for preserving the original text's feeling.
+Translation 2 is chosen as the better translation because it has a higher weighted score (4.6) than Translation 1 (4.4). Although Translation 1 is easier to understand, Translation 2 excels in accurately preserving the original meaning, which is the most important criterion (60%).
 
 ### Updated Output
 ```
-（1）isoeonkami。iso 意為海洋的祝福，eonkami 意為……感謝某事。
-人們相信，當鯨魚被沖上岸時，是海神親自將其帶給人類並沖上岸。那時，重要人物會盛裝打扮，朝向大海祭拜。
-（2）ononno。這是出海或上山打獵的人，帶著獵物歸來時，迎接他們的人們口中常說的話語。
-（3）uniwente……在發生重大洪水、火災、火山爆發或其他自然災害之後，或者當有人被熊吃掉、掉入海或河流中，或因任何不尋常的事件而受傷或死亡時，所舉行的儀式。
-那時，他們會互相用矛和劍的尖端指著對方，交換慰問之詞。當一個村莊出現災難受害者時，許多來自鄰近村莊的代表會聚集在該村莊舉行儀式，但也可以由一個人來完成。
-（4）hokokse……在 uniwente 期間或發生可怕事件時，男人向神發出的求救聲。它就像「フオホホーイ」，而且僅限於男性。
-（5）ashur 意為奇怪的故事，ek 意為到來。
-……當有人遠離村莊生病或死亡時，會有人從那個地方來通知他們的家鄉發生了這件事，或者當有人從另一個村莊來通知該村莊有人死亡或發生了奇怪的事情時。
-那個信使被稱為 ashurkorkur（一個帶著奇怪故事的人）。
-ashurkorkur 接近村莊時，他們首先大聲喊叫 hokokse（フオホホーイ）。然後，聽到它的村民也會大聲喊叫，並走到村莊的邊緣去聽這個奇怪的故事。
-（6）uchishkar……一起哭泣。這是女性的問候語，當她們在長期分離後相遇，當一位近親去世，或者當有人身處極大的危險中並勉強逃脫時，女性會手牽著手，擁抱彼此的頭或肩膀，然後哭泣。
-（7）matrimimse（女性的哭聲）……在發生突發變化或 uniwente 的情況下，男性會發出像 hokokse（フオホホーイ）一樣的響亮聲音，但女性會發出像「ホーイ」一樣的細微聲音。
-據說女性的聲音比男性的聲音更高更強，所以她們的聲音首先傳到神靈的耳朵裡。因此，當發生突發事件時，即使是男性也會發出像女性一樣的細微聲音，並喊叫兩三次。
-（8）peutanke……它的意思與 rimimse 相同，但這是一個常用的詞，而 rimimse 是一個稍微難懂的詞。
+（1）isoeonkami。iso 意為海幸，eonkami 意為......謝罪之事。
+人們相信，當鯨魚被沖上岸時，是海神為了賜予人類而親自將其帶上岸。屆時，重要人物會盛裝打扮，面向大海祭拜。
+（2）ononno。這是出海或上山打獵的人帶著獵物回來時，迎接的人們異口同聲所說的話語。
+（3）uniwente...... 在發生大水災、火災、火山爆發或其他種種天災之後，或者有人被熊吃掉、掉入海或河裡，或因其他任何不尋常的事件而受傷或死亡時所舉行的儀式。
+屆時，他們會互相將槍或刀的尖端抵在一起，交換慰問的話語。一個村莊若有災民，附近村莊會有很多代表聚集到該村莊舉行儀式，即使只有一個人也會舉行。
+（4）hokokse...... 男人在 uniwente 期間或發生重大變故時向神明發出的求救聲。是「フオホホーイ」，而且僅限於男性。
+（5）ashur 意為變故的消息，ek 意為到來。
+......當有人從村莊遙遠的地方出外旅行，生病或死亡時，會從該地派遣使者到那人的故鄉告知變故，或者從其他村莊有人來告知誰誰誰死了，或發生了什麼變故等等。
+那個使者被稱為 ashurkorkur（帶有變故消息的人）。
+ashurkorkur 在靠近村莊時，首先會大聲呼喊 hokokse（フオホホーイ）。然後，聽到叫聲的村民，也會大聲叫喊著到村莊邊緣迎接，並詢問變故。
+（6）uchishkar...... 互相哭泣。這是女性的寒暄，長久分離後再次相遇時，近親過世時，或有人遭遇重大危險好不容易脫險時等等，女性之間會手牽著手，或互相擁抱頭或肩膀哭泣。
+（7）matrimimse（女性的叫喊聲）...... 在發生緊急情況或 uniwente 的情況下，男性會發出粗獷的 hokokse（フオホホーイ）聲，而女性則會細聲地叫ホーイ。據說女性的聲音比男性的聲音更高亢響亮，所以神明會先聽到。因此，在發生緊急變故時，即使是男性也會像女性一樣發出細微的聲音，叫喊兩三聲。
+（8）peutanke......與 rimimse 意思相同，但這是普通常用的詞語，rimimse 則稍微是比較難的詞語。
 ```
 

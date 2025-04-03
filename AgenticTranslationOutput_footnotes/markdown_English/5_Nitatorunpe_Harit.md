@@ -52,33 +52,33 @@ This is the Japanese text.
 
 
 This is the English Translation 1.
-Please provide the Japanese text for translation.
+Please provide the Japanese text you want me to translate into English.
 
 This is the English Translation 2.
-Please provide the Chinese text for translation.
+Please provide the Japanese text that needs to be translated.
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 4 | 4 |  4.0 |
-| Translation 2 | 3 | 3 |  3.0 |
+| Translation 1 | 0 | 0 |  0.0 |
+| Translation 2 | 0 | 0 |  0.0 |
 
 ### Comments
 #### Translation 1
-Translation 1 provides a straightforward and relatively accurate rendering of the Japanese footnotes. It maintains a good balance between literal translation and readability. However, some phrases could be refined for better flow and naturalness in English.
+Please provide the Japanese text to analyze Translation 1.
 
 #### Translation 2
-Translation 2 attempts a more interpretive and poetic translation, which results in some loss of accuracy. While it captures the overall sentiment, certain phrases deviate significantly from the original meaning. The language used is also less accessible and harder to understand.
+Please provide the Japanese text to analyze Translation 2.
 
 ### Better Choice
-Translation 1
+N/A
 #### Comment
-Translation 1 is better because it maintains a more literal and understandable rendering of the original Japanese, especially concerning cultural nuances. While Translation 2 attempts a more poetic approach, it sacrifices clarity and accuracy in certain areas. The weighted score reflects this preference for accuracy.
+Cannot determine the better translation without the Japanese text and the two English translations.
 
 ### Updated Output
 ```
-Please provide the Japanese text for translation.
+Please provide the Japanese text to generate an updated translation.
 ```
 

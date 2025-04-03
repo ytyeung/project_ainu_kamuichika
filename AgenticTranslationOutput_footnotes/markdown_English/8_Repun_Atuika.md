@@ -4,7 +4,7 @@
 
 ## Repun Kamui yaieyukar, “Atuika tomatomaki kuntuteashi hm hm!” 
 ## 海の神が自ら歌った謡「アトイカ トマトマキ クントテアシ フム フム!」
-## Ainu Chant Footnote Translation
+## Translation of Ainu Chant Footnote
 
 ### System prompt
 ```
@@ -52,10 +52,10 @@ This is the Japanese text.
 (1) 御幣で飾りをつけたものであって,神様にお神酒を上げる時に使います.この kike-ush-pashui は人間の代理を勤めて,人間が神様に云おうと思う事を神様のところへ行って,伝えると云います.御幣をつけていない普通の箸を iku pashui と云います(酒宴の箸).
 
 This is the English Translation 1.
-It is a decoration made with gohei, and it is used when offering sake to the gods. This kike-ush-pashui acts as a representative of humans, and it is said to go to the gods and convey what humans want to say to them. Ordinary chopsticks without gohei are called iku pashui (sake feast chopsticks).
+(1) It is a decoration with gohei, and it is used when offering sake to the gods. This kike-ush-pashui acts as a proxy for humans, and it is said to go to the gods and convey what humans want to say to them. Ordinary chopsticks without gohei are called iku pashui (chopsticks for feasts).
 
 This is the English Translation 2.
-This is an object decorated with gohei, used to offer sacred sake to the gods. This kike-ush-pashui acts as an agent of humans, conveying what humans want to say to the gods. Ordinary chopsticks without gohei decorations are called iku pashui (chopsticks for feasts).
+(1) The items decorated with gohei are used when offering sacred sake to the gods. This kike-ush-pashui acts as an agent of humans, conveying what humans want to say to the gods. Ordinary chopsticks without gohei decorations are called iku pashui (chopsticks for feasts).
 
 ```
 ### Scoring
@@ -67,18 +67,18 @@ This is an object decorated with gohei, used to offer sacred sake to the gods. T
 
 ### Comments
 #### Translation 1
-Translation 1 is straightforward and understandable, but some word choices are slightly less precise (e.g., "representative" instead of "agent").
+Pros: Simple and direct. Cons: Slightly awkward phrasing (e.g., 'what humans want to say to them').
 
 #### Translation 2
-Translation 2 uses slightly more precise language and reads more smoothly. The term "sacred sake" is a better translation of お神酒.
+Pros: More polished and natural-sounding. Uses 'agent' instead of 'proxy,' which is a better fit. Cons: None significant.
 
 ### Better Choice
 Translation 2
 #### Comment
-Translation 2 uses slightly more precise language (e.g., "sacred sake," "agent") and flows a bit better. While both are understandable, Translation 2 edges out Translation 1 in clarity and accuracy.
+Translation 2 is slightly better due to its more natural phrasing and accurate word choice ('agent' vs. 'proxy'). It conveys the meaning more effectively.
 
 ### Updated Output
 ```
-This is an object decorated with gohei, used to offer sacred sake to the gods. This kike-ush-pashui acts as an agent for humans, conveying what humans want to say to the gods. Ordinary chopsticks without gohei decorations are called iku pashui (chopsticks for sake feasts).
+(1) Items decorated with gohei are used when offering sacred sake to the gods. This kike-ush-pashui acts as an agent for humans, conveying what humans want to say to the gods. Ordinary chopsticks without gohei decorations are called iku pashui (chopsticks for feasts).
 ```
 

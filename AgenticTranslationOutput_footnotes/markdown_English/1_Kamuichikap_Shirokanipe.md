@@ -79,90 +79,90 @@ kotankorkamui は山の神,山の東の神,の様に荒々しいあわて者で�
 御幣棚の神も女性にきまっています.何か変事の場合人間にあらわれる事がありますが,その時は蛇の形をかりてあらわれると云います.それで御幣棚の近所に,または東の方の窗の近所に,蛇が出て来たりすると,「きっと御幣棚のおばあさんが用事があって外出したのだろう」と言って,決してその蛇を殺しません.殺すと罰が当りますと云います.
 
 This is the English Translation 1.
-(1) In the old days, when a boy grew a little older, they would make and give him a small bow and arrow. The child would play by shooting at trees and birds, unknowingly becoming skilled in archery. ak...... means archery, shinot means play, and ponai means small arrow.
-(2) shiktumorke...... means gaze. It is said that when you want to know a person's character, you can best understand it by looking at their eyes, and they would be scolded if they looked around restlessly.
-(3) achikara...... means "dirty".
+(1) In the past, when a boy grew a little older, he would be given a small bow and arrow. The child would play by shooting at trees and birds, unknowingly becoming skilled in archery. ak...... means archery, shinot means play, and ponai means small arrow.
+(2) shiktumorke...... means the look in one's eyes. It is said that when you want to know a person's true nature, you can best understand it by looking at their eyes, and they will be scolded if they look around restlessly.
+(3) achikara...... means "dirty."
 (4) It is said that birds and animals are shot down by people because they want the arrows made by people, so they take the arrows.
-(5) kotankorkamui...... means a god who owns a country or village. In the mountains, there is nupurikorkamui...... a god who owns the mountain (bear), and nupuripakorkamui...... a god who owns the east of the mountain (wolf), and the owl is ranked after the bear and wolf. kotankorkamui is not a rough and hasty person like the mountain god or the god of the east of the mountain. Therefore, they are usually calm and always have their eyes closed, and it is said that they only open their eyes when something very serious happens.
+(5) kotankorkamui...... means a god who owns a country or village. In the mountains, there are nupurikorkamui...... a god who owns a mountain (bear), and nupuripakorkamui...... a god who owns the east side of the mountain (wolf), and the owl is ranked after the bear and wolf. kotankorkamui is not a rough and hasty person like the mountain god or the god of the east side of the mountain. Therefore, they are usually calm and always have their eyes closed, and it is said that they only open their eyes when something very serious happens.
 (6) eharkiso...... means the left seat.
-(7) eshiso...... means the right seat. There is a hearth in the center of the house, and the side with the east-facing window is the upper seat. When viewed from the upper seat, the right side is eshiso and the left side is harkiso. Only men can sit in the upper seat. Guests who are of lower status than the head of the house will refrain from taking the upper seat. It is customary for the host and his wife to sit side by side in the right seat. The seat next to the right seat is the left seat, and the seat on the west side (towards the doorway) is the lowest seat.
-(8) hayokpe means helmet. It is said that when birds or animals are in the mountains, they are invisible to human eyes, but each has a house like humans, and they all live in the same form as humans, and when they come to human villages, they wear helmets. And it is said that the corpses of birds and animals are helmets, and the main body is invisible, but it is between the ears of the corpse.
-(9) otuipe...... means a guy with a cut-off butt. Short tails like a dog's cut-off tail are not highly valued. They use wenpe...... bad guy, otuipe...... guy with a cut-off tail as insults for insignificant people.
-(10) chikashnukar. When a god is very pleased with a human, and bestows some great fortune on that human in an unexpected place, that person rejoices, saying ikashnukar an.
-(11) apehuchi...... means fire old woman. The fire goddess is the most revered goddess in the house and is always an old woman. When mountain gods, sea gods, and other various gods come to the house as guests like this owl, this apehuchi takes the lead in entertaining the guests and talking to them. It is also acceptable to simply call her kamuihuchi (god old woman).
-(12) neusar means talking to each other. Talking about various worldly matters is also neusar. Usually, things like kamuiyukar (god chants) and uwepeker (old tales) are called neusar.
+(7) eshiso...... means the right seat. There is a hearth in the center of the house, and the side with the east-facing window is the upper seat. Looking from the upper seat, the right side is eshiso and the left side is harkiso. Only men can sit in the upper seat. Guests who are of lower status than the head of the house will refrain from sitting in the upper seat. It is customary for the host and his wife to sit side by side in the right seat. The next seat to the right seat is the left seat, and the seat on the west side (towards the doorway) is the lowest seat.
+(8) hayokpe means helmet. It is said that when birds or animals are in the mountains, they are invisible to human eyes, but each has a house like a human being, and they all live in the same form as humans, and when they come to human villages, they wear helmets. And it is said that the corpses of birds and animals are helmets, and the main body is invisible, but it is between the ears of the corpse.
+(9) otuipe...... means a guy with a cut-off butt. A short dog tail, as if it were cut off, is not highly valued. They use insults for insignificant people, such as wenpe...... bad guy, otuipe...... guy with a cut-off tail.
+(10) chikashnukar. When a god is very pleased with a human being, and bestows some great fortune on that person in a completely unexpected place, that person rejoices, saying ikashnukar an.
+(11) apehuchi...... means the old woman of fire. The fire goddess is the most revered goddess in the house and is always an old woman. When mountain gods, sea gods, and other various gods come to the house as guests like this owl, this apehuchi takes the lead in entertaining the guests and talking to them. It is also acceptable to simply call her kamuihuchi (god old woman).
+(12) neusar means talking to each other. Talking about various worldly things is also neusar. Usually, things like kamuiyukar (god chant) and uwepeker (old tales) are called neusar.
 (13) ashke a uk. ashke means finger, hand. a uk means to take. It means inviting people when there is a celebration.
-(14) kakkokhau...... means the sound of a cuckoo bird. Because the sound of the cuckoo bird is beautiful and clear, people who speak clearly and understandably are said to be like cuckoo birds.
+(14) kakkokhau...... means the voice of the cuckoo bird. Because the voice of the cuckoo bird is beautiful and clear, people who speak clearly and understandably to everyone are said to be like cuckoo birds.
 (15) chisekorkamui...... means a god who owns a house. The fire god is like the housewife, and the house god is like the master of the house. A man is also called chisekorekashi...... an old man who owns a house.
-(16) nusakorkamui...... means a god who owns a sacred shelf, an old woman. The god of the sacred shelf is also always a woman. She may appear to humans in the event of an emergency, but it is said that she appears in the form of a snake. Therefore, if a snake appears near the sacred shelf or near the east window, they say, "Surely the old woman of the sacred shelf has gone out on business," and they never kill the snake. It is said that killing it will bring punishment.
+(16) nusakorkamui...... means a god who owns a sacred pole shelf, an old woman. The god of the sacred pole shelf is also always a woman. She may appear to humans in the event of an emergency, but it is said that she appears in the form of a snake. Therefore, if a snake appears near the sacred pole shelf or near the east window, people say, "The old woman of the sacred pole shelf must have gone out on business," and they never kill the snake. It is said that if you kill it, you will be punished.
 
 This is the English Translation 2.
-(1) When boys grew up a little, small bows and arrows would be made for them. The children would use them to shoot at trees and birds as targets for play, and before they knew it, they would master the art of archery.
+(1) In the past, when boys grew up a little, they would be given small bows and arrows. The children would use them to play, aiming at trees or birds, and unconsciously master the art of archery.
 ak...... is archery, shinot is play, ponai is a small arrow.
 (2) shiktumorke......eyes.
-It is said that when you want to understand a person's nature, the clearest thing to look at is their eyes. Being shifty-eyed would result in scolding.
+When people want to understand a person's nature, they say that the eyes are the clearest indicator, and even a slight glance to the left or right would be scolded.
 (3) achikara......means "dirty."
-(4) It is said that birds and beasts are shot down by people because they want the arrows made by people, so they go to take the arrows.
+(4) It is said that birds or beasts are shot down by people because they want the arrows made by humans, so they go to retrieve them.
 (5) kotankorkamui......a god who owns a country or village.
-In the mountains, there is nupurikorkamui......a god who owns the mountain (bear) and nupuripakorkamui......a god who owns the east side of the mountain (wolf), etc. The owl's position is second only to the bear and wolf.
-kotankorkamui is not as rough and flustered as the mountain god or the god of the east side of the mountain. Therefore, he is usually calm and composed, always with his eyes closed, and only opens his eyes when there is a very important matter.
+In the mountains, there are nupurikorkamui......gods who own the mountains (bears) and nupuripakorkamui......gods who own the eastern part of the mountains (wolves), etc. The owl's position is second only to bears and wolves.
+kotankorkamui is not as rough and flustered as the mountain gods or the gods of the eastern mountains. Therefore, they are usually calm and composed, always with their eyes closed, and only open them when there is a very important matter.
 (6) eharkiso......the seat on the left.
 (7) eshiso......the seat on the right.
-In the center of the house is a hearth, and the direction of the east window is the upper seat. Looking from the upper seat, the right side is eshiso, and the left side is harkiso. Only men can sit in the upper seat. If a guest or someone of lower status than the head of the household is present, they will avoid sitting in the upper seat. The right seat is reserved for the husband and wife to sit side by side. The next seat to the right seat is the left seat, and the seat on the west side (near the entrance) is the lowest seat.
+In the center of the house is a hearth, and the direction of the east window is the upper seat. Looking from the upper seat, the right side is eshiso, and the left side is harkiso. Only men are allowed to sit in the upper seat. If the guest's status is lower than the house owner, they will avoid sitting in the upper seat. The right seat is usually where the owner couple sits side by side. The next seat to the right seat is the left seat, and the seat on the west side (near the entrance) is the lower seat.
 (8) hayokpe helmet.
-It is said that when birds or beasts are in the mountains, they are invisible to human eyes, but they each have houses like humans, and everyone lives in the same form as humans. When they go to human villages, they put on helmets. Moreover, the corpses of birds and beasts are helmets, and the main body is invisible, but it is between the ears of the corpse.
-(9) otuipe......a guy with a broken tail.
-A short tail, like a dog with a broken tail, is not highly valued.
-Wenpe......bad guy, otuipe......a guy with a broken tail, are used to insult extremely useless people.
-(10) chikashnukar. When a god likes someone very much, and gives that person some great happiness in a completely unexpected place, that person will say ikashnukar an to express joy.
-(11) apehuchi......old woman of fire. The fire god is the most honorable god in the house, and must be an old woman. When mountain gods, sea gods, and other various gods come to the house as guests like this owl, this apehuchi presides over the reception of guests and speaks. She can also be called kamuihuchi (god old woman) directly.
-(12) neusar telling each other.
-Telling each other various chats is also neusar. Generally speaking, things like kamuiyukar (god tales) or uwepeker (old tales) are called neusar.
-(13) ashke a uk. ashke is finger, hand. a uk is to take. It refers to inviting people when there is a celebration.
-(14) kakkokhau......cuckoo's cry.
-The cuckoo's cry, beautiful and clear, echoes in the ears, so the cuckoo is used to describe someone who speaks clearly and is easy for everyone to understand.
-(15) chisekorkamui......a god who owns a house.
-The fire god is like the housewife, and the house god is like the master of the house. Men are called chisekorekashi......old man who owns the house.
-(16) nusakorkamui......a god who owns the altar, an old woman.
-The god of the altar must also be female. When something happens, she sometimes appears to humans, and it is said that she borrows the shape of a snake to appear. Therefore, if a snake appears near the altar or near the east window, people will say, "The grandmother of the altar must have gone out on business," and will never kill the snake. It is said that killing it will be punished.
+It is said that when birds or beasts are in the mountains, they are invisible to human eyes, but they each have homes like humans, and they all live in the same form as humans. When they go to human villages, they put on helmets. Moreover, the corpses of birds or beasts are helmets, and the main body is invisible, but between the ears of the corpse.
+(9) otuipe......a guy with a broken butt.
+A short tail that is broken off like a dog's tail is not highly valued.
+For extremely insignificant people, they will be verbally abused, saying that he is wenpe......a bad guy, otuipe......a guy with a broken tail.
+(10) chikashnukar. When a god likes someone very much, and gives that person some great happiness in a completely unexpected place, that person will say ikashnukar an and be happy.
+(11) apehuchi......the old woman of fire. The fire god is the most honorable god in the house, and must be an old grandmother. When mountain gods, sea gods, and other various gods come to the house as guests like this owl, this apehuchi presides over the reception and speaks. It can also be called kamuihuchi (god old woman) directly.
+(12) neusar talking to each other.
+Talking to each other about various casual topics is also called neusar. Usually things like kamuiyukar (god tales) or uwepeker (old tales) are called neusar.
+(13) ashke a uk. ashke is finger, hand. a uk is to take. It means inviting people when there is a celebration.
+(14) kakkokhau......the call of the cuckoo.
+The call of the cuckoo, beautiful and clear, echoes in the ears, so for people who speak clearly and are easy for everyone to understand, they will say that he is like a cuckoo.
+(15) chisekorkamui......the god who owns the house.
+The fire god is like the housewife, and the house god is like the master. Men are called chisekorekashi......the old grandfather who owns the house.
+(16) nusakorkamui......the god of the altar, the old woman.
+The god of the altar must also be a woman. When there is a change, she sometimes appears to humans, but it is said that she borrows the shape of a snake to appear at that time. Therefore, if a snake appears near the altar or near the east window, it will be said, "The old grandmother of the altar must have gone out," and the snake will never be killed. It is said that killing it will be punished.
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 5 | 4 |  4.6 |
-| Translation 2 | 4 | 4 |  4.0 |
+| Translation 1 | 4 | 4 |  4.0 |
+| Translation 2 | 4 | 5 |  4.4 |
 
 ### Comments
 #### Translation 1
-Pros: Accurate translation of the Ainu terms and their meanings. Cons: Some sentences are slightly awkward in their phrasing.
+Pros: More detailed explanations and contextual information. Cons: Some sentences are a bit wordy and less concise.
 
 #### Translation 2
-Pros: Concise and generally accurate. Cons: Some phrases are less natural-sounding compared to Translation 1.
+Pros: More concise and easier to read. Cons: Less detailed explanations and contextual information.
 
 ### Better Choice
-Translation 1
+Translation 2
 #### Comment
-Translation 1 is slightly better because it maintains a more consistent and natural flow in its phrasing. While both translations are generally accurate, Translation 1's sentence structures and word choices make it marginally easier to read and understand. For example, in section (2), Translation 1's "It is said that when you want to know a person's character, you can best understand it by looking at their eyes" is more natural than Translation 2's "It is said that when you want to understand a person's nature, the clearest thing to look at is their eyes."
+Translation 2 is slightly better due to its greater ease of understanding while maintaining a similar level of accuracy. The conciseness improves readability.
 
 ### Updated Output
 ```
-(1) In the old days, when a boy grew a little older, they would make and give him a small bow and arrow. The child would play by shooting at trees and birds, unknowingly becoming skilled in archery. ak...... means archery, shinot means play, and ponai means small arrow.
-(2) shiktumorke...... means gaze. It is said that when you want to understand a person's nature, you can best understand it by looking at their eyes, and they would be scolded if they looked around restlessly.
-(3) achikara...... means "dirty".
-(4) It is said that birds and animals are shot down by people because they want the arrows made by people, so they take the arrows.
-(5) kotankorkamui...... means a god who owns a country or village. In the mountains, there is nupurikorkamui...... a god who owns the mountain (bear), and nupuripakorkamui...... a god who owns the east of the mountain (wolf), and the owl is ranked after the bear and wolf. kotankorkamui is not as rough and hasty as the mountain god or the god of the east of the mountain. Therefore, they are usually calm and always have their eyes closed, and it is said that they only open their eyes when something very serious happens.
-(6) eharkiso...... means the left seat.
-(7) eshiso...... means the right seat. There is a hearth in the center of the house, and the side with the east-facing window is the upper seat. When viewed from the upper seat, the right side is eshiso and the left side is harkiso. Only men can sit in the upper seat. Guests who are of lower status than the head of the house will refrain from taking the upper seat. It is customary for the host and his wife to sit side by side in the right seat. The seat next to the right seat is the left seat, and the seat on the west side (towards the doorway) is the lowest seat.
-(8) hayokpe means helmet. It is said that when birds or animals are in the mountains, they are invisible to human eyes, but each has a house like humans, and they all live in the same form as humans. When they go to human villages, they put on helmets. Moreover, the corpses of birds and animals are helmets, and the main body is invisible, but it is between the ears of the corpse.
-(9) otuipe...... means a guy with a cut-off butt. Short tails like a dog's cut-off tail are not highly valued. They use wenpe...... bad guy, otuipe...... guy with a cut-off tail as insults for insignificant people.
-(10) chikashnukar. When a god is very pleased with a human, and bestows some great fortune on that human in an unexpected place, that person rejoices, saying ikashnukar an.
-(11) apehuchi...... means fire old woman. The fire goddess is the most revered goddess in the house and is always an old woman. When mountain gods, sea gods, and other various gods come to the house as guests like this owl, this apehuchi takes the lead in entertaining the guests and talking to them. It is also acceptable to simply call her kamuihuchi (god old woman).
-(12) neusar means talking to each other. Talking about various worldly matters is also neusar. Usually, things like kamuiyukar (god chants) and uwepeker (old tales) are called neusar.
-(13) ashke a uk. ashke means finger, hand. a uk means to take. It refers to inviting people when there is a celebration.
-(14) kakkokhau...... means the sound of a cuckoo bird. Because the sound of the cuckoo bird is beautiful and clear, people who speak clearly and understandably are said to be like cuckoo birds.
-(15) chisekorkamui...... means a god who owns a house. The fire god is like the housewife, and the house god is like the master of the house. A man is also called chisekorekashi...... an old man who owns a house.
-(16) nusakorkamui...... means a god who owns a sacred shelf, an old woman. The god of the sacred shelf is also always a woman. She may appear to humans in the event of an emergency, but it is said that she appears in the form of a snake. Therefore, if a snake appears near the sacred shelf or near the east window, they say, "Surely the old woman of the sacred shelf has gone out on business," and they never kill the snake. It is said that killing it will bring punishment.
+(1) In the past, when boys grew up a little, they would be given small bows and arrows. The children would use them to play, aiming at trees or birds, and unconsciously master the art of archery. ak...... is archery, shinot is play, ponai is a small arrow.
+(2) shiktumorke......eyes. When people want to understand a person's nature, they say that looking into their eyes is the clearest indicator. Even a slight glance to the left or right would be met with a scolding.
+(3) achikara......means "dirty."
+(4) It is said that birds or beasts are shot down by people because they desire the arrows made by humans, so they go to retrieve them.
+(5) kotankorkamui......a god who owns a country or village. In the mountains, there are nupurikorkamui......gods who own the mountains (bears) and nupuripakorkamui......gods who own the eastern part of the mountains (wolves), etc. The owl's position is second only to bears and wolves. kotankorkamui is not as rough and flustered as the mountain gods or the gods of the eastern mountains. Therefore, they are usually calm and composed, always with their eyes closed, and only open them when there is a very important matter.
+(6) eharkiso......the seat on the left.
+(7) eshiso......the seat on the right. In the center of the house is a hearth, and the direction of the east window is the upper seat. Looking from the upper seat, the right side is eshiso, and the left side is harkiso. Only men are allowed to sit in the upper seat. If the guest's status is lower than the house owner, they will avoid sitting in the upper seat. The right seat is usually where the owner couple sits side by side. The next seat to the right seat is the left seat, and the seat on the west side (near the entrance) is the lower seat.
+(8) hayokpe helmet. It is said that when birds or beasts are in the mountains, they are invisible to human eyes, but they each have homes like humans, and they all live in the same form as humans. When they go to human villages, they put on helmets. Moreover, the corpses of birds or beasts are helmets, and the main body is invisible, but exists between the ears of the corpse.
+(9) otuipe......a guy with a broken butt. A short tail that is broken off like a dog's tail is not highly valued. For extremely insignificant people, they will be verbally abused, saying that he is wenpe......a bad guy, otuipe......a guy with a broken tail.
+(10) chikashnukar. When a god likes someone very much and bestows some great happiness on that person in a completely unexpected place, that person will say ikashnukar an and be happy.
+(11) apehuchi......the old woman of fire. The fire god is the most honorable god in the house and must be an old grandmother. When mountain gods, sea gods, and other various gods come to the house as guests like this owl, this apehuchi presides over the reception and speaks. It can also be called kamuihuchi (god old woman) directly.
+(12) neusar talking to each other. Talking to each other about various casual topics is also called neusar. Usually things like kamuiyukar (god tales) or uwepeker (old tales) are called neusar.
+(13) ashke a uk. ashke is finger, hand. a uk is to take. It means inviting people when there is a celebration.
+(14) kakkokhau......the call of the cuckoo. The call of the cuckoo, beautiful and clear, echoes in the ears, so for people who speak clearly and are easy for everyone to understand, they will say that he is like a cuckoo.
+(15) chisekorkamui......the god who owns the house. The fire god is like the housewife, and the house god is like the master. Men are called chisekorekashi......the old grandfather who owns the house.
+(16) nusakorkamui......the god of the altar, the old woman. The god of the altar must also be a woman. When there is a change, she sometimes appears to humans, but it is said that she borrows the shape of a snake to appear at that time. Therefore, if a snake appears near the altar or near the east window, it will be said, "The old grandmother of the altar must have gone out," and the snake will never be killed. It is said that killing it will be punished.
 ```
 

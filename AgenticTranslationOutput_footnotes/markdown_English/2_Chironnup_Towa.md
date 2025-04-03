@@ -65,30 +65,30 @@ ashurkorkur は村の近くへ来た時に先ず大声をあげて hokokse(フ�
 (8) peutanke......rimimse と同じ意ですが,これは普通よく用いられる言葉で,rimimse の方は少し難かしい言葉になっています.
 
 This is the English Translation 1.
-(1) isoeonkami. iso means sea blessing, eonkami means... to thank for something.
-It is believed that when a whale is washed ashore, the Great God of the Sea brings it himself for humans and washes it ashore. At that time, important people dress up and worship towards the sea.
+(1) isoeonkami. iso means fishing, eonkami means thanking for something.
+It is believed that when a whale is washed ashore, the Great God of the Sea brings it himself for humans and washes it ashore. At that time, important people dress up and worship facing the sea.
 (2) ononno. This is what people say when someone returns from hunting in the mountains or at sea with prey.
-(3) uniwente... A ritual performed after a major flood, fire, volcanic eruption, or other natural disasters, or when someone is eaten by a bear, falls into the sea or river, or is injured or dies due to any unusual event.
+(3) uniwente... A ritual performed after a major flood, fire, volcanic eruption, or other natural disaster, or when a person is eaten by a bear, falls into the sea or river, or is injured or dies due to some unusual event.
 At that time, they exchange words of condolence while pointing the tips of spears and swords at each other. When a disaster victim appears in one village, many representatives from neighboring villages gather in that village to perform the ritual, but it can also be done by one person.
-(4) hokokse... A man's cry for help from God during uniwente or when a terrible event occurs. It's like "Hoo-hoo-hoi," and this is limited to men.
+(4) hokokse... A man's cry for help from God during uniwente or when a terrible event occurs. It's "Hohohoi," and this is limited to men.
 (5) ashur means a strange story, ek means to come.
-...When someone who has traveled far from the village becomes ill or dies, a messenger comes from that place to inform their hometown of the incident, or when someone from another village comes to inform the village that someone has died or that something strange has happened.
+...When someone who has traveled far from the village becomes ill or dies, a messenger comes from that place to inform the person's hometown of the incident, or when someone from another village comes to inform the village that someone has died or that something strange has happened.
 That messenger is called ashurkorkur (a person with a strange story).
-When ashurkorkur approaches the village, they first shout hokokse (Hoo-hoo-hoi) loudly. Then, the villagers who hear it also shout loudly and go out to the edge of the village to hear the strange story.
-(6) uchishkar... Crying together. This is a woman's greeting, when they meet after a long separation, when a close relative dies, or when someone has been in great danger and barely escaped, women hold hands, hug each other's heads or shoulders, and cry.
-(7) matrimimse (a woman's cry)... In case of a sudden change or uniwente, men make a loud voice like hokokse (Hoo-hoo-hoi), but women shout in a thin voice like "Hoo-ee."
-It is said that women's voices are higher and stronger than men's voices, so they reach the ears of the gods first. Therefore, when a sudden event occurs, even men make a thin voice like a woman and shout two or three times.
+When ashurkorkur comes near the village, he first shouts loudly hokokse (Hohohoi). Then, the villagers who hear it also shout loudly and go out to the edge of the village to hear the strange story.
+(6) uchishkar... Crying together. This is a woman's greeting, when they meet after a long separation, when a close relative dies, or when someone is in great danger and barely escapes, women hold hands or hug each other's heads or shoulders and cry.
+(7) matrimimse (a woman's cry)... In the event of a sudden change or uniwente, men make a loud voice of hokokse (Hohohoi), but women cry in a thin voice, "Hoi."
+It is said that women's voices are higher and stronger than men's voices, so they reach the ears of the gods first. Therefore, when a sudden change occurs, even men make a thin voice like a woman and shout two or three times.
 (8) peutanke... It has the same meaning as rimimse, but this is a commonly used word, and rimimse is a slightly difficult word.
 
 This is the English Translation 2.
-[1] isoeonkami.iso means sea blessing, eonkami means... apology. People believe that whale stranding is the sea god personally bringing and pushing them ashore as a gift to humans. At that time, respected people will dress up and worship in the direction of the sea.
-[2] ononno. These are words often spoken by people welcoming those who go to sea or hunt in the mountains when they return with prey.
-[3] uniwente... A ritual held after various natural disasters such as floods, fires, and volcanic eruptions, or when someone is eaten by a bear, falls into the sea or river, or is injured or dies due to other accidents. At that time, people will touch each other with guns or knife points and offer condolences. If a village has victims, neighboring villages will send many representatives to gather in the village to hold the ritual, even if there is only one person.
-[4] hokokse... A male shout to the gods for help during uniwente or when a major incident occurs. The sound "フオホホーイ" is made, and is limited to men.
-[5] ashur means a strange story, ek means arrival. ...Refers to when a person traveling from a place far from the village becomes ill or dies, and a messenger is sent from that place to inform their hometown of the incident, or when people from other villages come to inform someone of their death, or when some strange event has occurred. The messenger is called ashurkorkur (a person with a strange story). When ashurkorkur approaches the village, they will first shout hokokse (フオホホーイ) loudly. The villagers who hear the shout will also shout loudly and go to the edge of the village to meet the messenger and inquire about the incident.
-[6] uchishkar... Crying together. This is a female greeting. When women reunite after a long absence, when a close relative dies, or when someone survives a major danger, women will hold hands or hug each other's heads or shoulders and cry.
-[7] matrimimse (female shout)... In emergencies or uniwente situations, men will make a rough hokokse (フオホホーイ) sound, while women will make a subtle ホーイ sound. It is said that women's voices are higher and louder than men's, so the gods will hear them first. Therefore, in an emergency, even men will make a subtle sound like women and shout two or three times.
-[8] peutanke... Has the same meaning as rimimse, but this is a commonly used word, while rimimse is a slightly more difficult word.
+(1) isoeonkami.iso refers to the sea blessing, eonkami refers to... an apology. When a whale is washed ashore, it is believed that the sea god personally brought it and washed it ashore to give it to humans. Therefore, important figures will dress up and offer prayers facing the sea.
+(2) ononno. These are the words spoken in unison by people welcoming those returning from hunting at sea or in the mountains with their prey.
+(3) uniwente... A ritual held after a major flood, fire, volcanic eruption, or other natural disasters, or when someone is eaten by a bear, falls into the sea or river, or is injured or dies for any other reason. At that time, people would hold the tips of their spears or knives together and exchange words of condolence. If a village had victims, many representatives from nearby villages would gather in that village to hold a ceremony, even if there was only one person.
+(4) hokokse... A man's cry for help from the gods during uniwente or when a major incident occurs. フオホホーイ, this is limited to men.
+(5) ashur is news of an incident, ek is arrival. When someone traveling far from the village gets sick or dies, a messenger is sent from that place to the person's hometown to inform them of the incident, or someone from another village comes to inform them that so-and-so has died, or that something has happened, etc. This messenger is called ashurkorkur (the person who brings news of the incident). When ashurkorkur approaches the village, they will first shout hokokse (フオホホーイ) loudly. The villagers who hear the cry will also shout loudly and go to the edge of the village to greet them and ask about the incident.
+(6) uchishkar... Crying together. This is a woman's greeting, when they meet again after a long separation, when a close relative dies, or when someone encounters a major danger and barely escapes, etc., women will hold hands or hug each other's heads or shoulders and cry.
+(7) matrimimse (a woman's cry)... In the event of an emergency or uniwente, men will make a rough hokokse (フオホホーイ) sound, while women will call out in a soft voice, ホーイ. It is said that women's voices are higher and louder than men's voices, so the gods will hear them first. Therefore, in the event of an emergency, even men will make a subtle sound like women and shout two or three times.
+(8) peutanke... Has the same meaning as rimimse, but this is a commonly used word, while rimimse is a slightly more difficult word.
 
 ```
 ### Scoring
@@ -100,25 +100,25 @@ This is the English Translation 2.
 
 ### Comments
 #### Translation 1
-Translation 1 provides a clear and understandable explanation of the Ainu chant footnotes. It effectively conveys the meaning of each term and the associated cultural practices. However, some nuances might be lost in the simplification.
+Pros: Clear and straightforward language. Cons: Some nuances are lost, and the cultural context could be emphasized more.
 
 #### Translation 2
-Translation 2 is also well-done, with a slightly more precise rendering of certain terms and cultural contexts. The inclusion of the original Japanese sounds (フオホホーイ, ホーイ) adds authenticity. However, the overall readability is comparable to Translation 1.
+Pros: Captures more of the cultural context and nuances. Cons: Slightly less accessible language in some parts.
 
 ### Better Choice
 Translation 2
 #### Comment
-Translation 2 is slightly better because it more accurately reflects the nuances of the original Japanese text, particularly in the descriptions of rituals and customs. For example, in (1), Translation 2 uses "apology" which is closer to the meaning of "謝す事" than "to thank for something" in Translation 1. Also, Translation 2 keeps the original sound "フオホホーイ" and "ホーイ" which is better than only translating them. While both translations are generally good, Translation 2's attention to detail gives it a slight edge.
+Translation 2 has a higher weighted score due to its better accuracy in preserving the original meaning and cultural context, which is the most important criterion. Although Translation 1 is easier to understand, the nuances captured in Translation 2 are more valuable.
 
 ### Updated Output
 ```
-(1) isoeonkami. iso means sea blessing, eonkami means... apology. People believe that whale stranding is the sea god personally bringing and pushing them ashore as a gift to humans. At that time, respected people will dress up and worship in the direction of the sea.
-(2) ononno. These are words often spoken by people welcoming those who go to sea or hunt in the mountains when they return with prey.
-(3) uniwente... A ritual held after various natural disasters such as floods, fires, and volcanic eruptions, or when someone is eaten by a bear, falls into the sea or river, or is injured or dies due to other accidents. At that time, people will touch each other with spears or swords and offer condolences. If a village has victims, neighboring villages will send many representatives to gather in the village to hold the ritual, even if there is only one person.
-(4) hokokse... A male shout to the gods for help during uniwente or when a major incident occurs. The sound "フオホホーイ" is made, and is limited to men.
-(5) ashur means a strange story, ek means arrival. ...Refers to when a person traveling from a place far from the village becomes ill or dies, and a messenger is sent from that place to inform their hometown of the incident, or when people from other villages come to inform someone of their death, or when some strange event has occurred. The messenger is called ashurkorkur (a person with a strange story). When ashurkorkur approaches the village, they will first shout hokokse (フオホホーイ) loudly. The villagers who hear the shout will also shout loudly and go to the edge of the village to meet the messenger and inquire about the incident.
-(6) uchishkar... Crying together. This is a female greeting. When women reunite after a long absence, when a close relative dies, or when someone survives a major danger, women will hold hands or hug each other's heads or shoulders and cry.
-(7) matrimimse (female shout)... In emergencies or uniwente situations, men will make a rough hokokse (フオホホーイ) sound, while women will make a subtle ホーイ sound. It is said that women's voices are higher and louder than men's, so the gods will hear them first. Therefore, in an emergency, even men will make a subtle sound like women and shout two or three times.
+(1) isoeonkami. iso refers to sea blessing, eonkami refers to... an apology. It is believed that when a whale is washed ashore, the sea god personally brought it and washed it ashore to give it to humans. Therefore, important figures will dress up in formal attire and offer prayers facing the sea.
+(2) ononno. These are the words spoken in unison by people welcoming those returning from hunting at sea or in the mountains with their prey.
+(3) uniwente... A ritual held after a major flood, fire, volcanic eruption, or other natural disasters, or when someone is eaten by a bear, falls into the sea or river, or is injured or dies for any other reason. At that time, people would hold the tips of their spears or knives together and exchange words of condolence. If a village had victims, many representatives from nearby villages would gather in that village to hold a ceremony, even if there was only one person.
+(4) hokokse... A man's cry for help from the gods during uniwente or when a major incident occurs. フオホホーイ, this is limited to men.
+(5) ashur is news of an incident, ek is arrival. When someone traveling far from the village gets sick or dies, a messenger is sent from that place to the person's hometown to inform them of the incident, or someone from another village comes to inform them that so-and-so has died, or that something has happened, etc. This messenger is called ashurkorkur (the person who brings news of the incident). When ashurkorkur approaches the village, they will first shout hokokse (フオホホーイ) loudly. The villagers who hear the cry will also shout loudly and go to the edge of the village to greet them and ask about the incident.
+(6) uchishkar... Crying together. This is a woman's greeting, when they meet again after a long separation, when a close relative dies, or when someone encounters a major danger and barely escapes, etc., women will hold hands or hug each other's heads or shoulders and cry together.
+(7) matrimimse (a woman's cry)... In the event of an emergency or uniwente, men will make a rough hokokse (フオホホーイ) sound, while women will call out in a soft voice, ホーイ. It is said that women's voices are higher and louder than men's voices, so the gods will hear them first. Therefore, in the event of an emergency, even men will make a subtle sound like women and shout two or three times.
 (8) peutanke... Has the same meaning as rimimse, but this is a commonly used word, while rimimse is a slightly more difficult word.
 ```
 

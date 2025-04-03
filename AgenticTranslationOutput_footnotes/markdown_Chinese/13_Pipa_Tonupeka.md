@@ -4,7 +4,7 @@
 
 ## Pipa yaieyukar, “Tonupeka ranran” 
 ## 沼貝が自ら歌った謡「トヌペカ ランラン」
-## 阿伊努語吟唱腳註翻譯
+## 關於翻譯日文文本為中文的請求
 
 ### System prompt
 ```
@@ -50,44 +50,36 @@ If a term cannot be translated, keep the original language.
 For the original text which are not in Japanese, keep the original form. 
 
 This is the Japanese text.
-(1) kinatantuka......蒲の束.蒲は編んで筵の様な敷物にするのですが,よく乾いているのをそのまま編むといけませんから,少し湿してからつかいます.この話にあるのも,そのために女が川へ持って行くのでしょう.
-(2) i-okapushpa.人は死んでしまった親や親類などの名を言ったり,その事をふだん話したりする事を i-okapushpa と言って大へん嫌います.また,人のかくしていた事をそばからほじり出して,みんなに言ったり,その人の聞きにくい様なその人の前の行為などを口に出したりする事をも i-okapushpa と言います.
-(3) nimakitara......牙の剥き出している.これは犬の事.山のけものたちは,人が猟に行くと犬を連れて行きますが,その犬に歯をむき出してかかられるのが一ばん恐いので,犬にこんな名をつけて恐がっています.
+
 
 This is the Chinese Translation 1.
-(1) kinatantuka......蒲草束。蒲草會被編織成類似蓆子的墊子，但如果直接編織乾燥的蒲草是不行的，所以要稍微弄濕後再使用。故事裡提到的也是這樣，所以女人才會把它帶到河邊吧。
-(2) i-okapushpa. 人們非常忌諱說出已故父母或親戚的名字，或是在平時談論他們的事情，這被稱作 i-okapushpa。此外，挖出別人隱藏的事情，告訴大家，或是說出那個人難以啟齒的、在人前的行為等等，也被稱作 i-okapushpa。
-(3) nimakitara......露出獠牙。這裡指的是狗。山裡的野獸們，人們去狩獵時會帶著狗，因為被露出牙齒的狗攻擊是最可怕的，所以用這樣的名字來稱呼狗，表示害怕。
+請提供需要翻譯的日文文本。
 
 This is the Chinese Translation 2.
-（1）kinatantuka......香蒲草束。香蒲草被編織成墊子，但如果它們完全乾燥時編織，就行不通，所以你在使用它們之前稍微潤濕它們。在這個故事中，這位女子可能正把它們帶到河邊以達到這個目的。
-（2）i-okapushpa。人們非常不喜歡說已故父母或親戚的名字，或在日常談話中談論他們，這被稱為i-okapushpa。此外，挖出人們隱藏的東西並告訴大家，或提起那個人的過去的、他們難以聽到的行為，也被稱為i-okapushpa。
-（3）nimakitara......裸露的獠牙。 這裡指的是狗。 當人們去山裡打獵時，他們會帶上狗，他們最害怕被一隻露出牙齒的狗攻擊，所以他們因為害怕而給狗起了這個名字。
+請提供您希望我翻譯成中文的日語文本。
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 5 | 5 |  5.0 |
-| Translation 2 | 5 | 5 |  5.0 |
+| Translation 1 | 4 | 3 |  3.6 |
+| Translation 2 | 5 | 4 |  4.6 |
 
 ### Comments
 #### Translation 1
-Good translation, accurately conveys the meaning of the original Japanese text. The language is natural and easy to understand.
+此翻譯版本較為簡潔，但缺乏明確的請求對象，讀者可能不清楚需要提供什麼樣的日文文本。
 
 #### Translation 2
-Very similar to Translation 1, with minor differences in wording. Also a good and accurate translation.
+此翻譯版本更為明確，清楚地表明需要翻譯成中文的日語文本，但稍顯冗長。
 
 ### Better Choice
-Translation 1
+Translation 2
 #### Comment
-Both translations are quite similar and accurate. Translation 1 uses "蒲草束" which is a more direct and common translation of "蒲の束" compared to Translation 2's "香蒲草束". While "香蒲草" (cattail) is technically correct, "蒲草" (bulrush) is a broader term that encompasses the intended meaning in the context of mat weaving. Therefore, Translation 1 is slightly better.
+Translation 2 在準確性和易懂性方面都略勝一籌，更清晰地表達了請求翻譯日文文本為中文的意圖。
 
 ### Updated Output
 ```
-（1）kinatantuka......蒲草束。蒲草會被編織成類似蓆子的墊子，但如果直接編織乾燥的蒲草是不行的，所以要稍微弄濕後再使用。故事裡提到的也是這樣，所以女人才會把它帶到河邊吧。
-（2）i-okapushpa。人們非常忌諱說出已故父母或親戚的名字，或是在平時談論他們的事情，這被稱作i-okapushpa。此外，挖出別人隱藏的事情，告訴大家，或是說出那個人難以啟齒的、在人前的行為等等，也被稱作i-okapushpa。
-（3）nimakitara......露出獠牙。這裡指的是狗。山裡的野獸們，人們去狩獵時會帶著狗，因為被露出牙齒的狗攻擊是最可怕的，所以用這樣的名字來稱呼狗，表示害怕。
+請提供您希望我翻譯成繁體中文的日語文本。
 ```
 

@@ -4,7 +4,7 @@
 
 ## Chironnup yaieyukar, “Haikunterke Haikoshitemturi” 
 ## 狐が自ら歌った謡「ハイクンテレケ ハイコシテムトリ」
-## 阿伊努語聖歌日文腳註翻譯
+## 阿伊努語吟唱日文腳註翻譯
 
 ### System prompt
 ```
@@ -59,19 +59,19 @@ Okikurumi(Okikirmui)と Samayunkur と Shupunramka とはいとこ同士で,Shup
 
 This is the Chinese Translation 1.
 (1) pau。狐狸叫聲的擬聲詞。
-(2) pushtotta......形狀像袋子的東西，出海打獵時用來裝火具、藥品和其他細小必需品。相同用途的還有 piuchiop, karop 等，但因為是用蒲草蓆、アツシ織等製作，所以在陸地上使用。pushtotta 是用熊皮、海豹皮或其他毛皮製成，因為不透水，所以帶到海上去。
-(3) noya ai......蓬蒿之箭。蓬蒿是阿伊努人尊重的草。據說被蓬蒿之箭射中，就無法浮起來，所以惡魔最害怕它，因此遠行時會將其視為必需品之一。
+(2) pushtotta......形狀像包一樣的東西，出海打獵時，用來裝火具、藥品和其他細碎的必需品。相同用途的還有 piuchiop、karop 等，但因為是用蒲草、アツシ織等製作的，所以在陸地上使用。pushtotta 是用熊皮、海豹皮或其他毛皮製成的，因為不透水，所以帶到海上去。
+(3) noya ai......蓬蒿之箭。蓬蒿是阿伊努人尊重的草。據說被蓬蒿之箭射中，就無法漂浮，所以是惡魔最害怕的東西，因此被視為遠行時的必需品之一。
 (4) 原本男廁和女廁是分開的。ashinru 和 eosineru 都是廁所的意思。
-在狐狸中，黑狐被認為是最尊貴的。突出於海中的海岬大多是黑狐的領地，據說除非發生非常重大的事情，否則黑狐不會讓人聽到它的聲音。
-Okikurumi(Okikirmui)和 Samayunkur 與 Shupunramka 是表兄弟，Shupunramka 是年紀最大的，Okikirmui 是年紀最小的。Shupunramka 性格溫和內向，所以沒有什麼故事，但 Samayunkur 脾氣暴躁，缺乏智慧，是個冒失鬼，性格惡劣的懦夫，Okikirmui 則像神一樣充滿智慧，富有同情心，是個勇敢偉大的人，因此關於他的故事多到數不清。
+在狐狸中，黑狐被認為是最尊貴的。突出於海中的海岬，大多是黑狐的領地，據說除非有非常重大的事情，否則黑狐不會讓人聽到它的聲音。
+Okikurumi(Okikirmui)和 Samayunkur 與 Shupunramka 是堂兄弟，Shupunramka 是年紀最大的，Okikirmui 是年紀最小的。Shupunramka 性格溫和內向，所以沒什麼故事，但 Samayunkur 脾氣暴躁，缺乏智慧，是個冒失鬼，性格惡劣的懦夫，Okikirmui 則像神一樣充滿智慧，富有同情心，是個勇敢偉大的人，所以關於他的故事多到數不清。
 
 This is the Chinese Translation 2.
-（1）pau：狐狸叫聲的擬聲詞。
-（2）pushtotta：一種用於海上狩獵時的袋狀物品，用於攜帶生火工具、藥品和其他必要的小物品。用於相同目的的類似物品包括piuchiop和karop，但這些是由燈芯草墊或attush編織製成的，因此它們在陸地上使用。pushtotta由熊皮、海豹皮或其他毛皮製成，使其防水並適合帶到海上。
-（3）noya ai：用艾草製成的箭。艾草是阿伊努人尊重的一種植物。據說惡魔最害怕它，因為如果被艾草箭擊中，它們就無法漂浮，因此它被認為是遠行時的必需品之一。
-（4）最初，男女廁所是分開的。ashinru和eosineru都表示廁所。
+(1) pau：狐狸叫聲的擬聲詞。
+(2) pushtotta：一種出海狩獵時使用的袋狀物，用於攜帶生火工具、藥品和其他小型必需品。用於相同目的的類似物品包括piuchiop和karop，但這些是由燈芯草或attush編織製成的，因此它們在陸地上使用。pushtotta由熊皮、海豹皮或其他毛皮製成，因此具有防水性，可帶到海上。
+(3) noya ai：艾蒿箭。艾蒿是阿伊努人尊重的一種植物。據說惡魔最害怕它，因為如果被艾蒿箭擊中，它們就無法漂浮，因此它被認為是遠行時的必需品之一。
+(4) 最初，男女廁所是分開的。ashinru和eosineru都意味著廁所。
 在狐狸中，黑狐被認為是最神聖的。突出到海中的海角通常是黑狐的領地，據說除非發生非常嚴重的事情，否則黑狐不會讓人們聽到它們的聲音。
-Okikurumi（Okikirmui）、Samayunkur和Shupunramka是堂兄弟，其中Shupunramka年紀最大，Okikirmui年紀最小。Shupunramka是一個溫柔而害羞的人，所以沒有什麼關於他的故事可講，但Samayunkur脾氣暴躁、思想膚淺、草率、心胸狹窄且懦弱。另一方面，Okikirmui據說像神一樣聰明、富有同情心、勇敢而偉大，因此有無數關於他的故事。
+Okikurumi (Okikirmui)、Samayunkur和Shupunramka是堂兄弟，其中Shupunramka年紀最大，Okikirmui年紀最小。Shupunramka是一個溫柔而害羞的人，所以沒有什麼可說的，但Samayunkur脾氣暴躁、思想膚淺、倉促、心胸狹窄且膽小，而Okikirmui據說是一位像神一樣聰明、富有同情心和勇敢的人，因此有無數關於他的故事。
 
 ```
 ### Scoring
@@ -79,27 +79,29 @@ Okikurumi（Okikirmui）、Samayunkur和Shupunramka是堂兄弟，其中Shupunra
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
 | Translation 1 | 4 | 4 |  4.0 |
-| Translation 2 | 5 | 4 |  4.6 |
+| Translation 2 | 4 | 3 |  3.6 |
 
 ### Comments
 #### Translation 1
-Translation 1 is generally accurate but sometimes uses slightly less precise or slightly awkward phrasing.
+Pros: 使用了更常見的詞彙，例如「狐狸叫聲」。
+Cons: 有些地方的表達略顯口語化，例如「細碎的必需品」。
 
 #### Translation 2
-Translation 2 is generally accurate and uses more precise and natural phrasing.
+Pros: 用詞更精確，例如「艾蒿箭」。
+Cons: 有些詞彙可能對一般讀者來說比較陌生，例如「燈芯草」。
 
 ### Better Choice
-Translation 2
+Translation 1
 #### Comment
-Translation 2 is slightly better because it uses more precise vocabulary and clearer sentence structures, making it easier to understand while maintaining accuracy. For example, it translates "蓬の矢" as "艾草製成的箭" which is more specific than "蓬蒿之箭". It also uses more natural phrasing in several places.
+Translation 1 在易於理解方面略勝一籌，雖然在某些詞彙的精確度上可能不如 Translation 2，但整體而言，更容易被大眾接受。因此，綜合考慮準確性和易懂性，Translation 1 更佳。
 
 ### Updated Output
 ```
-（1）pau：狐狸叫聲的擬聲詞。
-（2）pushtotta：一種用於海上狩獵時的袋狀物品，用於攜帶生火工具、藥品和其他必要的小物品。用於相同目的的類似物品包括piuchiop和karop，但這些是由燈芯草墊或アツシ織製成的，因此它們在陸地上使用。pushtotta由熊皮、海豹皮或其他毛皮製成，使其防水並適合帶到海上。
-（3）noya ai：用艾草製成的箭。艾草是阿伊努人尊重的一種植物。據說惡魔最害怕它，因為如果被艾草箭擊中，它們就無法漂浮，因此它被認為是遠行時的必需品之一。
-（4）最初，男女廁所是分開的。ashinru和eosineru都表示廁所。
-在狐狸中，黑狐被認為是最神聖的。突出到海中的海角通常是黑狐的領地，據說除非發生非常嚴重的事情，否則黑狐不會讓人們聽到它們的聲音。
-Okikurumi（Okikirmui）、Samayunkur和Shupunramka是堂兄弟，其中Shupunramka年紀最大，Okikirmui年紀最小。Shupunramka是一個溫柔而害羞的人，所以沒有什麼關於他的故事可講，但Samayunkur脾氣暴躁、思想膚淺、草率、心胸狹窄且懦弱。另一方面，Okikirmui據說像神一樣聰明、富有同情心、勇敢而偉大，因此有無數關於他的故事。
+(1) pau。狐狸叫聲的擬聲詞。
+(2) pushtotta......形狀像包一樣的東西，出海打獵時，用來裝火具、藥品和其他細碎的必需品。相同用途的還有 piuchiop、karop 等，但因為是用蒲草、アツシ織等製作的，所以在陸地上使用。pushtotta 是用熊皮、海豹皮或其他毛皮製成的，因為不透水，所以帶到海上去。
+(3) noya ai......蓬蒿之箭。蓬蒿是阿伊努人尊重的草。據說被蓬蒿之箭射中，就無法漂浮，所以是惡魔最害怕的東西，因此被視為遠行時的必需品之一。
+(4) 原本男廁和女廁是分開的。ashinru 和 eosineru 都是廁所的意思。
+在狐狸中，黑狐被認為是最尊貴的。突出於海中的海岬，大多是黑狐的領地，據說除非有非常重大的事情，否則黑狐不會讓人聽到它的聲音。
+Okikurumi(Okikirmui)和 Samayunkur 與 Shupunramka 是堂兄弟，Shupunramka 是年紀最大的，Okikirmui 是年紀最小的。Shupunramka 性格溫和內向，所以沒什麼故事，但 Samayunkur 脾氣暴躁，缺乏智慧，是個冒失鬼，性格惡劣的懦夫，Okikirmui 則像神一樣充滿智慧，富有同情心，是個勇敢偉大的人，所以關於他的故事多到數不清。
 ```
 

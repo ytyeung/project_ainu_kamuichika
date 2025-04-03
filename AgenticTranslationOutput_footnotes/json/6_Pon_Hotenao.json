@@ -3,9 +3,9 @@
     "ainu_title": "Pon Horkeukamui yaieyukar, “Hotenao”",
     "japanese_text": "",
     "chinese_translation": {
-        "comment": "Translation of Ainu chant footnotes from Japanese to Traditional Chinese.",
-        "title": "阿伊努語神歌腳註翻譯",
-        "translation": "請提供需要翻譯的日文阿伊努語神歌腳註文本。",
+        "translation": "請提供需要翻譯的日文文本。",
+        "title": "翻譯請求",
+        "comment": "請提供日文原文以便翻譯成繁體中文。",
         "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
         "input_prompt": "Translate the following text from source language Japanese to target language Chinese. The original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning accurately. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nIf a term cannot be translated, keep the source language.\nFor the original text which are not in Japanese, keep the original form. \n\n\n",
         "input_model": "gemini-2.0-flash-001",
@@ -39,9 +39,9 @@
         "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
     },
     "english_translation": {
-        "comment": "The original text is a Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. Keep the original meaning accurately. Use modern and simple English. If a term cannot be translated, keep the source language. For the original text which are not in Japanese, keep the original form.",
-        "title": "Ainu Chant Footnotes Translation",
-        "translation": "Please provide the Japanese text for translation.",
+        "translation": "Please provide the Japanese text you would like me to translate into English.",
+        "title": "Awaiting Japanese Text",
+        "comment": "I am ready to translate the Ainu chant footnotes from Japanese to English, keeping the original meaning and using modern, simple language. I will preserve any untranslatable terms in their original form and maintain any text not in Japanese as is.",
         "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
         "input_prompt": "Translate the following text from source language Japanese to target language English. The original text is a Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning accurately. Use modern and simple English.\nIf a term cannot be translated, keep the source language.\nFor the original text which are not in Japanese, keep the original form. \n\n\n",
         "input_model": "gemini-2.0-flash-001",
@@ -75,11 +75,11 @@
         "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
     },
     "eng_to_chi_translation": {
-        "comment": "Please provide the Japanese text for translation.",
-        "title": "請提供需要翻譯的日文文本",
-        "translation": "請提供需要翻譯的日文文本。",
+        "translation": "請提供您希望我翻譯成中文的日語文本。",
+        "title": "翻譯請求",
+        "comment": "請提供日語原文，我將其翻譯成現代標準漢語（繁體）。",
         "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
-        "input_prompt": "Translate the following text from source language English to target language Chinese. \nThe original text is translation of Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nFor the original text which are not in English, keep the original form. \n\nPlease provide the Japanese text for translation.\n",
+        "input_prompt": "Translate the following text from source language English to target language Chinese. \nThe original text is translation of Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nFor the original text which are not in English, keep the original form. \n\nPlease provide the Japanese text you would like me to translate into English.\n",
         "input_model": "gemini-2.0-flash-001",
         "input_schema": {
             "description": "The translation, and the comments",
@@ -111,11 +111,11 @@
         "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
     },
     "chi_to_eng_translation": {
-        "comment": "The user requests the original Japanese Ainu chant footnotes text to be provided for translation from Chinese to English.",
-        "title": "Request for Ainu Chant Footnote Translation",
-        "translation": "Please provide the Japanese Ainu chant footnote text that needs to be translated.",
+        "translation": "Please provide the Japanese text that needs to be translated.",
+        "title": "Request for Japanese Text",
+        "comment": "Awaiting the Japanese text to be translated from Chinese to English.",
         "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
-        "input_prompt": "Translate the following text from source language Chinese to target language English. \nThe original text is translation of Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning. Use modern and simple English.\nFor the original text which are not in Chinese, keep the original form. \n\n請提供需要翻譯的日文阿伊努語神歌腳註文本。\n",
+        "input_prompt": "Translate the following text from source language Chinese to target language English. \nThe original text is translation of Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nKeep the original meaning. Use modern and simple English.\nFor the original text which are not in Chinese, keep the original form. \n\n請提供需要翻譯的日文文本。\n",
         "input_model": "gemini-2.0-flash-001",
         "input_schema": {
             "description": "The translation, and the comments",
@@ -147,36 +147,36 @@
         "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class 'src.trilingual_translation_agent.schema.Translation'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
     },
     "updated_translation_zh": {
-        "better_translation": "Translation 1",
-        "better_translation_comment": "Translation 1 is better because it specifically mentions \"阿伊努語神歌腳註\", which is more accurate to the user's request for translating Ainu chant footnotes. Translation 2 is too general.",
-        "title": "阿伊努語神歌腳註翻譯",
+        "title": "關於翻譯日文文本為中文的請求",
         "translation_comments": [
             {
-                "comment": "This translation accurately reflects the request for translating Japanese Ainu chant footnotes.",
-                "id": "Translation 1"
+                "id": "Translation 1",
+                "comment": "此翻譯版本較為簡潔，但缺乏明確的請求對象，讀者可能不清楚需要提供什麼樣的日文文本。"
             },
             {
-                "comment": "This translation is too general and does not specify the Ainu chant context.",
-                "id": "Translation 2"
+                "id": "Translation 2",
+                "comment": "此翻譯版本更為明確，清楚地表明需要翻譯成中文的日語文本，但稍顯冗長。"
             }
         ],
         "translation_scores": [
             {
                 "id": "Translation 1",
-                "score_accuracy": 5,
-                "score_easy_understanding": 5,
-                "weighted_score": 5.0
+                "score_accuracy": 4,
+                "score_easy_understanding": 3,
+                "weighted_score": 3.6
             },
             {
                 "id": "Translation 2",
-                "score_accuracy": 3,
-                "score_easy_understanding": 5,
-                "weighted_score": 3.8
+                "score_accuracy": 5,
+                "score_easy_understanding": 4,
+                "weighted_score": 4.6
             }
         ],
-        "updated_translation": "請提供需要翻譯的日文阿伊努語神歌腳註文本。",
+        "better_translation": "Translation 2",
+        "better_translation_comment": "Translation 2 在準確性和易懂性方面都略勝一籌，更清晰地表達了請求翻譯日文文本為中文的意圖。",
+        "updated_translation": "請提供您希望我翻譯成繁體中文的日語文本。",
         "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
-        "input_prompt": "You are translating the following text from source language Japanese into target language Chinese. \nThe original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nYou have 2 versions of Chinese translations at hand.\nFor the original text which are not in Japanese, keep the original form. \n\nHere are your tasks:\n\n1. Compare the two Chinese translations with the source Japanese text. List out the Pros and Cons of the Translations.\n2. For each of translation from Japanese to Chinese, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].\nWhere one star means \"Nonsense/No meaning preserved\",\ntwo stars mean \"Some meaning preserved, but not understandable\",\nthree stars mean \"Some meaning preserved and understandable\",\nfour stars mean \"Most meaning preserved with possibly few grammar mistakes\",\nand five stars mean \"Perfect meaning and grammar\".\n\n3. For each of translation from Japanese to Chinese, score the translation on the easiness to understanding with one to five stars [1,2,3,4,5].\nWhere one star means \"The text is completely not understandable.\",\ntwo stars mean \"Most part of text is not understandable.\",\nthree stars mean \"While the text is understandable, the word usage and grammar are difficult.\",\nfour stars mean \"Most part of text can be understood easily.\",\nand five stars mean \"All the text can be understood easily.\".\n\n4. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (60%). Easiness to understanding is the second (40%).\n5. Based on the better translation, translate the Japanese text into Chinese again, incorporating the Pros of the two translations.\n\nKeep the original meaning accurately. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nIf a term cannot be translated, keep the original language.\nFor the original text which are not in Japanese, keep the original form. \n\nThis is the Japanese text.\n\n\nThis is the Chinese Translation 1.\n請提供需要翻譯的日文阿伊努語神歌腳註文本。\n\nThis is the Chinese Translation 2.\n請提供需要翻譯的日文文本。\n",
+        "input_prompt": "You are translating the following text from source language Japanese into target language Chinese. \nThe original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nYou have 2 versions of Chinese translations at hand.\nFor the original text which are not in Japanese, keep the original form. \n\nHere are your tasks:\n\n1. Compare the two Chinese translations with the source Japanese text. List out the Pros and Cons of the Translations.\n2. For each of translation from Japanese to Chinese, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].\nWhere one star means \"Nonsense/No meaning preserved\",\ntwo stars mean \"Some meaning preserved, but not understandable\",\nthree stars mean \"Some meaning preserved and understandable\",\nfour stars mean \"Most meaning preserved with possibly few grammar mistakes\",\nand five stars mean \"Perfect meaning and grammar\".\n\n3. For each of translation from Japanese to Chinese, score the translation on the easiness to understanding with one to five stars [1,2,3,4,5].\nWhere one star means \"The text is completely not understandable.\",\ntwo stars mean \"Most part of text is not understandable.\",\nthree stars mean \"While the text is understandable, the word usage and grammar are difficult.\",\nfour stars mean \"Most part of text can be understood easily.\",\nand five stars mean \"All the text can be understood easily.\".\n\n4. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (60%). Easiness to understanding is the second (40%).\n5. Based on the better translation, translate the Japanese text into Chinese again, incorporating the Pros of the two translations.\n\nKeep the original meaning accurately. Use modern Chinese. Display in Traditional Chinese. Text in languages other than Chinese or English is not allowed.\nIf a term cannot be translated, keep the original language.\nFor the original text which are not in Japanese, keep the original form. \n\nThis is the Japanese text.\n\n\nThis is the Chinese Translation 1.\n請提供需要翻譯的日文文本。\n\nThis is the Chinese Translation 2.\n請提供您希望我翻譯成中文的日語文本。\n",
         "input_model": "gemini-2.0-flash-001",
         "input_schema": {
             "$defs": {
@@ -286,36 +286,36 @@
         "generate_content_config": "http_options=None system_instruction=[Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=None, function_response=None, inline_data=None, text='You are a professional translator. \\nYou only know Japanese, Chinese and English. \\nYou can translate Japanese into either Chinese or English. \\nYou can also translate Chinese into English, and English into Chinese.\\nAll the translations should keep the original meaning.\\nAll the translations only contain characters of the source and target languages.\\n')] temperature=0.0 top_p=0.0 top_k=None candidate_count=None max_output_tokens=8192 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type='application/json' response_schema=<class '__main__.Reflection'> routing_config=None safety_settings=[SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HATE_SPEECH: 'HARM_CATEGORY_HATE_SPEECH'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: 'HARM_CATEGORY_DANGEROUS_CONTENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: 'HARM_CATEGORY_SEXUALLY_EXPLICIT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>), SafetySetting(method=None, category=<HarmCategory.HARM_CATEGORY_HARASSMENT: 'HARM_CATEGORY_HARASSMENT'>, threshold=<HarmBlockThreshold.OFF: 'OFF'>)] tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None"
     },
     "updated_translation_en": {
-        "better_translation": "Translation 1",
-        "better_translation_comment": "Translation 1 is better because it maintains a more literal connection to the original Japanese, which is crucial for understanding footnotes related to a chant. While Translation 2 attempts to be more poetic, it loses some of the directness and clarity needed for annotations. The weighted score reflects this preference for accuracy.",
-        "title": "Ainu Chant Footnote Translation",
+        "title": "Ainu Chant Footnotes Translation",
         "translation_comments": [
             {
-                "comment": "Translation 1 maintains a closer connection to the original Japanese, making it more suitable for understanding the nuances of the chant. It prioritizes accuracy over stylistic flair.",
-                "id": "Translation 1"
+                "id": "Translation 1",
+                "comment": "Need Japanese text to provide pros and cons."
             },
             {
-                "comment": "Translation 2 attempts a more poetic rendering, which can be helpful for conveying the spirit of the chant but sacrifices some accuracy in the details. It might be less useful for someone trying to understand the literal meaning of the footnotes.",
-                "id": "Translation 2"
+                "id": "Translation 2",
+                "comment": "Need Japanese text to provide pros and cons."
             }
         ],
         "translation_scores": [
             {
                 "id": "Translation 1",
-                "score_accuracy": 4,
-                "score_easy_understanding": 4,
-                "weighted_score": 4.0
+                "score_accuracy": 0,
+                "score_easy_understanding": 0,
+                "weighted_score": 0.0
             },
             {
                 "id": "Translation 2",
-                "score_accuracy": 3,
-                "score_easy_understanding": 5,
-                "weighted_score": 3.8
+                "score_accuracy": 0,
+                "score_easy_understanding": 0,
+                "weighted_score": 0.0
             }
         ],
-        "updated_translation": "Please provide the Japanese Ainu chant footnote text that needs to be translated, along with the two English translations you have.",
+        "better_translation": "N/A",
+        "better_translation_comment": "Cannot determine the better translation without the Japanese text and the two English translations.",
+        "updated_translation": "Please provide the Japanese text and the two English translations to proceed.",
         "system_prompt": "You are a professional translator. \nYou only know Japanese, Chinese and English. \nYou can translate Japanese into either Chinese or English. \nYou can also translate Chinese into English, and English into Chinese.\nAll the translations should keep the original meaning.\nAll the translations only contain characters of the source and target languages.\n",
-        "input_prompt": "You are translating the following text from source language Japanese into target language English. \nThe original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nYou have 2 versions of English translations at hand.\n\nHere are your tasks:\n\n1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.\n2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].\nWhere one star means \"Nonsense/No meaning preserved\",\ntwo stars mean \"Some meaning preserved, but not understandable\",\nthree stars mean \"Some meaning preserved and understandable\",\nfour stars mean \"Most meaning preserved with possibly few grammar mistakes\",\nand five stars mean \"Perfect meaning and grammar\".\n\n3. For each of translation from Japanese to English, score the translation on the easiness to understanding with one to five stars [1,2,3,4,5].\nWhere one star means \"The text is completely not understandable.\",\ntwo stars mean \"Most part of text is not understandable.\",\nthree stars mean \"While the text is understandable, the word usage and grammar are difficult.\",\nfour stars mean \"Most part of text can be understood easily.\",\nand five stars mean \"All part of text can be understood easily.\".\n\n4. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (60%). Easiness to understanding is the second (40%).\n5. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.\n\nKeep the original meaning accurately. \nIf a term cannot be translated, keep the original language.\nFor the original text which are not in Japanese, keep the original form. \n\nThis is the Japanese text.\n\n\nThis is the English Translation 1.\nPlease provide the Japanese text for translation.\n\nThis is the English Translation 2.\nPlease provide the Japanese Ainu chant footnote text that needs to be translated.\n",
+        "input_prompt": "You are translating the following text from source language Japanese into target language English. \nThe original text is Japanese footnotes of an Ainu chant, sung by Ainu god telling his story. \nYou have 2 versions of English translations at hand.\n\nHere are your tasks:\n\n1. Compare the two English translations with the source Japanese text. List out the Pros and Cons of the Translations.\n2. For each of translation from Japanese to English, score the translation on the accuracy of original meaning with one to five stars [1,2,3,4,5].\nWhere one star means \"Nonsense/No meaning preserved\",\ntwo stars mean \"Some meaning preserved, but not understandable\",\nthree stars mean \"Some meaning preserved and understandable\",\nfour stars mean \"Most meaning preserved with possibly few grammar mistakes\",\nand five stars mean \"Perfect meaning and grammar\".\n\n3. For each of translation from Japanese to English, score the translation on the easiness to understanding with one to five stars [1,2,3,4,5].\nWhere one star means \"The text is completely not understandable.\",\ntwo stars mean \"Most part of text is not understandable.\",\nthree stars mean \"While the text is understandable, the word usage and grammar are difficult.\",\nfour stars mean \"Most part of text can be understood easily.\",\nand five stars mean \"All part of text can be understood easily.\".\n\n4. Choose a better translation according to the weighted score. Accuracy of meaning is the most important criterion (60%). Easiness to understanding is the second (40%).\n5. Based on the better translation, translate the Japanese text into English again, incorporating the Pros of the two translations.\n\nKeep the original meaning accurately. \nIf a term cannot be translated, keep the original language.\nFor the original text which are not in Japanese, keep the original form. \n\nThis is the Japanese text.\n\n\nThis is the English Translation 1.\nPlease provide the Japanese text you would like me to translate into English.\n\nThis is the English Translation 2.\nPlease provide the Japanese text that needs to be translated.\n",
         "input_model": "gemini-2.0-flash-001",
         "input_schema": {
             "$defs": {

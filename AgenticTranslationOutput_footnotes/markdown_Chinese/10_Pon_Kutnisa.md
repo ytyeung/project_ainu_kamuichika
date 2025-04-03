@@ -4,7 +4,7 @@
 
 ## Pon Okikirmui yaieyukar, “Kutnisa kutunkutun” 
 ## 小オキキリムイが自ら歌った謡「クツニサ クトンクトン」
-## 阿伊努語神歌腳註翻譯
+## 阿伊努語歌翻譯
 
 ### System prompt
 ```
@@ -50,36 +50,36 @@ If a term cannot be translated, keep the original language.
 For the original text which are not in Japanese, keep the original form. 
 
 This is the Japanese text.
-
+(1) iwan poknashir......六つの地獄.地の下には六段の世界があってそこには種々な悪魔が住んでいます.
 
 This is the Chinese Translation 1.
-請提供需要翻譯的日文阿伊努語神歌腳註。
+iwan poknashir......六個地獄。地的下面有六層世界，那裡住著各種各樣的惡魔。
 
 This is the Chinese Translation 2.
-請提供需要翻譯的日文文本。
+iwan poknashir......六層地獄。地下有六層世界，住著各種惡魔。
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 5 | 5 |  5.0 |
-| Translation 2 | 3 | 5 |  3.8 |
+| Translation 1 | 4 | 4 |  4.0 |
+| Translation 2 | 4 | 5 |  4.4 |
 
 ### Comments
 #### Translation 1
-This translation correctly identifies the text as Ainu chant footnotes, providing necessary context.
+翻譯1使用了“六個地獄”，更接近原文的字面意思，但可能在現代漢語語境下稍顯不自然。使用了“各種各樣的惡魔”，更強調種類的繁多。
 
 #### Translation 2
-This translation is too general and misses the specific context of the Ainu chant.
+翻譯2使用了“六層地獄”，更符合中文的表達習慣，更自然。使用了“各種惡魔”，簡潔明瞭。
 
 ### Better Choice
-Translation 1
+Translation 2
 #### Comment
-Translation 1 is better because it specifically mentions the Ainu chant, which is crucial context. Translation 2 is too generic.
+翻譯2在易於理解方面略勝一籌，更符合現代漢語的表達習慣。雖然翻譯1在字面意思上更接近原文，但翻譯2在整體語感上更流暢自然。
 
 ### Updated Output
 ```
-請提供需要翻譯的日文阿伊努語神歌腳註。
+iwan poknashir......六層地獄。地的下面有六層世界，那裡住著各種各樣的惡魔。
 ```
 

@@ -52,33 +52,33 @@ This is the Japanese text.
 
 
 This is the English Translation 1.
-Please provide the Japanese text for translation.
+Please provide the Japanese text you would like me to translate into English.
 
 This is the English Translation 2.
-Please provide the Japanese footnotes of the Ainu chant that need to be translated.
+Please provide the Japanese text that needs to be translated.
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 4 | 4 |  4.0 |
-| Translation 2 | 3 | 3 |  3.0 |
+| Translation 1 | 0 | 0 |  0.0 |
+| Translation 2 | 0 | 0 |  0.0 |
 
 ### Comments
 #### Translation 1
-This translation seems to maintain the original meaning well and uses relatively straightforward language.
+Need Japanese text to provide pros and cons.
 
 #### Translation 2
-This translation is a bit more complex in its sentence structure, making it slightly harder to understand, although it does offer some interesting alternative phrasing.
+Need Japanese text to provide pros and cons.
 
 ### Better Choice
-Translation 1
+N/A
 #### Comment
-Translation 1 is better because it maintains a higher degree of accuracy to the original meaning and is slightly easier to understand than Translation 2. While both have their strengths, the weighted score favors Translation 1 due to the higher importance placed on accuracy.
+Cannot determine the better translation without the Japanese text and the two English translations.
 
 ### Updated Output
 ```
-Please provide the Japanese text and the two English translations for a more accurate comparison and improved translation.
+Please provide the Japanese text and the two English translations to proceed.
 ```
 

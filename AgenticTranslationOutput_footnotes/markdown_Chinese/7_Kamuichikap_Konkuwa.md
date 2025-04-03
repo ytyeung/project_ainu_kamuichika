@@ -4,7 +4,7 @@
 
 ## Kamuichikap Kamui yaieyukar, “Konkuwa” 
 ## 梟の神が自ら歌った謡「コンクワ」
-## 阿伊努語歌翻譯
+## 愛努語腳註翻譯
 
 ### System prompt
 ```
@@ -53,33 +53,33 @@ This is the Japanese text.
 (1) katken......川ガラス.昔から大そういい鳥として尊ばれる鳥です.
 
 This is the Chinese Translation 1.
-katken......河乌鸦。自古以来就被尊为非常好的鸟。
+katken......河烏。自古以來就被視為非常好的鳥而備受尊崇的鳥。
 
 This is the Chinese Translation 2.
-katken......河烏鴉。自古以來，牠們就被視為非常吉祥的鳥類，備受尊敬。
+katken…河烏。自古以來，牠們就被視為非常吉祥的鳥類而受到尊敬。
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 4 | 4 |  4.0 |
-| Translation 2 | 5 | 5 |  5.0 |
+| Translation 1 | 4 | 3 |  3.6 |
+| Translation 2 | 5 | 4 |  4.6 |
 
 ### Comments
 #### Translation 1
-This translation is a direct and literal rendering of the Japanese text. While accurate, it lacks some of the cultural nuance present in the original Japanese.
+翻譯1比較直白，保留了原文的結構，但略顯生硬。
 
 #### Translation 2
-This translation captures the reverence associated with the bird more effectively by using "非常吉祥的鳥類，備受尊敬". It also uses "牠們" which is more accurate.
+翻譯2更流暢自然，將「大そういい鳥」翻譯為「非常吉祥的鳥類」更符合中文習慣。
 
 ### Better Choice
 Translation 2
 #### Comment
-Translation 2 is better because it provides a more nuanced and culturally sensitive translation of the phrase "大そういい鳥として尊ばれる鳥です". It uses "非常吉祥的鳥類，備受尊敬" which conveys a stronger sense of reverence and auspiciousness compared to the more literal "非常好的鸟" in Translation 1. Also, Translation 2 uses "牠們" which is more accurate.
+翻譯2在準確性和易懂性上都略勝一籌，更符合現代中文的表達習慣。
 
 ### Updated Output
 ```
-katken......河烏鴉。自古以來，牠們就被視為非常吉祥的鳥類，備受尊敬。
+katken…河烏。自古以來，牠們就被視為非常好的鳥類而受到尊敬。
 ```
 

@@ -55,35 +55,35 @@ This is the Japanese text.
 
 This is the Chinese Translation 1.
 (1) アマツポ(弩いしゆみ)，即架設「機關弓」。
-(2) 刀劍。這和戰爭時使用的刀劍不同，平時吊在房屋右側堆放寶物的地方。戰爭時不會使用，但在uniwente等儀式時會使用。
+(2) 刀劍。此刀劍與戰爭時使用的刀劍不同，平時吊在房屋右側堆放寶物的地方。戰爭時不會使用，但在uniwente等儀式時會使用。
 
 This is the Chinese Translation 2.
-(1) Amatsupo (弩いしゆみ)：這意味著設置一個「機關弓」。
-(2) 劍：這與戰爭中使用的劍不同。它通常懸掛在房屋右側座位上的寶物堆之上。它不用於戰爭，但用於 uniwente 等活動中。
+(1) Amatsupo（一種彈簧弓）：指的是設置「彈簧弓」。
+(2) 劍：這與戰爭中使用的劍不同。它通常懸掛在房屋右側的寶物堆上。它不用於戰爭時期，但用於unwente等活動中。
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 5 | 4 |  4.6 |
-| Translation 2 | 4 | 5 |  4.4 |
+| Translation 1 | 4 | 3 |  3.6 |
+| Translation 2 | 4 | 4 |  4.0 |
 
 ### Comments
 #### Translation 1
-Translation 1 is concise and accurately conveys the meaning. The use of 「機關弓」is appropriate.
+Translation 1 is more literal and concise. It keeps the original term 'アマツポ(弩いしゆみ)' and provides a direct translation of '仕掛け弓' as '機關弓'. However, it might be less accessible to readers unfamiliar with the term '機關弓'.
 
 #### Translation 2
-Translation 2 is also accurate but slightly wordier. The explanation of Amatsupo is a bit redundant.
+Translation 2 provides a more descriptive explanation of 'Amatsupo' as '一種彈簧弓', making it easier to understand for readers unfamiliar with the term. It also uses simpler language overall. However, it loses some of the original nuance by not directly translating '仕掛け弓'.
 
 ### Better Choice
-Translation 1
+Translation 2
 #### Comment
-Translation 1 is more concise and direct in its explanation of 'アマツポ'. It also maintains a slightly more formal tone, which might be appropriate for footnotes referencing a religious chant. While both translations are generally good, Translation 1 edges out Translation 2 due to its conciseness and tone.
+Translation 2 is slightly better because it provides more context and is easier to understand for a broader audience, while still maintaining a good level of accuracy. The descriptive explanation of 'Amatsupo' and the simpler language contribute to its higher score.
 
 ### Updated Output
 ```
-(1) アマツポ(弩いしゆみ)，即架設「機關弓」。
-(2) 刀劍。這和戰爭時使用的刀劍不同，平時吊在房屋右側堆放寶物的地方。戰爭時不會使用，但在uniwente等儀式時會使用。
+(1) Amatsupo（一種彈簧弓）：指的是架設「機關弓」。
+(2) 刀劍：這與戰爭中使用的刀劍不同。它通常懸掛在房屋右側堆放寶物的地方。它不用於戰爭時期，但用於uniwente等活動中。
 ```
 

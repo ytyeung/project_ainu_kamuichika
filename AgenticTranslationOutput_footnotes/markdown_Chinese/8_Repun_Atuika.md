@@ -4,7 +4,7 @@
 
 ## Repun Kamui yaieyukar, “Atuika tomatomaki kuntuteashi hm hm!” 
 ## 海の神が自ら歌った謡「アトイカ トマトマキ クントテアシ フム フム!」
-## 御幣與iku pashui
+## 阿伊努祝詞腳註翻譯
 
 ### System prompt
 ```
@@ -53,33 +53,33 @@ This is the Japanese text.
 (1) 御幣で飾りをつけたものであって,神様にお神酒を上げる時に使います.この kike-ush-pashui は人間の代理を勤めて,人間が神様に云おうと思う事を神様のところへ行って,伝えると云います.御幣をつけていない普通の箸を iku pashui と云います(酒宴の箸).
 
 This is the Chinese Translation 1.
-這是用御幣裝飾的東西，用於向神明敬獻神酒。這個 kike-ush-pashui 擔任人類的代理，將人類想對神明說的話傳達給神明。沒有裝飾御幣的普通筷子被稱作 iku pashui（酒宴用的筷子）。
+（1）用御幣裝飾的東西，是獻給神明神酒時使用的。這個kike-ush-pashui擔任人類的代理，將人類想對神明說的話傳達給神明。沒有裝飾御幣的普通筷子被稱作iku pashui（酒宴用的筷子）。
 
 This is the Chinese Translation 2.
-這是一種用御幣裝飾的物品，用於向神靈供奉清酒。這個kike-ush-pashui作為人類的代表，據說會去到神靈那裡，並傳達人類想對他們說的話。沒有御幣的普通筷子被稱為iku pashui（清酒宴會筷子）。
+這是帶有御幣的裝飾品，用於向神靈供奉清酒。這種kike-ush-pashui作為人類的代表，據說可以去到神靈那裡，並傳達人類想對他們說的話。沒有御幣的普通筷子被稱為iku pashui（宴會用筷子）。
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 4 | 4 |  4.0 |
+| Translation 1 | 4 | 5 |  4.4 |
 | Translation 2 | 5 | 4 |  4.6 |
 
 ### Comments
 #### Translation 1
-Translation 1 is generally accurate but uses slightly less formal language. '敬獻神酒' is acceptable but not as refined as '供奉清酒'.
+Pros: Relatively straightforward and easy to understand. Cons: Some word choices could be more refined for better flow.
 
 #### Translation 2
-Translation 2 uses more formal language and provides a slightly clearer explanation of the role of kike-ush-pashui. The term '清酒宴會筷子' is also more descriptive.
+Pros: Uses slightly more refined language and provides a clearer explanation of the function of kike-ush-pashui. Cons: The sentence structure is a bit more complex, potentially hindering immediate understanding for some readers.
 
 ### Better Choice
 Translation 2
 #### Comment
-Translation 2 is slightly better because it uses more formal and appropriate language for describing offerings to deities ('供奉清酒' instead of '敬獻神酒'). It also clarifies the role of kike-ush-pashui as a 'representative' of humans, which is a more accurate interpretation. The phrase '清酒宴會筷子' is also more descriptive than '酒宴用的筷子'.
+Translation 2 has a slightly better weighted score due to its higher accuracy in conveying the original meaning. While Translation 1 is easier to understand, the accuracy of meaning is prioritized.
 
 ### Updated Output
 ```
-這是一種用御幣裝飾的物品，用於向神靈供奉清酒。這個kike-ush-pashui作為人類的代表，據說會去到神靈那裡，並傳達人類想對他們說的話。沒有御幣的普通筷子被稱為iku pashui（清酒宴會筷子）。
+這是帶有御幣的裝飾品，用於向神靈供奉清酒。這種kike-ush-pashui作為人類的代表，據說可以去到神靈那裡，並傳達人類想對他們說的話。沒有裝飾御幣的普通筷子被稱為iku pashui（宴會用的筷子）。
 ```
 

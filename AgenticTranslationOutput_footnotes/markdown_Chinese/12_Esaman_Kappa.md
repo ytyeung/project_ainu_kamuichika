@@ -4,7 +4,7 @@
 
 ## Esaman yaieyukar, “Kappa reureu kappa” 
 ## 獺かわうそが自ら歌った謡「カッパ レウレウ カッパ」
-## 阿伊努語歌翻譯
+## 阿伊努語歌謠腳註翻譯
 
 ### System prompt
 ```
@@ -50,40 +50,44 @@ If a term cannot be translated, keep the original language.
 For the original text which are not in Japanese, keep the original form. 
 
 This is the Japanese text.
-(1) achikara......「きたない」.おかしい,生意気なという意味をふくむ.
-この物語は Okikirmui の父と pon nitnekamui の父とは,前に大層激しい戦争をしたことがあるので,この pon okikirmui と pon nitnekamui とは敵どうしになっています.その親たちの戦争した模様は別な物語に詳しく出ています.
+(1) kinatantuka......蒲の束.蒲は編んで筵の様な敷物にするのですが,よく乾いているのをそのまま編むといけませんから,少し湿してからつかいます.この話にあるのも,そのために女が川へ持って行くのでしょう.
+(2) i-okapushpa.人は死んでしまった親や親類などの名を言ったり,その事をふだん話したりする事を i-okapushpa と言って大へん嫌います.また,人のかくしていた事をそばからほじり出して,みんなに言ったり,その人の聞きにくい様なその人の前の行為などを口に出したりする事をも i-okapushpa と言います.
+(3) nimakitara......牙の剥き出している.これは犬の事.山のけものたちは,人が猟に行くと犬を連れて行きますが,その犬に歯をむき出してかかられるのが一ばん恐いので,犬にこんな名をつけて恐がっています.
 
 This is the Chinese Translation 1.
-(1) achikara......「骯髒」。包含奇怪、傲慢的意思。
-這個故事是 Okikirmui 的父親和 pon nitnekamui 的父親，之前有過非常激烈的戰爭，所以這個 pon okikirmui 和 pon nitnekamui 是敵對關係。他們的父母戰爭的樣子在另一個故事裡有詳細描述。
+(1) kinatantuka......蒲草的束。蒲草會被編織成類似蓆子的墊子，但如果直接編織乾燥的蒲草是不行的，所以要稍微弄濕後再使用。故事裡提到的也是這樣，所以女人才會把它帶到河邊吧。
+(2) i-okapushpa。人們非常忌諱說已故的父母或親戚的名字，或是平常談論他們的事情，這被稱作 i-okapushpa。此外，從旁挖掘出別人隱藏的事情，然後告訴大家，或是說出那個人難以啟齒的、在人前的行為等等，也被稱作 i-okapushpa。
+(3) nimakitara......露出獠牙。指的是狗。山裡的野獸們，因為人們去狩獵時會帶著狗，而牠們最害怕被露出牙齒的狗攻擊，所以給狗取了這樣的名字來表示害怕。
 
 This is the Chinese Translation 2.
-achikara......「骯髒的」。它包含奇怪和厚臉皮等含義。
-在這個故事中，Okikirmui的父親和pon nitnekamui的父親之前發生過一場非常激烈的戰爭，所以這個pon okikirmui和pon nitnekamui是敵人。他們父母之間戰爭的細節在另一個故事中有詳細描述。
+[1] kinatantuka：一束香蒲。香蒲會被編織成墊子，但如果它們完全乾燥時編織，就無法完成，所以在使用前會稍微弄濕它們。在這個故事中，女人可能為了這個目的把它們帶到河邊。
+[2] i-okapushpa：人們非常不喜歡提及已故父母或親戚的名字，或在日常談話中談論他們，這被稱為 i-okapushpa。此外，挖出人們隱藏的東西並告訴大家，或提起一個人過去難以啟齒的行為，也被稱為 i-okapushpa。
+[3] nimakitara：露出獠牙。這是指狗。當人們去山裡打獵時，他們會帶狗一起去，他們最害怕被露出牙齒的狗攻擊，所以他們因為害怕而給狗取這個名字。
 
 ```
 ### Scoring
 
 |               | Accuracy | Easy to understand |  Total Score |
 | ------------- | -------- | ------------------ | ------------ | 
-| Translation 1 | 5 | 5 |  5.0 |
-| Translation 2 | 4 | 4 |  4.0 |
+| Translation 1 | 4 | 5 |  4.4 |
+| Translation 2 | 5 | 4 |  4.6 |
 
 ### Comments
 #### Translation 1
-Translation 1 is accurate and reads naturally. It maintains the original meaning well.
+翻譯 1 在詞彙使用上較為直接，語法也較為自然流暢，易於理解。但部分細節的翻譯可能不夠精確，例如對於「蒲の束」的翻譯。
 
 #### Translation 2
-Translation 2 is also accurate but slightly less natural in its phrasing. The addition of 的 after 骯髒 is unnecessary and makes it slightly less direct.
+翻譯 2 在細節翻譯上更為精確，例如對於「蒲の束」翻譯為「一束香蒲」。但整體語法略顯生硬，部分語句的表達不如翻譯 1 自然。
 
 ### Better Choice
-Translation 1
+Translation 2
 #### Comment
-Both translations are quite similar and accurate. Translation 1 is slightly better because it uses 「骯髒」 which is a more direct and common translation of "きたない" in this context compared to 「骯髒的」. Also, Translation 1 maintains better flow and sounds more natural in Chinese.
+翻譯 2 在準確性上略勝一籌，雖然在易懂性上稍遜，但綜合考慮準確性（60%）和易懂性（40%）的權重，翻譯 2 的加權得分更高。
 
 ### Updated Output
 ```
-(1) achikara......「骯髒」。包含奇怪、傲慢的意思。
-這個故事是 Okikirmui 的父親和 pon nitnekamui 的父親，之前有過非常激烈的戰爭，所以這個 pon okikirmui 和 pon nitnekamui 是敵對關係。他們的父母戰爭的樣子在另一個故事裡有詳細描述。
+(1) kinatantuka......一束香蒲。香蒲會被編織成類似蓆子的墊子，但如果完全乾燥時編織，就無法完成，所以使用前會稍微弄濕它們。故事裡提到的也是這樣，所以女人才會把它帶到河邊吧。
+(2) i-okapushpa。人們非常不喜歡提及已故父母或親戚的名字，或在日常談話中談論他們，這被稱為 i-okapushpa。此外，挖出人們隱藏的事情並告訴大家，或提起一個人過去難以啟齒的行為，也被稱為 i-okapushpa。
+(3) nimakitara......露出獠牙。這是指狗。山裡的野獸們，因為人們去狩獵時會帶著狗，而牠們最害怕被露出牙齒的狗攻擊，所以他們因為害怕而給狗取這個名字。
 ```
 
