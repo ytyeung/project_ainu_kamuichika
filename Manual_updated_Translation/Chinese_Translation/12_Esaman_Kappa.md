@@ -1,6 +1,6 @@
 ## Esaman yaieyukar, “Kappa reureu kappa” 
 ## 獺かわうそが自ら歌った謡「カッパ レウレウ カッパ」
-## 水獺自謠 「卡帕 來晤來晤 卡帕」
+## 水獺自謠 「卡帕 雷烏雷烏 卡帕」
 
 卡帕 雷烏雷烏 卡帕 (Kappa reureu kappa)
 
