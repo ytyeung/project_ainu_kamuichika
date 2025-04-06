@@ -9,7 +9,7 @@ The ancient natural scenery has faded away unnoticed. Where have the many people
 
 In the past, our happy ancestors never imagined even in the slightest that their homeland would eventually become so miserable. 
 
-Time continues to flow ceaselessly. The world develops and advances continuously. In the fierce arena of competition, we are being defeated in ugliness. However, one day, two or three strong individuals among is will arise and walk alongside the ever-advancing era. That day will eventually come. This is our urgent wish. This is our prayer for day and night. 
+Time continues to flow ceaselessly. The world develops and advances continuously. In the fierce arena of competition, we are being defeated in ugliness. However, one day, two or three strong individuals among us will arise and walk alongside the ever-advancing era. That day will eventually come. This is our urgent wish. This is our prayer for day and night. 
 
 But... the language that our beloved ancestors used to communicate with each other in daily life, the beautiful words passed down from generation to generation, will all of these also disappear mercilessly, along with the weak who are about to perish? This is too sad and regrettable. 
 
