@@ -15,8 +15,8 @@ But... the language that our beloved ancestors used to communicate with each oth
 
 Born as an Ainu and raised in the Ainu language, on rainy nights, on snowy nights, whenever I have free time, I gather and record, with clumsy strokes, one or two short pieces of stories told by our ancestors.   
 
-If the many of you who know us can read the stories, I, together with our ancestors, will truly feel the infinite joy and supreme happiness.
+If the many of you who know us can read the stories, I, together with our ancestors, will truly feel the infinite joy and supreme happiness.  
 
-1 March, 1922 
+1 March, 1922  
 
-Yukie Chiri
+Yukie Chiri  
