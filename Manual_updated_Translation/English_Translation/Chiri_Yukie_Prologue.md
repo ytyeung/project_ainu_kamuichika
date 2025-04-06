@@ -13,7 +13,7 @@ Time continues to flow ceaselessly. The world develops and advances continuously
 
 But... the language that our beloved ancestors used to communicate with each other in daily life, the beautiful words passed down from generation to generation, will all of these also disappear mercilessly, along with the weak who are about to perish? This is too sad and regrettable. 
 
-Born as an Ainu and raised in the Ainu language, on rainy nights, on snowy nights, whenever I have free time, I gather and record, with clumsy strokes, one or two short pieces of stories told by our ancestors.   
+Born as an Ainu and raised in Ainu language, on rainy nights, on snowy nights, whenever I have free time, I gather and record, with clumsy strokes, one or two short pieces of stories told by our ancestors.   
 
 If the many of you who know us can read the stories, I, together with our ancestors, will truly feel the infinite joy and supreme happiness.  
 
