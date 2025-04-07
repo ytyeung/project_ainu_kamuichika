@@ -4,19 +4,19 @@
   
 Tonupeka Ranran  
   
-The fierce sunlight had dried up the place I called home.  
-Locked in dried and cracked place, I was about to die.  
+Fierce sunlight had dried up the place I called home.  
+I was about to die.  
 "Please give us water. Save our lives.  
 Water! Water!" We cried.  
   
 From the direction of the shore,  
 A woman came with a basket on her back.  
 When we cried, she passed by us.  
-When she saw us, she said,  
-"Hateful mussels, wretched mussels,   
+Saw us, she said,  
+"Wretched mussels, hateful mussels,   
 Why are you crying  
 And making too much noise?"  
-She trampled us, kicked us,  
+She stepped on us, kicked us,  
 Crushed our shells,  
 And went far away into the mountains.  
   
@@ -33,7 +33,7 @@ Came to our side, saw us, and pitied us:
 The bedding of the mussels has dried up.    
 They are longing for water.  
 What has happened here?  
-It seems that they have been trampled..."  
+It seems that they have been stepped on..."  
   
 Saying this, she gathered up all of us,  
 Placed us in butterbur leaves,  
@@ -42,13 +42,13 @@ With the pure, cold water, we became healthy again,
 And regained our strength.  
   
 Then, we began to investigate the nature of those two women.  
-The hateful woman who came first and trampled us,  
-The wicked woman, was the youngder sister of Samayunkuru.  
-The young maiden who took pity to us and helped us,   
+The hateful woman who came first and stepped on us,  
+The wicked woman, was the younger sister of Samayunkur.  
+The maiden who took pity to us and helped us,   
 The gentle and graceful one,  
 Was the younger sister of Okikirmui.  
   
-Because the younger sister of Samayunkuru was evil and hateful,  
+Because the younger sister of Samayunkur was evil and hateful,  
 Her millet fields withered.  
 For the younger sister of Okikirmui,  
 Her millet fields flourished.  
