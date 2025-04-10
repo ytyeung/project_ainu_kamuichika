@@ -10,10 +10,11 @@ The younger sister of Samayunkur, as beautiful as a goddess, was there.
 She was holding a bucket in one hand and  
 A bundle of bulrushes in the other hand [1].  
   
-I poked my head out at the edge of the river, And asked,  
+I poked my head out at the edge of the river,  
+And asked,  
 "Do you have father?  
 Do you have mother?"  
-The maiden flustered, and looked around.  
+The young woman flustered, and looked around.  
 When she found me, her face filled with anger.  
 "You hateful flat head, you wicked flat head,  
 have insulted me [2]! Friends with baring fangs [3], go and get him!"  
@@ -25,11 +26,11 @@ And fled downstream.
   
 Then, at Okikirmui's water-drawing place,  
 I poked my head out again.  
-Okikirmui's younger sister, as beautiful as a goddess, was there.  
+Okikirmui's younger sister, as beautiful and divine as a goddess, was there.  
 She was holding a bucket in one hand and  
 A bundle of bulrushes in the other hand.  
   
-I said to her:  
+I said to her,    
 "Do you have father?  
 Do you have mother?"  
   
