@@ -41,7 +41,7 @@ And put us in a clear lake.
 With the pure, cold water, we became healthy again,    
 And regained our strength.  
   
-Then, we began to investigate the nature of those two women.  
+Then, we began to investigate where those two women came from.  
 The hateful woman who came first and stepped on us,  
 The wicked woman, was the younger sister of Samayunkur.  
 The maiden who took pity to us and helped us,   
