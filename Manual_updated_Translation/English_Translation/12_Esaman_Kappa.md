@@ -7,16 +7,17 @@ Kappa reureu kappa
 One day, I played along the river.  
 Swimming down, I came to water-drawing place of Samayunkur.  
 The younger sister of Samayunkur, as beautiful as a goddess, was there.    
-She was holding a bucket in one hand and  
-A bundle of bulrushes in the other hand [1].  
+She was holding a bucket in one hand,  
+And a bundle of bulrushes in the other hand [1].  
   
-I poked my head out at the edge of the river, And asked,  
+I poked my head out at the edge of the river, 
+And asked,  
 "Do you have father?  
 Do you have mother?"  
 The maiden flustered, and looked around.  
 When she found me, her face filled with anger.  
 "You hateful flat head, you wicked flat head,  
-have insulted me [2]! Friends with baring fangs [3], go and get him!"  
+Have insulted me [2]! Friends with baring fangs [3], go and get him!"  
   
 At her call, large dogs rushed out,  
 Showing their fangs at me.   
@@ -26,10 +27,10 @@ And fled downstream.
 Then, at Okikirmui's water-drawing place,  
 I poked my head out again.  
 Okikirmui's younger sister, as beautiful as a goddess, was there.  
-She was holding a bucket in one hand and  
-A bundle of bulrushes in the other hand.  
+She was holding a bucket in one hand,  
+And a bundle of bulrushes in the other hand.  
   
-I said to her:  
+I said to her,  
 "Do you have father?  
 Do you have mother?"  
   
@@ -57,7 +58,7 @@ I was punished, killed by Okikirmui's dogs.
 A meaningless, wicked death.  
 From now on, otters, never play such evil jokes.  
   
-The otter told his story.  
+The otter told his own tale.  
   
 ## Footnote  
   

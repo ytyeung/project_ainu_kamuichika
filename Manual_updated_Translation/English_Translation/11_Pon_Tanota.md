@@ -4,15 +4,15 @@
 
 [This sand is red, so red]
 
-One day, as I journeyed upstream for leisure,
-I encountered the child of the devil.
+One day, when I went upstream of a river for leisure,
+I encountered the child of a devil.
 As always, the devil's child is beautiful in appearance,
-Beautiful in face, wearing black robes,
+Beautiful in face, wearing a black robe,
 Holding a walnut bow and walnut arrows.
 
-Seeing me, he grinned and said:
+Seeing me, he grinned and said,
 “Little Okikirmui, let's play.
-See how I shall sever the source of the fish."
+I will show you how to cut off the root of fish.”
 With these words, he nocked a walnut arrow to his walnut bow,
 And shot it towards the spring of the waters.
 The spring gushed forth with walnut water, turbid and foul,

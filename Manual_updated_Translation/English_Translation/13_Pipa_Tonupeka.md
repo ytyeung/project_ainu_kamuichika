@@ -23,12 +23,12 @@ And went far away into the mountains.
 "Pain! Suffering! Water! Water!" We cried.  
 From the direction of the shore,  
 Another maiden came with a basket on her back.  
-We cried:   
+We cried,   
 "Please give us water. Save our lives.    
 Pain! Suffering! Water! Water!"  
   
 The maiden, as beautiful and divine as a goddess,  
-Came to our side, saw us, and pitied us:    
+Came to our side, saw us, and took pity to us,    
 "How pitiful! The heat is unbearable.   
 The bedding of the mussels has dried up.    
 They are longing for water.  
