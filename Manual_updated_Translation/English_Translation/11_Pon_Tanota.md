@@ -6,8 +6,8 @@
 (Tanota hure hure)  
   
 One day, when I went upstream of a river for leisure,  
-I encountered the child of a devil.  
-As always, the devil's child is beautiful in appearance,  
+I encountered the son of a devil.  
+As always, the devil's son is beautiful in appearance,  
 Beautiful in face, wearing a black robe,  
 Holding a walnut bow and walnut arrows.  
   
@@ -21,7 +21,7 @@ The salmon were swimming against the current,
 But, they hated the walnut water,   
 They wept, and turned away.   
   
-The devil's child saw this and grinned. 
+The devil's son saw this and grinned. 
 My anger ignited at this sight,  
 I fitted a silver arrow on my small silver bow,  
 And shot the arrow towards the spring.  
@@ -32,7 +32,7 @@ Regained their strength in the clear silver water.
 They laughed and played, with the splashing sounds,  
 Climbing upstream.   
   
-The devil's child saw this,   
+The devil's son saw this,   
 Revealed his impatience and fierece nature.  
 “If you insist, I will cut off the root of the deer.”  
   
@@ -45,7 +45,7 @@ The deers, were risen by the wind,
 Groups by groups,   
 Into the sky.  
   
-The devil's child grinned.  
+The devil's son grinned.  
   
 I was extremely angry at the sight.  
 I fitted a silver arrow to my silver bow,  
@@ -54,7 +54,7 @@ A silver wind descended from the heavens, clean and refreshing,
 The deers, groups by groups,   
 Were blown back to the trees of the mountains.  
   
-The devil's child, saw this,   
+The devil's son, saw this,   
 Further revealed his impatience and fierece nature.  
 “You arrogant fool [1], if you insist on this,   
 Let us compete our strength.”  
@@ -65,17 +65,17 @@ And fighted with him.
 He held me tight.  
 We wrestled, each striving for dominance,  
 At times I gained, at times he did.  
-The devil's child is really strong,  
+The devil's son is really strong,  
 But, in the end,  
 At a certain moment, I unleashed my power,  
 All of my power,  
-to lift the devil's child upon my shoulders,  
+to lift the devil's son upon my shoulders,  
 Knocking him hard upon the mountain rocks,  
 With a deafening sound of crash.  
   
-I killed the devil's child,   
+I killed the devil's son,   
 And kicked him into Hell,  
-The surrounding returned into silence.  
+The surroundings returned into silence.  
   
 When it was done, I returned along the river,  
 The laughter of the salmon,   
