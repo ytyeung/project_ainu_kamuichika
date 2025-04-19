@@ -18,11 +18,11 @@ With these words, he fitted a walnut arrow to his walnut bow,
 And shot it towards the spring of the waters.  
 The spring flowed with walnut water, muddy water,  
 The salmon were swimming against the current,  
-But, hated the walnut water,   
+But, they hated the walnut water,   
 They wept, and turned away.   
   
-The devil's child saw this and grinned.  
-But my rage ignited at this sight,  
+The devil's child saw this and grinned. 
+My anger ignited at this sight,  
 I fitted a silver arrow on my small silver bow,  
 And shot the allow towards the spring.  
   
@@ -37,7 +37,7 @@ Revealed his impatience and fierece nature.
 “If you insist, I will cut off the root of the deer.”  
   
 Saying this, he fitted a walnut arrow to his walnut bow,  
-And shot it towards the sky,  
+And shot the arrow towards the sky.  
 A walnut wind swept through the trees of the mountains,  
 And formed a whirlwind.  
 Among the trees of the mountains,   
@@ -57,7 +57,7 @@ Were blown back to the trees of the mountains.
 The devil's child, saw this,   
 Further revealed his impatience and fierece nature.  
 “You arrogant fool [1], if you insist on this,   
-Then let us compete our strength.”  
+Let us compete our strength.”  
 With these words, he took off his outter robe.  
   
 I, too, was left only with a thin garment,  
@@ -78,16 +78,16 @@ And kicked him into Hell,
 The surrounding returned into silence.  
   
 When it was done, I returned along the river,  
-The laughter of the salmon in the river,    
+The laughter of the salmon,   
 Their playing sounds, reached my ears.    
 The sounds of water splashing, were lively and joyous.    
 Among the trees of the mountains,  
 The laughter of the deers,  
-Their playing sounds, filled the mountains,  
+Their playing sounds, echoed in the mountains,  
 The deers were foraging in leisure.  
   
 When I saw this,  
-I felt peace in my heart,   
+I felt peace in my mind,   
 Therefore I returned home.  
   
 The Little Okikirmui told his own tale.   
