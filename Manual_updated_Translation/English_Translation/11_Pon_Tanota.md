@@ -24,7 +24,7 @@ They wept, and turned away.
 The devil's child saw this and grinned. 
 My anger ignited at this sight,  
 I fitted a silver arrow on my small silver bow,  
-And shot the allow towards the spring.  
+And shot the arrow towards the spring.  
   
 The spring flowed with silver water, clear and sweet,  
 The salmon, once wept when they retreated,  
