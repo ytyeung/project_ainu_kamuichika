@@ -42,7 +42,7 @@ Daring to insult me!
 Friends with baring fangs, go and get him!"  
   
 At her call, large dogs rushed out.  
-Remembering what happened before, I found it funny.  
+Remembering what had happened before, I found it funny.  
 I tried to dive into bottom of the river to escape,  
 But never thought of the dogs would do this.  
 Baring their fangs, they leapt into the river after me,  

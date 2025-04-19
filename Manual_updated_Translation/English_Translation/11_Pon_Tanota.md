@@ -13,7 +13,7 @@ Holding a walnut bow and walnut arrows.
 Seeing me, he grinned and said,
 “Little Okikirmui, let's play.
 I will show you how to cut off the root of fish.”
-With these words, he nocked a walnut arrow to his walnut bow,
+With these words, he took a walnut arrow to his walnut bow,
 And shot it towards the spring of the waters.
 The spring gushed forth with walnut water, turbid and foul,
 The salmon swam against the current,
