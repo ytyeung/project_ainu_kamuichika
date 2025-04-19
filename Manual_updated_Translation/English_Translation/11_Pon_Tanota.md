@@ -79,16 +79,16 @@ The surrounding returned into silence.
   
 When it was done, I returned along the river,  
 The laughter of the salmon in the river,    
-The sound of their play, reached my ears.    
-Their splashing sounds, were lively and joyous.    
+Their playing sounds, reached my ears.    
+The sounds of water splashing, were lively and joyous.    
 Among the trees of the mountains,  
 The laughter of the deers,  
-The sounds of their play, filled the mountains,  
+Their playing sounds, filled the mountains,  
 The deers were foraging in leisure.  
   
 When I saw this,  
 I felt peace in my heart,   
-Then I returned home.  
+Therefore I returned home.  
   
 The Little Okikirmui told his own tale.   
   
