@@ -3,7 +3,7 @@
 ## The Little Okikirmui's Own Chant “This sand is red, so red”   
   
 [This sand is red, so red]  
-(Tanota hure hure)  
+(Tanota hurehure)  
   
 One day, when I went upstream of a river for leisure,  
 I encountered the child of a devil.  
