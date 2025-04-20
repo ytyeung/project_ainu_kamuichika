@@ -29,7 +29,7 @@ And shot the arrow towards the spring.
 The spring flowed with silver water, clear and sweet,  
 The salmon, once wept when they retreated,  
 Regained their strength in the clear silver water.  
-They laughed and played, with the splashing sounds,  
+They laughed and played, with the splashing sound,  
 Climbing upstream.   
   
 The devil's son saw this,   
@@ -79,11 +79,11 @@ The surrounding returned into silence.
   
 When it was done, I returned along the river,  
 The laughter of the salmon in the river,    
-Their playing sounds, reached my ears.    
-The sounds of water splashing, were lively and joyous.    
+Their playing sound, reached my ears.    
+The sound of water splashing, were lively and joyous.    
 Among the trees of the mountains,  
 The laughter of the deer,  
-Their playing sounds, filled the mountains,  
+Their playing sound, filled the mountains,  
 The deer were foraging in leisure.  
   
 When I saw this,  

@@ -1,36 +1,48 @@
-## Pon Okikirmui yaieyukar, “Kutnisa kutunkutun”   
-## 小オキキリムイが自ら歌った謡「この砂赤い赤い」  
-## The Little Okikirmui's Own Chant “Kutnisa kutunkutun”      
+## Pon Okikirmui yaieyukar, “Kutnisa kutunkutun”     
+## 小オキキリムイが自ら歌った謡「この砂赤い赤い」    
+## The Little Okikirmui's Own Chant “Kutnisa kutunkutun”        
+  
+Kutnisa kutunkutun  
+  
+One day, I played near the source of the river.  
+I saw a short man, bending his back,  
+Driving piles to build a fish trap of walnut wood.  
+  
+When he saw me, he said,  
+"Who are you? Are you my nephew? Please help me!"  
+I looked, because of the fish trap of walnut wood,  
+Walnut water, muddy water, flowed out.  
+The salmon tried to swim upstream,  
+but they hated the walnut water.  
+They wept as they turned back.  
+  
+I was extremely angry.     
+I grabbed the hammer from the man's hand,     
+And struck him at his back.  
+I struck so hard, echoed with a loud sound.  
+I broke his backbone, killed him,  
+And kicked him down to Hell.  
+I shook the foundations of the walnut piles,  
+And found that the foundations were deeper than Six Hells [1].  
+  
+Then, with all of my strength,  
+I broke the piles of the fish trap from the foundations,  
+And kicked them down to Hell.  
+  
+From the source of the river, cool wind blowed, and clear water flowed.  
+The salmon, who were weeping as they left,    
+Revived in the cool wind and clear water.  
+They laughed and played with great joy,  
+And swam upstream with the sound of water splashing.  
+Seeing this, my heart was comforted,    
+And I returned along the river.  
+  
+The Little Okikirmui told his own tale.     
+  
+## Footnote      
+      
+(Chiri)  
 
-Kutnisa kutunkutun
-
-One day, I played near the source of the river.
-There, I saw a small boy, hunched over,
-Trying to build a weir of walnut wood, driving piles.
-When he saw me, he said,
-"Who are you? Are you my nephew? Please help me!"
-I looked, and it was a weir of walnut.
-Walnut water, a muddy torrent, flowed.
-The salmon tried to swim upstream,
-but they hated the walnut water
-and cried as they turned back.
-My anger flared.
-I snatched the mallet from the boy's hand
-and struck him in the small of his back.
-I struck so hard it echoed, "Pon!"
-I broke his spine, killed him,
-and kicked him down to hell.
-I shook his walnut stakes,
-as if to reach beyond six hells.
-Then, with all the strength in my back and body,
-I broke the stakes from their roots
-and kicked them down to hell.
-Clear wind and clear water flowed from the source,
-and the salmon, who had cried as they left,
-revived in the clear wind and water.
-They frolicked and laughed with great joy,
-Splashing and swimming upstream.
-Seeing this, my heart was comforted
-and I returned along the river.
-
-The Little Okikirmui told his own tale.   
+[1] iwan poknashir......Six Hells. There are six layers of worlds under the ground, where all kinds of demons live.
+  
+  
