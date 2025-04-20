@@ -6,8 +6,8 @@
 (Tanota hurehure)  
   
 One day, when I went upstream of a river for leisure,  
-I encountered the child of a devil.  
-As always, the devil's child is beautiful in appearance,  
+I encountered the son of a devil.  
+As always, the devil's son is beautiful in appearance,  
 Beautiful in face, wearing a black robe,  
 Holding a walnut bow and walnut arrows.  
   
@@ -15,16 +15,16 @@ Seeing me, he grinned and said,
 “Little Okikirmui, let's play.  
 I will show you how to cut off the root of fish.”  
 With these words, he fitted a walnut arrow to his walnut bow,  
-And shot it towards the spring of the waters.  
+And shot the arrow towards the spring of the waters.  
 The spring flowed with walnut water, muddy water,  
-The salmon were swimming against the current,  
-But, hated the walnut water,   
+The salmon were swimming upstream against the current,  
+But, they hated the walnut water,   
 They wept, and turned away.   
   
-The devil's child saw this and grinned.  
-But my rage ignited at this sight,  
+The devil's son saw this and grinned.  
+My anger ignited when I saw this.  
 I fitted a silver arrow on my small silver bow,  
-And shot the allow towards the spring.  
+And shot the arrow towards the spring.  
   
 The spring flowed with silver water, clear and sweet,  
 The salmon, once wept when they retreated,  
@@ -32,32 +32,32 @@ Regained their strength in the clear silver water.
 They laughed and played, with the splashing sounds,  
 Climbing upstream.   
   
-The devil's child saw this,   
-Revealed his impatience and fierece nature.  
+The devil's son saw this,   
+Revealed his fierece nature.  
 “If you insist, I will cut off the root of the deer.”  
   
 Saying this, he fitted a walnut arrow to his walnut bow,  
-And shot it towards the sky,  
+And shot the arrow towards the sky,  
 A walnut wind swept through the trees of the mountains,  
 And formed a whirlwind.  
 Among the trees of the mountains,   
-The deers, were risen by the wind,   
+The deer, were risen by the wind,   
 Groups by groups,   
 Into the sky.  
   
-The devil's child grinned.  
+The devil's son grinned.  
   
-I was extremely angry at the sight.  
+I was extremely angry when I saw this.  
 I fitted a silver arrow to my silver bow,  
-And shot the allow towards the departing deer.  
+And shot the arrow towards the departing deer.  
 A silver wind descended from the heavens, clean and refreshing,  
-The deers, groups by groups,   
+The deer, groups by groups,   
 Were blown back to the trees of the mountains.  
   
-The devil's child, saw this,   
-Further revealed his impatience and fierece nature.  
+The devil's son, saw this,   
+Further revealed his fierece nature.  
 “You arrogant fool [1], if you insist on this,   
-Then let us compete our strength.”  
+Let us compete our strength.”  
 With these words, he took off his outter robe.  
   
 I, too, was left only with a thin garment,  
@@ -65,15 +65,15 @@ And fighted with him.
 He held me tight.  
 We wrestled, each striving for dominance,  
 At times I gained, at times he did.  
-The devil's child is really strong,  
+The devil's son is really strong,  
 But, in the end,  
 At a certain moment, I unleashed my power,  
 All of my power,  
-to lift the devil's child upon my shoulders,  
+to lift the devil's son upon my shoulders,  
 Knocking him hard upon the mountain rocks,  
 With a deafening sound of crash.  
   
-I killed the devil's child,   
+I killed the devil's son,   
 And kicked him into Hell,  
 The surrounding returned into silence.  
   
@@ -82,12 +82,12 @@ The laughter of the salmon in the river,
 Their playing sounds, reached my ears.    
 The sounds of water splashing, were lively and joyous.    
 Among the trees of the mountains,  
-The laughter of the deers,  
+The laughter of the deer,  
 Their playing sounds, filled the mountains,  
-The deers were foraging in leisure.  
+The deer were foraging in leisure.  
   
 When I saw this,  
-I felt peace in my heart,   
+I felt peace in my mind,   
 Therefore I returned home.  
   
 The Little Okikirmui told his own tale.   
