@@ -19,7 +19,7 @@ They wept as they turned back.
 I was extremely angry.     
 I grabbed the hammer from the man's hand,     
 And struck him at his back.  
-I struck so hard, echoed with a loud sound.  
+I struck so hard, with a loud echo.    
 I broke his backbone, killed him,  
 And kicked him down to Hell.  
 I shook the foundations of the walnut piles,  
