@@ -23,7 +23,7 @@ I struck so hard, with a loud echo.
 I broke his backbone, killed him,  
 And kicked him down to Hell.  
 I shook the foundations of the walnut piles,  
-And found that the foundations were deeper than Six Hells [1].  
+The foundations were deeper than Six Hells [1].  
   
 Then, with all of my strength,  
 I broke the piles of the fish trap from the foundations,  
