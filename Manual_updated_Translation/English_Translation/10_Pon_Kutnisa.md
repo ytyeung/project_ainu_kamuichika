@@ -1,12 +1,12 @@
 ## Pon Okikirmui yaieyukar, “Kutnisa kutunkutun”     
-## 小オキキリムイが自ら歌った謡「この砂赤い赤い」    
+## 小オキキリムイが自ら歌った謡「クツニサ クトンクトン」    
 ## The Little Okikirmui's Own Chant “Kutnisa kutunkutun”        
   
 Kutnisa kutunkutun  
   
 One day, I played near the source of the river.  
 I saw a short man, bending his back,  
-Driving piles to build a fish trap of walnut wood.  
+Installing piles to build a fish trap of walnut wood.  
   
 When he saw me, he said,  
 "Who are you? Are you my nephew? Please help me!"  
