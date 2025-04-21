@@ -6,14 +6,14 @@ Kutnisa kutunkutun
   
 One day, I played near the source of the river.  
 I saw a short man, bending his back,  
-Installing piles to build a fish trap of walnut wood.  
+Installing piles for a fish trap of walnut wood.  
   
 When he saw me, he said,  
 "Who are you? Are you my nephew? Please help me!"  
 I looked, because of the fish trap of walnut wood,  
 Walnut water, muddy water, flowed out.  
 The salmon tried to swim upstream,  
-but they hated the walnut water.  
+But they hated the walnut water.  
 They wept as they turned back.  
   
 I was extremely angry.     
@@ -26,7 +26,7 @@ I shook the foundations of the walnut piles,
 The foundations were deeper than Six Hells [1].  
   
 Then, with all of my strength,  
-I broke the piles of the fish trap from the foundations,  
+I broke the piles from the foundations,  
 And kicked them down to Hell.  
   
 From the source of the river, cool wind blowed, and clear water flowed.  
