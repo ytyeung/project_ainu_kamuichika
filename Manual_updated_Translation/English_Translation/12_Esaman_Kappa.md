@@ -17,7 +17,8 @@ Do you have mother?"
 The maiden flustered, and looked around.  
 When she found me, her face filled with anger.  
 "You hateful flat head, you wicked flat head,  
-Have insulted me [2]! Friends with baring fangs [3], go and get him!"  
+Have insulted me [2]!  
+Friends with baring fangs [3], go and get him!"  
   
 At her call, large dogs rushed out,  
 Showing their fangs at me.   

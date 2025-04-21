@@ -50,7 +50,7 @@ The devil's son grinned.
 I was extremely angry when I saw this.  
 I fitted a silver arrow to my silver bow,  
 And shot the arrow towards the departing deer.  
-A silver wind descended from the heavens, clean and refreshing,  
+A silver wind descended from the heavens, cool and refreshing,  
 The deer, groups by groups,   
 Were blown back to the trees of the mountains.  
   
