@@ -26,9 +26,9 @@ My anger ignited when I saw this.
 I fitted a silver arrow on my small silver bow,  
 And shot the arrow towards the spring.  
   
-The spring flowed with silver water, clear and sweet,  
+The spring flowed with silver water, pure and sweet,  
 The salmon, once wept when they retreated,  
-Regained their strength in the clear silver water.  
+Regained their strength in the pure silver water.  
 They laughed and played, with the splashing sound,  
 Climbing upstream.   
   

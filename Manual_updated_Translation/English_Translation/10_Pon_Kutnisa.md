@@ -29,9 +29,10 @@ Then, with all of my strength,
 I broke the piles from the foundations,  
 And kicked them down to Hell.  
   
-From the source of the river, cool wind blowed, and clear water flowed.  
+From the source of the river,  
+Cool wind blowed, pure water flowed.  
 The salmon, who were weeping as they left,    
-Revived in the cool wind and clear water.  
+Revived in the cool wind and pure water.  
 They laughed and played with great joy,  
 And swam upstream with the sound of water splashing.  
 Seeing this, my heart was comforted,    
