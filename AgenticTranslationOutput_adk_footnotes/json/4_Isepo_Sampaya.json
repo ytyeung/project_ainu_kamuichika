@@ -1,0 +1,23 @@
+{
+    "japanese_title": "兎が自ら歌った謡「サンパヤ テレケ」",
+    "ainu_title": "Isepo yaieyukar, “Sampaya terke”",
+    "japanese_text": "(1) アマツポ(弩いしゆみ)すなわち「仕掛け弓」を仕掛ける事.\n(2) 刀剣.これは戦争の時に使う刀剣とは違うので,ふだん家の右座の宝物の積んである上に吊してあるのがそれです.戦争の時には使いませんが,uniwente などのときには使います.",
+    "chinese_translation": "(1) アマツポ(弩いしゆみ)，即是設置「機關弓」。\n(2) 刀劍。這與戰爭時使用的刀劍不同，平時吊在家中右側，堆放寶物的地方。戰爭時不會使用，但在uniwente等儀式時會使用。",
+    "english_translation": "(1) Amatsupo (Doishiyumi): Setting up a \"trick bow.\"\n(2) Swords. These are different from the swords used in war; they are usually hung above the treasures piled up on the right side of the house. They are not used in times of war, but they are used during uniwente, etc.",
+    "eng_to_chi_translation": "(1) Amatsupo (crossbow): This refers to setting up a \"trick bow.\"\n(2) Swords: These are different from the swords used in war. Normally, they are hung on the right side of the house, above the pile of treasures. They are not used in war, but they are used in ceremonies such as uniwente.",
+    "chi_to_eng_translation": "（1）Amatsupo（弩弓）即設置「機關弓」。\n（2）刀劍。這與戰爭時使用的刀劍不同，平時吊掛在家中右側堆積的寶物上方。戰爭時不會使用，但在uniwente等儀式時會使用。",
+    "updated_translation_zh": {
+        "translation": "（1）Amatsupo（弩弓）即設置「機關弓」。\n（2）刀劍。這與戰爭時使用的刀劍不同，平時吊掛在家中右側，堆積的寶物上方。戰爭時不會使用，但在uniwente等儀式時會使用。",
+        "title": "腳註翻譯",
+        "comment": "結合了兩個翻譯版本的優點，更清晰地描述了刀劍的位置，並保持了原文的準確含義。",
+        "agent": "Retranslation_Chinese_Agent",
+        "text_type": "FOOTNOTE"
+    },
+    "updated_translation_en": {
+        "translation": "(1) Amatsupo (crossbow): This refers to setting up a \"trick bow\".\n(2) Swords: These are different from the swords used in war. Normally, they are hung on the right side of the house, above the pile of treasures. They are not used in war, but they are used in ceremonies such as uniwente.",
+        "title": "Footnote Translation",
+        "comment": "Combined the pros of the two translation versions. More clearly describes the location of the swords, and maintains the accurate meaning of the original text.",
+        "agent": "Retranslation_English_Agent",
+        "text_type": "FOOTNOTE"
+    }
+}

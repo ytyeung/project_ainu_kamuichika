@@ -1,0 +1,23 @@
+{
+    "japanese_title": "梟の神が自ら歌った謡「コンクワ」",
+    "ainu_title": "Kamuichikap Kamui yaieyukar, “Konkuwa”",
+    "japanese_text": "(1) katken......川ガラス.昔から大そういい鳥として尊ばれる鳥です.",
+    "chinese_translation": "(1) katken... A dipper. It is a bird that has been highly respected as a very good bird since ancient times.",
+    "english_translation": "(1) katken......河烏。自古以來就被視為非常吉祥的鳥而受到尊崇。",
+    "eng_to_chi_translation": "(1) katken......Dipper. It has been revered as a very auspicious bird since ancient times.",
+    "chi_to_eng_translation": "（1）katken......河烏。自古以來就被視為非常好的鳥而備受尊敬。",
+    "updated_translation_zh": {
+        "translation": "（1）katken......河烏。自古以來就被視為非常好，備受尊敬的鳥。",
+        "title": "",
+        "comment": "Combined the pros of the two translations to generate a better translation.",
+        "agent": "Retranslation_Chinese_Agent",
+        "text_type": "FOOTNOTE"
+    },
+    "updated_translation_en": {
+        "translation": "(1) katken... A dipper. It is a bird that has been highly respected as a very good bird since ancient times.",
+        "title": "Footnote Translation",
+        "comment": "Re-translated the Japanese footnote about 'katken' to English, maintaining the original meaning and using simple, modern language.",
+        "agent": "Retranslation_English_Agent",
+        "text_type": "FOOTNOTE"
+    }
+}

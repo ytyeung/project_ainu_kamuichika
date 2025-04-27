@@ -1,0 +1,23 @@
+{
+    "japanese_title": "小オキキリムイが自ら歌った謡「クツニサ クトンクトン」",
+    "ainu_title": "Pon Okikirmui yaieyukar, “Kutnisa kutunkutun”",
+    "japanese_text": "(1) iwan poknashir......六つの地獄.地の下には六段の世界があってそこには種々な悪魔が住んでいます.",
+    "chinese_translation": "(1) iwan poknashir......Six Hells. There are six levels of worlds beneath the ground, inhabited by various demons.",
+    "english_translation": "(1) iwan poknashir......六層地獄。在地的下面有六層世界，那裡住著各種各樣的惡魔。",
+    "eng_to_chi_translation": "(1) iwan poknashir......Six levels of hell. Beneath the earth, there are six layers of worlds, inhabited by various demons.",
+    "chi_to_eng_translation": "(1) iwan poknashir......六個地獄。地底下有六層世界，那裡住著各種各樣的惡魔。",
+    "updated_translation_zh": {
+        "translation": "(1) iwan poknashir......六層地獄。在地的下面有六層世界，那裡住著各種各樣的惡魔。",
+        "title": " ",
+        "comment": " ",
+        "agent": "Retranslation_Chinese_Agent",
+        "text_type": "FOOTNOTE"
+    },
+    "updated_translation_en": {
+        "translation": "(1) iwan poknashir......Six Hells. There are six levels of worlds beneath the ground, inhabited by various demons.",
+        "title": "Footnote Translation",
+        "comment": "Translated Japanese footnote to English.",
+        "agent": "Retranslation_English_Agent",
+        "text_type": "FOOTNOTE"
+    }
+}

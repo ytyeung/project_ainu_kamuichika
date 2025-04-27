@@ -6,16 +6,13 @@
 ## {japanese_title}
 ## {translated_title}
 
-### System prompt
+### Prompt 
 ```
 {system_prompt}
 
-```
-
-### Prompt
-```
 {formatted_prompt}
 ```
+
 ### Scoring
 
 |               | Accuracy | Easy to understand | Poetic Flow | Total Score |
@@ -23,11 +20,18 @@
 | Translation 1 | {score_accuracy_1} | {score_understanding_1} | {score_poetic_1} | {weighted_score_1} |
 | Translation 2 | {score_accuracy_2} | {score_understanding_2} | {score_poetic_2} | {weighted_score_2} |
 
-### Comments
-#### Translation 1
+### Translation 1
+```
+{translation_1}
+```
+#### Comments
 {comment_1}
 
 #### Translation 2
+```
+{translation_2}
+```
+#### Comments
 {comment_2}
 
 ### Better Choice

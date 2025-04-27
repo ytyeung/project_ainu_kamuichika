@@ -1,0 +1,23 @@
+{
+    "japanese_title": "小オキキリムイが自ら歌った謡「この砂赤い赤い」",
+    "ainu_title": "Pon Okikirmui yaieyukar, “Tanota hurehure”",
+    "japanese_text": "(1) achikara......「きたない」.おかしい,生意気なという意味をふくむ.\nこの物語は Okikirmui の父と pon nitnekamui の父とは,前に大層激しい戦争をしたことがあるので,この pon okikirmui と pon nitnekamui とは敵どうしになっています.その親たちの戦争した模様は別な物語に詳しく出ています.",
+    "chinese_translation": "(1) achikara......\"dirty.\" Includes the meanings of strange and cheeky.\nIn this story, Okikirmui's father and pon nitnekamui's father had a very fierce war before, so this pon okikirmui and pon nitnekamui are enemies. The details of the war between their parents are described in detail in another story.",
+    "english_translation": "（1）achikara……意為「骯髒」。包含奇怪、自大的意思。\n這個故事講述的是Okikirmui的父親和pon nitnekamui的父親，之前曾有過非常激烈的戰爭，因此這個pon okikirmui和pon nitnekamui是敵對關係。關於他們父輩戰爭的詳細情況，在另一個故事中有詳細描述。",
+    "eng_to_chi_translation": "(1) achikara......\"dirty\". It includes meanings such as strange and cheeky.\nThis story tells that Okikirmui's father and pon nitnekamui's father had a very fierce war before, so this pon okikirmui and pon nitnekamui are enemies. The details of their parents' war are described in detail in another story.",
+    "chi_to_eng_translation": "（1）achikara......「骯髒」。包含奇怪、厚臉皮的意思。\n這個故事中，Okikirmui 的父親和 pon nitnekamui 的父親之前曾發生過非常激烈的戰爭，所以這個 pon okikirmui 和 pon nitnekamui 是敵對關係。他們的父輩之間戰爭的詳細情況在另一個故事中有詳細描述。",
+    "updated_translation_zh": {
+        "translation": "（1）achikara......「骯髒」。包含奇怪、厚臉皮的意思。\n這個故事講述的是Okikirmui的父親和pon nitnekamui的父親，之前曾發生過非常激烈的戰爭，所以這個pon okikirmui和pon nitnekamui 是敵對關係。他們的父輩之間戰爭的詳細情況在另一個故事中有詳細描述。",
+        "title": "腳註翻譯",
+        "comment": "結合了兩個翻譯版本的優點，使用了更現代和易於理解的中文。",
+        "agent": "Retranslation_Chinese_Agent",
+        "text_type": "FOOTNOTE"
+    },
+    "updated_translation_en": {
+        "translation": "(1) achikara......\"dirty.\" Includes the meanings of strange and cheeky. In this story, Okikirmui's father and pon nitnekamui's father had a very fierce war before, so pon okikirmui and pon nitnekamui are enemies. The details of their parents' war are described in detail in another story.",
+        "title": "Footnote Translation",
+        "comment": "Combining the strengths of both translations to provide a clear and accurate English translation.",
+        "agent": "Retranslation_English_Agent",
+        "text_type": "FOOTNOTE"
+    }
+}

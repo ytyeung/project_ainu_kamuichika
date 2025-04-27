@@ -1,0 +1,23 @@
+{
+    "japanese_title": "小狼の神が自ら歌った謡「ホテナオ」",
+    "ainu_title": "Pon Horkeukamui yaieyukar, “Hotenao”",
+    "japanese_text": "",
+    "chinese_translation": "Please provide the Japanese text for translation.",
+    "english_translation": "請提供需要翻譯的日文文本。",
+    "eng_to_chi_translation": "Please provide the Japanese text that needs to be translated.",
+    "chi_to_eng_translation": "請提供需要翻譯的日語文本。",
+    "updated_translation_zh": {
+        "translation": "請提供需要翻譯的日文文本。",
+        "title": "翻譯",
+        "comment": "請提供需要翻譯的日文文本。",
+        "agent": "Retranslation_Chinese_Agent",
+        "text_type": "FOOTNOTE"
+    },
+    "updated_translation_en": {
+        "translation": "Please provide the Japanese text for translation.",
+        "title": "Translation Request",
+        "comment": "Awaiting the Japanese text to be translated.",
+        "agent": "Retranslation_English_Agent",
+        "text_type": "FOOTNOTE"
+    }
+}
