@@ -20,7 +20,8 @@ Looked at me, and smiled,
 "Is this your chant? Is this your joyful drinking song?    
 I would like to hear more."    
     
-Delighted, I called out, "Tororo hanrok hanrok!".    
+Delighted, I called out,   
+"Tororo hanrok hanrok!".    
 The young man spoke again,    
 "Is this your chant? Is this your joyful drinking song?    
 I wish to hear it closer."    
