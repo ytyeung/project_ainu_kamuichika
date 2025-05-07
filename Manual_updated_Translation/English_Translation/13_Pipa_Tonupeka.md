@@ -9,19 +9,19 @@ I was about to die.
 "Please give us water. Save our lives.  
 Water! Water!" We cried.  
   
-From the direction of the shore,  
+From the direction of the sea shore,  
 A woman came with a basket on her back.  
-When we cried, she passed by us.  
+She passed by us when we cried.    
 Saw us, she said,  
 "Wretched mussels, hateful mussels,   
-Why are you crying  
+Why are you crying   
 And making too much noise?"  
 She stepped on us, kicked us,  
 Crushed our shells,  
-And went far away into the mountains.  
+And went far away into mountains.  
   
 "Pain! Suffering! Water! Water!" We cried.  
-From the direction of the shore,  
+From the direction of the sea shore,  
 Another maiden came with a basket on her back.  
 We cried,   
 "Please give us water. Save our lives.    

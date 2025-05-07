@@ -17,7 +17,7 @@ But they hated the walnut water.
 They wept as they turned back.  
   
 I was extremely angry.     
-I grabbed the hammer from the man's hand,     
+I grabbed the hammer from the hand of the man,     
 And struck him at his back.  
 I struck so hard, with a loud echo.    
 I broke his backbone, killed him,  

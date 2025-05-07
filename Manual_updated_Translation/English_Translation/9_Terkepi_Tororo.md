@@ -59,6 +59,6 @@ And I had played a trick on him without even knowing he was Okikirmui.
     
 I died such a pointless, miserable death,    
 Frogs of the future,     
-Never play tricks on human.    
+Never play tricks on humans.    
     
 The bloated frog died after telling his own tale.
