@@ -28,7 +28,7 @@ We cried,
 Pain! Suffering! Water! Water!"  
   
 The maiden, as beautiful and divine as a goddess,  
-Came to our side, saw us, and took pity to us,    
+Came to our side, saw us, and took pity on us,    
 "How pitiful! The heat is unbearable.   
 The bedding of the mussels has dried up.    
 They are longing for water.  

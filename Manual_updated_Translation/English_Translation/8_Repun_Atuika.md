@@ -92,12 +92,12 @@ Breathlessly, the seagull said,
 “Tominkarikur Kamuikarikur Isoyankekur  
 
 The Brave God, The Great God,
-Why have you given such a great gift of the sea to the lowly humans, the wicked humans?
+Why have you given such a great gift from the sea to the lowly humans, the wicked humans?
 The lowly humans, the wicked humans, are using axes and sickles, 
-To cut, slice, and crop the great gift of the sea. 
+To cut, slice, and crop the great gift from the sea. 
 
 The Brave God, The Great God, 
-Please quickly take back the great gift of the sea. 
+Please quickly take back the great gift from the sea. 
 Even though you give the humans such a great blessing,
 The lowly humans, the wicked humans,
 Are not grateful, but have acted in disrespect.”  
@@ -122,7 +122,7 @@ Unable to carry their half piece of whale.
 They were shouting loudly,  
 And making slow progress towards the east of the sea.
 
-I was surpised,   
+I was surprised,   
 But I did not care about, and went home.
 I sat on the high platform, 
 Looking toward the human world.
@@ -142,95 +142,114 @@ The villagers were crying,
 And rejoicing over the gift of the sea.
 The words of seagull about the humans,  
 Carving the whales with axes and sickles,  
-Was not fact.
-Instead, the chief and the villagers took out the divine sword, 
-Which was their the most precious treasure,
-And used it to slice and carry.
+Was not the fact.
+The chief and the villagers took out the divine sword, 
+Their the most precious treasure,
+To slice the whales and carry away.
 
-My elder brothers and elder sisters showed no sign of returning.
-Two or three days passed, and something
-Seemed to appear in the window, so
-I turned and looked, and on the window
-Was a golden cup, filled to overflowing
-With sake, and on it
-Were sacred chopsticks with gohei attached,
-Going back and forth, delivering a message as an envoy, saying,
-"I am a person from Otasutsu Village,
-And with great reverence, I offer you sake."
+My elder brothers and sisters did not return yet.
+Two or three days later, 
+Something appeared at the window.
+I turned around,
+And found a golden cup,  
+Overflowed with sake.  
+On top of the golden cup, 
+There were sacred chopsticks with Inau attached,
+Going back and forth, delivering the message,  
+"I come from Otashut Village.
+Here is my offer with great respect."
 
-The village chief of Otasutsu Village,
+The village chief of Otashut Village,
 Representing all the villagers,
-spoke in detail of the circumstances in which he offered his thanks to me,
+Spoke in detail for their gratitude to me.
 "Tominkarukur Kamuykarukur Isoyankekur
-Great God, if not for you, Brave God,
-Who would have pitied our village, where there was a famine
-And we were so desperately
-Lacking in food?
-Thank you truly for giving life to our village.
-Rejoicing over the sea bounty,
-We have made a little sake,
-Added a small nusa,
-And offer our thanks to the Great God."
-This was what
-The gohei-adorned chopsticks declared, going back and forth.
-So I rose, took
-The golden cup, and raised it to my forehead,
-Opened the lids of the six sake barrels in the upper seat,
-Poured a little fine sake into each,
-And placed the golden cup on the window.
-When that was done, I sat down on the raised platform
-And saw that the cup had disappeared, along with the chopsticks.
-Then, carving sheaths
-And engraving sheaths, presently
-I raised my face and saw
-That the house was full of beautiful gohei,
-And the house was filled with white clouds, and white lightning
-Was flashing brightly. I thought, "Ah, how beautiful."
-Then again, two or three days passed,
-And at last, outside the house,
-I heard my brothers and
-Sisters pulling the whale,
-Shouting loudly. I was amazed.
-As I watched them enter the house,
-My brothers and sisters
-Were very tired, their faces
-Withered. When everyone had entered and saw the many gohei,
-They were surprised and worshipped many times over.
-Meanwhile, the six sake barrels in the eastern seat
-Were overflowing, and the scent of the gods' favorite
-Sake filled the house.
-Then I decorated the house with beautiful gohei,
-Invited the gods of distant places and the gods of nearby places,
-And held a grand banquet. My sisters
-Boiled the whale and offered it to the gods,
-And the gods smacked their lips and rejoiced.
-When the banquet was at its height, I rose
-And told in detail how there had been a famine in the human world
-And, feeling pity, I had beached the sea bounty,
-And how, when I had done good to the humans, the evil gods
-Were jealous of it, and the sea grebe had slandered me,
-And how the village chief of Otasutsu Village
-Had taken those words and offered his thanks to me,
-And how the gohei-adorned chopsticks had come as an envoy,
-And the gods
-All nodded in unison,
-Praising me.
-Then again, we held a grand banquet,
-And the sounds of the gods
-Dancing and leaping here and there
-Made a beautiful sound, and my sisters
-Carried the choshi and went around pouring sake between the seats,
-And sang in beautiful voices with the goddesses.
-Two or three days passed, and the banquet closed.
-I gave the gods two or three beautiful gohei each,
-And the gods bent low at the waist
-And bowed many times over,
-And all returned to their own homes.
-After that, as always, my eldest brother, six brothers,
-My eldest sister, six sisters, my younger sister, six sisters,
-My younger brother, six brothers, were with me,
-And whenever the humans made sake,
-They would send sake to me and send gohei to my place.
-Now the humans have no lack of food
-And live in peace, without any troubles,
-So I am at ease.
+The Brave God, The Great God,
+Who would took pity on our village, where there was a famine.  
+We were starving to death.
+
+Thank you for reviving us, 
+With the great gift from the sea.
+We have made some fine sake,
+With decoration of Inau,
+To express our gratitude to the Great God."
+The sacred chopsticks with Inau attached,
+Going back and forth,
+Delivered the message.  
+
+I rose, took the golden cup, 
+Raised the cup to my forehead, 
+Then put the cup down.   
+I opened the lids of the six sake barrels at the Upper Seat,
+And poured a small amount of the fine sake into each barrel. 
+Then I placed the golden cup at the window.
+
+When I completed, I sat on the platform, and saw that,
+The golden cup had disappeared,  
+Along with the sacred chopsticks.
+Then, I continued to carve and engrave sheath.
+I raised my head, and saw that,
+The house was full of beautiful Inau,
+with white clouds swirling , 
+And white lightning flashing.   
+"How beautiful it is.", I thought.
+
+Two or three days had passed.
+Finally, outside the house,
+I heard my elder brothers and sisters, 
+Shouting loudly,
+Pulling the whale.
+I was surprised.
+
+I observed my elder brothers and sisters when they entered the house.
+Their tiredness was shown on their faces.  
+When all of them entered the house,
+They were surprised by the numerous Inau, 
+And worshipped many times over.
+
+Meanwhile, the six sake barrels at the Eastern Seat
+Were overflowing, 
+The house was filled with the scent of sake,  
+A favourite of the gods.  
+I decorated the house with the beautiful Inau,
+And invited the gods near and far,  
+To a grand banquet.   
+My elder sisters boiled and offered the whale to the gods.
+The gods smacked their lips and rejoiced.
+
+When the banquet was at its height, I stood up,  
+Telling in detail about the famine in the human world.
+I took pity, and pushed the whales to the beach.
+When I had done good to humans, 
+The evil gods who were jealous,  
+Had sent the seagull to slander humans in front of me.
+And the chief of Otashut Village,
+Offered his thanks to me,
+With the sacred chopsticks decorated with Inau as the messenger.
+
+The gods, nodded in unison, praised me.
+We continued the grand banquet.
+The gods danced with beautiful sound. 
+My sisters carried the wine flasks,  
+Went around between the seats, 
+Pouring sake, 
+And sang with the goddesses in beautiful voices.
+Two or three days passed, 
+The banquet concluded.
+
+I gave each of the gods two or three beautiful inau.  
+The gods bowed many times, expressing thanks to me.
+Then they all returned to their homes.
+
+After that, as always, 
+My tall elder brothers, six elder brothers, 
+My tall elder sisters, six elder sisters,
+My short elder brothers, six elder brothers, 
+My short elder sisters, six elder sisters,
+Were always with me.
+
+When humans had made sake,
+They offered fine sake and Inau to my place.
+
+Now humans have sufficient food,  
+And live in peace, without any troubles.
+My heart is comforted.
