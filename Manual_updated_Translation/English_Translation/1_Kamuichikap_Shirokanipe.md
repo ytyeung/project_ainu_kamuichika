@@ -202,7 +202,7 @@ When the gods were about to leave,
 I gave each of them two or three beautiful *inau*.  
   
 Looking at that Ainu village, it is now at peace.    
-The people live in harmony, and the *Nispha*    
+The people live in harmony, and the *Nishpa*    
 Becomes the village head.    
 His son is now grown up,    
 With his wife and his child.  

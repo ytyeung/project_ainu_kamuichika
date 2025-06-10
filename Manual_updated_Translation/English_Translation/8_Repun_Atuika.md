@@ -154,7 +154,7 @@ I turned around,
 And found a golden cup,  
 Overflowed with sake.  
 On top of the golden cup, 
-There were sacred chopsticks with Inau attached,
+There were sacred chopsticks [1] with Inau attached,
 Going back and forth, delivering the message,  
 "I come from Otashut Village.
 Here is my offer with great respect."
@@ -253,3 +253,8 @@ They offered fine sake and Inau to my place.
 Now humans have sufficient food,  
 And live in peace, without any troubles.
 My heart is comforted.
+
+## Footnote  
+(Chiri)  
+
+[1] This is a decoration with Inau, which is used when offering sake to the gods. This kike-ush-pashui serves as the representative of humans, conveying what humans want to say to the gods. Ordinary chopsticks without Inau are called iku pashui (chopsticks for feasts).
