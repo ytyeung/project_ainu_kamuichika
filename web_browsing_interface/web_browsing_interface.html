@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Book Reader</title>
+    <style>
+        /* General styles */
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #121212; /* Night mode background */
+            color: #e0e0e0; /* Night mode text */
+            overflow: hidden;
+        }
+
+        /* Responsive layout */
+        .container {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+
+        .cover-page {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #1e1e1e;
+            color: #ffffff;
+            font-size: 2em;
+        }
+
+        .reader {
+            flex: 1;
+            display: flex;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .page {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            padding: 20px;
+            box-sizing: border-box;
+            overflow-y: auto;
+            backface-visibility: hidden; /* Ensure only the front face is visible */
+            transform-origin: left center; /* Set the origin for the flipping effect */
+            transition: transform 0.6s ease-in-out; /* Smooth flipping transition */
+        }
+
+        .page.hidden {
+            transform: rotateY(-180deg); /* Flip the page to hide it */
+        }
+
+        .page.visible {
+            transform: rotateY(0deg); /* Show the page */
+        }
+
+        .sidebar {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 250px;
+            height: 100%;
+            background-color: #1e1e1e;
+            color: #e0e0e0;
+            transform: translateX(-100%);
+            transition: transform 0.3s ease;
+            z-index: 999; /* Ensure sidebar is above page content */
+        }
+
+        .sidebar.open {
+            transform: translateX(0);
+        }
+
+        .sidebar-toggle {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+            z-index: 1000; /* Ensure toggle button is above other elements */
+        }
+
+        /* Navigation buttons */
+        .nav-button {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background-color: #333;
+            color: #fff;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+            z-index: 1000;
+        }
+
+        .nav-button.left {
+            left: 10px;
+        }
+
+        .nav-button.right {
+            right: 10px;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .cover-page {
+                font-size: 1.5em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Cover Page -->
+        <div class="cover-page">
+            Welcome to the E-Book Reader
+        </div>
+
+        <!-- Reader Section -->
+        <div class="reader">
+            <button class="sidebar-toggle">☰</button>
+            <div class="sidebar">
+                <ul>
+                    <li><a href="#">Chapter 1</a></li>
+                    <li><a href="#">Chapter 2</a></li>
+                    <li><a href="#">Chapter 3</a></li>
+                </ul>
+            </div>
+            <button class="nav-button left">◀</button>
+            <button class="nav-button right">▶</button>
+            <div class="page">Page 1 Content</div>
+            <div class="page">Page 2 Content</div>
+            <div class="page">Page 3 Content</div>
+        </div>
+    </div>
+
+    <script>
+        // Sidebar toggle functionality
+        const sidebarToggle = document.querySelector('.sidebar-toggle');
+        const sidebar = document.querySelector('.sidebar');
+
+        function updateSidebarButtonVisibility(index) {
+            sidebarToggle.style.display = index === 0 ? 'none' : 'block'; // Hide sidebar button on cover page
+        }
+
+        sidebarToggle.addEventListener('click', () => {
+            sidebar.classList.toggle('open');
+        });
+
+        // Page navigation functionality
+        const coverPage = document.querySelector('.cover-page');
+        const readerSection = document.querySelector('.reader');
+
+        // Move cover page to the first page of the reader
+        coverPage.classList.add('page');
+        readerSection.insertBefore(coverPage, readerSection.firstChild);
+
+        const pages = document.querySelectorAll('.page');
+        let currentPage = 0;
+
+        function showPage(index) {
+            pages.forEach((page, i) => {
+                page.classList.remove('visible', 'hidden');
+                if (i === index) {
+                    page.classList.add('visible');
+                } else {
+                    page.classList.add('hidden');
+                }
+            });
+
+            // Show/hide navigation buttons based on the current page
+            const leftButton = document.querySelector('.nav-button.left');
+            const rightButton = document.querySelector('.nav-button.right');
+
+            if (index === 0) {
+                leftButton.style.display = 'none'; // Hide left button on cover page
+                rightButton.style.display = 'block'; // Show right button on cover page
+            } else if (index === pages.length - 1) {
+                leftButton.style.display = 'block'; // Show left button on last page
+                rightButton.style.display = 'none'; // Hide right button on last page
+            } else {
+                leftButton.style.display = 'block'; // Show left button on other pages
+                rightButton.style.display = 'block'; // Show right button on other pages
+            }
+
+            updateSidebarButtonVisibility(index); // Update sidebar button visibility
+        }
+
+        document.querySelector('.nav-button.left').addEventListener('click', () => {
+            if (currentPage > 0) {
+                currentPage--;
+                showPage(currentPage);
+            }
+        });
+
+        document.querySelector('.nav-button.right').addEventListener('click', () => {
+            if (currentPage < pages.length - 1) {
+                currentPage++;
+                showPage(currentPage);
+            }
+        });
+
+        // Sidebar navigation functionality
+        const sidebarLinks = document.querySelectorAll('.sidebar a');
+        sidebarLinks.forEach((link, index) => {
+            link.addEventListener('click', (event) => {
+                event.preventDefault(); // Prevent default link behavior
+                currentPage = index + 1; // Adjust index to account for cover page
+                showPage(currentPage); // Display the selected page
+            });
+        });
+
+        // Initialize pages
+        showPage(currentPage);
+    </script>
+</body>
+</html>
