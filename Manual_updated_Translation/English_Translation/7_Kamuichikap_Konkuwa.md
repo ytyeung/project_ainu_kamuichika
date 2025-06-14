@@ -80,24 +80,29 @@ Therefore I dispatched a messenger to the deer god and the fish god
 For negotiation.
 
 Many days had passed,   
-I heard a faint sound in the sky.
+I heard a soft sound from the sky.
 Suddenly, someone came in. 
 Looking around, the young brown dipper returned,
 Now even more handsome, with further refined dignity,  
 Began to state the response.
 
-The reason why the deer god and the fish god of Heaven
-had not released deer or fish until today
-was that when humans caught deer,
-they hit the deer's head with wood, and when they skinned it,
-they discarded the deer's head as it was in the mountain forest.
-When they caught fish,
-they killed them by hitting their heads with rotten wood,
-so the deer, crying naked,
-returned to the deer god's side, and the fish
-returned to the fish god with rotten wood in their mouths. The deer god and the fish god
-were angry and consulted, and decided not to release deer or
-fish. But if from now on
+The deer god and the fish god,
+Refused to release deer and fish,
+Because humans hit the deer's head with wood,
+When they caught deer.
+When humans skinned deer,
+They discarded the deer's head in the forest and mountain.
+When humans caught fish,
+They killed the fish by hitting their heads with rotten wood.
+The deer, naked and cried,
+Returned to the deer god. 
+The fish, with rotten wood in their mouths,
+Returned to the fish god. 
+
+The deer god and the fish god
+Were angry and consulted, and decided not to release deer or
+fish. 
+But if from now on
 humans treat deer and fish
 with care, then they will release deer
 and release fish, the deer god and
