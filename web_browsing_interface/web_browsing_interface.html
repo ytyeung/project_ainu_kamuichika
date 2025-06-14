@@ -14,6 +14,10 @@
             overflow: hidden;
         }
 
+        html {
+            scroll-behavior: smooth; /* Enable smooth scrolling for the entire page */
+        }
+
         /* Responsive layout */
         .container {
             display: flex;
@@ -45,11 +49,17 @@
             width: 100%;
             height: 100%;
             padding: 20px;
+            padding-top: 80px; /* Increase padding to add a small margin between page content and navigation bar */
+            padding-left: 60px;
+            padding-right: 60px;
             box-sizing: border-box;
             overflow-y: auto;
             backface-visibility: hidden; /* Ensure only the front face is visible */
             transform-origin: left center; /* Set the origin for the flipping effect */
             transition: transform 0.6s ease-in-out; /* Smooth flipping transition */
+            flex: 1;
+            display: flex;
+            justify-content: center;
         }
 
         .page.hidden {
@@ -62,10 +72,10 @@
 
         .sidebar {
             position: absolute;
-            top: 0;
+            top: 50px; /* Adjust top position to avoid overlapping with navigation bar */
             left: 0;
             width: 250px;
-            height: 100%;
+            height: calc(100% - 50px); /* Adjust height to account for navigation bar */
             background-color: #1e1e1e;
             color: #e0e0e0;
             transform: translateX(-100%);
@@ -92,22 +102,52 @@
         /* Navigation buttons */
         .nav-button {
             position: absolute;
-            top: 50%;
+            top: calc(50% + 25px); /* Adjust position to always be below the sidebar */
             transform: translateY(-50%);
             background-color: #333;
             color: #fff;
             border: none;
             padding: 10px;
             cursor: pointer;
-            z-index: 1000;
+            z-index: 1000; /* Ensure navigation buttons are above the sidebar */
         }
 
         .nav-button.left {
             left: 10px;
+            z-index: 998;
         }
 
         .nav-button.right {
             right: 10px;
+            z-index: 998;
+        }
+
+        /* Navigation bar styles */
+        .navi-bar {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 50px;
+            background-color: #333;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 20px;
+            box-sizing: border-box;
+            z-index: 1000;
+        }
+
+        .navi-bar .title {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            padding-left: 40px;
+        }
+
+        .navi-bar .sidebar-toggle {
+            flex-shrink: 0; /* Prevent the sidebar button from shrinking */
         }
 
         /* Responsive adjustments */
@@ -122,12 +162,15 @@
     <div class="container">
         <!-- Cover Page -->
         <div class="cover-page">
-            Welcome to the E-Book Reader
-        </div>
+            Welcome to the E-Book Reader <br/> Test Book Title
+</div>
 
         <!-- Reader Section -->
         <div class="reader">
-            <button class="sidebar-toggle">☰</button>
+            <div class="navi-bar">
+                <button class="sidebar-toggle">☰</button>
+                <div class="title"></div>
+            </div>
             <div class="sidebar">
                 <ul>
                     <li><a href="#">Chapter 1</a></li>
@@ -137,7 +180,16 @@
             </div>
             <button class="nav-button left">◀</button>
             <button class="nav-button right">▶</button>
-            <div class="page">Page 1 Content</div>
+            <div class="page">
+                Page 1 Content Page 1 Content  Page 1 Content  Page 1 Content  Page 1 Content  Page 1 Content  <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>
+                Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>
+                Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>
+                Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>
+                Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>
+                Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>
+                Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>Page 1 Content <br/>
+
+            </div>
             <div class="page">Page 2 Content</div>
             <div class="page">Page 3 Content</div>
         </div>
@@ -167,6 +219,23 @@
         const pages = document.querySelectorAll('.page');
         let currentPage = 0;
 
+        // Update navigation bar visibility
+        const naviBar = document.querySelector('.navi-bar');
+        function updateNaviBarVisibility(index) {
+            naviBar.style.display = index === 0 ? 'none' : 'flex'; // Hide navigation bar on cover page
+        }
+
+        // Update navigation bar title
+        const naviBarTitle = document.querySelector('.navi-bar .title');
+        function updateNaviBarTitle(index) {
+            const sidebarLinks = document.querySelectorAll('.sidebar a');
+            if (index > 0 && index <= sidebarLinks.length) {
+                naviBarTitle.textContent = sidebarLinks[index - 1].textContent; // Set title based on sidebar link
+            } else {
+                naviBarTitle.textContent = ''; // Clear title for cover page
+            }
+        }
+
         function showPage(index) {
             pages.forEach((page, i) => {
                 page.classList.remove('visible', 'hidden');
@@ -193,6 +262,11 @@
             }
 
             updateSidebarButtonVisibility(index); // Update sidebar button visibility
+            updateNaviBarVisibility(index); // Update navigation bar visibility
+            updateNaviBarTitle(index); // Update navigation bar title
+
+            // Automatically hide sidebar when changing page
+            sidebar.classList.remove('open');
         }
 
         document.querySelector('.nav-button.left').addEventListener('click', () => {
@@ -221,6 +295,56 @@
 
         // Initialize pages
         showPage(currentPage);
+
+        // Add event listener for touch and mouse gestures
+        let startX = 0;
+        let isScrolling = false;
+
+        document.addEventListener('touchstart', (event) => {
+            startX = event.touches[0].clientX;
+            isScrolling = true;
+        });
+
+        document.addEventListener('touchend', (event) => {
+            if (isScrolling) {
+                const endX = event.changedTouches[0].clientX;
+                const deltaX = endX - startX;
+
+                if (deltaX > 50 && currentPage > 0) {
+                    // Scroll left
+                    currentPage--;
+                    showPage(currentPage);
+                } else if (deltaX < -50 && currentPage < pages.length - 1) {
+                    // Scroll right
+                    currentPage++;
+                    showPage(currentPage);
+                }
+            }
+            isScrolling = false;
+        });
+
+        document.addEventListener('mousedown', (event) => {
+            startX = event.clientX;
+            isScrolling = true;
+        });
+
+        document.addEventListener('mouseup', (event) => {
+            if (isScrolling) {
+                const endX = event.clientX;
+                const deltaX = endX - startX;
+
+                if (deltaX > 50 && currentPage > 0) {
+                    // Scroll left
+                    currentPage--;
+                    showPage(currentPage);
+                } else if (deltaX < -50 && currentPage < pages.length - 1) {
+                    // Scroll right
+                    currentPage++;
+                    showPage(currentPage);
+                }
+            }
+            isScrolling = false;
+        });
     </script>
 </body>
 </html>
