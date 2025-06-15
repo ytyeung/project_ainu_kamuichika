@@ -71,6 +71,7 @@ function showPage(index) {
     sidebar.classList.remove('open');
 }
 
+
 document.querySelector('.nav-button.left').addEventListener('click', () => {
     if (currentPage > 0) {
         currentPage--;
@@ -148,6 +149,11 @@ document.addEventListener('mouseup', (event) => {
     isScrolling = false;
 });
 
+function getFileNameWithoutExtension(filePath) {
+    const fileName = filePath.split('/').pop(); // Get the file name from the path
+    return fileName.substring(0, fileName.lastIndexOf('.')); // Remove the extension
+}
+
 // Function to fetch JSON data
 async function fetchPageData(url) {
     const response = await fetch(url);
@@ -173,15 +179,19 @@ async function loadPages() {
         for (let i = 0; i < pageDataUrls.length; i++) {
             const url = pageDataUrls[i];
             const pageData = await fetchPageData(url);
+
+            const urlNameWithoutExtension = getFileNameWithoutExtension(url);
+            
+
             if (pageData) {
                 // Update existing page element
-                const pageElement = document.querySelector(`#page${i + 1}`);
+                const pageElement = document.querySelector(`#${urlNameWithoutExtension}`);
                 if (pageElement) {
                     pageElement.innerHTML = `<article><h2>${pageData.title}</h2><p>${pageData.content}</p></article>`;
                 }
 
                 // Update the content of the existing "a" tag in the sidebar
-                const sidebarLink = document.querySelector(`#sidebar-link-page${i + 1}`);
+                const sidebarLink = document.querySelector(`#sidebar-link-${urlNameWithoutExtension}`);
                 if (sidebarLink) {
                     sidebarLink.textContent = pageData.title; // Update the content of the existing "a" tag
                 }
