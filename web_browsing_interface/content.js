@@ -10,6 +10,13 @@ sidebarToggle.addEventListener('click', () => {
     sidebar.classList.toggle('open');
 });
 
+// Close sidebar when clicking outside
+document.addEventListener('click', (event) => {
+    if (!sidebar.contains(event.target) && !sidebarToggle.contains(event.target)) {
+        sidebar.classList.remove('open');
+    }
+});
+
 // Page navigation functionality
 const coverPage = document.querySelector('.cover-page');
 const readerSection = document.querySelector('.reader');
