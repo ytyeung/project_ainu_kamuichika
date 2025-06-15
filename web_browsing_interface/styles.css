@@ -1,0 +1,188 @@
+/* General styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #121212; /* Night mode background */
+    color: #e0e0e0; /* Night mode text */
+    overflow: hidden;
+}
+
+html {
+    scroll-behavior: smooth; /* Enable smooth scrolling for the entire page */
+}
+
+/* Responsive layout */
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.cover-page {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1e1e1e;
+    color: #ffffff;
+    font-size: 2em;
+}
+
+.reader {
+    flex: 1;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+}
+
+.page {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    padding-top: 60px; /* Increase padding to add a small margin between page content and navigation bar */
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+    overflow-y: auto;
+    backface-visibility: hidden; /* Ensure only the front face is visible */
+    transform-origin: left center; /* Set the origin for the flipping effect */
+    transition: transform 0.6s ease-in-out; /* Smooth flipping transition */
+    display: flex; 
+    justify-content: center;
+}
+
+.page.hidden {
+    transform: rotateY(-180deg); /* Flip the page to hide it */
+}
+
+.page.visible {
+    transform: rotateY(0deg); /* Show the page */
+}
+
+.page article {
+    min-width: 600px; /* Minimum width for the article */
+    max-width: 1200px; /* Maximum width for the article */
+    line-height: 1.6; /* Improved readability */
+    text-align: justify; /* Justify text for better alignment */
+
+}
+
+.sidebar {
+    position: absolute;
+    top: 50px; /* Adjust top position to avoid overlapping with navigation bar */
+    left: 0;
+    width: 250px;
+    height: calc(100% - 50px); /* Adjust height to account for navigation bar */
+    background-color: #1e1e1e; /* Dark theme background */
+    color: #e0e0e0; /* Light text for dark theme */
+    transform: translateX(-100%);
+    transition: transform 0.3s ease;
+    z-index: 999; /* Ensure sidebar is above page content */
+}
+
+.sidebar.open {
+    transform: translateX(0);
+}
+
+.sidebar-toggle {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 1000; /* Ensure toggle button is above other elements */
+}
+
+.sidebar ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+}
+
+.sidebar li {
+    margin: 10px 0; /* Add spacing between items */
+}
+
+.sidebar a {
+    text-decoration: none; /* Remove underline from links */
+    color: #e0e0e0; /* Ensure links are visible in dark theme */
+    font-weight: bold; /* Make links stand out */
+    display: block; /* Ensure links take up full width */
+    padding: 5px 10px; /* Add padding for better click area */
+    border-radius: 5px; /* Add rounded corners */
+    transition: background-color 0.3s ease; /* Smooth hover effect */
+}
+
+.sidebar a:hover {
+    background-color: #333; /* Highlight links on hover */
+    color: #ffffff; /* Change text color on hover */
+}
+
+/* Navigation buttons */
+.nav-button {
+    position: absolute;
+    top: calc(50% + 25px); /* Adjust position to always be below the sidebar */
+    transform: translateY(-50%);
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 1000; /* Ensure navigation buttons are above the sidebar */
+}
+
+.nav-button.left {
+    left: 10px;
+    z-index: 998;
+}
+
+.nav-button.right {
+    right: 10px;
+    z-index: 998;
+}
+
+/* Navigation bar styles */
+.navi-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    box-sizing: border-box;
+    z-index: 1000;
+}
+
+.navi-bar .title {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    padding-left: 40px;
+}
+
+.navi-bar .sidebar-toggle {
+    flex-shrink: 0; /* Prevent the sidebar button from shrinking */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .cover-page {
+        font-size: 1.5em;
+    }
+.page article {
+    min-width: 300px; /* Minimum width for the article */
+    max-width: 600px; /* Maximum width for the article */
+
+
+    }
+}
