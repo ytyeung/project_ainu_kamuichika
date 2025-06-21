@@ -52,6 +52,7 @@ html {
     transition: transform 0.6s ease-in-out; /* Smooth flipping transition */
     display: flex; 
     justify-content: center;
+    flex: 1;
 }
 
 .page.hidden {
@@ -69,6 +70,14 @@ html {
     text-align: justify; /* Justify text for better alignment */
 
 }
+
+
+.page a {
+    text-decoration: none; /* Remove underline from links */
+    color: #e0e0e0; /* Ensure links are visible in dark theme */
+    transition: background-color 0.3s ease; /* Smooth hover effect */
+}
+
 
 .sidebar {
     position: absolute;

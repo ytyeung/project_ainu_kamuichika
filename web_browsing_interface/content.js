@@ -173,8 +173,8 @@ async function fetchPageData(url) {
 
 // Function to load pages dynamically
 async function loadPages() {
-    const pageContainer = document.querySelector('.reader');
-    const sidebarLinksContainer = document.querySelector('.sidebar ul');
+    //const pageContainer = document.querySelector('.reader');
+    //const sidebarLinksContainer = document.querySelector('.sidebar ul');
 
     try {
         const pageDataUrls = [
@@ -194,7 +194,7 @@ async function loadPages() {
                 // Update existing page element
                 const pageElement = document.querySelector(`#${urlNameWithoutExtension}`);
                 if (pageElement) {
-                    pageElement.innerHTML = `<article><h2>${pageData.title}</h2><p>${pageData.content}</p></article>`;
+                    pageElement.innerHTML = `<article><h2>${pageData.title}</h2><h3>${pageData.ainu_title}</h3><p>${pageData.content}</p></article>`;
                 }
 
                 // Update the content of the existing "a" tag in the sidebar
@@ -209,6 +209,9 @@ async function loadPages() {
         //initializePages();
         //let currentPage = 0; // Reset current page to 0 after loading pages
         showPage(currentPage);
+        // Call addHoverPopup on startup
+        addHoverPopup();
+        
     } catch (error) {
         console.error('Error loading pages:', error);
     }
@@ -218,3 +221,43 @@ async function loadPages() {
 
 // Load pages on startup
 loadPages();
+
+// Add hover functionality for links in class page
+function addHoverPopup() {
+    const pageLinks = document.querySelectorAll('.page a[href^="#f_"]');
+    console.log(pageLinks)
+    pageLinks.forEach((link) => {
+        link.addEventListener('mouseenter', (event) => {
+            const id = link.getAttribute('href').substring(1); // Extract id from href
+            const spanElement = document.getElementById(id);
+
+            if (spanElement) {
+                const popup = document.createElement('div');
+                popup.className = 'hover-popup';
+                popup.textContent = spanElement.textContent;
+                popup.style.position = 'absolute';
+                popup.style.backgroundColor = '#333';
+                popup.style.color = '#fff';
+                popup.style.padding = '5px';
+                popup.style.borderRadius = '5px';
+                popup.style.zIndex = '1000';
+                popup.style.top = `${event.clientY + 10}px`;
+                popup.style.left = `${event.clientX + 10}px`;
+                popup.style.maxWidth = '400px';
+
+                document.body.appendChild(popup);
+
+                link.addEventListener('mousemove', (moveEvent) => {
+                    popup.style.top = `${moveEvent.clientY + 10}px`;
+                    popup.style.left = `${moveEvent.clientX + 10}px`;
+                });
+
+                link.addEventListener('mouseleave', () => {
+                    popup.remove();
+                });
+            }
+        });
+    });
+}
+
+
