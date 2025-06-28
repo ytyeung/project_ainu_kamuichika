@@ -13,35 +13,35 @@ From the direction of the sea shore,
 A woman came with a basket on her back.  
 She passed by us when we cried.    
 Saw us, she said,  
-"Wretched mussels, hateful mussels,   
+“Wretched mussels, hateful mussels,   
 Why are you crying   
-And making too much noise?"  
+And making too much noise?”   
 She stepped on us, kicked us,  
 Crushed our shells,  
 And went far away into mountains.  
   
-"Pain! Suffering! Water! Water!" We cried.  
+“Pain! Suffering! Water! Water!”  We cried.  
 From the direction of the sea shore,  
 Another maiden came with a basket on her back.  
 We cried,   
-"Please give us water. Save our lives.    
-Pain! Suffering! Water! Water!"  
+“Please give us water. Save our lives.    
+Pain! Suffering! Water! Water!”   
   
 The maiden, as beautiful and divine as a goddess,  
-Came to our side, saw us, and took pity on us,    
-"How pitiful! The heat is unbearable.   
+Came to our side, saw us, took pity on us.    
+“How pitiful! The heat is unbearable.   
 The bedding of the mussels has dried up.    
 They are longing for water.  
 What has happened here?  
-It seems that they have been stepped on..."  
+Seems that they have been stepped on...”   
   
-Saying this, she gathered up all of us,  
+Saying this, she gathered us all,  
 Placed us in butterbur leaves,  
-And put us in a clear lake.  
-With the pure, cold water, we became healthy again,    
-And regained our strength.  
+Put us in a clear lake.  
+With pure and cold water, we became healthy again,    
+Regained our strength.  
   
-Then, we began to investigate where those two women came from.  
+We began to investigate the home of the two women.  
 The hateful woman who came first and stepped on us,  
 The wicked woman, was the younger sister of Samayunkur.  
 The maiden who took pity to us and helped us,   

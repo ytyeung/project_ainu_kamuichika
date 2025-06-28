@@ -26,6 +26,11 @@ html {
     background-color: #1e1e1e;
     color: #ffffff;
     font-size: 2em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 .reader {
@@ -33,6 +38,7 @@ html {
     display: flex;
     overflow: hidden;
     position: relative;
+    
 }
 
 .page {
@@ -56,18 +62,19 @@ html {
 }
 
 .page.hidden {
-    transform: rotateY(-180deg); /* Flip the page to hide it */
+    transform: rotateY(-180deg);
 }
 
 .page.visible {
-    transform: rotateY(0deg); /* Show the page */
+    transform: rotateY(0deg);
 }
 
 .page article {
     min-width: 600px; /* Minimum width for the article */
-    max-width: 1200px; /* Maximum width for the article */
+    max-width: 800px; /* Maximum width for the article */
     line-height: 1.6; /* Improved readability */
     text-align: justify; /* Justify text for better alignment */
+    overflow-y: auto;
 
 }
 
@@ -137,7 +144,7 @@ html {
     position: absolute;
     top: calc(50% + 25px); /* Adjust position to always be below the sidebar */
     transform: translateY(-50%);
-    background-color: #333;
+    background-color: rgba(51, 51, 51, 0.5); /* 50% transparent */
     color: #fff;
     border: none;
     padding: 10px;
@@ -148,11 +155,13 @@ html {
 .nav-button.left {
     left: 10px;
     z-index: 998;
+    display: none;
 }
 
 .nav-button.right {
     right: 10px;
     z-index: 998;
+    display: block;
 }
 
 /* Navigation bar styles */
@@ -164,7 +173,8 @@ html {
     height: 50px;
     background-color: #333;
     color: #fff;
-    display: flex;
+    /*display: flex;*/
+    display: none;
     align-items: center;
     justify-content: space-between;
     padding: 0 20px;
@@ -183,13 +193,48 @@ html {
     flex-shrink: 0; /* Prevent the sidebar button from shrinking */
 }
 
+.hover-popup {
+    position: absolute;
+    background-color : #333;
+    color: #fff;
+    padding: 5px;
+    border-radius:5px;
+    z-index: 1000;
+    max-width: 400px;
+    display: none; /* Initially hidden */
+    top: 0;
+    left: 0;
+
+}
+
+.down-button {
+    position: absolute;
+    bottom: 10px;
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%);
+    background-color: rgba(51, 51, 51, 0.5); /* 50% transparent */
+    color: #fff;
+    border: none;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%; /* Make it circular */
+    cursor: pointer;
+    z-index: 1000; /* Ensure button is above other elements */
+    display: none; /* Initially hidden */
+    text-align: center;
+    line-height: 50px; /* Center the text vertically */
+    font-size: 20px; /* Adjust font size */
+}
+
+
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
     .cover-page {
         font-size: 1.5em;
     }
 .page article {
-    min-width: 300px; /* Minimum width for the article */
+    min-width: 250px; /* Minimum width for the article */
     max-width: 600px; /* Maximum width for the article */
 
 

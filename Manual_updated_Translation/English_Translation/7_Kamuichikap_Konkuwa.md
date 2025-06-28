@@ -2,7 +2,7 @@
 ## 梟の神が自ら歌った謡「コンクワ」  
 ## The Owl God's Own Chant “Konkuwa” 
 
-"Konkuwa
+“Konkuwa
 
 In the past, I spoke loud,
 As loud as the sound of pulling a bow string wrapped in cherry bark,
@@ -49,7 +49,7 @@ Then again, I tapped on the lid of the hooped barrel,
 If someone is confident to be a messenger,
 I will send the one to Heaven for the five-and-a-half negotiation."
 When I said, someone came in with a respectful attitude, 
-Looking around, there was a young brown dipper, 
+Looking around, there was a young brown dipper [1], 
 With handsome appearance,
 Sitting on the Left Seat. 
 
@@ -84,14 +84,14 @@ I heard a soft sound from the sky.
 Suddenly, someone came in. 
 Looking around, the young brown dipper returned,
 Now even more handsome, with further refined dignity,  
-Began to state the response.
+Began to tell the response.
 
 The deer god and the fish god,
-Refused to release deer and fish,
-Because humans hit the deer's head with wood,
-When they caught deer.
-When humans skinned deer,
-They discarded the deer's head in the forest and mountain.
+Refused to release deer and fish.
+When humans caught deer,  
+They beaten the heads of dears with wooden clubs.
+When humans took the deerkin, 
+They discarded the heads of the dears in the mountains.
 When humans caught fish,
 They killed the fish by hitting their heads with rotten wood.
 The deer, naked and cried,
@@ -99,40 +99,50 @@ Returned to the deer god.
 The fish, with rotten wood in their mouths,
 Returned to the fish god. 
 
-The deer god and the fish god
-Were angry and consulted, and decided not to release deer or
-fish. 
-But if from now on
-humans treat deer and fish
-with care, then they will release deer
-and release fish, the deer god and
-the fish god said, he stated in detail.
-After hearing that, I presented
-praise to the young river crow, and saw that indeed
-the humans had treated deer and fish
-crudely.
-From then on, in order to prevent such things from happening again,
-I taught the humans in their sleep, in their dreams,
-and the humans also
-realized that they were wrong, and from then on,
-they made fishing tools as beautifully as making *nusa*,
-and used them to catch fish. When they caught a deer, they also decorated the deer's head
-beautifully and performed rituals, so
-the fish happily held the beautiful *gohei* in their mouths
-and went to the fish god, and the deer
-happily combed their new *sakayaki* and returned to the deer god.
-The deer god and
-the fish god were very happy,
-and released a lot of fish, and released a lot of deer.
-The humans now have no difficulties,
-no hunger, and live happily,
-I was relieved to see this.
+The deer god and the fish god were angry.
+They chatted and decided not to release any deer or fish to human world,  
+However, when humans learned to treat deer and fish with respect,  
+They would release deer and fish again.
+These were the words from the deer god and fish god,
+The young brown dipper told in detail.
+
+After hearing the words, I praised the young brown dipper.
+Browsing below, humans really treated deer and fish crudely.
+Therefore, to prevent the crude behaviours in the future,
+I taught humans in their dreams.
+
+Humans also realized their crude behaviours.
+Therefore, they crafted their fishing tools,  
+Which are as beautiful as Inau.
+When humans caught a deer, 
+They decorated the head of the deer as an offering to god. 
+
+The fish held the beautiful Inau in their mouths,
+Returned to the fish god happily.
+The deer danced and showed their beautiful headpieces,
+Returned to the deer god.
+The deer god and the fish god were delighted.
+They released more fish and deer.
+
+Humans now live without hunger,
+And I am relieved.
+
 I am old and weakened,
-so I was going to go to Heaven,
-but I could not go without concern because there was a famine in the human country that I was protecting and the humans were about to starve to death,
-so I have been here until now, but now I have
-no worries, so I will leave the strongest
-young hero behind me to protect the human world,
-and today I am going to Heaven."
-And so, the old god (owl), the guardian deity of the country,
-told the story and went to Heaven.
+About time to return to Heaven.
+However, I could not leave with a peaceful mind,
+When the human world where I protected was suffered from famine, 
+When humans were starving to death.
+
+Therefore, I had been here until now.
+Now my worries have gone. 
+I have appointed the young and strongest hero to protect the human world.
+Today I will return to Heaven.” 
+
+The divine owl god, the ancient god, 
+Who protected the land of humans,
+Told the tale and returned to Heaven.]
+
+## Footnote  
+(Chiri)  
+
+[1] katken... A dipper. A highly respected bird as a good bird since ancient times.

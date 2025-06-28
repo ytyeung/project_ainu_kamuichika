@@ -178,7 +178,7 @@ async function loadPages() {
 
     try {
         const pageDataUrls = [
-            'json/page1.json',
+            'json/1_Kamuichikap_Shirokanipe_chi.json',
             'json/page2.json',
             'json/page3.json'
         ];
@@ -188,11 +188,12 @@ async function loadPages() {
             const pageData = await fetchPageData(url);
 
             const urlNameWithoutExtension = getFileNameWithoutExtension(url);
+            console.log(`Processing page: ${urlNameWithoutExtension}`);
             
 
             if (pageData) {
                 // Update existing page element
-                const pageElement = document.querySelector(`#${urlNameWithoutExtension}`);
+                const pageElement = document.querySelector(`#page_${urlNameWithoutExtension}`);
                 if (pageElement) {
                     pageElement.innerHTML = `<article><h2>${pageData.title}</h2><h3>${pageData.ainu_title}</h3><p>${pageData.content}</p></article>`;
                 }
@@ -208,9 +209,10 @@ async function loadPages() {
         // Initialize pages after loading
         //initializePages();
         //let currentPage = 0; // Reset current page to 0 after loading pages
-        showPage(currentPage);
+        //showPage(currentPage);
         // Call addHoverPopup on startup
         addHoverPopup();
+        addHoverDownButton();
         
     } catch (error) {
         console.error('Error loading pages:', error);
@@ -218,46 +220,75 @@ async function loadPages() {
 }
 
 
-
 // Load pages on startup
 loadPages();
+// showPage(currentPage);
 
 // Add hover functionality for links in class page
 function addHoverPopup() {
     const pageLinks = document.querySelectorAll('.page a[href^="#f_"]');
-    console.log(pageLinks)
+    //console.log(pageLinks)
     pageLinks.forEach((link) => {
         link.addEventListener('mouseenter', (event) => {
             const id = link.getAttribute('href').substring(1); // Extract id from href
             const spanElement = document.getElementById(id);
 
             if (spanElement) {
-                const popup = document.createElement('div');
-                popup.className = 'hover-popup';
+                const popup = document.getElementById('hover-popup');
                 popup.textContent = spanElement.textContent;
-                popup.style.position = 'absolute';
-                popup.style.backgroundColor = '#333';
-                popup.style.color = '#fff';
-                popup.style.padding = '5px';
-                popup.style.borderRadius = '5px';
-                popup.style.zIndex = '1000';
-                popup.style.top = `${event.clientY + 10}px`;
-                popup.style.left = `${event.clientX + 10}px`;
-                popup.style.maxWidth = '400px';
-
-                document.body.appendChild(popup);
 
                 link.addEventListener('mousemove', (moveEvent) => {
                     popup.style.top = `${moveEvent.clientY + 10}px`;
                     popup.style.left = `${moveEvent.clientX + 10}px`;
+                    popup.style.display = 'block';
                 });
 
                 link.addEventListener('mouseleave', () => {
-                    popup.remove();
+                    popup.style.display = 'none';
                 });
             }
         });
     });
 }
+
+// Add a down button for long articles
+function addHoverDownButton() {
+    const pages = document.querySelectorAll('.page article');
+
+    pages.forEach((page) => {
+
+        const downButton = document.getElementById('down-button');
+        
+        page.addEventListener('mouseover', () => {
+            const canScrollDown = page.scrollHeight > page.offsetHeight && page.scrollTop + page.offsetHeight < page.scrollHeight;
+            if (canScrollDown) {
+                downButton.style.display = 'block';
+            }else{
+                downButton.style.display = 'none';
+
+            }
+        });
+
+        page.addEventListener('mouseleave', () => {
+            downButton.style.display = 'none';
+        });
+
+        downButton.addEventListener('mouseenter', () => {
+                downButton.style.display = 'block';
+        });
+
+
+        downButton.addEventListener('click', () => {
+            page.scrollBy({ top: 100, behavior: 'smooth' });
+            console.log('Scrolled down by 100px');
+
+        });
+     });
+}
+
+// Call addHoverDownButton on startup
+//addHoverDownButton();
+
+
 
 
