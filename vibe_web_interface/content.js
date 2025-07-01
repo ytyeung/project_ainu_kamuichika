@@ -179,7 +179,7 @@ async function loadPages() {
     try {
         const pageDataUrls = [
             'json/1_Kamuichikap_Shirokanipe_chi.json',
-            'json/page2.json',
+            'json/2_Chironnup_Towa_chi.json',
             'json/page3.json'
         ];
 
