@@ -180,7 +180,11 @@ async function loadPages() {
         const pageDataUrls = [
             'json/1_Kamuichikap_Shirokanipe_chi.json',
             'json/2_Chironnup_Towa_chi.json',
-            'json/page3.json'
+            'json/3_Chironnup_Haikunterke_chi.json',
+            'json/4_Isepo_Sampaya_chi.json',
+            'json/5_Nitatorunpe_Harit_chi.json',
+            'json/6_Pon_Hotenao_chi.json',
+            'json/7_Kamuichikap_Konkuwa_chi.json',
         ];
 
         for (let i = 0; i < pageDataUrls.length; i++) {
