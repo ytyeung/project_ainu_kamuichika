@@ -1,6 +1,6 @@
 ## Kamuichikap Kamui yaieyukar, “Konkuwa”   
 ## 梟の神が自ら歌った謡「コンクワ」  
-## The Owl God's Own Chant “Konkuwa” 
+## The Owl God's Self Chant “Konkuwa” 
 
 “Konkuwa
 

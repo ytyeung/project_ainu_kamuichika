@@ -2,19 +2,31 @@
 const sidebarToggle = document.querySelector('.sidebar-toggle');
 const sidebar = document.querySelector('.sidebar');
 
-function updateSidebarButtonVisibility(index) {
-    sidebarToggle.style.display = index === 0 ? 'none' : 'block'; // Hide sidebar button on cover page
-}
-
 sidebarToggle.addEventListener('click', () => {
     sidebar.classList.toggle('open');
 });
+
+// scale cover page to fit the screen
+const coverContent = document.querySelector('.cover-content');
+const mediaMatch = window.matchMedia("(max-width: 768px)");
+
+// Add hover down button if the screen is not small
+if (mediaMatch.matches) {
+    const scale = screen.width / 600.0 * 0.9; // Adjust scale based on screen width
+    coverContent.style.transform = `scale(${scale})`; // Adjust scale for smaller screens
+}
 
 // Close sidebar when clicking outside
 document.addEventListener('click', (event) => {
     if (!sidebar.contains(event.target) && !sidebarToggle.contains(event.target)) {
         sidebar.classList.remove('open');
     }
+});
+
+// Close sidebar when clicking on the close-sidebar button
+const closeSidebarButton = document.querySelector('.close-sidebar');
+closeSidebarButton.addEventListener('click', () => {
+    sidebar.classList.remove('open');
 });
 
 // Page navigation functionality
@@ -45,6 +57,7 @@ function updateNaviBarTitle(index) {
     }
 }
 
+// Showing the selected page 
 function showPage(index) {
     pages.forEach((page, i) => {
         page.classList.remove('visible', 'hidden');
@@ -70,15 +83,14 @@ function showPage(index) {
         rightButton.style.display = 'block'; // Show right button on other pages
     }
 
-    updateSidebarButtonVisibility(index); // Update sidebar button visibility
     updateNaviBarVisibility(index); // Update navigation bar visibility
     updateNaviBarTitle(index); // Update navigation bar title
 
     // Automatically hide sidebar when changing page
-    sidebar.classList.remove('open');
+    // sidebar.classList.remove('open');
 }
 
-
+// Showing the previous page
 document.querySelector('.nav-button.left').addEventListener('click', () => {
     if (currentPage > 0) {
         currentPage--;
@@ -86,6 +98,7 @@ document.querySelector('.nav-button.left').addEventListener('click', () => {
     }
 });
 
+//Showing the next page
 document.querySelector('.nav-button.right').addEventListener('click', () => {
     if (currentPage < pages.length - 1) {
         currentPage++;
@@ -103,35 +116,29 @@ sidebarLinks.forEach((link, index) => {
     });
 });
 
-// Initialize pages
-//showPage(currentPage);
+// Event listeners for click events for additional information
+const infoAreaDiv = document.getElementById('additional-info');
+const infoLinks = document.querySelectorAll('.info-link');
+let currentInfoLink = null;
+infoLinks.forEach((link) => {
+    link.addEventListener('click', (event) => {
+        event.preventDefault(); // Prevent default link behavior
+        if (currentInfoLink === null || currentInfoLink !== link) {
+            infoAreaDiv.style.visibility = 'visible'; // Show info area if not already visible
+        }else{
+            infoAreaDiv.style.visibility = infoAreaDiv.style.visibility === 'visible' ? 'hidden' : 'visible'; // Toggle visibility
+        }
+        infoAreaDiv.innerHTML = link.getAttribute('message'); // Set the content from the data-info attribute
+        currentInfoLink = link; // Store the current link for reference
+    });
+});
 
-// Add event listener for touch and mouse gestures
+
+
+
+// Event listeners for touch and mouse events to navigate pages
 let startX = 0;
 let isScrolling = false;
-
-document.addEventListener('touchstart', (event) => {
-    startX = event.touches[0].clientX;
-    isScrolling = true;
-});
-
-document.addEventListener('touchend', (event) => {
-    if (isScrolling) {
-        const endX = event.changedTouches[0].clientX;
-        const deltaX = endX - startX;
-
-        if (deltaX > 50 && currentPage > 0) {
-            // Scroll left
-            currentPage--;
-            showPage(currentPage);
-        } else if (deltaX < -50 && currentPage < pages.length - 1) {
-            // Scroll right
-            currentPage++;
-            showPage(currentPage);
-        }
-    }
-    isScrolling = false;
-});
 
 document.addEventListener('mousedown', (event) => {
     startX = event.clientX;
@@ -156,6 +163,7 @@ document.addEventListener('mouseup', (event) => {
     isScrolling = false;
 });
 
+// Function to get the file name without extension from a file path
 function getFileNameWithoutExtension(filePath) {
     const fileName = filePath.split('/').pop(); // Get the file name from the path
     return fileName.substring(0, fileName.lastIndexOf('.')); // Remove the extension
@@ -178,6 +186,7 @@ async function loadPages() {
 
     try {
         const pageDataUrls = [
+            'json/Chiri_Yukie_Prologue_chi.json',
             'json/1_Kamuichikap_Shirokanipe_chi.json',
             'json/2_Chironnup_Towa_chi.json',
             'json/3_Chironnup_Haikunterke_chi.json',
@@ -185,6 +194,13 @@ async function loadPages() {
             'json/5_Nitatorunpe_Harit_chi.json',
             'json/6_Pon_Hotenao_chi.json',
             'json/7_Kamuichikap_Konkuwa_chi.json',
+            'json/8_Repun_Atuika_chi.json',
+            'json/9_Terkepi_Tororo_chi.json',
+            'json/10_Pon_Kutnisa_chi.json',
+            'json/11_Pon_Tanota_chi.json',
+            'json/12_Esaman_Kappa_chi.json',
+            'json/13_Pipa_Tonupeka_chi.json',
+            'json/reference.json'
         ];
 
         for (let i = 0; i < pageDataUrls.length; i++) {
@@ -216,7 +232,13 @@ async function loadPages() {
         //showPage(currentPage);
         // Call addHoverPopup on startup
         addHoverPopup();
-        addHoverDownButton();
+
+        // Add hover down button if the screen is not small
+        if (mediaMatch.matches == false) {
+            addHoverDownButton('.page article');
+            addHoverDownButton('.sidebar', downButtonId = 'down-button-sidebar');
+
+        }
         
     } catch (error) {
         console.error('Error loading pages:', error);
@@ -228,7 +250,7 @@ async function loadPages() {
 loadPages();
 // showPage(currentPage);
 
-// Add hover functionality for links in class page
+// Hover popup functionality for displaying the footnote text
 function addHoverPopup() {
     const pageLinks = document.querySelectorAll('.page a[href^="#f_"]');
     //console.log(pageLinks)
@@ -255,16 +277,15 @@ function addHoverPopup() {
     });
 }
 
-// Add a down button for long articles
-function addHoverDownButton() {
-    const pages = document.querySelectorAll('.page article');
-
+// Add a down button for long articles, as hint that the article can be scrolled down
+function addHoverDownButton(classTag,buttonId = 'down-button') {
+    const pages = document.querySelectorAll(classTag);
     pages.forEach((page) => {
 
-        const downButton = document.getElementById('down-button');
+        const downButton = document.getElementById(buttonId);
         
         page.addEventListener('mouseover', () => {
-            const canScrollDown = page.scrollHeight > page.offsetHeight && page.scrollTop + page.offsetHeight < page.scrollHeight;
+            const canScrollDown = page.scrollHeight > page.offsetHeight && page.scrollTop + page.offsetHeight + 10 < page.scrollHeight;
             if (canScrollDown) {
                 downButton.style.display = 'block';
             }else{
@@ -277,21 +298,17 @@ function addHoverDownButton() {
             downButton.style.display = 'none';
         });
 
-        downButton.addEventListener('mouseenter', () => {
+        downButton.addEventListener('mouseover', () => {
                 downButton.style.display = 'block';
         });
 
-
         downButton.addEventListener('click', () => {
             page.scrollBy({ top: 100, behavior: 'smooth' });
-            console.log('Scrolled down by 100px');
 
         });
      });
 }
 
-// Call addHoverDownButton on startup
-//addHoverDownButton();
 
 
 
