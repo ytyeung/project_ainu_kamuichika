@@ -255,7 +255,13 @@ function addHoverPopup() {
     const pageLinks = document.querySelectorAll('.page a[href^="#f_"]');
     //console.log(pageLinks)
     pageLinks.forEach((link) => {
+        link.addEventListener('click', (event) => {
+            event.preventDefault(); // Prevent default link behavior
+        }
+        );
+        
         link.addEventListener('mouseenter', (event) => {
+
             const id = link.getAttribute('href').substring(1); // Extract id from href
             const spanElement = document.getElementById(id);
 
