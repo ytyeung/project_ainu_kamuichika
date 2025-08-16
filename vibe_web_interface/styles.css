@@ -347,9 +347,6 @@ html {
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
-    .cover-page {
-        font-size: 1.5em;
-    }
 .page article {
     min-width: 250px; /* Minimum width for the article */
     padding-left: 20px;

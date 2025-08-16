@@ -208,7 +208,7 @@ async function loadPages() {
             const pageData = await fetchPageData(url);
 
             const urlNameWithoutExtension = getFileNameWithoutExtension(url);
-            console.log(`Processing page: ${urlNameWithoutExtension}`);
+            //console.log(`Processing page: ${urlNameWithoutExtension}`);
             
 
             if (pageData) {
