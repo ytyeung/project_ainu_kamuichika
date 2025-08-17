@@ -354,7 +354,7 @@ html {
     }
 
 .sidebar {
-    width: 100dvh; /* Full width for mobile */
+    width: 100%; /* Full width for mobile */
     scrollbar-width: auto; /* Use thin scrollbar for mobile */
 }
 
