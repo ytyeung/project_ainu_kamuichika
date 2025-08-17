@@ -377,6 +377,6 @@ html {
     cursor: pointer;
     font-size: medium;
     z-index: 1010; /* Ensure toggle button is above other elements */
-    display: block;
+    display: none;
 }
 }
