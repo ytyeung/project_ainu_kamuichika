@@ -207,16 +207,6 @@ html {
 }
 
 .close-sidebar {
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    background-color: #1e1e1e; /* Dark theme background */
-    color: #e0e0e0; /* Light text for dark theme */
-    border: none;
-    padding: 10px;
-    cursor: pointer;
-    font-size: medium;
-    z-index: 1000; /* Ensure toggle button is above other elements */
     display:none;
 }
 
@@ -375,6 +365,16 @@ html {
 }
 
 .close-sidebar{
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    background-color: #1e1e1e; /* Dark theme background */
+    color: #e0e0e0; /* Light text for dark theme */
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: medium;
+    z-index: 1000; /* Ensure toggle button is above other elements */
     display: block;
 }
 }
