@@ -113,6 +113,9 @@ sidebarLinks.forEach((link, index) => {
         event.preventDefault(); // Prevent default link behavior
         currentPage = index; // Adjust index to account for cover page
         showPage(currentPage); // Display the selected page
+        if (mediaMatch.matches) {
+            sidebar.classList.remove('open');
+        }
     });
 });
 
