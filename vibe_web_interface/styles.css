@@ -355,7 +355,6 @@ html {
 
 .sidebar {
     width: 100%; /* Full width for mobile */
-    scrollbar-width: auto; /* Use thin scrollbar for mobile */
 }
 
 .page{
