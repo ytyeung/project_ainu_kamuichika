@@ -15,7 +15,7 @@ html {
 .container {
     display: flex;
     flex-direction: column;
-    height: 100vh;
+    height: 100dvh;
 }
 
 .cover-page {
@@ -107,7 +107,7 @@ html {
 }
 
 .additional-info{
-    width: 100%;
+    width: 100dvh;
     font-size: small;
     visibility: hidden; /* Initially hidden */
     height: 50px;
@@ -131,8 +131,8 @@ html {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    width: 100dvh;
+    height: 100dvh;
     padding: 20px;
     padding-top: 60px; /* Increase padding to add a small margin between page content and navigation bar */
     padding-left: 60px;
@@ -178,7 +178,7 @@ html {
     top: 50px; /* Adjust top position to avoid overlapping with navigation bar */
     left: 0;
     width: 250px;
-    height: calc(100% - 50px); /* Adjust height to account for navigation bar */
+    height: calc(100dvh - 50px); /* Adjust height to account for navigation bar */
     background-color: #1e1e1e; /* Dark theme background */
     color: #e0e0e0; /* Light text for dark theme */
     transform: translateX(-100%);
@@ -247,7 +247,7 @@ html {
 /* Navigation buttons */
 .nav-button {
     position: absolute;
-    top: calc(50% + 25px);
+    top: calc(50dvh + 25px);
     transform: translateY(-50%);
     background-color: rgba(51, 51, 51, 0.5); /* 50% transparent */
     color: #fff;
@@ -280,7 +280,7 @@ html {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 100dvh;
     height: 50px;
     background-color: #333;
     color: #fff;
@@ -354,7 +354,7 @@ html {
     }
 
 .sidebar {
-    width: 100%; /* Full width for mobile */
+    width: 100dvh; /* Full width for mobile */
     scrollbar-width: auto; /* Use thin scrollbar for mobile */
 }
 
