@@ -274,7 +274,11 @@ function addHoverPopup() {
 
                 link.addEventListener('mousemove', (moveEvent) => {
                     popup.style.top = `${moveEvent.clientY + 10}px`;
-                    popup.style.left = `${moveEvent.clientX + 10}px`;
+                    if (mediaMatch.matches) {
+                        popup.style.left = "10px";
+                    }else{
+                        popup.style.left = `${moveEvent.clientX + 10}px`;
+                    }
                     popup.style.display = 'block';
                 });
 
