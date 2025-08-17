@@ -57,6 +57,7 @@ html {
     text-align: center;
     background-color: #000000;
     width: 600px;
+    height: 600px;
     writing-mode: vertical-lr;
     overflow-x:hidden;
     overflow-y:hidden;
@@ -375,7 +376,7 @@ html {
     padding: 10px;
     cursor: pointer;
     font-size: medium;
-    z-index: 1000; /* Ensure toggle button is above other elements */
+    z-index: 1010; /* Ensure toggle button is above other elements */
     display: block;
 }
 }
