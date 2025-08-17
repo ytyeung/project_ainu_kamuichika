@@ -178,7 +178,7 @@ html {
     top: 50px; /* Adjust top position to avoid overlapping with navigation bar */
     left: 0;
     width: 250px;
-    height: calc(100%-50px); /* Adjust height to account for navigation bar */
+    height: calc(100% - 50px); /* Adjust height to account for navigation bar */
     background-color: #1e1e1e; /* Dark theme background */
     color: #e0e0e0; /* Light text for dark theme */
     transform: translateX(-100%);
@@ -353,6 +353,11 @@ html {
     padding-right: 20px;
     }
 
+.sidebar {
+    width: 100%; /* Full width for mobile */
+    scrollbar-width: auto; /* Use thin scrollbar for mobile */
+}
+
 .page{
     padding-bottom: 70px; /* Reduce padding for smaller screens */
     padding-left: 0px;
@@ -370,11 +375,6 @@ html {
 }
 
 .close-sidebar{
-    display:block;
+    display: block;
 }
-
-.sidebar{
-    width: 100%;
-    padding-bottom:100px;
-    scrollbar-width: auto;
 }
