@@ -177,9 +177,10 @@ html {
     position: absolute;
     top: 50px; /* Adjust top position to avoid overlapping with navigation bar */
     left: 0;
-    width: 250px;
+    width: 100%;
+    max-width: 250px;
     margin-bottom: 100px
-    height: calc(100dvh-50px); /* Adjust height to account for navigation bar */
+    height: calc(100%-50px); /* Adjust height to account for navigation bar */
     background-color: #1e1e1e; /* Dark theme background */
     color: #e0e0e0; /* Light text for dark theme */
     transform: translateX(-100%);
@@ -370,10 +371,6 @@ html {
    
 }
 
-.sidebar{
-    width:100%;
-    max-height: 600px;
-}
 .close-sidebar{
     display:block;
 }
