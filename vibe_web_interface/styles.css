@@ -58,7 +58,8 @@ html {
     background-color: #000000;
     width: 600px;
     writing-mode: vertical-lr;
-
+    overflow-x:hidden;
+    overflow-y:hidden;
 }
 
 
