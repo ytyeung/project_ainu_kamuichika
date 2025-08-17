@@ -177,7 +177,8 @@ html {
     position: absolute;
     top: 50px; /* Adjust top position to avoid overlapping with navigation bar */
     left: 0;
-    width: 250px;
+    width: 100%;
+    max-width: 250px;
     height: calc(100%-50px); /* Adjust height to account for navigation bar */
     background-color: #1e1e1e; /* Dark theme background */
     color: #e0e0e0; /* Light text for dark theme */
@@ -353,10 +354,6 @@ html {
     padding-right: 20px;
     }
 
-.sidebar {
-    width: 100%; /* Full width for mobile */
-}
-
 .page{
     padding-bottom: 70px; /* Reduce padding for smaller screens */
     padding-left: 0px;
@@ -373,7 +370,4 @@ html {
    
 }
 
-.close-sidebar{
-    display: block;
-}
 }
