@@ -177,9 +177,8 @@ html {
     position: absolute;
     top: 50px; /* Adjust top position to avoid overlapping with navigation bar */
     left: 0;
-    width: 100%;
-    max-width: 250px;
-    margin-bottom: 100px
+    width: 250px;
+    padding-bottom: 100px;
     height: calc(100%-50px); /* Adjust height to account for navigation bar */
     background-color: #1e1e1e; /* Dark theme background */
     color: #e0e0e0; /* Light text for dark theme */
@@ -374,5 +373,8 @@ html {
 .close-sidebar{
     display:block;
 }
+
+.sidebar{
+    width
 
 }
