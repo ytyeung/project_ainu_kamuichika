@@ -385,6 +385,9 @@ html {
     bottom: 60px;
     left: 0;
     margin: 5px;
+    min-width: calc(100% - 20px); /* Limit width on small screens */
+    max-width: 768px;
+    min-height: 100px;
 }
 
 }
