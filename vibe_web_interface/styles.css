@@ -140,7 +140,7 @@ html {
     padding-left: 60px;
     padding-right: 60px;
     box-sizing: border-box;
-    overflow-y: auto;
+    overflow-y: hidden;
     backface-visibility: hidden; /* Ensure only the front face is visible */
     transform-origin: left center; /* Set the origin for the flipping effect */
     transition: transform 0.6s ease-in-out; /* Smooth flipping transition */
@@ -379,4 +379,12 @@ html {
     z-index: 1010; /* Ensure toggle button is above other elements */
     display: none;
 }
+
+.hover-popup {
+    top: unset;
+    bottom: 60px;
+    left: 0;
+    margin: 5px;
+}
+
 }

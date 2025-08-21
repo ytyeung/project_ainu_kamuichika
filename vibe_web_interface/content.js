@@ -24,10 +24,10 @@ document.addEventListener('click', (event) => {
 });
 
 // Close sidebar when clicking on the close-sidebar button
-const closeSidebarButton = document.querySelector('.close-sidebar');
-closeSidebarButton.addEventListener('click', () => {
-    sidebar.classList.remove('open');
-});
+// const closeSidebarButton = document.querySelector('.close-sidebar');
+// closeSidebarButton.addEventListener('click', () => {
+//     sidebar.classList.remove('open');
+// });
 
 // Page navigation functionality
 const coverPage = document.querySelector('.cover-page');
@@ -273,11 +273,9 @@ function addHoverPopup() {
                 popup.textContent = spanElement.textContent;
 
                 link.addEventListener('mousemove', (moveEvent) => {
-                    popup.style.top = `${moveEvent.clientY + 10}px`;
-                    if (mediaMatch.matches) {
-                        popup.style.left = "10px";
-                    }else{
+                    if (mediaMatch.matches===false) {
                         popup.style.left = `${moveEvent.clientX + 10}px`;
+                        popup.style.top = `${moveEvent.clientY + 10}px`;
                     }
                     popup.style.display = 'block';
                 });
