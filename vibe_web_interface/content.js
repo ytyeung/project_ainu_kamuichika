@@ -1,6 +1,7 @@
 // Sidebar toggle functionality
 const sidebarToggle = document.querySelector('.sidebar-toggle');
 const sidebar = document.querySelector('.sidebar');
+const popup = document.getElementById('hover-popup');
 
 sidebarToggle.addEventListener('click', () => {
     sidebar.classList.toggle('open');
@@ -203,6 +204,7 @@ async function loadPages() {
             'json/11_Pon_Tanota_chi.json',
             'json/12_Esaman_Kappa_chi.json',
             'json/13_Pipa_Tonupeka_chi.json',
+            'json/Chiri_Yukie_Introduction_chi.json',
             'json/reference.json'
         ];
 
@@ -269,7 +271,6 @@ function addHoverPopup() {
             const spanElement = document.getElementById(id);
 
             if (spanElement) {
-                const popup = document.getElementById('hover-popup');
                 popup.textContent = spanElement.textContent;
 
                 link.addEventListener('mousemove', (moveEvent) => {
@@ -281,7 +282,8 @@ function addHoverPopup() {
                 });
 
                 link.addEventListener('mouseleave', () => {
-                    popup.style.display = 'none';
+                        popup.style.display = 'none';
+                    
                 });
             }
         });
