@@ -9,6 +9,8 @@ sidebarToggle.addEventListener('click', () => {
 
 // scale cover page to fit the screen
 const coverContent = document.querySelector('.cover-content');
+const coverImage = document.querySelector('.cover-image');
+
 const mediaMatch = window.matchMedia("(max-width: 768px)");
 const leftButton = document.querySelector('.nav-button.left');
 const rightButton = document.querySelector('.nav-button.right');
@@ -106,7 +108,7 @@ rightButton.addEventListener('click', () => {
     }
 });
 
-coverContent.addEventListener('click', () => {
+coverImage.addEventListener('click', () => {
     if (currentPage < pages.length - 1) {
         currentPage++;
         showPage(currentPage);
