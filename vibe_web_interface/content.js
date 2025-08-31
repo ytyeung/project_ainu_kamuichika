@@ -10,6 +10,8 @@ sidebarToggle.addEventListener('click', () => {
 // scale cover page to fit the screen
 const coverContent = document.querySelector('.cover-content');
 const mediaMatch = window.matchMedia("(max-width: 768px)");
+const leftButton = document.querySelector('.nav-button.left');
+const rightButton = document.querySelector('.nav-button.right');
 
 // Add hover down button if the screen is not small
 if (mediaMatch.matches) {
@@ -70,9 +72,6 @@ function showPage(index) {
     });
 
     // Show/hide navigation buttons based on the current page
-    const leftButton = document.querySelector('.nav-button.left');
-    const rightButton = document.querySelector('.nav-button.right');
-
     if (index === 0) {
         leftButton.style.display = 'none'; // Hide left button on cover page
         rightButton.style.display = 'block'; // Show right button on cover page
