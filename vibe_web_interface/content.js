@@ -92,7 +92,7 @@ function showPage(index) {
 }
 
 // Showing the previous page
-document.querySelector('.nav-button.left').addEventListener('click', () => {
+leftButton.addEventListener('click', () => {
     if (currentPage > 0) {
         currentPage--;
         showPage(currentPage);
@@ -100,7 +100,14 @@ document.querySelector('.nav-button.left').addEventListener('click', () => {
 });
 
 //Showing the next page
-document.querySelector('.nav-button.right').addEventListener('click', () => {
+rightButton.addEventListener('click', () => {
+    if (currentPage < pages.length - 1) {
+        currentPage++;
+        showPage(currentPage);
+    }
+});
+
+coverContent.addEventListener('click', () => {
     if (currentPage < pages.length - 1) {
         currentPage++;
         showPage(currentPage);
