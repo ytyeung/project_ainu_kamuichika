@@ -8,7 +8,7 @@ sidebarToggle.addEventListener('click', () => {
 });
 
 // scale cover page to fit the screen
-const coverContent = document.querySelector('.cover-content');
+const coverImage = document.querySelector('.cover-image');
 const coverImageOwl = document.querySelector('.cover-image-owl');
 
 const mediaMatch = window.matchMedia("(max-width: 768px)");
@@ -18,7 +18,7 @@ const rightButton = document.querySelector('.nav-button.right');
 // Add hover down button if the screen is not small
 if (mediaMatch.matches) {
     const scale = screen.width / 600.0 * 0.9; // Adjust scale based on screen width
-    coverContent.style.transform = `scale(${scale})`; // Adjust scale for smaller screens
+    coverImage.style.transform = `scale(${scale})`; // Adjust scale for smaller screens
 }
 
 // Close sidebar when clicking outside
