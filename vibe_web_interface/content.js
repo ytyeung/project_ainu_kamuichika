@@ -24,12 +24,6 @@ document.addEventListener('click', (event) => {
     }
 });
 
-// Close sidebar when clicking on the close-sidebar button
-// const closeSidebarButton = document.querySelector('.close-sidebar');
-// closeSidebarButton.addEventListener('click', () => {
-//     sidebar.classList.remove('open');
-// });
-
 // Page navigation functionality
 const coverPage = document.querySelector('.cover-page');
 const readerSection = document.querySelector('.reader');
@@ -282,7 +276,9 @@ function addHoverPopup() {
                 });
 
                 link.addEventListener('mouseleave', () => {
+                    if (mediaMatch.matches===false) {
                         popup.style.display = 'none';
+                    }
                     
                 });
             }

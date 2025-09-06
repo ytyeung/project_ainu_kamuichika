@@ -211,7 +211,7 @@ html {
     z-index: 1000; /* Ensure toggle button is above other elements */
 }
 
-.close-sidebar {
+.close-hover {
     display:none;
 }
 
@@ -397,7 +397,7 @@ html {
    
 }
 
-.close-sidebar{
+.close-hover{
     position: fixed;
     top: 0px;
     right: 0px;
