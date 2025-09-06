@@ -394,21 +394,30 @@ html {
     border-radius: 5%;
     width: 35px;
     height: 35px;
+
    
 }
 
 .close-hover{
-    position: fixed;
+    position: absolute;
     top: 0px;
-    right: 0px;
-    background-color: #1e1e1e; /* Dark theme background */
-    color: #e0e0e0; /* Light text for dark theme */
+    right: 5px;
     border: none;
     padding: 10px;
     cursor: pointer;
-    font-size: medium;
     z-index: 1010; /* Ensure toggle button is above other elements */
-    display: none;
+    display: block;
+    min-height: inherit;
+}
+.close-hover:hover {
+    color: #64b5f6;
+}
+.hover-content{
+   position: relative;
+   top: 20px;
+   min-height: inherit;
+   margin: 10px;
+   text-align: justify;
 }
 
 .hover-popup {
@@ -418,7 +427,7 @@ html {
     margin: 5px;
     min-width: calc(100% - 20px); /* Limit width on small screens */
     max-width: 768px;
-    min-height: 100px;
+    
 }
 
 .intro_box{

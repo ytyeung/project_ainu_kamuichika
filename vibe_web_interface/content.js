@@ -2,6 +2,15 @@
 const sidebarToggle = document.querySelector('.sidebar-toggle');
 const sidebar = document.querySelector('.sidebar');
 const popup = document.getElementById('hover-popup');
+const popupContent = document.getElementById('hover-content');
+const closeHoverButton = document.getElementById('close-hover');
+
+// Close hover popup when clicking the close button
+closeHoverButton.addEventListener('click', () => {
+    popup.style.display = 'none';
+});
+
+
 
 sidebarToggle.addEventListener('click', () => {
     sidebar.classList.toggle('open');
@@ -273,7 +282,7 @@ function addHoverPopup() {
             const spanElement = document.getElementById(id);
 
             if (spanElement) {
-                popup.textContent = spanElement.textContent;
+                popupContent.textContent = spanElement.textContent;
 
                 link.addEventListener('mousemove', (moveEvent) => {
                     if (mediaMatch.matches===false) {
@@ -281,6 +290,10 @@ function addHoverPopup() {
                         popup.style.top = `${moveEvent.clientY + 10}px`;
                     }
                     popup.style.display = 'block';
+
+                    if (mediaMatch.matches===true) {
+                        popup.style.height = `${closeHoverButton.offsetHeight + popupContent.offsetHeight}px`;
+                    }
                 });
 
                 link.addEventListener('mouseleave', () => {
