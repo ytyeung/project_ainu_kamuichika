@@ -140,7 +140,7 @@ Today I will return to Heaven.”
 
 The divine owl god, the ancient god, 
 Who protected the land of humans,
-Told the tale and returned to Heaven.]
+Told the tale and returned to Heaven.
 
 ## Footnote  
 (Chiri)  

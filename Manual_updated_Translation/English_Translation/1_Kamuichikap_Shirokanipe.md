@@ -261,6 +261,6 @@ The hearth goddess is the housewife. The house god is the master of the house. A
 The goddess of the sacred shelf is always a woman. She may appear to people in an emergency, but it is said that she appears in the form of a snake. Therefore, if a snake appears near the sacred shelf or near the east window, people say, "Surely the old woman of the sacred shelf has gone out on business," and they never kill the snake. It is said that there is publishment when the snake is killed.  
   
 (Translation)  
-*Inau* - wooden docoration to give thanks to gods  
+*Inau* - wooden docoration as offering to gods for thanksgiving
 *Nishpa* - There are several translations in Chiri's original work. The most common translation is "Leader". Here the original Ainu words are kept, which suggests the most honorable leader in the history.  
 ```
