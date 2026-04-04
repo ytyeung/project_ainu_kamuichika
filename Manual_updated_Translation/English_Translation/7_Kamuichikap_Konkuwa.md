@@ -49,7 +49,7 @@ Then again, I tapped on the lid of the hooped barrel,
 If someone is confident to be a messenger,
 I will send the one to Heaven for the five-and-a-half negotiation."
 When I said, someone came in with a respectful attitude, 
-Looking around, there was a young brown dipper [1], 
+Looking around, there was a young brown dipper [[1]](#f_1_7), 
 With handsome appearance,
 Sitting on the Left Seat. 
 
@@ -142,7 +142,10 @@ The divine owl god, the ancient god,
 Who protected the land of humans,
 Told the tale and returned to Heaven.
 
-## Footnote  
-(Chiri)  
+---
 
-[1] katken... A dipper. A highly respected bird as a good bird since ancient times.
+## Footnote  
+
+### Chiri  
+
+<span id="f_1_7">[1] katken... A dipper. A highly respected bird as a good bird since ancient times.</span>

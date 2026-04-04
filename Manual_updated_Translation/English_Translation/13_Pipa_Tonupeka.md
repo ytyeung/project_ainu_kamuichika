@@ -6,8 +6,8 @@ Tonupeka Ranran
   
 Fierce sunlight had dried up the place I called home.  
 I was about to die.  
-"Please give us water. Save our lives.  
-Water! Water!" We cried.  
+“Please give us water. Save our lives.  
+Water! Water!” We cried.  
   
 From the direction of the sea shore,  
 A woman came with a basket on her back.  
