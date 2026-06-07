@@ -128,7 +128,7 @@ The hare chief taught his children and died.
 
 ## Footnote  
 
-### (Chiri) 
+### Chiri
 
 <span id="f_1_4">[1] Amatsupo (crossbow): This refers to setting up a "trick bow". </span>
 

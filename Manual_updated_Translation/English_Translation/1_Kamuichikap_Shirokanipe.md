@@ -8,7 +8,7 @@ I descended along a river, passing over a human village.
 Browsing below, the poor of yesterday are now rich,     
 The rich of yesterday are now poor.    
   
-On the beach, children were playing with little toy bows and arrows [1].    
+On the beach, children were playing with little toy bows and arrows [[1]](#f_1).    
 “Silver drops falling, falling all around, golden drops   
 Falling, falling all around.” I sang and flew over the children.     
 They ran beneath me, crying out:    
@@ -25,17 +25,17 @@ I let the golden arrows pass beneath me, fly above me.
 Among them, one child stood apart,    
 With a simple wooden bow and arrow, joining the group.    
 I could see his poverty, as his clothes told.    
-Yet his eyes [2] shone with the shine of the greatest ancestors.   
+Yet his eyes [[2]](#f_2) shone with the shine of the greatest ancestors.   
 A unique soul among the group.  
 He took a simple arrow to his simple bow and aimed at me.    
   
 The children, once poor, now rich, laughed at him loudly,     
 saying:    
   
-"Dirty boy [3], poor boy!    
+"Dirty boy [[3]](#f_3), poor boy!    
 That bird, the god's bird, ignores even our    
-golden arrows [4]. Why would it take a poor arrow,     
-a rotten wood arrow from    
+Golden arrows [[4]](#f_4). Why would it take a poor arrow,     
+A rotten wood arrow from    
 A poor boy like you?"    
   
 They kicked and beated the poor child.     
@@ -81,11 +81,11 @@ The old man straightened his belt and bowed to me.
 Thank you for coming to our humble home.  
 We once were among the wealthy,  
 But now we are mere poor peasant.  
-To have the god of the land [5], a great god,  
+To have the god of the land [[5]](#f_5), a great god,  
 Stay with us, filled us with unease,   
 But as the day is late, Great God,  
 Please rest here tonight, and tomorrow,   
-We shall send you off with only *inau*."  
+We shall send you off with only *inau* [[Note 1]](#f_note1)."  
   
 He bowed again and again.    
 The old woman laid a mat beneath the east window,    
@@ -95,7 +95,7 @@ I sat between the ears of my armor, and around midnight, I awoke.
   
 “Silver drops falling, falling all around,     
 Golden drops falling, falling all around.” I sang softly,   
-And flew with a beautiful sound from the left side [6] of the house to the right side [7].  
+And flew with a beautiful sound from the left side [[6]](#f_6)  of the house to the right side [[7]](#f_7).  
 As I flapped my wings, beautiful treasures, god's treasures, fell around with a crystal sound.  
 In a short moment, I filled the small house with beautiful treasures, god's treasures.  
   
@@ -107,9 +107,9 @@ I quickly made beautiful robes to decorate the house.
   
 I decorated this great house. The house was more gorgeous than the home of any rich man.  
 When I finished, I returned to my place,  
-Sitting upon my armor, between the two ears [8].  
+Sitting upon my armor, between the two ears [[8]](#f_8).  
 I made this family dream.  
-In the dream, I told the story of Ainu *nishpa*, who was unlucky and became poor, being teased and bullied by those were once poor but now rich.  
+In the dream, I told the story of Ainu *nishpa* [[Note 2]](#f_note2), who was unlucky and became poor, being teased and bullied by those were once poor but now rich.  
 I saw this and felt pity, and I am not an ordinary god.  
 I stayed in their home, I gave them blessings.  
 I told them.  
@@ -125,9 +125,9 @@ And said:
   
 "We thought it was only a dream,  
 But it is real.   
-Your visit to our humble home is more than we could ever ask [9].  
+Your visit to our humble home is more than we could ever ask [[9]](#f_9).  
 God of the land, Great God, with your pity on our misfortune,  
-You grant us the greatest blessing [10]."  
+You grant us the greatest blessing [[10]](#f_10)."  
 He wept as he spoke.  
   
 Then, the old man cut wood for *inau*.  
@@ -137,14 +137,14 @@ The child helped her gather firewood and
 Draw water, preparing to brew sake.  
 In an instant, six barrels of sake were placed in the high seat.  
   
-Then, I spoke with the old lady of the hearth [11], the old goddess,  
-And other gods, discussing the ancient epics [12].  
+Then, I spoke with the old lady of the hearth [[11]](#f_11), the old goddess,  
+And other gods, discussing the ancient epics [[12]](#f_12).  
 After two days or so, the house was filled with the scent of sake,  
 A favourite of the gods.  
   
 Then, they dressed the child in old clothes,   
 And sent him as a messenger,  
-To invite those once poor and now rich in the village [13].  
+To invite those once poor and now rich in the village [[13]](#f_13).  
   
 I watched his leave. The child went from house to house,  
 Stating his purpose.  
@@ -165,7 +165,7 @@ Taking each person by hand, invited them to come in.
 Everyone crawled in, unable to raise their heads.  
   
 The master of the house stood up,  
-And spoke in a beautiful voice like a cuckoo bird [14].  
+And spoke in a beautiful voice like a cuckoo bird [[14]](#f_14).  
 He told the story of what had happened.  
 "We were poor and unable to visit each other freely,   
 But the great god took pity on us.   
@@ -180,8 +180,8 @@ Everyone came and worshipped me.
 When this was done, everyone's hearts softened,   
 And they held a lively feast.  
   
-I laughed and talked with the god of fire, the god of the house [15],  
-And the god of the sacred shelf [16].  
+I laughed and talked with the god of fire, the god of the house [[15]](#f_15),  
+And the god of the sacred shelf [[16]](#f_16).  
 Watching the people dance and sing, I was deeply amused.   
 Then, after two or three days, the feast ended.  
   
@@ -215,52 +215,57 @@ Watch over the land of men.
 This was the tale the Owl God told.  
   
 ## Footnote  
-```  
-(Chiri)  
-[1] In the old days, when a boy grew a little older, the family would make and give him a small bow and arrow. The child would play by shooting at trees and birds, unknowingly becoming skilled in archery.   
-ak...... means archery, shinot means play, and ponai means small arrow.  
-  
-[2] shiktumorke...... Gaze. It is said that you can best understand a person's nature by looking at the eyes. A person who looks around restlessly would be scolded.  
-  
-[3] achikara...... means "dirty".  
-  
-[4] It is said that birds and animals are shot down by people because they want the man-made arrows. Therefore they take the arrows.  
-  
-[5] kotankorkamui...... A god who owns a country or village.   
-In mountains, there is nupurikorkamui...... a god who owns the mountain (bear), and nupuripakorkamui...... a god who owns the east of the mountain (wolf). The owl is ranked after the bear and wolf. kotankorkamui is not as violent or hasty as the mountain god or the god of the east of the mountain. Therefore, it is usually calm and always closes its eyes, and it only opens its eyes when something very serious happens.  
-  
-[6] eharkiso...... The left seat.  
-  
-[7] eshiso...... The right seat.   
-There is a hearth in the center of the house. The side with the east-facing window is the upper seat. When viewed from the upper seat, the right side is eshiso and the left side is harkiso. Only men can sit in the upper seat. Guests who are lower status than the head of the house will refrain from taking the upper seat. It is customary for the host and his wife to sit side by side in the right seat. The seat next to the right seat is the left seat, and the seat on the west side (towards the doorway) is the lowest seat.  
-  
-[8] hayokpe means armor.   
-It is said that when birds or animals are in mountains, they are invisible to human eyes, but each has a house like human beings. They all live in the same way as human beings. When they go to human villages, they put on armors. The bodies of birds and animals are armors. The main body is invisible, but it is between the ears of the body.  
-  
-[9] otuipe...... A person with a cut-off tail.   
+
+### Chiri
+
+<span id="f_1">[1] In the old days, when a boy grew a little older, the family would make and give him a small bow and arrow. The child would play by shooting at trees and birds, unknowingly becoming skilled in archery.   
+ak...... means archery, shinot means play, and ponai means small arrow.</span>
+
+<span id="f_2">[2] shiktumorke...... Gaze. It is said that you can best understand a person's nature by looking at the eyes. A person who looks around restlessly would be scolded.</span>
+
+<span id="f_3">[3] achikara...... means "dirty".</span>
+
+<span id="f_4">[4] It is said that birds and animals are shot down by people because they want the man-made arrows. Therefore they take the arrows.</span>
+
+<span id="f_5">[5] kotankorkamui...... A god who owns a country or village.   
+In mountains, there is nupurikorkamui...... a god who owns the mountain (bear), and nupuripakorkamui...... a god who owns the east of the mountain (wolf). The owl is ranked after the bear and wolf. kotankorkamui is not as violent or hasty as the mountain god or the god of the east of the mountain. Therefore, it is usually calm and always closes its eyes, and it only opens its eyes when something very serious happens.</span>
+
+<span id="f_6">[6] eharkiso...... The left seat.</span>
+
+<span id="f_7">[7] eshiso...... The right seat.   
+There is a hearth in the center of the house. The side with the east-facing window is the upper seat. When viewed from the upper seat, the right side is eshiso and the left side is harkiso. Only men can sit in the upper seat. Guests who are lower status than the head of the house will refrain from taking the upper seat. It is customary for the host and his wife to sit side by side in the right seat. The seat next to the right seat is the left seat, and the seat on the west side (towards the doorway) is the lowest seat.</span>
+
+<span id="f_8">[8] hayokpe means armor.   
+It is said that when birds or animals are in mountains, they are invisible to human eyes, but each has a house like human beings. They all live in the same way as human beings. When they go to human villages, they put on armors. The bodies of birds and animals are armors. The main body is invisible, but it is between the ears of the body.</span>
+
+<span id="f_9">[9] otuipe...... A person with a cut-off tail.   
 Like a short tailed dog with cut-off tail which is low priced.   
 wenpe...... They use this word for bad person.   
-otuipe...... A person with a cut-off tail is an insult for useless people.  
+otuipe...... A person with a cut-off tail is an insult for useless people.</span>
+
+<span id="f_10">[10] chikashnukar. When a god is pleased with a person, and blesses the person with great fortune in an unexpected place, that person rejoices, and says "ikashnukar an".</span>
+
+<span id="f_11">[11] apehuchi...... The old lady of hearth. The hearth goddess is the most revered goddess in the house and is always an old lady. When mountain gods, sea gods, and various gods come to the house as guests like this owl, apehuchi takes the lead to entertain the guests and talks to them. It is also acceptable to simply call her kamuihuchi (god of old lady).</span>
+
+<span id="f_12">[12] neusar means talking to each other.   
+Talking about various worldly matters is also neusar. Usually, things like kamuiyukar (god chants) and uwepeker (old tales) are also called neusar.</span>
+
+<span id="f_13">[13] ashke a uk. ashke means finger, hand. a uk means to take. Inviting people to join a celebration.</span>
+
+<span id="f_14">[14] kakkokhau...... The sound of a cuckoo bird.  
+Because the sound of a cuckoo bird is beautiful and clear, people who speak clearly and understandably are said to be like cuckoo birds.</span>
+
+<span id="f_15">[15] chisekorkamui...... A god who owns a house.   
+The hearth goddess is the housewife. The house god is the master of the house. A man is called as chisekorekashi...... an old man who owns a house.</span>
+
+<span id="f_16">[16] nusakorkamui...... A god who owns a sacred shelf, an old woman.   
+The goddess of the sacred shelf is always a woman. She may appear to people in an emergency, but it is said that she appears in the form of a snake. Therefore, if a snake appears near the sacred shelf or near the east window, people say, "Surely the old woman of the sacred shelf has gone out on business," and they never kill the snake. It is said that there is publishment when the snake is killed.</span>
   
-[10] chikashnukar. When a god is pleased with a person, and blesses the person with great fortune in an unexpected place, that person rejoices, and says "ikashnukar an".  
-  
-[11] apehuchi...... The old lady of hearth. The hearth goddess is the most revered goddess in the house and is always an old lady. When mountain gods, sea gods, and various gods come to the house as guests like this owl,apehuchi takes the lead to entertain the guests and talks to them. It is also acceptable to simply call her kamuihuchi (god of old lady).  
-  
-[12] neusar means talking to each other.   
-Talking about various worldly matters is also neusar. Usually, things like kamuiyukar (god chants) and uwepeker (old tales) are also called neusar.  
-  
-[13] ashke a uk. ashke means finger, hand. a uk means to take. Inviting people to join a celebration.  
-  
-[14] kakkokhau...... The sound of a cuckoo bird.  
-Because the sound of a cuckoo bird is beautiful and clear, people who speak clearly and understandably are said to be like cuckoo birds.  
-  
-[15] chisekorkamui...... A god who owns a house.   
-The hearth goddess is the housewife. The house god is the master of the house. A man is called as chisekorekashi...... an old man who owns a house.  
-  
-[16] nusakorkamui...... A god who owns a sacred shelf, an old woman.   
-The goddess of the sacred shelf is always a woman. She may appear to people in an emergency, but it is said that she appears in the form of a snake. Therefore, if a snake appears near the sacred shelf or near the east window, people say, "Surely the old woman of the sacred shelf has gone out on business," and they never kill the snake. It is said that there is publishment when the snake is killed.  
-  
-(Translation)  
-*Inau* - wooden docoration as offering to gods for thanksgiving
-*Nishpa* - There are several translations in Chiri's original work. The most common translation is "Leader". Here the original Ainu words are kept, which suggests the most honorable leader in the history.  
-```
+### Translation
+
+<span id="f_note1">*Inau* - wooden docoration as offering to gods for thanksgiving</span>
+
+<span id="f_note2">
+*Nishpa* - There are several translations in Chiri's original work. The most common translation is "Leader". Here the original Ainu words are kept, which suggests the most honorable leader in the history. 
+</span> 
+
