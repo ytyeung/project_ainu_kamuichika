@@ -2,7 +2,7 @@
 # Project Ainu Kamuichika
 
 ## Purpose (English)
-This project, named after Kamuichika—the Owl God of the [Ainu](https://en.wikipedia.org/wiki/Ainu_people) people, guardian of people and villages, and the spirit who first appears in the Ainu shin'yōshū—stands as a bridge between tradition and the ever-advancing era. 
+This project, named after Kamuichika—the Owl God of the [Ainu](https://en.wikipedia.org/wiki/Ainu_people) people, guardian of people and villages, and the spirit who first chants in the Ainu shin'yōshū—stands as a bridge between tradition and the ever-advancing era. 
 
 Inspired by the words of [Yukie Chiri](https://en.wikipedia.org/wiki/Chiri_Yukie) (1903–1922), who wrote: “However, one day, two or three strong individuals among us will arise and walk alongside the ever-advancing era. That day will eventually come. This is our urgent wish. This is our prayer for day and night.”
 
