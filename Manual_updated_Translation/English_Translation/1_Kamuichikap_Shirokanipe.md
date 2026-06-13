@@ -32,11 +32,11 @@ He took a simple arrow to his simple bow and aimed at me.
 The children, once poor, now rich, laughed at him loudly,     
 saying:    
   
-"Dirty boy [[3]](#f_3), poor boy!    
+“Dirty boy [[3]](#f_3), poor boy!    
 That bird, the god's bird, ignores even our    
 Golden arrows [[4]](#f_4). Why would it take a poor arrow,     
 A rotten wood arrow from    
-A poor boy like you?"    
+A poor boy like you?”    
   
 They kicked and beated the poor child.     
 But the poor child paid no attention to them, only focused on me.    

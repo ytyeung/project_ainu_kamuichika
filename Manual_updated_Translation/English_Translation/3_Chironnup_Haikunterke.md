@@ -168,7 +168,7 @@ I died a useless, bad death.
 From now on, foxes, 
 Never hold evil in your hearts.
 
-The was a tale told by the Black Fox God about itself.
+Thia was a tale told by the Black Fox God about itself.
 
 ---
 
