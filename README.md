@@ -16,7 +16,7 @@ Our purpose is to explore how AI can be used for research and preservation of Ai
 
 This project provides an advanced translation agent for Ainu chants, focusing on Japanese, Traditional Chinese, and English. It automates the translation process, ensuring high-quality, poetic, and accurate translations for both main stories and footnotes of Ainu oral literature, always with a human-in-the-loop for the final touch.
 
-這個項目名為 “Project Ainu Kamuichika”，以守護村落與人民的貓頭鷹神Kamuichika為名，亦是《阿伊努神謠集》首篇吟唱的神靈。它如同一座橋樑，連接傳統與不斷前進的時代。
+這個項目名為 “Project Ainu Kamuichika”，以愛努（或譯阿伊努）族神謠裏，守護村落與族人的貓頭鷹神Kamuichika為名，亦是《阿伊努神謠集》首篇吟唱的神靈。它如同一座橋樑，連接傳統與不斷前進的時代。
 
 靈感源自[知里幸惠](https://en.wikipedia.org/wiki/Chiri_Yukie) (1903–1922) 的序言：「但總有一天，如果能出現兩三位堅強的人，與不斷前進的時代並肩前行的日子，也終將到來吧。這確實是我們迫切的願望，我們日夜為此祈禱。」
 
