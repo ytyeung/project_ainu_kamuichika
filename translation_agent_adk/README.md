@@ -2,7 +2,7 @@
 # Project Ainu Kamuichika
 
 ## Purpose (English)
-This project, named after Kamuichika—the Owl God of the Ainu, guardian of people and villages, and the spirit who first appears in the Ainu shin'yōshū—stands as a bridge between tradition and the ever-advancing era. 
+This project, named after Kamuichika—the Owl God of the [Ainu](https://en.wikipedia.org/wiki/Ainu_people) people, guardian of people and villages, and the spirit who first appears in the Ainu shin'yōshū—stands as a bridge between tradition and the ever-advancing era. 
 
 Inspired by the words of [Yukie Chiri](https://en.wikipedia.org/wiki/Chiri_Yukie) (1903–1922), who wrote: “However, one day, two or three strong individuals among us will arise and walk alongside the ever-advancing era. That day will eventually come. This is our urgent wish. This is our prayer for day and night.”
 
@@ -13,25 +13,24 @@ Our purpose is to explore how AI can be used for research and preservation of Ai
 This project provides an advanced translation agent for Ainu chants, focusing on Japanese, Chinese, and English. It automates the translation process, ensuring high-quality, poetic, and accurate translations for both main stories and footnotes of Ainu oral literature, always with a human-in-the-loop for the final touch.
 
 ## 宗旨（繁體中文）
-這個項目名為 “Project Ainu Kamuichika”，以愛努（或譯阿伊努）族神謠裏，守護村落與族人的貓頭鷹神Kamuichika為名，亦是《阿伊努神謠集》首篇吟唱的神靈。它如同一座橋樑，連接傳統與不斷前進的時代。
+本項目名為 “Project Ainu Kamuichika”，在[愛努](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BC%8A%E5%8A%AA)（或譯阿伊努）族的神謠裏，貓頭鷹神 Kamuichik 守護著村落與族人。Kamuichik 亦是《阿伊努神謠集》首位吟唱的神靈。祂如同一座橋樑，連接傳統與不斷前進的時代。
 
-靈感源自[知里幸惠](https://zh.wikipedia.org/wiki/Chiri_Yukie) (1903–1922) 的序言：「但總有一天，如果能出現兩三位堅強的人，與不斷前進的時代並肩前行的日子，也終將到來吧。這確實是我們迫切的願望，我們日夜為此祈禱。」
+本項目靈感源自[知里幸惠](https://zh.wikipedia.org/wiki/Chiri_Yukie) (1903–1922) 於《阿伊努神謠集》的序言：「但總有一天，如果能出現兩三位堅強的族人，與不斷前進的時代並肩前行的日子，也終將到來吧。這確實是我們迫切的願望，我們日夜為此祈禱。」
 
-如今，愛努語言與文化正與人工智慧攜手並行。本項目以 Kamuichika 的智慧與 AI 的力量，守護、滋養並再生愛努族人的故事、曲謠與聲音。
+如今，愛努語言文化正與人工智慧攜手並行。本項目以 Kamuichika 的智慧與 AI 的力量，守護、滋養並再生愛努族人的故事、歌謠與聲音。
 
-我們的宗旨是探索 AI 如何用於愛努文化的研究與保存，並創造既精確又詩意優雅的譯文 —— 讓愛努的靈魂得以繼續歌唱，讓日夜的祈禱在新世代中迴響。
+本項目的宗旨是探索 AI 如何用於愛努文化的研究與保存，並創造既精確又詩意優雅的譯文 —— 讓愛努的靈魂得以繼續歌唱，讓日夜的祈禱在新世代中迴響。
 
 本項目提供愛努神謠的 AI 翻譯代理，聚焦日語、中文與英語。它自動化翻譯流程，確保主故事與註腳皆能獲得高品質、詩意且精確的譯文，並始終由人類審定。
-愛努神謠的 AI 翻譯代理，聚焦日語、繁體中文與英語。它自動化翻譯流程，確保主故事與註腳皆能獲得高品質、詩意且精確的譯文，並始終由人類審定。
 
 ## Methodology
 The agent follows a multi-stage translation workflow:
 
 1. **Direct Translation:**
-   - Japanese → Traditional Chinese
+   - Japanese → Chinese
    - Japanese → English
 2. **Cross-Translation:**
-   - English → Traditional Chinese
+   - English → Chinese
    - Chinese → English
 3. **Version Comparison:**
    - Two versions for each language (direct and cross-translation)
@@ -42,7 +41,7 @@ The agent follows a multi-stage translation workflow:
 ## Features
 - Supports translation of main stories, footnotes, and prologues.
 - Uses story-telling and poetic tone for main stories.
-- Ensures modern, readable language (Traditional Chinese and English).
+- Ensures modern, readable language (Chinese and English).
 - Keeps untranslatable terms in original form.
 - Modular agent design using LlmAgent, ParallelAgent, and SequentialAgent.
 - Configurable via `.env` and `config.py`.
@@ -60,7 +59,7 @@ The agent follows a multi-stage translation workflow:
 1. Set up environment variables in `.env` (e.g., GEMINI_MODEL).
 2. Configure translation settings in `config.py`.
 3. Run the agent via `agent.py` or use the notebook for interactive queries.
-4. Input Japanese text; the agent will output enhanced translations in both Traditional Chinese and English.
+4. Input Japanese text; the agent will output enhanced translations in both Chinese and English.
 
 ## Requirements
 - Python 3.8+
