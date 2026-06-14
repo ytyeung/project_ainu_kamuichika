@@ -1,0 +1,12 @@
+/.DS_Store
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.egg-info/
+*.sqlite3
+AgenticTranslationOutput_main_text_old/
+AgenticTranslationOutput_adk_main_text/
+AgenticTranslationOutput_adk_footnotes/
