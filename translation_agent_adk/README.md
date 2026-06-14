@@ -13,15 +13,15 @@ Our purpose is to explore how AI can be used for research and preservation of Ai
 This project provides an advanced translation agent for Ainu chants, focusing on Japanese, Chinese, and English. It automates the translation process, ensuring high-quality, poetic, and accurate translations for both main stories and footnotes of Ainu oral literature, always with a human-in-the-loop for the final touch.
 
 ## 宗旨（繁體中文）
-本項目名為 “Project Ainu Kamuichika”，在[愛努](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BC%8A%E5%8A%AA)（或譯阿伊努）族的神謠裏，貓頭鷹神 Kamuichik 守護著村落與族人。Kamuichik 亦是《阿伊努神謠集》首位吟唱的神靈。祂如同一座橋樑，連接傳統與不斷前進的時代。
+這個項目名為 “Project Ainu Kamuichika”，在[愛努](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BC%8A%E5%8A%AA)（或譯阿伊努）族的神謠裏，貓頭鷹神 Kamuichik 守護著村落與族人。Kamuichik 亦是《阿伊努神謠集》首位吟唱的神靈。祂如同一座橋樑，連接傳統與不斷前進的時代。
 
-本項目靈感源自[知里幸惠](https://zh.wikipedia.org/wiki/Chiri_Yukie) (1903–1922) 於《阿伊努神謠集》的序言：「但總有一天，如果能出現兩三位堅強的族人，與不斷前進的時代並肩前行的日子，也終將到來吧。這確實是我們迫切的願望，我們日夜為此祈禱。」
+靈感源自[知里幸惠](https://zh.wikipedia.org/wiki/Chiri_Yukie) (1903–1922) 於《阿伊努神謠集》的序言：「但總有一天，如果能出現兩三位堅強的族人，與不斷前進的時代並肩前行的日子，也終將到來吧。這確實是我們迫切的願望，我們日夜為此祈禱。」
 
-如今，愛努語言文化正與人工智慧攜手並行。本項目以 Kamuichika 的智慧與 AI 的力量，守護、滋養並再生愛努族人的故事、歌謠與聲音。
+如今，愛努語言文化正與人工智慧攜手並行。項目以 Kamuichika 的智慧與 AI 的力量，守護、滋養並再生愛努族人的故事、歌謠與聲音。
 
-本項目的宗旨是探索 AI 如何用於愛努文化的研究與保存，並創造既精確又詩意優雅的譯文 —— 讓愛努的靈魂得以繼續歌唱，讓日夜的祈禱在新世代中迴響。
+項目的宗旨是探索 AI 如何用於愛努文化的研究與保存，並創造既精確又詩意優雅的譯文 —— 讓愛努的靈魂得以繼續歌唱，讓日夜的祈禱在新世代中迴響。
 
-本項目提供愛努神謠的 AI 翻譯代理，聚焦日語、中文與英語。它自動化翻譯流程，確保主故事與註腳皆能獲得高品質、詩意且精確的譯文，並始終由人類審定。
+項目提供愛努神謠的 AI 翻譯代理，聚焦日語、中文與英語。它自動化翻譯流程，確保主故事與註腳皆能獲得高品質、詩意且精確的譯文，並始終由人類審定。
 
 ## Methodology
 The agent follows a multi-stage translation workflow:
