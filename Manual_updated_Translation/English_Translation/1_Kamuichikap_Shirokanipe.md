@@ -1,16 +1,16 @@
 # Kamuichikap kamui yaieyukar, “Shirokanipe ranran pishkan”  
 # 梟の神の自ら歌った謡「銀の滴しずく降る降るまわりに」  
-# The Owl God's Self Chant “Silver drops falling, falling all around”  
+# The Owl God's Self Chant “Silver droplets fall, falling all around”  
   
-“Silver drops falling, falling all around, golden drops    
-Falling, falling all around.” Singing the song,    
+“Silver droplets fall, falling all around, golden droplets    
+Fall, falling all around.” Singing the song,    
 I descended along a river, passing over a human village.    
 Browsing below, the poor of yesterday are now rich,     
 The rich of yesterday are now poor.    
   
 On the beach, children were playing with little toy bows and arrows [[1]](#f_1).    
-“Silver drops falling, falling all around, golden drops   
-Falling, falling all around.” I sang and flew over the children.     
+“Silver droplets fall, falling all around, golden droplets   
+Fall, falling all around.” I sang and flew over the children.     
 They ran beneath me, crying out:    
   
 "A beautiful bird! A god's bird!    
@@ -42,8 +42,8 @@ They kicked and beated the poor child.
 But the poor child paid no attention to them, only focused on me.    
 Seeing this, I felt great pity.    
   
-“Silver drops falling, falling all around,     
-Golden drops falling, falling all around.” Singing the song,    
+“Silver droplets fall, falling all around,     
+Golden droplets fall, falling all around.” Singing the song,    
 I slowly drew circles in the sky.     
 The poor child, with one foot forward, one foot backward,    
 Biting tightly his lower lip, aimed and released the arrow.     
@@ -93,14 +93,14 @@ And placed me there.
 Then everyone went asleep, and began to snore loudly.  
 I sat between the ears of my armor, and around midnight, I awoke.  
   
-“Silver drops falling, falling all around,     
-Golden drops falling, falling all around.” I sang softly,   
+“Silver droplets fall, falling all around,     
+Golden droplets fall, falling all around.” I sang softly,   
 And flew with a beautiful sound from the left side [[6]](#f_6)  of the house to the right side [[7]](#f_7).  
 As I flapped my wings, beautiful treasures, god's treasures, fell around with a crystal sound.  
 In a short moment, I filled the small house with beautiful treasures, god's treasures.  
   
-“Silver drops falling, falling all around,     
-Golden drops falling, falling all around.”  
+“Silver droplets fall, falling all around,     
+Golden droplets fall, falling all around.”  
 I sang, and turned this small house into a house of gold, a large house.  
 Inside, I created a storehouse of magnificent treasures.   
 I quickly made beautiful robes to decorate the house.  
