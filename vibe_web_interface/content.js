@@ -201,21 +201,21 @@ async function loadPages() {
 
     try {
         const pageDataUrls = [
-            'json/Chiri_Yukie_Prologue_chi.json',
-            'json/1_Kamuichikap_Shirokanipe_chi.json',
-            'json/2_Chironnup_Towa_chi.json',
-            'json/3_Chironnup_Haikunterke_chi.json',
-            'json/4_Isepo_Sampaya_chi.json',
-            'json/5_Nitatorunpe_Harit_chi.json',
-            'json/6_Pon_Hotenao_chi.json',
-            'json/7_Kamuichikap_Konkuwa_chi.json',
-            'json/8_Repun_Atuika_chi.json',
-            'json/9_Terkepi_Tororo_chi.json',
-            'json/10_Pon_Kutnisa_chi.json',
-            'json/11_Pon_Tanota_chi.json',
-            'json/12_Esaman_Kappa_chi.json',
-            'json/13_Pipa_Tonupeka_chi.json',
-            'json/Chiri_Yukie_Introduction_chi.json',
+            'json/chi/Chiri_Yukie_Prologue_chi.json',
+            'json/chi/1_Kamuichikap_Shirokanipe_chi.json',
+            'json/chi/2_Chironnup_Towa_chi.json',
+            'json/chi/3_Chironnup_Haikunterke_chi.json',
+            'json/chi/4_Isepo_Sampaya_chi.json',
+            'json/chi/5_Nitatorunpe_Harit_chi.json',
+            'json/chi/6_Pon_Hotenao_chi.json',
+            'json/chi/7_Kamuichikap_Konkuwa_chi.json',
+            'json/chi/8_Repun_Atuika_chi.json',
+            'json/chi/9_Terkepi_Tororo_chi.json',
+            'json/chi/10_Pon_Kutnisa_chi.json',
+            'json/chi/11_Pon_Tanota_chi.json',
+            'json/chi/12_Esaman_Kappa_chi.json',
+            'json/chi/13_Pipa_Tonupeka_chi.json',
+            'json/chi/Chiri_Yukie_Introduction_chi.json',
             'json/reference.json'
         ];
 

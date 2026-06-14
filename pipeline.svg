@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="10" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#333" />
+    </marker>
+    <style>
+      .box { fill:#fff7ef; stroke:#333; stroke-width:1.2px; rx:6; ry:6 }
+      .node-text { font:14px/1.2 "Helvetica Neue", Arial, sans-serif; fill:#111 }
+      .sub { font:12px; fill:#333 }
+      .group-title { font-weight:700 }
+    </style>
+  </defs>
+
+  <!-- Nodes -->
+  <rect x="40" y="30" width="160" height="60" class="box" />
+  <text x="120" y="55" text-anchor="middle" class="node-text group-title">Extract</text>
+  <text x="120" y="73" text-anchor="middle" class="sub">structure & segments</text>
+
+  <rect x="260" y="10" width="160" height="100" class="box" />
+  <text x="340" y="45" text-anchor="middle" class="node-text group-title">Translate</text>
+  <text x="340" y="63" text-anchor="middle" class="sub">Direct (JP→ZH/EN)</text>
+  <text x="340" y="79" text-anchor="middle" class="sub">Cross (EN↔ZH)</text>
+
+  <rect x="500" y="30" width="160" height="60" class="box" />
+  <text x="580" y="55" text-anchor="middle" class="node-text group-title">Reflect & Score</text>
+  <text x="580" y="73" text-anchor="middle" class="sub">compare candidates</text>
+
+  <rect x="40" y="150" width="160" height="60" class="box" />
+  <text x="120" y="180" text-anchor="middle" class="node-text group-title">Enhance</text>
+  <text x="120" y="198" text-anchor="middle" class="sub">merge best elements</text>
+
+  <rect x="260" y="150" width="160" height="60" class="box" />
+  <text x="340" y="180" text-anchor="middle" class="node-text group-title">Verify</text>
+  <text x="340" y="198" text-anchor="middle" class="sub">structure, provenance</text>
+
+  <rect x="500" y="150" width="160" height="60" class="box" />
+  <text x="580" y="175" text-anchor="middle" class="node-text group-title">Human Review</text>
+  <text x="580" y="193" text-anchor="middle" class="sub">final edits & QA</text>
+
+  <rect x="340" y="280" width="220" height="60" class="box" />
+  <text x="450" y="310" text-anchor="middle" class="node-text group-title">Outputs</text>
+  <text x="450" y="328" text-anchor="middle" class="sub">markdown · JSON · templates</text>
+
+  <!-- Arrows -->
+  <line x1="200" y1="60" x2="260" y2="60" stroke="#333" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="420" y1="60" x2="500" y2="60" stroke="#333" stroke-width="2" marker-end="url(#arrow)" />
+
+  <line x1="340" y1="110" x2="340" y2="150" stroke="#333" stroke-width="2" marker-end="url(#arrow)" />
+
+  <line x1="120" y1="190" x2="260" y2="190" stroke="#333" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="420" y1="190" x2="500" y2="190" stroke="#333" stroke-width="2" marker-end="url(#arrow)" />
+
+  <line x1="580" y1="210" x2="450" y2="280" stroke="#333" stroke-width="2" marker-end="url(#arrow)" />
+
+  <!-- Connections from Translate branches into Reflect (represented by top arrows into Reflect) -->
+  <line x1="300" y1="80" x2="420" y2="80" stroke="#333" stroke-width="1.6" marker-end="url(#arrow)" stroke-dasharray="4 2" />
+
+</svg>
