@@ -215,8 +215,8 @@ async function loadPages() {
             'json/eng/11_Pon_Tanota_eng.json',
             'json/eng/12_Esaman_Kappa_eng.json',
             'json/eng/13_Pipa_Tonupeka_eng.json',
-            'json/chi/Chiri_Yukie_Introduction_chi.json',
-            'json/reference.json'
+            'json/eng/Chiri_Yukie_Introduction_eng.json',
+            'json/reference_eng.json'
         ];
 
         for (let i = 0; i < pageDataUrls.length; i++) {
