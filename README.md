@@ -6,7 +6,7 @@
 
 
 
-This project, named after Kamuichika—the Owl God of the [Ainu](https://en.wikipedia.org/wiki/Ainu_people) people, guardian of people and villages, and the spirit who first chants in the Ainu shin'yōshū—stands as a bridge between tradition and the ever-advancing era. 
+This project, named after Kamuichika—the Owl God of the [Ainu](https://en.wikipedia.org/wiki/Ainu_people) people, guardian of people and villages, and the spirit who first chants in the Ainu shin'yōshū (Chants from Ainu Gods) — stands as a bridge between tradition and the ever-advancing era. 
 
 Inspired by the words of [Yukie Chiri](https://en.wikipedia.org/wiki/Chiri_Yukie) (1903–1922), who wrote: “However, one day, two or three strong individuals among us will arise and walk alongside the ever-advancing era. That day will eventually come. This is our urgent wish. This is our prayer for day and night.”
 
@@ -53,17 +53,17 @@ project_ainu_kamuichika
 │   — Notebook for generating and editing footnotes/annotations.
 ├─ AgenticTranslationOutput_adk_main_text/     — Generated main-text outputs (markdown/JSON).
 ├─ AgenticTranslationOutput_adk_footnotes/     — Generated footnotes and annotation artifacts.
-├─ Chiri_Japanese_Translation/                 — Project-specific Japanese source texts and drafts.
-├─ Chiri_footnotes/                            — Footnote drafts and notes for Chiri texts.
+├─ Chiri_Japanese_Translation/                 — Chiri Yukie's original Japanese translation.
+├─ Chiri_footnotes/                            — Original footnotes from Chiri Yukie.
 ├─ templates/
-│  ├─ updated_output_md_template               — Markdown template for standardized outputs.
-│  └─ updated_footnotes_md_template             — Template for footnotes and annotation blocks.
+│  ├─ updated_output_md_template               — Markdown template for standardized output generation.
+│  └─ updated_footnotes_md_template            — Template for footnotes and annotation block generation.
 ├─ utils/
-│  └─ md_to_html_json.py                        — Helper: convert markdown to HTML + JSON metadata.
-├─ original_Ainu_text/                         — Scanned/transcribed original Ainu source texts.
+│  └─ md_to_html_json.py                       — Helper: convert markdown to HTML + JSON metadata.
+├─ original_Ainu_text/                         — Original Ainu source texts.
 ├─ Manual_updated_Translation/
-│  ├─ Chinese_Translation/                      — Human-edited Chinese translations.
-│  └─ English_Translation/                      — Human-edited English translations.
+│  ├─ Chinese_Translation/                     — Human-edited Chinese translations.
+│  └─ English_Translation/                     — Human-edited English translations.
 └─ translation_agent_adk/
    ├─ agent.py                                 — Core agent orchestration and run logic.
    ├─ prompt.py                                — Prompt templates and prompt-building utilities.
