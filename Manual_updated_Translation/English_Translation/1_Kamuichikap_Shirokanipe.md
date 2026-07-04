@@ -1,6 +1,6 @@
 # Kamuichikap kamui yaieyukar, “Shirokanipe ranran pishkan”  
 # 梟の神の自ら歌った謡「銀の滴しずく降る降るまわりに」  
-# The Owl God's Self Chant “Silver droplets fall, falling all around”  
+# The Owl God's Own Chant “Silver droplets fall, falling all around”  
   
 “Silver droplets fall, falling all around, golden droplets    
 Fall, falling all around.” Singing the song,    

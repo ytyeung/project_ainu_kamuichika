@@ -1,6 +1,6 @@
 ## Esaman yaieyukar, “Kappa reureu kappa”      
 ## 獺かわうそが自ら歌った謡「カッパ レウレウ カッパ」     
-## The Otter's Own Chant “Kappa reureu kappa”     
+## The Otter's Self Chant “Kappa reureu kappa”     
      
 Kappa reureu kappa     
      

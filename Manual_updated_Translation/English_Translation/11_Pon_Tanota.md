@@ -1,6 +1,6 @@
 ## Pon Okikirmui yaieyukar, “Tanota hurehure”      
 ## 小オキキリムイが自ら歌った謡「この砂赤い赤い」     
-## The Little Okikirmui's Own Chant “This sand is red, so red”      
+## The Little Okikirmui's Self Chant “This sand is red, so red”      
      
 [This sand is red, so red]     
 (Tanota hurehure)     

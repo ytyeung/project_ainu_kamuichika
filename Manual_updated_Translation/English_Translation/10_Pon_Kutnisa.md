@@ -1,6 +1,6 @@
 ## Pon Okikirmui yaieyukar, “Kutnisa kutunkutun”        
 ## 小オキキリムイが自ら歌った謡「クツニサ クトンクトン」       
-## The Little Okikirmui's Own Chant “Kutnisa kutunkutun”           
+## The Little Okikirmui's Self Chant “Kutnisa kutunkutun”           
      
 Kutnisa kutunkutun     
      

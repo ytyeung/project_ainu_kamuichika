@@ -1,6 +1,6 @@
 ## Pipa yaieyukar, “Tonupeka ranran”   
 ## 沼貝が自ら歌った謡「トヌペカ ランラン」  
-## The Freshwater Mussel's Own Chant “Tonupeka Ranran”  
+## The Freshwater Mussel's Self Chant “Tonupeka Ranran”  
   
 Tonupeka Ranran  
   
